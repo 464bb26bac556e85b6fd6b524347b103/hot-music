@@ -1,0 +1,902 @@
+[
+    {
+        "date": "2018-03-17",
+        "rank": "1",
+        "song": "God's Plan",
+        "artist": "Drake",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "2",
+        "song": "Perfect",
+        "artist": "Ed Sheeran",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "28"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "3",
+        "song": "Finesse",
+        "artist": "Bruno Mars & Cardi B",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "4",
+        "song": "Psycho",
+        "artist": "Post Malone Featuring Ty Dolla $ign",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "5",
+        "song": "Meant To Be",
+        "artist": "Bebe Rexha & Florida Georgia Line",
+        "last-week": "7",
+        "peak-rank": "5",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "6",
+        "song": "Havana",
+        "artist": "Camila Cabello Featuring Young Thug",
+        "last-week": "5",
+        "peak-rank": "1",
+        "weeks-on-board": "30"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "7",
+        "song": "Look Alive",
+        "artist": "BlocBoy JB Featuring Drake",
+        "last-week": "6",
+        "peak-rank": "5",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "8",
+        "song": "The Middle",
+        "artist": "Zedd, Maren Morris & Grey",
+        "last-week": "11",
+        "peak-rank": "8",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "9",
+        "song": "Pray For Me",
+        "artist": "The Weeknd & Kendrick Lamar",
+        "last-week": "9",
+        "peak-rank": "7",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "10",
+        "song": "Stir Fry",
+        "artist": "Migos",
+        "last-week": "12",
+        "peak-rank": "8",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "11",
+        "song": "All The Stars",
+        "artist": "Kendrick Lamar & SZA",
+        "last-week": "10",
+        "peak-rank": "7",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "12",
+        "song": "Rockstar",
+        "artist": "Post Malone Featuring 21 Savage",
+        "last-week": "8",
+        "peak-rank": "1",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "13",
+        "song": "Let You Down",
+        "artist": "NF",
+        "last-week": "13",
+        "peak-rank": "12",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "14",
+        "song": "New Rules",
+        "artist": "Dua Lipa",
+        "last-week": "14",
+        "peak-rank": "6",
+        "weeks-on-board": "32"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "15",
+        "song": "Him & I",
+        "artist": "G-Eazy & Halsey",
+        "last-week": "15",
+        "peak-rank": "14",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "16",
+        "song": "Ric Flair Drip",
+        "artist": "Offset & Metro Boomin",
+        "last-week": "36",
+        "peak-rank": "16",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "17",
+        "song": "Sad!",
+        "artist": "XXXTENTACION",
+        "last-week": "",
+        "peak-rank": "17",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "18",
+        "song": "Mine",
+        "artist": "Bazzi",
+        "last-week": "20",
+        "peak-rank": "18",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "19",
+        "song": "Never Be The Same",
+        "artist": "Camila Cabello",
+        "last-week": "24",
+        "peak-rank": "19",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "20",
+        "song": "Thunder",
+        "artist": "Imagine Dragons",
+        "last-week": "17",
+        "peak-rank": "4",
+        "weeks-on-board": "45"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "21",
+        "song": "I Fall Apart",
+        "artist": "Post Malone",
+        "last-week": "18",
+        "peak-rank": "16",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "22",
+        "song": "Top Off",
+        "artist": "DJ Khaled Featuring JAY Z, Future & B",
+        "last-week": "",
+        "peak-rank": "22",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "23",
+        "song": "King's Dead",
+        "artist": "Jay Rock, Kendrick Lamar, Future & James Blake",
+        "last-week": "28",
+        "peak-rank": "23",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "24",
+        "song": "Lights Down Low",
+        "artist": "MAX Featuring gnash",
+        "last-week": "23",
+        "peak-rank": "20",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "25",
+        "song": "Wolves",
+        "artist": "Selena Gomez X Marshmello",
+        "last-week": "25",
+        "peak-rank": "20",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "26",
+        "song": "Love.",
+        "artist": "Kendrick Lamar Featuring Zacari",
+        "last-week": "19",
+        "peak-rank": "11",
+        "weeks-on-board": "37"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "27",
+        "song": "Bad At Love",
+        "artist": "Halsey",
+        "last-week": "21",
+        "peak-rank": "5",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "28",
+        "song": "Gummo",
+        "artist": "6ix9ine",
+        "last-week": "16",
+        "peak-rank": "12",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "29",
+        "song": "Bartier Cardi",
+        "artist": "Cardi B Featuring 21 Savage",
+        "last-week": "26",
+        "peak-rank": "14",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "30",
+        "song": "Feel It Still",
+        "artist": "Portugal. The Man",
+        "last-week": "32",
+        "peak-rank": "4",
+        "weeks-on-board": "38"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "31",
+        "song": "Outside Today",
+        "artist": "YoungBoy Never Broke Again",
+        "last-week": "35",
+        "peak-rank": "31",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "32",
+        "song": "Say Something",
+        "artist": "Justin Timberlake Featuring Chris Stapleton",
+        "last-week": "29",
+        "peak-rank": "9",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "33",
+        "song": "Marry Me",
+        "artist": "Thomas Rhett",
+        "last-week": "34",
+        "peak-rank": "33",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "34",
+        "song": "Whatever It Takes",
+        "artist": "Imagine Dragons",
+        "last-week": "43",
+        "peak-rank": "34",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "35",
+        "song": "MotorSport",
+        "artist": "Migos, Nicki Minaj & Cardi B",
+        "last-week": "30",
+        "peak-rank": "6",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "36",
+        "song": "No Limit",
+        "artist": "G-Eazy Featuring A$AP Rocky & Cardi B",
+        "last-week": "31",
+        "peak-rank": "4",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "37",
+        "song": "How Long",
+        "artist": "Charlie Puth",
+        "last-week": "27",
+        "peak-rank": "21",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "38",
+        "song": "You Make It Easy",
+        "artist": "Jason Aldean",
+        "last-week": "38",
+        "peak-rank": "28",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "39",
+        "song": "Wait",
+        "artist": "Maroon 5",
+        "last-week": "39",
+        "peak-rank": "39",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "40",
+        "song": "Young Dumb & Broke",
+        "artist": "Khalid",
+        "last-week": "33",
+        "peak-rank": "18",
+        "weeks-on-board": "34"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "41",
+        "song": "Sky Walker",
+        "artist": "Miguel Featuring Travis Scott",
+        "last-week": "37",
+        "peak-rank": "29",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "42",
+        "song": "Heaven",
+        "artist": "Kane Brown",
+        "last-week": "44",
+        "peak-rank": "42",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "43",
+        "song": "Everyday",
+        "artist": "Logic & Marshmello",
+        "last-week": "",
+        "peak-rank": "43",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "44",
+        "song": "New Freezer",
+        "artist": "Rich The Kid Featuring Kendrick Lamar",
+        "last-week": "42",
+        "peak-rank": "42",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "45",
+        "song": "Plain Jane",
+        "artist": "A$AP Ferg Featuring Nicki Minaj",
+        "last-week": "41",
+        "peak-rank": "26",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "46",
+        "song": "No Excuses",
+        "artist": "Meghan Trainor",
+        "last-week": "",
+        "peak-rank": "46",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "47",
+        "song": "Changes",
+        "artist": "XXXTENTACION",
+        "last-week": "",
+        "peak-rank": "47",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "48",
+        "song": "Plug Walk",
+        "artist": "Rich The Kid",
+        "last-week": "55",
+        "peak-rank": "48",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "49",
+        "song": "Sorry Not Sorry",
+        "artist": "Demi Lovato",
+        "last-week": "45",
+        "peak-rank": "6",
+        "weeks-on-board": "35"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "50",
+        "song": "Good Old Days",
+        "artist": "Macklemore Featuring Kesha",
+        "last-week": "48",
+        "peak-rank": "48",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "51",
+        "song": "Broken Halos",
+        "artist": "Chris Stapleton",
+        "last-week": "49",
+        "peak-rank": "49",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "52",
+        "song": "Friends",
+        "artist": "Marshmello & Anne-Marie",
+        "last-week": "56",
+        "peak-rank": "52",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "53",
+        "song": "Billy",
+        "artist": "6ix9ine",
+        "last-week": "60",
+        "peak-rank": "53",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "54",
+        "song": "Dura",
+        "artist": "Daddy Yankee",
+        "last-week": "50",
+        "peak-rank": "50",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "55",
+        "song": "Five More Minutes",
+        "artist": "Scotty McCreery",
+        "last-week": "47",
+        "peak-rank": "44",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "56",
+        "song": "Lemon",
+        "artist": "N*E*R*D & Rihanna",
+        "last-week": "51",
+        "peak-rank": "40",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "57",
+        "song": "Most People Are Good",
+        "artist": "Luke Bryan",
+        "last-week": "57",
+        "peak-rank": "57",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "58",
+        "song": "Nowadays",
+        "artist": "Lil Skies Featuring Landon Cube",
+        "last-week": "62",
+        "peak-rank": "55",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "59",
+        "song": "Walk It Talk It",
+        "artist": "Migos Featuring Drake",
+        "last-week": "53",
+        "peak-rank": "18",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "60",
+        "song": "This Is Me",
+        "artist": "Keala Settle & The Greatest Showman Ensemble",
+        "last-week": "87",
+        "peak-rank": "58",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "61",
+        "song": "River",
+        "artist": "Eminem Featuring Ed Sheeran",
+        "last-week": "46",
+        "peak-rank": "11",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "62",
+        "song": "Singles You Up",
+        "artist": "Jordan Davis",
+        "last-week": "68",
+        "peak-rank": "62",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "63",
+        "song": "Pick It Up",
+        "artist": "Famous Dex Featuring A$AP Rocky",
+        "last-week": "54",
+        "peak-rank": "54",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "64",
+        "song": "El Farsante",
+        "artist": "Ozuna & Romeo Santos",
+        "last-week": "52",
+        "peak-rank": "49",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "65",
+        "song": "44 More",
+        "artist": "Logic",
+        "last-week": "22",
+        "peak-rank": "22",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "66",
+        "song": "Love Lies",
+        "artist": "Khalid & Normani",
+        "last-week": "58",
+        "peak-rank": "43",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "67",
+        "song": "All On Me",
+        "artist": "Devin Dawson",
+        "last-week": "69",
+        "peak-rank": "67",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "68",
+        "song": "Written In The Sand",
+        "artist": "Old Dominion",
+        "last-week": "59",
+        "peak-rank": "51",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "69",
+        "song": "Hardaway",
+        "artist": "Derez De'Shon",
+        "last-week": "67",
+        "peak-rank": "67",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "70",
+        "song": "The Champion",
+        "artist": "Carrie Underwood Featuring Ludacris",
+        "last-week": "",
+        "peak-rank": "47",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "71",
+        "song": "IDGAF",
+        "artist": "Dua Lipa",
+        "last-week": "78",
+        "peak-rank": "71",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "72",
+        "song": "Betrayed",
+        "artist": "Lil Xan",
+        "last-week": "66",
+        "peak-rank": "64",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "73",
+        "song": "Booty",
+        "artist": "Blac Youngsta",
+        "last-week": "81",
+        "peak-rank": "73",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "74",
+        "song": "Narcos",
+        "artist": "Migos",
+        "last-week": "65",
+        "peak-rank": "36",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "75",
+        "song": "No Smoke",
+        "artist": "YoungBoy Never Broke Again",
+        "last-week": "70",
+        "peak-rank": "61",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "76",
+        "song": "Powerglide",
+        "artist": "Rae Sremmurd & Juicy J",
+        "last-week": "",
+        "peak-rank": "76",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "77",
+        "song": "The Long Way",
+        "artist": "Brett Eldredge",
+        "last-week": "75",
+        "peak-rank": "75",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "78",
+        "song": "Red Roses",
+        "artist": "Lil Skies Featuring Landon Cube",
+        "last-week": "77",
+        "peak-rank": "69",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "79",
+        "song": "When We",
+        "artist": "Tank",
+        "last-week": "91",
+        "peak-rank": "79",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "80",
+        "song": "X",
+        "artist": "Nicky Jam x J Balvin",
+        "last-week": "",
+        "peak-rank": "80",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "81",
+        "song": "Beautiful Trauma",
+        "artist": "P!nk",
+        "last-week": "83",
+        "peak-rank": "78",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "82",
+        "song": "Candy Paint",
+        "artist": "Post Malone",
+        "last-week": "71",
+        "peak-rank": "50",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "83",
+        "song": "La Modelo",
+        "artist": "Ozuna x Cardi B",
+        "last-week": "80",
+        "peak-rank": "52",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "84",
+        "song": "I Like Me Better",
+        "artist": "Lauv",
+        "last-week": "88",
+        "peak-rank": "84",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "85",
+        "song": "Dark Knight Dummo",
+        "artist": "Trippie Redd Featuring Travis Scott",
+        "last-week": "82",
+        "peak-rank": "72",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "86",
+        "song": "At The Club",
+        "artist": "Jacquees X Dej Loaf",
+        "last-week": "86",
+        "peak-rank": "86",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "87",
+        "song": "Rubbin Off The Paint",
+        "artist": "YBN Nahmir",
+        "last-week": "85",
+        "peak-rank": "46",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "88",
+        "song": "Echame La Culpa",
+        "artist": "Luis Fonsi & Demi Lovato",
+        "last-week": "79",
+        "peak-rank": "47",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "89",
+        "song": "X",
+        "artist": "ScHoolboy Q, 2 Chainz & Saudi",
+        "last-week": "64",
+        "peak-rank": "49",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "90",
+        "song": "KEKE",
+        "artist": "6ix9ine, Fetty Wap & A Boogie Wit da Hoodie",
+        "last-week": "63",
+        "peak-rank": "43",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "91",
+        "song": "Stranger Things",
+        "artist": "Joyner Lucas & Chris Brown",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "92",
+        "song": "Paramedic!",
+        "artist": "SOB X RBE",
+        "last-week": "76",
+        "peak-rank": "65",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "93",
+        "song": "She's With Me",
+        "artist": "High Valley",
+        "last-week": "96",
+        "peak-rank": "93",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "94",
+        "song": "Tell Me You Love Me",
+        "artist": "Demi Lovato",
+        "last-week": "84",
+        "peak-rank": "53",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "95",
+        "song": "Get You",
+        "artist": "Daniel Caesar Featuring Kali Uchis",
+        "last-week": "94",
+        "peak-rank": "93",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "96",
+        "song": "Tempo",
+        "artist": "Chris Brown",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "97",
+        "song": "Corazon",
+        "artist": "Maluma X Nego do Borel",
+        "last-week": "93",
+        "peak-rank": "87",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "98",
+        "song": "Sativa",
+        "artist": "Jhene Aiko Featuring Swae Lee Or Rae Sremmurd",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "99",
+        "song": "I Lived It",
+        "artist": "Blake Shelton",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-03-17",
+        "rank": "100",
+        "song": "Broken Clocks",
+        "artist": "SZA",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

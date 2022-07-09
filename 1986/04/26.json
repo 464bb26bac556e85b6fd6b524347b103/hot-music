@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1986-04-26",
+        "rank": "1",
+        "song": "Kiss",
+        "artist": "Prince And The Revolution",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "2",
+        "song": "Addicted To Love",
+        "artist": "Robert Palmer",
+        "last-week": "3",
+        "peak-rank": "2",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "3",
+        "song": "West End Girls",
+        "artist": "Pet Shop Boys",
+        "last-week": "5",
+        "peak-rank": "3",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "4",
+        "song": "Manic Monday",
+        "artist": "The Bangles",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "5",
+        "song": "Why Can't This Be Love",
+        "artist": "Van Halen",
+        "last-week": "9",
+        "peak-rank": "5",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "6",
+        "song": "Harlem Shuffle",
+        "artist": "The Rolling Stones",
+        "last-week": "8",
+        "peak-rank": "6",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "7",
+        "song": "Rock Me Amadeus",
+        "artist": "Falco",
+        "last-week": "4",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "8",
+        "song": "What Have You Done For Me Lately",
+        "artist": "Janet Jackson",
+        "last-week": "12",
+        "peak-rank": "8",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "9",
+        "song": "Your Love",
+        "artist": "The Outfield",
+        "last-week": "13",
+        "peak-rank": "9",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "10",
+        "song": "Take Me Home",
+        "artist": "Phil Collins",
+        "last-week": "14",
+        "peak-rank": "10",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "11",
+        "song": "What You Need",
+        "artist": "INXS",
+        "last-week": "6",
+        "peak-rank": "5",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "12",
+        "song": "Greatest Love Of All",
+        "artist": "Whitney Houston",
+        "last-week": "22",
+        "peak-rank": "12",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "13",
+        "song": "Bad Boy",
+        "artist": "Miami Sound Machine",
+        "last-week": "18",
+        "peak-rank": "13",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "14",
+        "song": "American Storm",
+        "artist": "Bob Seger",
+        "last-week": "15",
+        "peak-rank": "14",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "15",
+        "song": "Let's Go All The Way",
+        "artist": "Sly Fox",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "16",
+        "song": "I Think It's Love",
+        "artist": "Jermaine Jackson",
+        "last-week": "17",
+        "peak-rank": "16",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "17",
+        "song": "Tender Love",
+        "artist": "Force M.D.'s",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "18",
+        "song": "If You Leave",
+        "artist": "Orchestral Manoeuvres In The Dark",
+        "last-week": "20",
+        "peak-rank": "18",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "19",
+        "song": "So Far Away",
+        "artist": "Dire Straits",
+        "last-week": "21",
+        "peak-rank": "19",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "20",
+        "song": "Something About You",
+        "artist": "Level 42",
+        "last-week": "27",
+        "peak-rank": "20",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "21",
+        "song": "On My Own",
+        "artist": "Patti LaBelle & Michael McDonald",
+        "last-week": "31",
+        "peak-rank": "21",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "22",
+        "song": "I Can't Wait",
+        "artist": "Nu Shooz",
+        "last-week": "28",
+        "peak-rank": "22",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "23",
+        "song": "I Do What I Do... (Theme For 9 1/2 Weeks)",
+        "artist": "John Taylor",
+        "last-week": "25",
+        "peak-rank": "23",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "24",
+        "song": "Live To Tell",
+        "artist": "Madonna",
+        "last-week": "35",
+        "peak-rank": "24",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "25",
+        "song": "All I Need Is A Miracle",
+        "artist": "Mike + The Mechanics",
+        "last-week": "29",
+        "peak-rank": "25",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "26",
+        "song": "Saturday Love",
+        "artist": "Cherrelle With Alexander O'Neal",
+        "last-week": "26",
+        "peak-rank": "26",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "27",
+        "song": "R.O.C.K. In The U.S.A. (A Salute to 60's Rock)",
+        "artist": "John Mellencamp",
+        "last-week": "11",
+        "peak-rank": "2",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "28",
+        "song": "Is It Love",
+        "artist": "Mr. Mister",
+        "last-week": "33",
+        "peak-rank": "28",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "29",
+        "song": "I Can't Wait",
+        "artist": "Stevie Nicks",
+        "last-week": "16",
+        "peak-rank": "16",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "30",
+        "song": "Secret Lovers",
+        "artist": "Atlantic Starr",
+        "last-week": "19",
+        "peak-rank": "3",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "31",
+        "song": "Rough Boy",
+        "artist": "ZZ Top",
+        "last-week": "36",
+        "peak-rank": "31",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "32",
+        "song": "Never As Good As The First Time",
+        "artist": "Sade",
+        "last-week": "37",
+        "peak-rank": "32",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "33",
+        "song": "Move Away",
+        "artist": "Culture Club",
+        "last-week": "40",
+        "peak-rank": "33",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "34",
+        "song": "Be Good To Yourself",
+        "artist": "Journey",
+        "last-week": "39",
+        "peak-rank": "34",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "35",
+        "song": "Overjoyed",
+        "artist": "Stevie Wonder",
+        "last-week": "24",
+        "peak-rank": "24",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "36",
+        "song": "These Dreams",
+        "artist": "Heart",
+        "last-week": "23",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "37",
+        "song": "Stick Around",
+        "artist": "Julian Lennon",
+        "last-week": "44",
+        "peak-rank": "37",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "38",
+        "song": "Feel It Again",
+        "artist": "Honeymoon Suite",
+        "last-week": "43",
+        "peak-rank": "38",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "39",
+        "song": "For America",
+        "artist": "Jackson Browne",
+        "last-week": "30",
+        "peak-rank": "30",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "40",
+        "song": "Tomorrow Doesn't Matter Tonight",
+        "artist": "Starship",
+        "last-week": "46",
+        "peak-rank": "40",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "41",
+        "song": "Nikita",
+        "artist": "Elton John",
+        "last-week": "32",
+        "peak-rank": "7",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "42",
+        "song": "No One Is To Blame",
+        "artist": "Howard Jones",
+        "last-week": "59",
+        "peak-rank": "42",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "43",
+        "song": "All The Things She Said",
+        "artist": "Simple Minds",
+        "last-week": "55",
+        "peak-rank": "43",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "44",
+        "song": "Crush On You",
+        "artist": "The Jets",
+        "last-week": "63",
+        "peak-rank": "44",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "45",
+        "song": "Mothers Talk",
+        "artist": "Tears For Fears",
+        "last-week": "53",
+        "peak-rank": "45",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "46",
+        "song": "Restless",
+        "artist": "Starpoint",
+        "last-week": "49",
+        "peak-rank": "46",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "47",
+        "song": "There'll Be Sad Songs (To Make You Cry)",
+        "artist": "Billy Ocean",
+        "last-week": "61",
+        "peak-rank": "47",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "48",
+        "song": "Nothin' At All",
+        "artist": "Heart",
+        "last-week": "65",
+        "peak-rank": "48",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "49",
+        "song": "Right Between The Eyes",
+        "artist": "Wax",
+        "last-week": "52",
+        "peak-rank": "49",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "50",
+        "song": "A Little Bit Of Love (Is All It Takes)",
+        "artist": "New Edition",
+        "last-week": "38",
+        "peak-rank": "38",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "51",
+        "song": "This Could Be The Night",
+        "artist": "Loverboy",
+        "last-week": "34",
+        "peak-rank": "10",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "52",
+        "song": "Where Do The Children Go",
+        "artist": "Hooters",
+        "last-week": "57",
+        "peak-rank": "52",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "53",
+        "song": "Live Is Life",
+        "artist": "Opus",
+        "last-week": "41",
+        "peak-rank": "32",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "54",
+        "song": "Call Me",
+        "artist": "Dennis DeYoung",
+        "last-week": "56",
+        "peak-rank": "54",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "55",
+        "song": "Great Gosh A'mighty (Down & Out In Bev. Hills Theme)",
+        "artist": "Little Richard",
+        "last-week": "42",
+        "peak-rank": "42",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "56",
+        "song": "I Wanna Be A Cowboy",
+        "artist": "Boys Don't Cry",
+        "last-week": "67",
+        "peak-rank": "56",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "57",
+        "song": "A Different Corner",
+        "artist": "George Michael",
+        "last-week": "",
+        "peak-rank": "57",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "58",
+        "song": "Calling America",
+        "artist": "Electric Light Orchestra",
+        "last-week": "45",
+        "peak-rank": "18",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "59",
+        "song": "How Will I Know",
+        "artist": "Whitney Houston",
+        "last-week": "47",
+        "peak-rank": "1",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "60",
+        "song": "Absolute Beginners",
+        "artist": "David Bowie",
+        "last-week": "60",
+        "peak-rank": "60",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "61",
+        "song": "Holding Back The Years",
+        "artist": "Simply Red",
+        "last-week": "66",
+        "peak-rank": "61",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "62",
+        "song": "Sara",
+        "artist": "Starship",
+        "last-week": "48",
+        "peak-rank": "1",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "63",
+        "song": "Pretty In Pink",
+        "artist": "Psychedelic Furs",
+        "last-week": "76",
+        "peak-rank": "63",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "64",
+        "song": "Rain On The Scarecrow",
+        "artist": "John Mellencamp",
+        "last-week": "",
+        "peak-rank": "64",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "65",
+        "song": "No Easy Way Out",
+        "artist": "Robert Tepper",
+        "last-week": "51",
+        "peak-rank": "22",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "66",
+        "song": "King For A Day",
+        "artist": "Thompson Twins",
+        "last-week": "58",
+        "peak-rank": "8",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "67",
+        "song": "The Love Parade",
+        "artist": "The Dream Academy",
+        "last-week": "91",
+        "peak-rank": "67",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "68",
+        "song": "Shot in the Dark",
+        "artist": "Ozzy Osbourne",
+        "last-week": "72",
+        "peak-rank": "68",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "69",
+        "song": "Hands Across America",
+        "artist": "Voices Of America",
+        "last-week": "80",
+        "peak-rank": "69",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "70",
+        "song": "Vienna Calling",
+        "artist": "Falco",
+        "last-week": "",
+        "peak-rank": "70",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "71",
+        "song": "Under The Influence",
+        "artist": "Vanity",
+        "last-week": "88",
+        "peak-rank": "71",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "72",
+        "song": "Kyrie",
+        "artist": "Mr. Mister",
+        "last-week": "50",
+        "peak-rank": "1",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "73",
+        "song": "Is That It?",
+        "artist": "Katrina And The Waves",
+        "last-week": "78",
+        "peak-rank": "73",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "74",
+        "song": "Working Class Man",
+        "artist": "Jimmy Barnes",
+        "last-week": "79",
+        "peak-rank": "74",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "75",
+        "song": "Who's Johnny (\"Short Circuit\" Theme)",
+        "artist": "El DeBarge",
+        "last-week": "",
+        "peak-rank": "75",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "76",
+        "song": "Johnny Come Home",
+        "artist": "Fine Young Cannibals",
+        "last-week": "77",
+        "peak-rank": "76",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "77",
+        "song": "Tuff Enuff",
+        "artist": "The Fabulous Thunderbirds",
+        "last-week": "94",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "78",
+        "song": "If You Were A Woman (And I Was A Man)",
+        "artist": "Bonnie Tyler",
+        "last-week": "89",
+        "peak-rank": "78",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "79",
+        "song": "Bop",
+        "artist": "Dan Seals",
+        "last-week": "70",
+        "peak-rank": "42",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "80",
+        "song": "Mutual Surrender (What A Wonderful World)",
+        "artist": "Bourgeois Tagg",
+        "last-week": "87",
+        "peak-rank": "80",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "81",
+        "song": "Your Wildest Dreams",
+        "artist": "The Moody Blues",
+        "last-week": "95",
+        "peak-rank": "81",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "82",
+        "song": "Somebody Somewhere",
+        "artist": "Platinum Blonde",
+        "last-week": "85",
+        "peak-rank": "82",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "83",
+        "song": "Your Smile",
+        "artist": "Rene & Angela",
+        "last-week": "62",
+        "peak-rank": "62",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "84",
+        "song": "Silent Running (On Dangerous Ground)",
+        "artist": "Mike + The Mechanics",
+        "last-week": "68",
+        "peak-rank": "6",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "85",
+        "song": "Night Moves",
+        "artist": "Marilyn Martin",
+        "last-week": "71",
+        "peak-rank": "28",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "86",
+        "song": "If Your Heart Isn't In It",
+        "artist": "Atlantic Starr",
+        "last-week": "97",
+        "peak-rank": "86",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "87",
+        "song": "Living In The Background",
+        "artist": "Baltimora",
+        "last-week": "90",
+        "peak-rank": "87",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "88",
+        "song": "Beat's So Lonely",
+        "artist": "Charlie Sexton",
+        "last-week": "54",
+        "peak-rank": "17",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "89",
+        "song": "Where Are You Now?",
+        "artist": "Jimmy Harnen With Synch",
+        "last-week": "86",
+        "peak-rank": "77",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "90",
+        "song": "Out Of Mind Out Of Sight",
+        "artist": "Models",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "91",
+        "song": "Whisper In The Dark",
+        "artist": "Dionne Warwick",
+        "last-week": "83",
+        "peak-rank": "72",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "92",
+        "song": "Once In A Lifetime",
+        "artist": "Talking Heads",
+        "last-week": "92",
+        "peak-rank": "92",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "93",
+        "song": "Do Me Baby",
+        "artist": "Meli'sa Morgan",
+        "last-week": "69",
+        "peak-rank": "46",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "94",
+        "song": "Innocent Eyes",
+        "artist": "Graham Nash",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "95",
+        "song": "Say It, Say It",
+        "artist": "E.G. Daily",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "96",
+        "song": "Lead A Double Life",
+        "artist": "Loverboy",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "97",
+        "song": "The Power Of Love",
+        "artist": "Jennifer Rush",
+        "last-week": "73",
+        "peak-rank": "57",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "98",
+        "song": "When The Going Gets Tough, The Tough Get Going",
+        "artist": "Billy Ocean",
+        "last-week": "75",
+        "peak-rank": "2",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "99",
+        "song": "Sanctify Yourself",
+        "artist": "Simple Minds",
+        "last-week": "64",
+        "peak-rank": "14",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1986-04-26",
+        "rank": "100",
+        "song": "Love And Rock And Roll",
+        "artist": "Greg Kihn",
+        "last-week": "93",
+        "peak-rank": "92",
+        "weeks-on-board": "5"
+    }
+]

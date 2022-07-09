@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1973-08-25",
+        "rank": "1",
+        "song": "Brother Louie",
+        "artist": "Stories",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "2",
+        "song": "Live And Let Die",
+        "artist": "Wings",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "3",
+        "song": "Touch Me In The Morning",
+        "artist": "Diana Ross",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "4",
+        "song": "Let's Get It On",
+        "artist": "Marvin Gaye",
+        "last-week": "5",
+        "peak-rank": "4",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "5",
+        "song": "The Morning After",
+        "artist": "Maureen McGovern",
+        "last-week": "4",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "6",
+        "song": "Delta Dawn",
+        "artist": "Helen Reddy",
+        "last-week": "8",
+        "peak-rank": "6",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "7",
+        "song": "Get Down",
+        "artist": "Gilbert O'Sullivan",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "8",
+        "song": "Say, Has Anybody Seen My Sweet Gypsy Rose",
+        "artist": "Dawn Featuring Tony Orlando",
+        "last-week": "14",
+        "peak-rank": "8",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "9",
+        "song": "Uneasy Rider",
+        "artist": "Charlie Daniels",
+        "last-week": "9",
+        "peak-rank": "9",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "10",
+        "song": "Bad, Bad Leroy Brown",
+        "artist": "Jim Croce",
+        "last-week": "6",
+        "peak-rank": "1",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "11",
+        "song": "Feelin' Stronger Every Day",
+        "artist": "Chicago",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "12",
+        "song": "I Believe In You (You Believe In Me)",
+        "artist": "Johnnie Taylor",
+        "last-week": "11",
+        "peak-rank": "11",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "13",
+        "song": "Monster Mash",
+        "artist": "Bobby \"Boris\" Pickett And The Crypt-Kickers",
+        "last-week": "13",
+        "peak-rank": "10",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "14",
+        "song": "If You Want Me To Stay",
+        "artist": "Sly & The Family Stone",
+        "last-week": "17",
+        "peak-rank": "14",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "15",
+        "song": "Here I Am Come & Take Me",
+        "artist": "Al Green",
+        "last-week": "16",
+        "peak-rank": "15",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "16",
+        "song": "Loves Me Like A Rock",
+        "artist": "Paul Simon (with The Dixie Hummingbirds)",
+        "last-week": "27",
+        "peak-rank": "16",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "17",
+        "song": "Are You Man Enough",
+        "artist": "Four Tops",
+        "last-week": "22",
+        "peak-rank": "17",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "18",
+        "song": "Gypsy Man",
+        "artist": "War",
+        "last-week": "20",
+        "peak-rank": "18",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "19",
+        "song": "We're An American Band",
+        "artist": "Grand Funk",
+        "last-week": "29",
+        "peak-rank": "19",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "20",
+        "song": "Saturday Night's Alright For Fighting",
+        "artist": "Elton John",
+        "last-week": "26",
+        "peak-rank": "20",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "21",
+        "song": "Angel",
+        "artist": "Aretha Franklin",
+        "last-week": "21",
+        "peak-rank": "21",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "22",
+        "song": "How Can I Tell Her",
+        "artist": "Lobo",
+        "last-week": "24",
+        "peak-rank": "22",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "23",
+        "song": "Smoke On The Water",
+        "artist": "Deep Purple",
+        "last-week": "12",
+        "peak-rank": "4",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "24",
+        "song": "Diamond Girl",
+        "artist": "Seals & Crofts",
+        "last-week": "18",
+        "peak-rank": "6",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "25",
+        "song": "A Million To One/Young Love",
+        "artist": "Donny Osmond",
+        "last-week": "25",
+        "peak-rank": "25",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "26",
+        "song": "Yesterday Once More",
+        "artist": "Carpenters",
+        "last-week": "15",
+        "peak-rank": "2",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "27",
+        "song": "That Lady (Part 1)",
+        "artist": "The Isley Brothers",
+        "last-week": "31",
+        "peak-rank": "27",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "28",
+        "song": "Shambala",
+        "artist": "Three Dog Night",
+        "last-week": "19",
+        "peak-rank": "3",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "29",
+        "song": "I Was Checkin' Out She Was Checkin' In",
+        "artist": "Don Covay",
+        "last-week": "32",
+        "peak-rank": "29",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "30",
+        "song": "You Light Up My Life/Believe In Humanity",
+        "artist": "Carole King",
+        "last-week": "30",
+        "peak-rank": "30",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "31",
+        "song": "The Hurt",
+        "artist": "Cat Stevens",
+        "last-week": "33",
+        "peak-rank": "31",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "32",
+        "song": "Why Me",
+        "artist": "Kris Kristofferson",
+        "last-week": "45",
+        "peak-rank": "32",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "33",
+        "song": "Nobody Wants You When You're Down And Out",
+        "artist": "Bobby Womack",
+        "last-week": "35",
+        "peak-rank": "33",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "34",
+        "song": "Theme From Cleopatra Jones",
+        "artist": "Joe Simon featuring The Mainstreeters",
+        "last-week": "43",
+        "peak-rank": "34",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "35",
+        "song": "My Maria",
+        "artist": "B.W. Stevenson",
+        "last-week": "50",
+        "peak-rank": "35",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "36",
+        "song": "Behind Closed Doors",
+        "artist": "Charlie Rich",
+        "last-week": "36",
+        "peak-rank": "15",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "37",
+        "song": "Natural High",
+        "artist": "Bloodstone",
+        "last-week": "23",
+        "peak-rank": "10",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "38",
+        "song": "There It Is",
+        "artist": "Tyrone Davis",
+        "last-week": "46",
+        "peak-rank": "38",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "39",
+        "song": "So Very Hard To Go",
+        "artist": "Tower Of Power",
+        "last-week": "28",
+        "peak-rank": "17",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "40",
+        "song": "Future Shock",
+        "artist": "Curtis Mayfield",
+        "last-week": "41",
+        "peak-rank": "40",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "41",
+        "song": "Baby I've Been Missing You",
+        "artist": "The Independents",
+        "last-week": "51",
+        "peak-rank": "41",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "42",
+        "song": "Money",
+        "artist": "Pink Floyd",
+        "last-week": "37",
+        "peak-rank": "13",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "43",
+        "song": "I've Got So Much To Give",
+        "artist": "Barry White",
+        "last-week": "60",
+        "peak-rank": "43",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "44",
+        "song": "Stoned Out Of My Mind",
+        "artist": "The Chi-lites",
+        "last-week": "53",
+        "peak-rank": "44",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "45",
+        "song": "Will It Go Round In Circles",
+        "artist": "Billy Preston",
+        "last-week": "39",
+        "peak-rank": "1",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "46",
+        "song": "Boogie Woogie Bugle Boy",
+        "artist": "Bette Midler",
+        "last-week": "34",
+        "peak-rank": "8",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "47",
+        "song": "Clouds",
+        "artist": "David Gates",
+        "last-week": "47",
+        "peak-rank": "47",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "48",
+        "song": "Right Place Wrong Time",
+        "artist": "Dr. John",
+        "last-week": "42",
+        "peak-rank": "9",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "49",
+        "song": "Misdemeanor",
+        "artist": "Foster Sylvers",
+        "last-week": "40",
+        "peak-rank": "22",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "50",
+        "song": "Everyone's Agreed That Everything Will Turn Out Fine",
+        "artist": "Stealers Wheel",
+        "last-week": "49",
+        "peak-rank": "49",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "51",
+        "song": "Higher Ground",
+        "artist": "Stevie Wonder",
+        "last-week": "73",
+        "peak-rank": "51",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "52",
+        "song": "Ghetto Child",
+        "artist": "The Spinners",
+        "last-week": "64",
+        "peak-rank": "52",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "53",
+        "song": "Sweet Charlie Babe",
+        "artist": "Jackie Moore",
+        "last-week": "55",
+        "peak-rank": "53",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "54",
+        "song": "Half-Breed",
+        "artist": "Cher",
+        "last-week": "66",
+        "peak-rank": "54",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "55",
+        "song": "Free Ride",
+        "artist": "Edgar Winter Group",
+        "last-week": "67",
+        "peak-rank": "55",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "56",
+        "song": "Sweet Harmony",
+        "artist": "Smokey Robinson",
+        "last-week": "62",
+        "peak-rank": "56",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "57",
+        "song": "Bongo Rock",
+        "artist": "The Incredible Bongo Band",
+        "last-week": "61",
+        "peak-rank": "57",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "58",
+        "song": "Hey Girl (i Like Your Style)",
+        "artist": "The Temptations",
+        "last-week": "70",
+        "peak-rank": "58",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "59",
+        "song": "Love, Love, Love",
+        "artist": "Donny Hathaway",
+        "last-week": "44",
+        "peak-rank": "44",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "60",
+        "song": "To Know You Is To Love You",
+        "artist": "B.B. King",
+        "last-week": "74",
+        "peak-rank": "60",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "61",
+        "song": "You've Never Been This Far Before",
+        "artist": "Conway Twitty",
+        "last-week": "75",
+        "peak-rank": "61",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "62",
+        "song": "Playground In My Mind",
+        "artist": "Clint Holmes",
+        "last-week": "48",
+        "peak-rank": "2",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "63",
+        "song": "Where Peaceful Waters Flow",
+        "artist": "Gladys Knight And The Pips",
+        "last-week": "38",
+        "peak-rank": "28",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "64",
+        "song": "Don't Let It End ('til You Let It Begin)",
+        "artist": "The Miracles",
+        "last-week": "76",
+        "peak-rank": "64",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "65",
+        "song": "All I Need Is Time",
+        "artist": "Gladys Knight And The Pips",
+        "last-week": "78",
+        "peak-rank": "65",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "66",
+        "song": "Evil",
+        "artist": "Earth, Wind & Fire",
+        "last-week": "68",
+        "peak-rank": "66",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "67",
+        "song": "Show Biz Kids",
+        "artist": "Steely Dan",
+        "last-week": "69",
+        "peak-rank": "67",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "68",
+        "song": "Billion Dollar Babies",
+        "artist": "Alice Cooper",
+        "last-week": "71",
+        "peak-rank": "68",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "69",
+        "song": "Sixty Minute Man/Mother-In-Law",
+        "artist": "Clarence Carter",
+        "last-week": "65",
+        "peak-rank": "65",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "70",
+        "song": "Twisting The Night Away",
+        "artist": "Rod Stewart",
+        "last-week": "84",
+        "peak-rank": "70",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "71",
+        "song": "China Grove",
+        "artist": "The Doobie Brothers",
+        "last-week": "85",
+        "peak-rank": "71",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "72",
+        "song": "Just Don't Want To Be Lonely",
+        "artist": "Ronnie Dyson",
+        "last-week": "82",
+        "peak-rank": "72",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "73",
+        "song": "Ecstasy",
+        "artist": "Ohio Players",
+        "last-week": "94",
+        "peak-rank": "73",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "74",
+        "song": "Top Of The World",
+        "artist": "Lynn Anderson",
+        "last-week": "77",
+        "peak-rank": "74",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "75",
+        "song": "Loving Arms",
+        "artist": "Dobie Gray",
+        "last-week": "88",
+        "peak-rank": "75",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "76",
+        "song": "Sexy, Sexy, Sexy",
+        "artist": "James Brown",
+        "last-week": "91",
+        "peak-rank": "76",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "77",
+        "song": "Jimmy Loves Mary-Anne",
+        "artist": "Looking Glass",
+        "last-week": "87",
+        "peak-rank": "77",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "78",
+        "song": "Yes We Can Can",
+        "artist": "The Pointer Sisters",
+        "last-week": "92",
+        "peak-rank": "78",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "79",
+        "song": "Keep On Truckin' (Part 1)",
+        "artist": "Eddie Kendricks",
+        "last-week": "",
+        "peak-rank": "79",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "80",
+        "song": "One Tin Soldier (The Legend of Billy Jack)",
+        "artist": "Coven",
+        "last-week": "81",
+        "peak-rank": "79",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "81",
+        "song": "Slick",
+        "artist": "Willie Hutch",
+        "last-week": "95",
+        "peak-rank": "81",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "82",
+        "song": "Freedom For The Stallion",
+        "artist": "The Hues Corporation",
+        "last-week": "90",
+        "peak-rank": "82",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "83",
+        "song": "Muskrat Love",
+        "artist": "America",
+        "last-week": "86",
+        "peak-rank": "83",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "84",
+        "song": "The Last Thing On My Mind",
+        "artist": "Neil Diamond",
+        "last-week": "",
+        "peak-rank": "84",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "85",
+        "song": "Ramblin Man",
+        "artist": "The Allman Brothers Band",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "86",
+        "song": "In The Midnight Hour",
+        "artist": "Cross Country",
+        "last-week": "100",
+        "peak-rank": "86",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "87",
+        "song": "Rocky Mountain Way",
+        "artist": "Joe Walsh",
+        "last-week": "96",
+        "peak-rank": "87",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "88",
+        "song": "Send A Little Love My Way",
+        "artist": "Anne Murray",
+        "last-week": "98",
+        "peak-rank": "88",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "89",
+        "song": "Rhapsody In Blue",
+        "artist": "Deodato",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "90",
+        "song": "Stay Away From Me",
+        "artist": "The Sylvers",
+        "last-week": "93",
+        "peak-rank": "90",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "91",
+        "song": "The Long Way Home",
+        "artist": "Neil Diamond",
+        "last-week": "97",
+        "peak-rank": "91",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "92",
+        "song": "Blood Red And Goin' Down",
+        "artist": "Tanya Tucker",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "93",
+        "song": "Summer (The First Time)",
+        "artist": "Bobby Goldsboro",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "94",
+        "song": "Ashes To Ashes",
+        "artist": "The 5th Dimension",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "95",
+        "song": "Sylvia",
+        "artist": "Focus",
+        "last-week": "89",
+        "peak-rank": "89",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "96",
+        "song": "(I Don't Want To Love You But) You Got Me Anyway",
+        "artist": "Sutherland Brothers And Quiver",
+        "last-week": "99",
+        "peak-rank": "96",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "97",
+        "song": "You're The Best Thing That Ever Happened To Me",
+        "artist": "Ray Price",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "98",
+        "song": "Hang Loose",
+        "artist": "Mandrill",
+        "last-week": "83",
+        "peak-rank": "83",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "99",
+        "song": "Kid Stuff",
+        "artist": "Barbara Fairchild",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1973-08-25",
+        "rank": "100",
+        "song": "Until It's Time For You To Go",
+        "artist": "The New Birth",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

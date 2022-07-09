@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1969-12-20",
+        "rank": "1",
+        "song": "Leaving On A Jet Plane",
+        "artist": "Peter, Paul & Mary",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "2",
+        "song": "Someday We'll Be Together",
+        "artist": "Diana Ross & The Supremes",
+        "last-week": "3",
+        "peak-rank": "2",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "3",
+        "song": "Down On The Corner/Fortunate Son",
+        "artist": "Creedence Clearwater Revival",
+        "last-week": "5",
+        "peak-rank": "3",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "4",
+        "song": "Na Na Hey Hey Kiss Him Goodbye",
+        "artist": "Steam",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "5",
+        "song": "Raindrops Keep Fallin' On My Head",
+        "artist": "B.J. Thomas",
+        "last-week": "9",
+        "peak-rank": "5",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "6",
+        "song": "Come Together/Something",
+        "artist": "The Beatles",
+        "last-week": "4",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "7",
+        "song": "Yester-Me, Yester-You, Yesterday",
+        "artist": "Stevie Wonder",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "8",
+        "song": "Take A Letter Maria",
+        "artist": "R.B. Greaves",
+        "last-week": "6",
+        "peak-rank": "2",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "9",
+        "song": "Holly Holy",
+        "artist": "Neil Diamond",
+        "last-week": "13",
+        "peak-rank": "9",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "10",
+        "song": "And When I Die",
+        "artist": "Blood, Sweat & Tears",
+        "last-week": "8",
+        "peak-rank": "2",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "11",
+        "song": "Eli's Coming",
+        "artist": "Three Dog Night",
+        "last-week": "11",
+        "peak-rank": "10",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "12",
+        "song": "Whole Lotta Love",
+        "artist": "Led Zeppelin",
+        "last-week": "21",
+        "peak-rank": "12",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "13",
+        "song": "Backfield In Motion",
+        "artist": "Mel And Tim",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "14",
+        "song": "La La La (If I Had You)",
+        "artist": "Bobby Sherman",
+        "last-week": "34",
+        "peak-rank": "14",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "15",
+        "song": "Midnight Cowboy",
+        "artist": "Ferrante & Teicher",
+        "last-week": "22",
+        "peak-rank": "15",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "16",
+        "song": "Cherry Hill Park",
+        "artist": "Billy Joe Royal",
+        "last-week": "16",
+        "peak-rank": "15",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "17",
+        "song": "I Want You Back",
+        "artist": "Jackson 5",
+        "last-week": "19",
+        "peak-rank": "17",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "18",
+        "song": "Friendship Train",
+        "artist": "Gladys Knight And The Pips",
+        "last-week": "18",
+        "peak-rank": "18",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "19",
+        "song": "Wedding Bell Blues",
+        "artist": "The 5th Dimension",
+        "last-week": "12",
+        "peak-rank": "1",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "20",
+        "song": "These Eyes",
+        "artist": "Jr. Walker & The All Stars",
+        "last-week": "20",
+        "peak-rank": "20",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "21",
+        "song": "Smile A Little Smile For Me",
+        "artist": "The Flying Machine",
+        "last-week": "14",
+        "peak-rank": "5",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "22",
+        "song": "Baby, I'm For Real",
+        "artist": "The Originals",
+        "last-week": "15",
+        "peak-rank": "14",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "23",
+        "song": "Jam Up Jelly Tight",
+        "artist": "Tommy Roe",
+        "last-week": "31",
+        "peak-rank": "23",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "24",
+        "song": "A Brand New Me",
+        "artist": "Dusty Springfield",
+        "last-week": "25",
+        "peak-rank": "24",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "25",
+        "song": "Don't Cry Daddy/Rubberneckin'",
+        "artist": "Elvis Presley",
+        "last-week": "36",
+        "peak-rank": "25",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "26",
+        "song": "Up On Cripple Creek",
+        "artist": "The Band",
+        "last-week": "29",
+        "peak-rank": "26",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "27",
+        "song": "Heaven Knows",
+        "artist": "The Grass Roots",
+        "last-week": "24",
+        "peak-rank": "24",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "28",
+        "song": "Evil Woman Don't Play Your Games With Me",
+        "artist": "CROW",
+        "last-week": "35",
+        "peak-rank": "28",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "29",
+        "song": "Eleanor Rigby",
+        "artist": "Aretha Franklin",
+        "last-week": "17",
+        "peak-rank": "17",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "30",
+        "song": "Going In Circles",
+        "artist": "The Friends Of Distinction",
+        "last-week": "23",
+        "peak-rank": "15",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "31",
+        "song": "Venus",
+        "artist": "The Shocking Blue",
+        "last-week": "77",
+        "peak-rank": "31",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "32",
+        "song": "Suite: Judy Blue Eyes",
+        "artist": "Crosby, Stills & Nash",
+        "last-week": "27",
+        "peak-rank": "21",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "33",
+        "song": "Groovy Grubworm",
+        "artist": "Harlow Wilcox and the Oakies",
+        "last-week": "30",
+        "peak-rank": "30",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "34",
+        "song": "Jingle Jangle",
+        "artist": "The Archies",
+        "last-week": "48",
+        "peak-rank": "34",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "35",
+        "song": "Cold Turkey",
+        "artist": "Plastic Ono Band",
+        "last-week": "39",
+        "peak-rank": "35",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "36",
+        "song": "Ain't It Funky Now (Part 1)",
+        "artist": "James Brown",
+        "last-week": "40",
+        "peak-rank": "36",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "37",
+        "song": "Early In The Morning",
+        "artist": "Vanity Fare",
+        "last-week": "42",
+        "peak-rank": "37",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "38",
+        "song": "Sunday Mornin'",
+        "artist": "Oliver",
+        "last-week": "41",
+        "peak-rank": "38",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "39",
+        "song": "Mind, Body and Soul",
+        "artist": "The Flaming Ember",
+        "last-week": "37",
+        "peak-rank": "26",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "40",
+        "song": "She",
+        "artist": "Tommy James And The Shondells",
+        "last-week": "65",
+        "peak-rank": "40",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "41",
+        "song": "Kozmic Blues",
+        "artist": "Janis Joplin",
+        "last-week": "43",
+        "peak-rank": "41",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "42",
+        "song": "Okie From Muskogee",
+        "artist": "Merle Haggard And The Strangers",
+        "last-week": "47",
+        "peak-rank": "42",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "43",
+        "song": "Cupid",
+        "artist": "Johnny Nash",
+        "last-week": "52",
+        "peak-rank": "43",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "44",
+        "song": "Don't Let Love Hang You Up",
+        "artist": "Jerry Butler",
+        "last-week": "51",
+        "peak-rank": "44",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "45",
+        "song": "I'll Hold Out My Hand",
+        "artist": "The Clique",
+        "last-week": "45",
+        "peak-rank": "45",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "46",
+        "song": "Don't Let Him Take Your Love From Me",
+        "artist": "Four Tops",
+        "last-week": "53",
+        "peak-rank": "46",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "47",
+        "song": "Wonderful World, Beautiful People",
+        "artist": "Jimmy Cliff",
+        "last-week": "60",
+        "peak-rank": "47",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "48",
+        "song": "Winter World Of Love",
+        "artist": "Engelbert Humperdinck",
+        "last-week": "71",
+        "peak-rank": "48",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "49",
+        "song": "You Got To Pay The Price",
+        "artist": "Gloria Taylor",
+        "last-week": "49",
+        "peak-rank": "49",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "50",
+        "song": "What You Gave Me",
+        "artist": "Marvin Gaye & Tammi Terrell",
+        "last-week": "54",
+        "peak-rank": "50",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "51",
+        "song": "On The Dock Of The Bay",
+        "artist": "The Dells",
+        "last-week": "44",
+        "peak-rank": "42",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "52",
+        "song": "Blistered/See Ruby Fall",
+        "artist": "Johnny Cash",
+        "last-week": "50",
+        "peak-rank": "50",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "53",
+        "song": "Sugar, Sugar",
+        "artist": "The Archies",
+        "last-week": "32",
+        "peak-rank": "1",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "54",
+        "song": "Fancy",
+        "artist": "Bobbie Gentry",
+        "last-week": "62",
+        "peak-rank": "54",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "55",
+        "song": "Can't Take My Eyes Off You",
+        "artist": "Nancy Wilson",
+        "last-week": "55",
+        "peak-rank": "55",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "56",
+        "song": "She Belongs To Me",
+        "artist": "Rick Nelson",
+        "last-week": "64",
+        "peak-rank": "56",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "57",
+        "song": "Suspicious Minds",
+        "artist": "Elvis Presley",
+        "last-week": "28",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "58",
+        "song": "Midnight",
+        "artist": "Dennis Yost And The Classics IV",
+        "last-week": "61",
+        "peak-rank": "58",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "59",
+        "song": "Try A Little Kindness",
+        "artist": "Glen Campbell",
+        "last-week": "38",
+        "peak-rank": "23",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "60",
+        "song": "She Came In Through The Bathroom Window",
+        "artist": "Joe Cocker",
+        "last-week": "83",
+        "peak-rank": "60",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "61",
+        "song": "Undun",
+        "artist": "The Guess Who",
+        "last-week": "33",
+        "peak-rank": "22",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "62",
+        "song": "Love Will Find A Way",
+        "artist": "Jackie DeShannon",
+        "last-week": "59",
+        "peak-rank": "40",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "63",
+        "song": "One Tin Soldier",
+        "artist": "The Original Caste",
+        "last-week": "70",
+        "peak-rank": "63",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "64",
+        "song": "Point It Out",
+        "artist": "Smokey Robinson & The Miracles",
+        "last-week": "76",
+        "peak-rank": "64",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "65",
+        "song": "Volunteers",
+        "artist": "Jefferson Airplane",
+        "last-week": "73",
+        "peak-rank": "65",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "66",
+        "song": "Arizona",
+        "artist": "Mark Lindsay",
+        "last-week": "89",
+        "peak-rank": "66",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "67",
+        "song": "Get It From The Bottom",
+        "artist": "The Steelers",
+        "last-week": "56",
+        "peak-rank": "56",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "68",
+        "song": "Let's Work Together (Part 1)",
+        "artist": "Wilbert Harrison",
+        "last-week": "80",
+        "peak-rank": "68",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "69",
+        "song": "Walkin' In The Rain",
+        "artist": "Jay & The Americans",
+        "last-week": "74",
+        "peak-rank": "69",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "70",
+        "song": "Get Rhythm",
+        "artist": "Johnny Cash",
+        "last-week": "68",
+        "peak-rank": "60",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "71",
+        "song": "When Julie Comes Around",
+        "artist": "The Cuff Links",
+        "last-week": "90",
+        "peak-rank": "71",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "72",
+        "song": "Let A Man Come In And Do The Popcorn (Part Two)",
+        "artist": "James Brown",
+        "last-week": "",
+        "peak-rank": "72",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "73",
+        "song": "Baby Take Me In Your Arms",
+        "artist": "Jefferson",
+        "last-week": "",
+        "peak-rank": "73",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "74",
+        "song": "I'm Tired",
+        "artist": "Savoy Brown",
+        "last-week": "78",
+        "peak-rank": "74",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "75",
+        "song": "Turn! Turn! Turn!/To Everything There Is A Season",
+        "artist": "Judy Collins",
+        "last-week": "75",
+        "peak-rank": "75",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "76",
+        "song": "I Love You",
+        "artist": "Otis Leavill",
+        "last-week": "79",
+        "peak-rank": "76",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "77",
+        "song": "She Lets Her Hair Down (Early In The Morning)",
+        "artist": "The Tokens",
+        "last-week": "81",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "78",
+        "song": "Lady-O",
+        "artist": "The Turtles",
+        "last-week": "87",
+        "peak-rank": "78",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "79",
+        "song": "Goin' Out Of My Head/Forget To Remember",
+        "artist": "Frank Sinatra",
+        "last-week": "82",
+        "peak-rank": "79",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "80",
+        "song": "I'm So Glad I Fell For You",
+        "artist": "David Ruffin",
+        "last-week": "",
+        "peak-rank": "80",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "81",
+        "song": "No Time",
+        "artist": "The Guess Who",
+        "last-week": "",
+        "peak-rank": "81",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "82",
+        "song": "Look-Ka Py Py",
+        "artist": "The Meters",
+        "last-week": "91",
+        "peak-rank": "82",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "83",
+        "song": "Are You Getting Any Sunshine?",
+        "artist": "Lou Christie",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "84",
+        "song": "Come Saturday Morning",
+        "artist": "The Sandpipers",
+        "last-week": "",
+        "peak-rank": "84",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "85",
+        "song": "Tonight I'll Say A Prayer",
+        "artist": "Eydie Gorme",
+        "last-week": "88",
+        "peak-rank": "85",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "86",
+        "song": "Six White Horses",
+        "artist": "Tommy Cash",
+        "last-week": "96",
+        "peak-rank": "86",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "87",
+        "song": "Together",
+        "artist": "The Illusion",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "88",
+        "song": "Groovin' (Out On Life)",
+        "artist": "The Newbeats",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "89",
+        "song": "I'm Gonna Love You",
+        "artist": "The Intrigues",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "90",
+        "song": "To Be Young, Gifted And Black",
+        "artist": "Nina Simone",
+        "last-week": "93",
+        "peak-rank": "90",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "91",
+        "song": "Voodoo Woman",
+        "artist": "Simon Stokes/Nighthawks",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "92",
+        "song": "Bold Soul Sister",
+        "artist": "Ike & Tina Turner",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "93",
+        "song": "How I Miss You Baby",
+        "artist": "Bobby Womack",
+        "last-week": "99",
+        "peak-rank": "93",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "94",
+        "song": "Is It Because I'm Black",
+        "artist": "Syl Johnson",
+        "last-week": "94",
+        "peak-rank": "94",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "95",
+        "song": "Love Bones",
+        "artist": "Johnnie Taylor",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "96",
+        "song": "It's Been A Long Time",
+        "artist": "Betty Everett",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "97",
+        "song": "Alice's Rock & Roll Restaurant",
+        "artist": "Arlo Guthrie",
+        "last-week": "98",
+        "peak-rank": "97",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "98",
+        "song": "Mr. Limousine Driver",
+        "artist": "Grand Funk Railroad",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "99",
+        "song": "Too Many Cooks (Spoil The Soup)",
+        "artist": "100 Proof Aged in Soul",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-12-20",
+        "rank": "100",
+        "song": "He Ain't Heavy, He's My Brother",
+        "artist": "The Hollies",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

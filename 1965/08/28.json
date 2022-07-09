@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1965-08-28",
+        "rank": "1",
+        "song": "I Got You Babe",
+        "artist": "Sonny & Cher",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "2",
+        "song": "Help!",
+        "artist": "The Beatles",
+        "last-week": "3",
+        "peak-rank": "2",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "3",
+        "song": "California Girls",
+        "artist": "The Beach Boys",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "4",
+        "song": "Unchained Melody",
+        "artist": "The Righteous Brothers",
+        "last-week": "5",
+        "peak-rank": "4",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "5",
+        "song": "It's The Same Old Song",
+        "artist": "Four Tops",
+        "last-week": "7",
+        "peak-rank": "5",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "6",
+        "song": "Like A Rolling Stone",
+        "artist": "Bob Dylan",
+        "last-week": "16",
+        "peak-rank": "6",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "7",
+        "song": "Save Your Heart For Me",
+        "artist": "Gary Lewis And The Playboys",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "8",
+        "song": "Hold Me, Thrill Me, Kiss Me",
+        "artist": "Mel Carter",
+        "last-week": "13",
+        "peak-rank": "8",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "9",
+        "song": "Down In The Boondocks",
+        "artist": "Billy Joe Royal",
+        "last-week": "10",
+        "peak-rank": "9",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "10",
+        "song": "Papa's Got A Brand New Bag (Part I)",
+        "artist": "James Brown And The Famous Flames",
+        "last-week": "14",
+        "peak-rank": "10",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "11",
+        "song": "Baby, I'm Yours",
+        "artist": "Barbara Lewis",
+        "last-week": "11",
+        "peak-rank": "11",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "12",
+        "song": "You Were On My Mind",
+        "artist": "We Five",
+        "last-week": "17",
+        "peak-rank": "12",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "13",
+        "song": "Nothing But Heartaches",
+        "artist": "The Supremes",
+        "last-week": "18",
+        "peak-rank": "13",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "14",
+        "song": "Don't Just Stand There",
+        "artist": "Patty Duke",
+        "last-week": "8",
+        "peak-rank": "8",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "15",
+        "song": "All I Really Want To Do",
+        "artist": "Cher",
+        "last-week": "15",
+        "peak-rank": "15",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "16",
+        "song": "(I Can't Get No) Satisfaction",
+        "artist": "The Rolling Stones",
+        "last-week": "6",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "17",
+        "song": "Since I Lost My Baby",
+        "artist": "The Temptations",
+        "last-week": "24",
+        "peak-rank": "17",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "18",
+        "song": "What's New Pussycat?",
+        "artist": "Tom Jones",
+        "last-week": "12",
+        "peak-rank": "3",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "19",
+        "song": "The Tracks Of My Tears",
+        "artist": "The Miracles",
+        "last-week": "23",
+        "peak-rank": "19",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "20",
+        "song": "I'm Henry VIII, I Am",
+        "artist": "Herman's Hermits",
+        "last-week": "9",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "21",
+        "song": "It Ain't Me Babe",
+        "artist": "The Turtles",
+        "last-week": "32",
+        "peak-rank": "21",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "22",
+        "song": "The \"In\" Crowd",
+        "artist": "Ramsey Lewis Trio",
+        "last-week": "34",
+        "peak-rank": "22",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "23",
+        "song": "I'm A Fool",
+        "artist": "Dino, Desi & Billy",
+        "last-week": "20",
+        "peak-rank": "17",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "24",
+        "song": "In The Midnight Hour",
+        "artist": "Wilson Pickett",
+        "last-week": "27",
+        "peak-rank": "24",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "25",
+        "song": "Heart Full Of Soul",
+        "artist": "The Yardbirds",
+        "last-week": "30",
+        "peak-rank": "25",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "26",
+        "song": "Ju Ju Hand",
+        "artist": "Sam The Sham and the Pharaohs",
+        "last-week": "29",
+        "peak-rank": "26",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "27",
+        "song": "Eve Of Destruction",
+        "artist": "Barry McGuire",
+        "last-week": "58",
+        "peak-rank": "27",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "28",
+        "song": "Looking Through The Eyes Of Love",
+        "artist": "Gene Pitney",
+        "last-week": "31",
+        "peak-rank": "28",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "29",
+        "song": "Houston",
+        "artist": "Dean Martin",
+        "last-week": "38",
+        "peak-rank": "29",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "30",
+        "song": "Take Me Back",
+        "artist": "Little Anthony And The Imperials",
+        "last-week": "19",
+        "peak-rank": "16",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "31",
+        "song": "Action",
+        "artist": "Freddy Cannon",
+        "last-week": "52",
+        "peak-rank": "31",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "32",
+        "song": "Shake And Fingerpop",
+        "artist": "Jr. Walker & The All Stars",
+        "last-week": "37",
+        "peak-rank": "32",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "33",
+        "song": "Sunshine, Lollipops And Rainbows",
+        "artist": "Lesley Gore",
+        "last-week": "28",
+        "peak-rank": "13",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "34",
+        "song": "You'd Better Come Home",
+        "artist": "Petula Clark",
+        "last-week": "22",
+        "peak-rank": "22",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "35",
+        "song": "I Don't Wanna Lose You Baby",
+        "artist": "Chad & Jeremy",
+        "last-week": "46",
+        "peak-rank": "35",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "36",
+        "song": "I Want Candy",
+        "artist": "The Strangeloves",
+        "last-week": "21",
+        "peak-rank": "11",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "37",
+        "song": "Sugar Dumpling",
+        "artist": "Sam Cooke",
+        "last-week": "45",
+        "peak-rank": "37",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "38",
+        "song": "You Tell Me Why",
+        "artist": "The Beau Brummels",
+        "last-week": "41",
+        "peak-rank": "38",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "39",
+        "song": "I Like It Like That",
+        "artist": "The Dave Clark Five",
+        "last-week": "25",
+        "peak-rank": "7",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "40",
+        "song": "Cara, Mia",
+        "artist": "Jay & The Americans",
+        "last-week": "26",
+        "peak-rank": "4",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "41",
+        "song": "Agent Double-O-Soul",
+        "artist": "Edwin Starr",
+        "last-week": "51",
+        "peak-rank": "41",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "42",
+        "song": "Catch Us If You Can",
+        "artist": "The Dave Clark Five",
+        "last-week": "62",
+        "peak-rank": "42",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "43",
+        "song": "We Gotta Get Out Of This Place",
+        "artist": "The Animals",
+        "last-week": "68",
+        "peak-rank": "43",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "44",
+        "song": "Sad, Sad Girl",
+        "artist": "Barbara Mason",
+        "last-week": "55",
+        "peak-rank": "44",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "45",
+        "song": "Who'll Be The Next In Line",
+        "artist": "The Kinks",
+        "last-week": "53",
+        "peak-rank": "45",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "46",
+        "song": "Summer Nights",
+        "artist": "Marianne Faithfull",
+        "last-week": "59",
+        "peak-rank": "46",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "47",
+        "song": "All I Really Want To Do",
+        "artist": "The Byrds",
+        "last-week": "40",
+        "peak-rank": "40",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "48",
+        "song": "A Little You",
+        "artist": "Freddie And The Dreamers",
+        "last-week": "50",
+        "peak-rank": "48",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "49",
+        "song": "Hang On Sloopy",
+        "artist": "The McCoys",
+        "last-week": "67",
+        "peak-rank": "49",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "50",
+        "song": "You've Been In Love Too Long",
+        "artist": "Martha & The Vandellas",
+        "last-week": "57",
+        "peak-rank": "50",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "51",
+        "song": "I'll Always Love You",
+        "artist": "The Spinners",
+        "last-week": "35",
+        "peak-rank": "35",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "52",
+        "song": "Laugh At Me",
+        "artist": "Sonny",
+        "last-week": "83",
+        "peak-rank": "52",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "53",
+        "song": "It's Gonna Take A Miracle",
+        "artist": "The Royalettes",
+        "last-week": "49",
+        "peak-rank": "49",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "54",
+        "song": "If I Didn't Love You",
+        "artist": "Chuck Jackson",
+        "last-week": "60",
+        "peak-rank": "54",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "55",
+        "song": "I'm A Happy Man",
+        "artist": "The Jive Five",
+        "last-week": "66",
+        "peak-rank": "55",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "56",
+        "song": "I'll Take You Where The Music's Playing",
+        "artist": "The Drifters",
+        "last-week": "69",
+        "peak-rank": "56",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "57",
+        "song": "Ride Your Pony",
+        "artist": "Lee Dorsey",
+        "last-week": "39",
+        "peak-rank": "28",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "58",
+        "song": "(My Girl) Sloopy",
+        "artist": "Little Caesar And The Consuls",
+        "last-week": "71",
+        "peak-rank": "58",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "59",
+        "song": "Moon Over Naples",
+        "artist": "Bert Kaempfert And His Orchestra",
+        "last-week": "61",
+        "peak-rank": "59",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "60",
+        "song": "Baby Don't Go",
+        "artist": "Sonny & Cher",
+        "last-week": "70",
+        "peak-rank": "60",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "61",
+        "song": "New Orleans",
+        "artist": "Eddie Hodges",
+        "last-week": "44",
+        "peak-rank": "44",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "62",
+        "song": "Annie Fanny",
+        "artist": "The Kingsmen",
+        "last-week": "73",
+        "peak-rank": "62",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "63",
+        "song": "Hung On You",
+        "artist": "The Righteous Brothers",
+        "last-week": "47",
+        "peak-rank": "47",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "64",
+        "song": "Candy",
+        "artist": "The Astors",
+        "last-week": "64",
+        "peak-rank": "64",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "65",
+        "song": "First I Look At The Purse",
+        "artist": "The Contours",
+        "last-week": "75",
+        "peak-rank": "65",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "66",
+        "song": "Moonlight And Roses (Bring Mem'ries Of You)",
+        "artist": "Vic Dana",
+        "last-week": "72",
+        "peak-rank": "66",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "67",
+        "song": "Danger Heartbreak Dead Ahead",
+        "artist": "The Marvelettes",
+        "last-week": "79",
+        "peak-rank": "67",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "68",
+        "song": "It's Too Late, Baby Too Late",
+        "artist": "Arthur Prysock",
+        "last-week": "56",
+        "peak-rank": "56",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "69",
+        "song": "It's A Man Down There",
+        "artist": "G.L. Crockett",
+        "last-week": "78",
+        "peak-rank": "69",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "70",
+        "song": "I'll Make All Your Dreams Come True",
+        "artist": "Ronnie Dove",
+        "last-week": "",
+        "peak-rank": "70",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "71",
+        "song": "Give All Your Love To Me",
+        "artist": "Gerry And The Pacemakers",
+        "last-week": "86",
+        "peak-rank": "71",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "72",
+        "song": "Just You",
+        "artist": "Sonny & Cher",
+        "last-week": "",
+        "peak-rank": "72",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "73",
+        "song": "Ride Away",
+        "artist": "Roy Orbison",
+        "last-week": "98",
+        "peak-rank": "73",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "74",
+        "song": "No Pity (In The Naked City)",
+        "artist": "Jackie Wilson",
+        "last-week": "74",
+        "peak-rank": "59",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "75",
+        "song": "I Need You",
+        "artist": "The Impressions",
+        "last-week": "90",
+        "peak-rank": "75",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "76",
+        "song": "Colours",
+        "artist": "Donovan",
+        "last-week": "84",
+        "peak-rank": "76",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "77",
+        "song": "You've Got Your Troubles",
+        "artist": "The Fortunes",
+        "last-week": "95",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "78",
+        "song": "Summer Wind",
+        "artist": "Wayne Newton",
+        "last-week": "80",
+        "peak-rank": "78",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "79",
+        "song": "Do You Believe In Magic",
+        "artist": "The Lovin' Spoonful",
+        "last-week": "96",
+        "peak-rank": "79",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "80",
+        "song": "You Better Go",
+        "artist": "Derek Martin",
+        "last-week": "81",
+        "peak-rank": "80",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "81",
+        "song": "Two Different Worlds",
+        "artist": "Lenny Welch",
+        "last-week": "87",
+        "peak-rank": "81",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "82",
+        "song": "With These Hands",
+        "artist": "Tom Jones",
+        "last-week": "",
+        "peak-rank": "82",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "83",
+        "song": "I'm Yours",
+        "artist": "Elvis Presley",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "84",
+        "song": "Is It Really Over?",
+        "artist": "Jim Reeves",
+        "last-week": "85",
+        "peak-rank": "84",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "85",
+        "song": "Only Those In Love",
+        "artist": "Baby Washington",
+        "last-week": "89",
+        "peak-rank": "85",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "86",
+        "song": "Mohair Sam",
+        "artist": "Charlie Rich",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "87",
+        "song": "Liar, Liar",
+        "artist": "The Castaways",
+        "last-week": "91",
+        "peak-rank": "87",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "88",
+        "song": "If You Wait For Love",
+        "artist": "Bobby Goldsboro",
+        "last-week": "94",
+        "peak-rank": "88",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "89",
+        "song": "Home Of The Brave",
+        "artist": "Jody Miller",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "90",
+        "song": "Heartaches By The Number",
+        "artist": "Johnny Tillotson",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "91",
+        "song": "Someone Is Watching",
+        "artist": "Solomon Burke",
+        "last-week": "100",
+        "peak-rank": "91",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "92",
+        "song": "I Want To (Do Everything For You)",
+        "artist": "Joe Tex",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "93",
+        "song": "What Are We Going To Do?",
+        "artist": "David Jones",
+        "last-week": "93",
+        "peak-rank": "93",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "94",
+        "song": "Home Of The Brave",
+        "artist": "Bonnie & The Treasures",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "95",
+        "song": "Good Times",
+        "artist": "Gene Chandler",
+        "last-week": "97",
+        "peak-rank": "95",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "96",
+        "song": "Can't Let You Out Of My Sight",
+        "artist": "Chuck Jackson & Maxine Brown",
+        "last-week": "99",
+        "peak-rank": "96",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "97",
+        "song": "Too Hot To Hold",
+        "artist": "Major Lance",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "98",
+        "song": "The World Through A Tear",
+        "artist": "Neil Sedaka",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "99",
+        "song": "High Heel Sneakers",
+        "artist": "Stevie Wonder",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-08-28",
+        "rank": "100",
+        "song": "These Hands (Small But Mighty)",
+        "artist": "Bobby Bland",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1965-10-09",
+        "rank": "1",
+        "song": "Yesterday",
+        "artist": "The Beatles",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "2",
+        "song": "Hang On Sloopy",
+        "artist": "The McCoys",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "3",
+        "song": "Treat Her Right",
+        "artist": "Roy Head And The Traits",
+        "last-week": "7",
+        "peak-rank": "3",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "4",
+        "song": "Eve Of Destruction",
+        "artist": "Barry McGuire",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "5",
+        "song": "The \"In\" Crowd",
+        "artist": "Ramsey Lewis Trio",
+        "last-week": "6",
+        "peak-rank": "5",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "6",
+        "song": "Catch Us If You Can",
+        "artist": "The Dave Clark Five",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "7",
+        "song": "You've Got Your Troubles",
+        "artist": "The Fortunes",
+        "last-week": "8",
+        "peak-rank": "7",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "8",
+        "song": "Baby Don't Go",
+        "artist": "Sonny & Cher",
+        "last-week": "9",
+        "peak-rank": "8",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "9",
+        "song": "You Were On My Mind",
+        "artist": "We Five",
+        "last-week": "5",
+        "peak-rank": "3",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "10",
+        "song": "Do You Believe In Magic",
+        "artist": "The Lovin' Spoonful",
+        "last-week": "12",
+        "peak-rank": "10",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "11",
+        "song": "I'm Yours",
+        "artist": "Elvis Presley",
+        "last-week": "16",
+        "peak-rank": "11",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "12",
+        "song": "Just A Little Bit Better",
+        "artist": "Herman's Hermits",
+        "last-week": "25",
+        "peak-rank": "12",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "13",
+        "song": "Some Enchanted Evening",
+        "artist": "Jay & The Americans",
+        "last-week": "15",
+        "peak-rank": "13",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "14",
+        "song": "Keep On Dancing",
+        "artist": "The Gentrys",
+        "last-week": "19",
+        "peak-rank": "14",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "15",
+        "song": "Help!",
+        "artist": "The Beatles",
+        "last-week": "11",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "16",
+        "song": "Laugh At Me",
+        "artist": "Sonny",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "17",
+        "song": "We Gotta Get Out Of This Place",
+        "artist": "The Animals",
+        "last-week": "13",
+        "peak-rank": "13",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "18",
+        "song": "Liar, Liar",
+        "artist": "The Castaways",
+        "last-week": "20",
+        "peak-rank": "18",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "19",
+        "song": "A Lover's Concerto",
+        "artist": "The Toys",
+        "last-week": "38",
+        "peak-rank": "19",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "20",
+        "song": "Just You",
+        "artist": "Sonny & Cher",
+        "last-week": "24",
+        "peak-rank": "20",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "21",
+        "song": "I'll Make All Your Dreams Come True",
+        "artist": "Ronnie Dove",
+        "last-week": "22",
+        "peak-rank": "21",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "22",
+        "song": "You're The One",
+        "artist": "The Vogues",
+        "last-week": "41",
+        "peak-rank": "22",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "23",
+        "song": "Mohair Sam",
+        "artist": "Charlie Rich",
+        "last-week": "28",
+        "peak-rank": "23",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "24",
+        "song": "Everybody Loves A Clown",
+        "artist": "Gary Lewis And The Playboys",
+        "last-week": "42",
+        "peak-rank": "24",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "25",
+        "song": "Ride Away",
+        "artist": "Roy Orbison",
+        "last-week": "26",
+        "peak-rank": "25",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "26",
+        "song": "Heart Full Of Soul",
+        "artist": "The Yardbirds",
+        "last-week": "14",
+        "peak-rank": "9",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "27",
+        "song": "With These Hands",
+        "artist": "Tom Jones",
+        "last-week": "27",
+        "peak-rank": "27",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "28",
+        "song": "Home Of The Brave",
+        "artist": "Jody Miller",
+        "last-week": "29",
+        "peak-rank": "28",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "29",
+        "song": "It Ain't Me Babe",
+        "artist": "The Turtles",
+        "last-week": "17",
+        "peak-rank": "8",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "30",
+        "song": "Agent Double-O-Soul",
+        "artist": "Edwin Starr",
+        "last-week": "21",
+        "peak-rank": "21",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "31",
+        "song": "Kansas City Star",
+        "artist": "Roger Miller",
+        "last-week": "33",
+        "peak-rank": "31",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "32",
+        "song": "My Town, My Guy And Me",
+        "artist": "Lesley Gore",
+        "last-week": "44",
+        "peak-rank": "32",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "33",
+        "song": "Like A Rolling Stone",
+        "artist": "Bob Dylan",
+        "last-week": "18",
+        "peak-rank": "2",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "34",
+        "song": "Positively 4th Street",
+        "artist": "Bob Dylan",
+        "last-week": "66",
+        "peak-rank": "34",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "35",
+        "song": "Heartaches By The Number",
+        "artist": "Johnny Tillotson",
+        "last-week": "36",
+        "peak-rank": "35",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "36",
+        "song": "I Knew You When",
+        "artist": "Billy Joe Royal",
+        "last-week": "55",
+        "peak-rank": "36",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "37",
+        "song": "Make Me Your Baby",
+        "artist": "Barbara Lewis",
+        "last-week": "49",
+        "peak-rank": "37",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "38",
+        "song": "Unchained Melody",
+        "artist": "The Righteous Brothers",
+        "last-week": "23",
+        "peak-rank": "4",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "39",
+        "song": "The Dawn Of Correction",
+        "artist": "The Spokesmen",
+        "last-week": "43",
+        "peak-rank": "39",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "40",
+        "song": "Hungry For Love",
+        "artist": "San Remo Golden Strings",
+        "last-week": "50",
+        "peak-rank": "40",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "41",
+        "song": "I Got You Babe",
+        "artist": "Sonny & Cher",
+        "last-week": "30",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "42",
+        "song": "Ain't It True",
+        "artist": "Andy Williams",
+        "last-week": "45",
+        "peak-rank": "42",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "43",
+        "song": "Not The Lovin' Kind",
+        "artist": "Dino, Desi & Billy",
+        "last-week": "54",
+        "peak-rank": "43",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "44",
+        "song": "What Color (Is A Man)",
+        "artist": "Bobby Vinton",
+        "last-week": "51",
+        "peak-rank": "44",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "45",
+        "song": "Taste Of Honey",
+        "artist": "Herb Alpert & The Tijuana Brass",
+        "last-week": "74",
+        "peak-rank": "45",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "46",
+        "song": "I Want To (Do Everything For You)",
+        "artist": "Joe Tex",
+        "last-week": "48",
+        "peak-rank": "46",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "47",
+        "song": "3rd Man Theme",
+        "artist": "Herb Alpert & The Tijuana Brass",
+        "last-week": "47",
+        "peak-rank": "47",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "48",
+        "song": "Action",
+        "artist": "Freddy Cannon",
+        "last-week": "31",
+        "peak-rank": "13",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "49",
+        "song": "Papa's Got A Brand New Bag (Part I)",
+        "artist": "James Brown And The Famous Flames",
+        "last-week": "37",
+        "peak-rank": "8",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "50",
+        "song": "There But For Fortune",
+        "artist": "Joan Baez",
+        "last-week": "53",
+        "peak-rank": "50",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "51",
+        "song": "Act Naturally",
+        "artist": "The Beatles",
+        "last-week": "72",
+        "peak-rank": "51",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "52",
+        "song": "Everyone's Gone To The Moon",
+        "artist": "Jonathan King",
+        "last-week": "64",
+        "peak-rank": "52",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "53",
+        "song": "Cara-Lin",
+        "artist": "The Strangeloves",
+        "last-week": "56",
+        "peak-rank": "53",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "54",
+        "song": "Summer Nights",
+        "artist": "Marianne Faithfull",
+        "last-week": "34",
+        "peak-rank": "24",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "55",
+        "song": "Are You A Boy Or Are You A Girl",
+        "artist": "The Barbarians",
+        "last-week": "67",
+        "peak-rank": "55",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "56",
+        "song": "Respect",
+        "artist": "Otis Redding",
+        "last-week": "62",
+        "peak-rank": "56",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "57",
+        "song": "Steppin' Out",
+        "artist": "Paul Revere & The Raiders",
+        "last-week": "63",
+        "peak-rank": "57",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "58",
+        "song": "The Universal Soldier",
+        "artist": "Glen Campbell",
+        "last-week": "71",
+        "peak-rank": "58",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "59",
+        "song": "Universal Soldier",
+        "artist": "Donovan",
+        "last-week": "69",
+        "peak-rank": "59",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "60",
+        "song": "I Live For The Sun",
+        "artist": "The Sunrays",
+        "last-week": "60",
+        "peak-rank": "60",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "61",
+        "song": "1-2-3",
+        "artist": "Len Barry",
+        "last-week": "77",
+        "peak-rank": "61",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "62",
+        "song": "Rescue Me",
+        "artist": "Fontella Bass",
+        "last-week": "76",
+        "peak-rank": "62",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "63",
+        "song": "These Hands (Small But Mighty)",
+        "artist": "Bobby Bland",
+        "last-week": "65",
+        "peak-rank": "63",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "64",
+        "song": "Get Off Of My Cloud",
+        "artist": "The Rolling Stones",
+        "last-week": "",
+        "peak-rank": "64",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "65",
+        "song": "Take Me In Your Arms (Rock Me A Little While)",
+        "artist": "Kim Weston",
+        "last-week": "80",
+        "peak-rank": "65",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "66",
+        "song": "Say Something Funny",
+        "artist": "Patty Duke",
+        "last-week": "82",
+        "peak-rank": "66",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "67",
+        "song": "I Miss You So",
+        "artist": "Little Anthony And The Imperials",
+        "last-week": "83",
+        "peak-rank": "67",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "68",
+        "song": "But You're Mine",
+        "artist": "Sonny & Cher",
+        "last-week": "",
+        "peak-rank": "68",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "69",
+        "song": "Two Different Worlds",
+        "artist": "Lenny Welch",
+        "last-week": "61",
+        "peak-rank": "61",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "70",
+        "song": "High Heel Sneakers",
+        "artist": "Stevie Wonder",
+        "last-week": "59",
+        "peak-rank": "59",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "71",
+        "song": "Ain't That Peculiar",
+        "artist": "Marvin Gaye",
+        "last-week": "",
+        "peak-rank": "71",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "72",
+        "song": "Let's Hang On!",
+        "artist": "The 4 Seasons Featuring the \"Sound of Frankie Valli\"",
+        "last-week": "",
+        "peak-rank": "72",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "73",
+        "song": "Run, Baby Run (Back Into My Arms)",
+        "artist": "The Newbeats",
+        "last-week": "90",
+        "peak-rank": "73",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "74",
+        "song": "Little Miss Sad",
+        "artist": "The Five Emprees",
+        "last-week": "79",
+        "peak-rank": "74",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "75",
+        "song": "If You've Got A Heart",
+        "artist": "Bobby Goldsboro",
+        "last-week": "78",
+        "peak-rank": "75",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "76",
+        "song": "A Lifetime Of Loneliness",
+        "artist": "Jackie DeShannon",
+        "last-week": "84",
+        "peak-rank": "76",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "77",
+        "song": "Where Have All The Flowers Gone",
+        "artist": "Johnny Rivers",
+        "last-week": "92",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "78",
+        "song": "Secretly",
+        "artist": "The Lettermen",
+        "last-week": "93",
+        "peak-rank": "78",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "79",
+        "song": "Just One Kiss From You",
+        "artist": "The Impressions",
+        "last-week": "91",
+        "peak-rank": "79",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "80",
+        "song": "The World Through A Tear",
+        "artist": "Neil Sedaka",
+        "last-week": "81",
+        "peak-rank": "80",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "81",
+        "song": "The Girl From Peyton Place",
+        "artist": "Dickey Lee",
+        "last-week": "73",
+        "peak-rank": "73",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "82",
+        "song": "Funny Little Butterflies",
+        "artist": "Patty Duke",
+        "last-week": "86",
+        "peak-rank": "82",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "83",
+        "song": "Tossing & Turning",
+        "artist": "The Ivy League",
+        "last-week": "85",
+        "peak-rank": "83",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "84",
+        "song": "Road Runner",
+        "artist": "The Gants",
+        "last-week": "94",
+        "peak-rank": "84",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "85",
+        "song": "Round Every Corner",
+        "artist": "Petula Clark",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "86",
+        "song": "Looking With My Eyes",
+        "artist": "Dionne Warwick",
+        "last-week": "97",
+        "peak-rank": "86",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "87",
+        "song": "Ring Dang Doo",
+        "artist": "Sam The Sham and the Pharaohs",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "88",
+        "song": "Chapel In The Moonlight",
+        "artist": "The Bachelors",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "89",
+        "song": "Don't Talk To Strangers",
+        "artist": "The Beau Brummels",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "90",
+        "song": "Just Yesterday",
+        "artist": "Jack Jones",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "91",
+        "song": "Cleo's Back",
+        "artist": "Jr. Walker & The All Stars",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "92",
+        "song": "The Organ Grinder's Swing",
+        "artist": "Jimmy Smith With Kenny Burrell And Grady Tate",
+        "last-week": "100",
+        "peak-rank": "92",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "93",
+        "song": "I'm So Thankful",
+        "artist": "The Ikettes",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "94",
+        "song": "He Touched Me",
+        "artist": "Barbra Streisand",
+        "last-week": "99",
+        "peak-rank": "94",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "95",
+        "song": "My Girl Has Gone",
+        "artist": "The Miracles",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "96",
+        "song": "You Can't Take It Away",
+        "artist": "Fred Hughes",
+        "last-week": "96",
+        "peak-rank": "96",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "97",
+        "song": "Let's Move & Groove (Together)",
+        "artist": "Johnny Nash",
+        "last-week": "98",
+        "peak-rank": "97",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "98",
+        "song": "Early Morning Rain",
+        "artist": "Peter, Paul & Mary",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "99",
+        "song": "Right Now And Not Later",
+        "artist": "The Shangri-Las",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1965-10-09",
+        "rank": "100",
+        "song": "Rusty Bells",
+        "artist": "Brenda Lee",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

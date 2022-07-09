@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1977-04-30",
+        "rank": "1",
+        "song": "Southern Nights",
+        "artist": "Glen Campbell",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "2",
+        "song": "Hotel California",
+        "artist": "Eagles",
+        "last-week": "3",
+        "peak-rank": "2",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "3",
+        "song": "Don't Leave Me This Way",
+        "artist": "Thelma Houston",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "4",
+        "song": "When I Need You",
+        "artist": "Leo Sayer",
+        "last-week": "9",
+        "peak-rank": "4",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "5",
+        "song": "I've Got Love On My Mind",
+        "artist": "Natalie Cole",
+        "last-week": "6",
+        "peak-rank": "5",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "6",
+        "song": "Don't Give Up On Us",
+        "artist": "David Soul",
+        "last-week": "4",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "7",
+        "song": "So In To You",
+        "artist": "Atlanta Rhythm Section",
+        "last-week": "8",
+        "peak-rank": "7",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "8",
+        "song": "Right Time Of The Night",
+        "artist": "Jennifer Warnes",
+        "last-week": "10",
+        "peak-rank": "8",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "9",
+        "song": "Sir Duke",
+        "artist": "Stevie Wonder",
+        "last-week": "19",
+        "peak-rank": "9",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "10",
+        "song": "Tryin' To Love Two",
+        "artist": "William Bell",
+        "last-week": "11",
+        "peak-rank": "10",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "11",
+        "song": "I Wanna Get Next To You",
+        "artist": "Rose Royce",
+        "last-week": "13",
+        "peak-rank": "11",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "12",
+        "song": "Couldn't Get It Right",
+        "artist": "Climax Blues Band",
+        "last-week": "14",
+        "peak-rank": "12",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "13",
+        "song": "Lido Shuffle",
+        "artist": "Boz Scaggs",
+        "last-week": "15",
+        "peak-rank": "13",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "14",
+        "song": "Can't Stop Dancin'",
+        "artist": "Captain & Tennille",
+        "last-week": "16",
+        "peak-rank": "14",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "15",
+        "song": "I'm Your Boogie Man",
+        "artist": "KC And The Sunshine Band",
+        "last-week": "17",
+        "peak-rank": "15",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "16",
+        "song": "Your Love",
+        "artist": "Marilyn McCoo & Billy Davis, Jr.",
+        "last-week": "20",
+        "peak-rank": "16",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "17",
+        "song": "Evergreen (Love Theme From \"A Star Is Born\")",
+        "artist": "Barbra Streisand",
+        "last-week": "7",
+        "peak-rank": "1",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "18",
+        "song": "Rich Girl",
+        "artist": "Daryl Hall John Oates",
+        "last-week": "12",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "19",
+        "song": "The Things We Do For Love",
+        "artist": "10cc",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "20",
+        "song": "Calling Dr. Love",
+        "artist": "KISS",
+        "last-week": "23",
+        "peak-rank": "20",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "21",
+        "song": "Lucille",
+        "artist": "Kenny Rogers",
+        "last-week": "28",
+        "peak-rank": "21",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "22",
+        "song": "Lonely Boy",
+        "artist": "Andrew Gold",
+        "last-week": "30",
+        "peak-rank": "22",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "23",
+        "song": "Angel In Your Arms",
+        "artist": "Hot",
+        "last-week": "25",
+        "peak-rank": "23",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "24",
+        "song": "Hello Stranger",
+        "artist": "Yvonne Elliman",
+        "last-week": "33",
+        "peak-rank": "24",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "25",
+        "song": "Feels Like The First Time",
+        "artist": "Foreigner",
+        "last-week": "29",
+        "peak-rank": "25",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "26",
+        "song": "Dancin' Man",
+        "artist": "Q",
+        "last-week": "31",
+        "peak-rank": "26",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "27",
+        "song": "Dancing Queen",
+        "artist": "ABBA",
+        "last-week": "18",
+        "peak-rank": "1",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "28",
+        "song": "Ain't Gonna Bump No More (with No Big Fat Woman)",
+        "artist": "Joe Tex",
+        "last-week": "40",
+        "peak-rank": "28",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "29",
+        "song": "Got To Give It Up (Pt. I)",
+        "artist": "Marvin Gaye",
+        "last-week": "36",
+        "peak-rank": "29",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "30",
+        "song": "Heard It In A Love Song",
+        "artist": "The Marshall Tucker Band",
+        "last-week": "34",
+        "peak-rank": "30",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "31",
+        "song": "Sometimes",
+        "artist": "Facts Of Life",
+        "last-week": "32",
+        "peak-rank": "31",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "32",
+        "song": "Whodunit",
+        "artist": "Tavares",
+        "last-week": "37",
+        "peak-rank": "32",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "33",
+        "song": "Uptown Festival (Part 1)",
+        "artist": "Shalamar",
+        "last-week": "35",
+        "peak-rank": "33",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "34",
+        "song": "Carry On Wayward Son",
+        "artist": "Kansas",
+        "last-week": "21",
+        "peak-rank": "11",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "35",
+        "song": "Cherry Baby",
+        "artist": "Starz",
+        "last-week": "41",
+        "peak-rank": "35",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "36",
+        "song": "Dreams",
+        "artist": "Fleetwood Mac",
+        "last-week": "56",
+        "peak-rank": "36",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "37",
+        "song": "Old Fashioned Boy (You're The One)",
+        "artist": "Stallion",
+        "last-week": "39",
+        "peak-rank": "37",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "38",
+        "song": "Cinderella",
+        "artist": "Firefall",
+        "last-week": "44",
+        "peak-rank": "38",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "39",
+        "song": "My Sweet Lady",
+        "artist": "John Denver",
+        "last-week": "45",
+        "peak-rank": "39",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "40",
+        "song": "Maybe I'm Amazed",
+        "artist": "Wings",
+        "last-week": "24",
+        "peak-rank": "10",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "41",
+        "song": "Margaritaville",
+        "artist": "Jimmy Buffett",
+        "last-week": "49",
+        "peak-rank": "41",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "42",
+        "song": "Show You The Way To Go",
+        "artist": "The Jacksons",
+        "last-week": "52",
+        "peak-rank": "42",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "43",
+        "song": "Dancin'",
+        "artist": "Crown Heights Affair",
+        "last-week": "53",
+        "peak-rank": "43",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "44",
+        "song": "Love's Grown Deep",
+        "artist": "Kenny Nolan",
+        "last-week": "55",
+        "peak-rank": "44",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "45",
+        "song": "(Theme from) Charlie's Angels",
+        "artist": "Henry Mancini And His Orchestra",
+        "last-week": "51",
+        "peak-rank": "45",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "46",
+        "song": "I Like Dreamin'",
+        "artist": "Kenny Nolan",
+        "last-week": "38",
+        "peak-rank": "3",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "47",
+        "song": "I Think We're Alone Now",
+        "artist": "The Rubinoos",
+        "last-week": "50",
+        "peak-rank": "47",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "48",
+        "song": "Slow Dancin' Don't Turn Me On",
+        "artist": "Addrisi Brothers",
+        "last-week": "59",
+        "peak-rank": "48",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "49",
+        "song": "You Are On My Mind",
+        "artist": "Chicago",
+        "last-week": "62",
+        "peak-rank": "49",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "50",
+        "song": "Back In The Saddle",
+        "artist": "Aerosmith",
+        "last-week": "60",
+        "peak-rank": "50",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "51",
+        "song": "Slowdown",
+        "artist": "John Miles",
+        "last-week": "61",
+        "peak-rank": "51",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "52",
+        "song": "Sleepwalker",
+        "artist": "The Kinks",
+        "last-week": "54",
+        "peak-rank": "52",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "53",
+        "song": "I Wanna Do It To You",
+        "artist": "Jerry Butler",
+        "last-week": "64",
+        "peak-rank": "53",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "54",
+        "song": "Undercover Angel",
+        "artist": "Alan O'Day",
+        "last-week": "67",
+        "peak-rank": "54",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "55",
+        "song": "You Take My Heart Away",
+        "artist": "James Darren",
+        "last-week": "57",
+        "peak-rank": "55",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "56",
+        "song": "The First Cut Is The Deepest",
+        "artist": "Rod Stewart",
+        "last-week": "22",
+        "peak-rank": "21",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "57",
+        "song": "Disco Lucy (i Love Lucy Theme)",
+        "artist": "Wilton Place Street Band",
+        "last-week": "26",
+        "peak-rank": "24",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "58",
+        "song": "Gonna Fly Now",
+        "artist": "Bill Conti",
+        "last-week": "84",
+        "peak-rank": "58",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "59",
+        "song": "Ariel",
+        "artist": "Dean Friedman",
+        "last-week": "72",
+        "peak-rank": "59",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "60",
+        "song": "High School Dance",
+        "artist": "The Sylvers",
+        "last-week": "73",
+        "peak-rank": "60",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "61",
+        "song": "The Whistler",
+        "artist": "Jethro Tull",
+        "last-week": "63",
+        "peak-rank": "61",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "62",
+        "song": "Sub-rosa Subway/calling Occupants",
+        "artist": "Klaatu",
+        "last-week": "65",
+        "peak-rank": "62",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "63",
+        "song": "Everybody Be Dancin'",
+        "artist": "Starbuck",
+        "last-week": "74",
+        "peak-rank": "63",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "64",
+        "song": "On The Border",
+        "artist": "Al Stewart",
+        "last-week": "75",
+        "peak-rank": "64",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "65",
+        "song": "N.y., You Got Me Dancing",
+        "artist": "Andrea True Connection",
+        "last-week": "27",
+        "peak-rank": "27",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "66",
+        "song": "Hold Back The Night",
+        "artist": "Graham Parker And The Rumour",
+        "last-week": "69",
+        "peak-rank": "66",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "67",
+        "song": "This Girl (Has Turned Into A Woman)",
+        "artist": "Mary Macgregor",
+        "last-week": "78",
+        "peak-rank": "67",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "68",
+        "song": "Mainstreet",
+        "artist": "Bob Seger",
+        "last-week": "79",
+        "peak-rank": "68",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "69",
+        "song": "Hooked On You",
+        "artist": "Bread",
+        "last-week": "71",
+        "peak-rank": "69",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "70",
+        "song": "Gonna Fly Now (Theme From \"Rocky\")",
+        "artist": "Maynard Ferguson",
+        "last-week": "80",
+        "peak-rank": "70",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "71",
+        "song": "Jet Airliner",
+        "artist": "The Steve Miller Band",
+        "last-week": "",
+        "peak-rank": "71",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "72",
+        "song": "Sound And Vision",
+        "artist": "David Bowie",
+        "last-week": "76",
+        "peak-rank": "72",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "73",
+        "song": "Do You Wanna Make Love",
+        "artist": "Peter Mccann",
+        "last-week": "85",
+        "peak-rank": "73",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "74",
+        "song": "Brooklyn",
+        "artist": "Cody Jameson",
+        "last-week": "77",
+        "peak-rank": "74",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "75",
+        "song": "This Is The Way That I Feel",
+        "artist": "Marie Osmond",
+        "last-week": "86",
+        "peak-rank": "75",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "76",
+        "song": "Fly At Night",
+        "artist": "Chilliwack",
+        "last-week": "",
+        "peak-rank": "76",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "77",
+        "song": "Spirit In The Night",
+        "artist": "Manfred Mann's Earth Band",
+        "last-week": "",
+        "peak-rank": "77",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "78",
+        "song": "I Just Want To Be Your Everything",
+        "artist": "Andy Gibb",
+        "last-week": "88",
+        "peak-rank": "78",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "79",
+        "song": "That Magic Touch",
+        "artist": "Angel",
+        "last-week": "83",
+        "peak-rank": "79",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "80",
+        "song": "You And Me",
+        "artist": "Alice Cooper",
+        "last-week": "",
+        "peak-rank": "80",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "81",
+        "song": "At Midnight (My Love Will Lift You Up)",
+        "artist": "Rufus Featuring Chaka Khan",
+        "last-week": "47",
+        "peak-rank": "30",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "82",
+        "song": "You're Throwing A Good Love Away",
+        "artist": "The Spinners",
+        "last-week": "43",
+        "peak-rank": "43",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "83",
+        "song": "You're My World",
+        "artist": "Helen Reddy",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "84",
+        "song": "It Feels So Good To Be Loved So Bad",
+        "artist": "The Manhattans",
+        "last-week": "87",
+        "peak-rank": "84",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "85",
+        "song": "Do What You Wanna Do",
+        "artist": "T-Connection",
+        "last-week": "96",
+        "peak-rank": "52",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "86",
+        "song": "Whatcha Gonna Do?",
+        "artist": "Pablo Cruise",
+        "last-week": "89",
+        "peak-rank": "86",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "87",
+        "song": "Sad Girl",
+        "artist": "Carl Graves",
+        "last-week": "90",
+        "peak-rank": "87",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "88",
+        "song": "You're Movin' Out Today",
+        "artist": "Bette Midler",
+        "last-week": "92",
+        "peak-rank": "88",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "89",
+        "song": "My Best Friend's Wife",
+        "artist": "Paul Anka",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "90",
+        "song": "Solsbury Hill",
+        "artist": "Peter Gabriel",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "91",
+        "song": "Arrested For Driving While Blind",
+        "artist": "ZZ Top",
+        "last-week": "91",
+        "peak-rank": "91",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "92",
+        "song": "Disco Inferno",
+        "artist": "The Trammps",
+        "last-week": "70",
+        "peak-rank": "53",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "93",
+        "song": "Night Moves",
+        "artist": "Bob Seger & The Silver Bullet Band",
+        "last-week": "81",
+        "peak-rank": "4",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "94",
+        "song": "I Gotta Keep Dancin'",
+        "artist": "Carrie",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "95",
+        "song": "Down To The Station",
+        "artist": "B.W. Stevenson",
+        "last-week": "82",
+        "peak-rank": "82",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "96",
+        "song": "I Caught Your Act",
+        "artist": "The Hues Corporation",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "97",
+        "song": "There Will Come A Day (I'm Gonna Happen To You)",
+        "artist": "Smokey Robinson",
+        "last-week": "42",
+        "peak-rank": "42",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "98",
+        "song": "Theme From \"Rocky\" (Gonna Fly Now)",
+        "artist": "Current",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "99",
+        "song": "Fly Like An Eagle",
+        "artist": "Steve Miller",
+        "last-week": "48",
+        "peak-rank": "2",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1977-04-30",
+        "rank": "100",
+        "song": "Spring Rain",
+        "artist": "Silvetti",
+        "last-week": "46",
+        "peak-rank": "39",
+        "weeks-on-board": "15"
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1968-11-30",
+        "rank": "1",
+        "song": "Love Child",
+        "artist": "Diana Ross & The Supremes",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "2",
+        "song": "Hey Jude",
+        "artist": "The Beatles",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "3",
+        "song": "Magic Carpet Ride",
+        "artist": "Steppenwolf",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "4",
+        "song": "Those Were The Days",
+        "artist": "Mary Hopkin",
+        "last-week": "3",
+        "peak-rank": "2",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "5",
+        "song": "Abraham, Martin And John",
+        "artist": "Dion",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "6",
+        "song": "Who's Making Love",
+        "artist": "Johnnie Taylor",
+        "last-week": "8",
+        "peak-rank": "6",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "7",
+        "song": "For Once In My Life",
+        "artist": "Stevie Wonder",
+        "last-week": "14",
+        "peak-rank": "7",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "8",
+        "song": "Wichita Lineman",
+        "artist": "Glen Campbell",
+        "last-week": "10",
+        "peak-rank": "8",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "9",
+        "song": "Hold Me Tight",
+        "artist": "Johnny Nash",
+        "last-week": "7",
+        "peak-rank": "5",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "10",
+        "song": "White Room",
+        "artist": "Cream",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "11",
+        "song": "Stormy",
+        "artist": "Classics IV Featuring Dennis Yost",
+        "last-week": "11",
+        "peak-rank": "11",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "12",
+        "song": "I Love How You Love Me",
+        "artist": "Bobby Vinton",
+        "last-week": "17",
+        "peak-rank": "12",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "13",
+        "song": "Both Sides Now",
+        "artist": "Judy Collins",
+        "last-week": "19",
+        "peak-rank": "13",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "14",
+        "song": "Elenore",
+        "artist": "The Turtles",
+        "last-week": "12",
+        "peak-rank": "6",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "15",
+        "song": "Chewy Chewy",
+        "artist": "Ohio Express",
+        "last-week": "16",
+        "peak-rank": "15",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "16",
+        "song": "I Heard It Through The Grapevine",
+        "artist": "Marvin Gaye",
+        "last-week": "34",
+        "peak-rank": "16",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "17",
+        "song": "Little Green Apples",
+        "artist": "O.C. Smith",
+        "last-week": "9",
+        "peak-rank": "2",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "18",
+        "song": "Midnight Confessions",
+        "artist": "The Grass Roots",
+        "last-week": "15",
+        "peak-rank": "5",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "19",
+        "song": "Little Arrows",
+        "artist": "Leapy Lee",
+        "last-week": "22",
+        "peak-rank": "19",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "20",
+        "song": "Promises, Promises",
+        "artist": "Dionne Warwick",
+        "last-week": "21",
+        "peak-rank": "20",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "21",
+        "song": "Bring It On Home To Me",
+        "artist": "Eddie Floyd",
+        "last-week": "27",
+        "peak-rank": "21",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "22",
+        "song": "See Saw",
+        "artist": "Aretha Franklin",
+        "last-week": "35",
+        "peak-rank": "22",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "23",
+        "song": "Cycles",
+        "artist": "Frank Sinatra",
+        "last-week": "23",
+        "peak-rank": "23",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "24",
+        "song": "Bang-Shang-A-Lang",
+        "artist": "The Archies",
+        "last-week": "24",
+        "peak-rank": "24",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "25",
+        "song": "Hi-Heel Sneakers",
+        "artist": "Jose Feliciano",
+        "last-week": "25",
+        "peak-rank": "25",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "26",
+        "song": "Cloud Nine",
+        "artist": "The Temptations",
+        "last-week": "39",
+        "peak-rank": "26",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "27",
+        "song": "Over You",
+        "artist": "Gary Puckett And The Union Gap",
+        "last-week": "13",
+        "peak-rank": "7",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "28",
+        "song": "Quick Joey Small (Run Joey Run)",
+        "artist": "Kasenetz-Katz Singing Orchestral Circus",
+        "last-week": "28",
+        "peak-rank": "28",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "29",
+        "song": "Always Together",
+        "artist": "The Dells",
+        "last-week": "18",
+        "peak-rank": "18",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "30",
+        "song": "Shame, Shame",
+        "artist": "Magic Lanterns",
+        "last-week": "46",
+        "peak-rank": "30",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "31",
+        "song": "Les Bicyclettes De Belsize",
+        "artist": "Engelbert Humperdinck",
+        "last-week": "32",
+        "peak-rank": "31",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "32",
+        "song": "Fire",
+        "artist": "The Crazy World Of Arthur Brown",
+        "last-week": "20",
+        "peak-rank": "2",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "33",
+        "song": "Sweet Blindness",
+        "artist": "The 5th Dimension",
+        "last-week": "26",
+        "peak-rank": "13",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "34",
+        "song": "Cinnamon",
+        "artist": "Derek",
+        "last-week": "37",
+        "peak-rank": "34",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "35",
+        "song": "Battle Hymn Of The Republic",
+        "artist": "Andy Williams with the St. Charles Borromeo Choir",
+        "last-week": "48",
+        "peak-rank": "35",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "36",
+        "song": "The Straight Life",
+        "artist": "Bobby Goldsboro",
+        "last-week": "41",
+        "peak-rank": "36",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "37",
+        "song": "Pickin' Wild Mountain Berries",
+        "artist": "Peggy Scott & Jo Jo Benson",
+        "last-week": "42",
+        "peak-rank": "37",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "38",
+        "song": "Do Something To Me",
+        "artist": "Tommy James And The Shondells",
+        "last-week": "38",
+        "peak-rank": "38",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "39",
+        "song": "Too Weak To Fight",
+        "artist": "Clarence Carter",
+        "last-week": "47",
+        "peak-rank": "39",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "40",
+        "song": "1432 Franklin Pike Circle Hero",
+        "artist": "Bobby Russell",
+        "last-week": "36",
+        "peak-rank": "36",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "41",
+        "song": "Scarborough Fair",
+        "artist": "Sergio Mendes & Brasil '66",
+        "last-week": "50",
+        "peak-rank": "41",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "42",
+        "song": "Till",
+        "artist": "The Vogues",
+        "last-week": "53",
+        "peak-rank": "42",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "43",
+        "song": "Not Enough Indians",
+        "artist": "Dean Martin",
+        "last-week": "52",
+        "peak-rank": "43",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "44",
+        "song": "Kentucky Woman",
+        "artist": "Deep Purple",
+        "last-week": "44",
+        "peak-rank": "44",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "45",
+        "song": "Goody Goody Gumdrops",
+        "artist": "1910 Fruitgum Co.",
+        "last-week": "45",
+        "peak-rank": "45",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "46",
+        "song": "Shake",
+        "artist": "Shadows Of Knight",
+        "last-week": "58",
+        "peak-rank": "46",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "47",
+        "song": "Put Your Head On My Shoulder",
+        "artist": "The Lettermen",
+        "last-week": "56",
+        "peak-rank": "47",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "48",
+        "song": "Peace Brother Peace",
+        "artist": "Bill Medley",
+        "last-week": "51",
+        "peak-rank": "48",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "49",
+        "song": "Goodbye My Love",
+        "artist": "James Brown",
+        "last-week": "55",
+        "peak-rank": "49",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "50",
+        "song": "The Star-Spangled Banner",
+        "artist": "Jose Feliciano",
+        "last-week": "54",
+        "peak-rank": "50",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "51",
+        "song": "Hang 'Em High",
+        "artist": "Booker T. & The MG's",
+        "last-week": "66",
+        "peak-rank": "51",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "52",
+        "song": "Fire",
+        "artist": "Five By Five",
+        "last-week": "60",
+        "peak-rank": "52",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "53",
+        "song": "I Can't Turn You Loose",
+        "artist": "The Chambers Brothers",
+        "last-week": "61",
+        "peak-rank": "53",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "54",
+        "song": "People",
+        "artist": "The Tymes",
+        "last-week": "62",
+        "peak-rank": "54",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "55",
+        "song": "Slow Drag",
+        "artist": "The Intruders",
+        "last-week": "72",
+        "peak-rank": "55",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "56",
+        "song": "Ballad Of Two Brothers",
+        "artist": "Autry Inman",
+        "last-week": "92",
+        "peak-rank": "56",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "57",
+        "song": "Papa's Got A Brand New Bag",
+        "artist": "Otis Redding",
+        "last-week": "",
+        "peak-rank": "57",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "58",
+        "song": "Hooked On A Feeling",
+        "artist": "B.J. Thomas",
+        "last-week": "69",
+        "peak-rank": "58",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "59",
+        "song": "From The Teacher To The Preacher",
+        "artist": "Gene Chandler & Barbara Acklin",
+        "last-week": "59",
+        "peak-rank": "57",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "60",
+        "song": "Talking About My Baby",
+        "artist": "Gloria Walker",
+        "last-week": "65",
+        "peak-rank": "60",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "61",
+        "song": "Lo Mucho Que Te Quiero (The More I Love You)",
+        "artist": "Rene & Rene",
+        "last-week": "100",
+        "peak-rank": "61",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "62",
+        "song": "Son-Of-A Preacher Man",
+        "artist": "Dusty Springfield",
+        "last-week": "",
+        "peak-rank": "62",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "63",
+        "song": "Right Relations",
+        "artist": "Johnny Rivers",
+        "last-week": "63",
+        "peak-rank": "63",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "64",
+        "song": "The Yard Went On Forever",
+        "artist": "Richard Harris",
+        "last-week": "64",
+        "peak-rank": "64",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "65",
+        "song": "Soulful Strut",
+        "artist": "Young-Holt Unlimited",
+        "last-week": "",
+        "peak-rank": "65",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "66",
+        "song": "I Walk Alone",
+        "artist": "Marty Robbins",
+        "last-week": "70",
+        "peak-rank": "66",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "67",
+        "song": "California Earthquake",
+        "artist": "Mama Cass",
+        "last-week": "67",
+        "peak-rank": "67",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "68",
+        "song": "Sunday Sun",
+        "artist": "Neil Diamond",
+        "last-week": "68",
+        "peak-rank": "68",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "69",
+        "song": "Rockin' In The Same Old Boat",
+        "artist": "Bobby Bland",
+        "last-week": "77",
+        "peak-rank": "69",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "70",
+        "song": "Crown Of Creation",
+        "artist": "Jefferson Airplane",
+        "last-week": "71",
+        "peak-rank": "70",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "71",
+        "song": "Stand By Your Man",
+        "artist": "Tammy Wynette",
+        "last-week": "73",
+        "peak-rank": "71",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "72",
+        "song": "I Put A Spell On You",
+        "artist": "Creedence Clearwater Revival",
+        "last-week": "96",
+        "peak-rank": "72",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "73",
+        "song": "Crosstown Traffic",
+        "artist": "The Jimi Hendrix Experience",
+        "last-week": "",
+        "peak-rank": "73",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "74",
+        "song": "Mornin' Glory",
+        "artist": "Bobbie Gentry & Glen Campbell",
+        "last-week": "74",
+        "peak-rank": "74",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "75",
+        "song": "A Man And A Half",
+        "artist": "Wilson Pickett",
+        "last-week": "76",
+        "peak-rank": "75",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "76",
+        "song": "American Boys",
+        "artist": "Petula Clark",
+        "last-week": "79",
+        "peak-rank": "76",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "77",
+        "song": "My Song",
+        "artist": "Aretha Franklin",
+        "last-week": "",
+        "peak-rank": "77",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "78",
+        "song": "Don't Cry My Love",
+        "artist": "The Impressions",
+        "last-week": "99",
+        "peak-rank": "78",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "79",
+        "song": "Let's Make A Promise",
+        "artist": "Peaches & Herb",
+        "last-week": "75",
+        "peak-rank": "75",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "80",
+        "song": "With A Little Help From My Friends",
+        "artist": "Joe Cocker",
+        "last-week": "85",
+        "peak-rank": "80",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "81",
+        "song": "Love Machine",
+        "artist": "The O'Kaysions",
+        "last-week": "81",
+        "peak-rank": "81",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "82",
+        "song": "Chitty Chitty Bang Bang",
+        "artist": "Paul Mauriat",
+        "last-week": "82",
+        "peak-rank": "82",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "83",
+        "song": "The Ol' Race Track",
+        "artist": "The Mills Brothers",
+        "last-week": "83",
+        "peak-rank": "83",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "84",
+        "song": "Coo Coo",
+        "artist": "Big Brother And The Holding Company",
+        "last-week": "84",
+        "peak-rank": "84",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "85",
+        "song": "Sweet Darlin'",
+        "artist": "Martha Reeves & The Vandellas",
+        "last-week": "80",
+        "peak-rank": "80",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "86",
+        "song": "Come On, React!",
+        "artist": "The Fireballs",
+        "last-week": "86",
+        "peak-rank": "86",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "87",
+        "song": "Just Ain't No Love",
+        "artist": "Barbara Acklin",
+        "last-week": "89",
+        "peak-rank": "87",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "88",
+        "song": "Do You Wanna Dance",
+        "artist": "The Mamas & The Papas",
+        "last-week": "88",
+        "peak-rank": "88",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "89",
+        "song": "Keep On Dancing",
+        "artist": "Alvin Cash",
+        "last-week": "90",
+        "peak-rank": "89",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "90",
+        "song": "Baby Let's Wait",
+        "artist": "The Royal Guardsmen",
+        "last-week": "91",
+        "peak-rank": "90",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "91",
+        "song": "Good Time Girl",
+        "artist": "Nancy Sinatra",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "92",
+        "song": "Don't Make The Good Girls Go Bad",
+        "artist": "Della Humphrey",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "93",
+        "song": "Everyday People",
+        "artist": "Sly & The Family Stone",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "94",
+        "song": "I've Got Love For My Baby",
+        "artist": "Young Hearts",
+        "last-week": "95",
+        "peak-rank": "94",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "95",
+        "song": "Living In The U.s.a.",
+        "artist": "The Steve Miller Band",
+        "last-week": "94",
+        "peak-rank": "94",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "96",
+        "song": "Born To Be With You",
+        "artist": "Sonny James",
+        "last-week": "97",
+        "peak-rank": "96",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "97",
+        "song": "White Houses",
+        "artist": "Eric Burdon & The Animals",
+        "last-week": "98",
+        "peak-rank": "97",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "98",
+        "song": "This Is My Country",
+        "artist": "The Impressions",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "99",
+        "song": "Bella Linda",
+        "artist": "The Grass Roots",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-11-30",
+        "rank": "100",
+        "song": "If I Can Dream",
+        "artist": "Elvis Presley",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

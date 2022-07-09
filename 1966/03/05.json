@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1966-03-05",
+        "rank": "1",
+        "song": "The Ballad Of The Green Berets",
+        "artist": "SSgt Barry Sadler",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "2",
+        "song": "These Boots Are Made For Walkin'",
+        "artist": "Nancy Sinatra",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "3",
+        "song": "Lightnin' Strikes",
+        "artist": "Lou Christie",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "4",
+        "song": "Listen People",
+        "artist": "Herman's Hermits",
+        "last-week": "13",
+        "peak-rank": "4",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "5",
+        "song": "California Dreamin'",
+        "artist": "The Mamas & The Papas",
+        "last-week": "8",
+        "peak-rank": "5",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "6",
+        "song": "Elusive Butterfly",
+        "artist": "Bob Lind",
+        "last-week": "9",
+        "peak-rank": "6",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "7",
+        "song": "My Love",
+        "artist": "Petula Clark",
+        "last-week": "6",
+        "peak-rank": "1",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "8",
+        "song": "Uptight (Everything's Alright)",
+        "artist": "Stevie Wonder",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "9",
+        "song": "Working My Way Back To You",
+        "artist": "The 4 Seasons Featuring the \"Sound of Frankie Valli\"",
+        "last-week": "10",
+        "peak-rank": "9",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "10",
+        "song": "My World Is Empty Without You",
+        "artist": "The Supremes",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "11",
+        "song": "I Fought The Law",
+        "artist": "Bobby Fuller Four",
+        "last-week": "14",
+        "peak-rank": "11",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "12",
+        "song": "19th Nervous Breakdown",
+        "artist": "The Rolling Stones",
+        "last-week": "46",
+        "peak-rank": "12",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "13",
+        "song": "Don't Mess With Bill",
+        "artist": "The Marvelettes",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "14",
+        "song": "What Now My Love",
+        "artist": "Sonny & Cher",
+        "last-week": "16",
+        "peak-rank": "14",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "15",
+        "song": "Crying Time",
+        "artist": "Ray Charles",
+        "last-week": "12",
+        "peak-rank": "6",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "16",
+        "song": "Homeward Bound",
+        "artist": "Simon & Garfunkel",
+        "last-week": "31",
+        "peak-rank": "16",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "17",
+        "song": "The Cheater",
+        "artist": "Bob Kuban And The In-Men",
+        "last-week": "20",
+        "peak-rank": "17",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "18",
+        "song": "When Liking Turns To Loving",
+        "artist": "Ronnie Dove",
+        "last-week": "18",
+        "peak-rank": "18",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "19",
+        "song": "At The Scene",
+        "artist": "The Dave Clark Five",
+        "last-week": "21",
+        "peak-rank": "19",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "20",
+        "song": "Batman Theme",
+        "artist": "The Marketts",
+        "last-week": "25",
+        "peak-rank": "20",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "21",
+        "song": "Zorba The Greek",
+        "artist": "Herb Alpert & The Tijuana Brass",
+        "last-week": "11",
+        "peak-rank": "11",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "22",
+        "song": "Call Me",
+        "artist": "Chris Montez",
+        "last-week": "22",
+        "peak-rank": "22",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "23",
+        "song": "You Baby",
+        "artist": "The Turtles",
+        "last-week": "28",
+        "peak-rank": "23",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "24",
+        "song": "Barbara Ann",
+        "artist": "The Beach Boys",
+        "last-week": "15",
+        "peak-rank": "2",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "25",
+        "song": "Nowhere Man",
+        "artist": "The Beatles",
+        "last-week": "",
+        "peak-rank": "25",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "26",
+        "song": "I See The Light",
+        "artist": "The Five Americans",
+        "last-week": "27",
+        "peak-rank": "26",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "27",
+        "song": "Love Makes The World Go Round",
+        "artist": "Deon Jackson",
+        "last-week": "36",
+        "peak-rank": "27",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "28",
+        "song": "Baby Scratch My Back",
+        "artist": "Slim Harpo",
+        "last-week": "41",
+        "peak-rank": "28",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "29",
+        "song": "My Baby Loves Me",
+        "artist": "Martha & The Vandellas",
+        "last-week": "30",
+        "peak-rank": "29",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "30",
+        "song": "Going To A Go-Go",
+        "artist": "The Miracles",
+        "last-week": "23",
+        "peak-rank": "11",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "31",
+        "song": "Breakin' Up Is Breakin' My Heart",
+        "artist": "Roy Orbison",
+        "last-week": "33",
+        "peak-rank": "31",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "32",
+        "song": "634-5789 (Soulsville, U.S.A.)",
+        "artist": "Wilson Pickett",
+        "last-week": "42",
+        "peak-rank": "32",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "33",
+        "song": "Long Live Our Love",
+        "artist": "The Shangri-Las",
+        "last-week": "37",
+        "peak-rank": "33",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "34",
+        "song": "Just Like Me",
+        "artist": "Paul Revere & The Raiders Featuring Mark Lindsay",
+        "last-week": "26",
+        "peak-rank": "11",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "35",
+        "song": "No Matter What Shape (Your Stomach's In)",
+        "artist": "The T-Bones",
+        "last-week": "19",
+        "peak-rank": "3",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "36",
+        "song": "Somewhere There's A Someone",
+        "artist": "Dean Martin",
+        "last-week": "47",
+        "peak-rank": "36",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "37",
+        "song": "Batman Theme",
+        "artist": "Neal Hefti",
+        "last-week": "48",
+        "peak-rank": "37",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "38",
+        "song": "A Well Respected Man",
+        "artist": "The Kinks",
+        "last-week": "17",
+        "peak-rank": "13",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "39",
+        "song": "The Rains Came",
+        "artist": "Sir Douglas Quintet",
+        "last-week": "49",
+        "peak-rank": "39",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "40",
+        "song": "Husbands And Wives",
+        "artist": "Roger Miller",
+        "last-week": "50",
+        "peak-rank": "40",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "41",
+        "song": "Andrea",
+        "artist": "The Sunrays",
+        "last-week": "43",
+        "peak-rank": "41",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "42",
+        "song": "Michelle",
+        "artist": "David & Jonathan",
+        "last-week": "29",
+        "peak-rank": "18",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "43",
+        "song": "Woman",
+        "artist": "Peter And Gordon",
+        "last-week": "55",
+        "peak-rank": "43",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "44",
+        "song": "It's Too Late",
+        "artist": "Bobby Goldsboro",
+        "last-week": "56",
+        "peak-rank": "44",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "45",
+        "song": "Night Time",
+        "artist": "The Strangeloves",
+        "last-week": "32",
+        "peak-rank": "30",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "46",
+        "song": "I'm So Lonesome I Could Cry",
+        "artist": "B.J. Thomas And The Triumphs",
+        "last-week": "72",
+        "peak-rank": "46",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "47",
+        "song": "The Dedication Song",
+        "artist": "Freddy Cannon",
+        "last-week": "52",
+        "peak-rank": "47",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "48",
+        "song": "We Can Work It Out",
+        "artist": "The Beatles",
+        "last-week": "24",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "49",
+        "song": "I Want To Go With You",
+        "artist": "Eddy Arnold",
+        "last-week": "59",
+        "peak-rank": "49",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "50",
+        "song": "Love Is All We Need",
+        "artist": "Mel Carter",
+        "last-week": "51",
+        "peak-rank": "50",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "51",
+        "song": "One More Heartache",
+        "artist": "Marvin Gaye",
+        "last-week": "69",
+        "peak-rank": "51",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "52",
+        "song": "Up And Down",
+        "artist": "The McCoys",
+        "last-week": "62",
+        "peak-rank": "52",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "53",
+        "song": "Daydream",
+        "artist": "The Lovin' Spoonful",
+        "last-week": "76",
+        "peak-rank": "53",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "54",
+        "song": "Get Out Of My Life, Woman",
+        "artist": "Lee Dorsey",
+        "last-week": "44",
+        "peak-rank": "44",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "55",
+        "song": "Shake Me, Wake Me (When It's Over)",
+        "artist": "Four Tops",
+        "last-week": "67",
+        "peak-rank": "55",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "56",
+        "song": "Magic Town",
+        "artist": "The Vogues",
+        "last-week": "71",
+        "peak-rank": "56",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "57",
+        "song": "Waitin' In Your Welfare Line",
+        "artist": "Buck Owens",
+        "last-week": "57",
+        "peak-rank": "57",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "58",
+        "song": "Hide & Seek",
+        "artist": "The Sheep",
+        "last-week": "61",
+        "peak-rank": "58",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "59",
+        "song": "This Can't Be True",
+        "artist": "Eddie Holman",
+        "last-week": "60",
+        "peak-rank": "59",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "60",
+        "song": "Bye Bye Blues",
+        "artist": "Bert Kaempfert And His Orchestra",
+        "last-week": "54",
+        "peak-rank": "54",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "61",
+        "song": "A Little Bit Of Soap",
+        "artist": "The Exciters",
+        "last-week": "58",
+        "peak-rank": "58",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "62",
+        "song": "In My Room (El Amor)",
+        "artist": "Verdelle Smith",
+        "last-week": "66",
+        "peak-rank": "62",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "63",
+        "song": "It Won't Be Wrong",
+        "artist": "The Byrds",
+        "last-week": "63",
+        "peak-rank": "63",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "64",
+        "song": "This Old Heart Of Mine (Is Weak For You)",
+        "artist": "The Isley Brothers",
+        "last-week": "81",
+        "peak-rank": "64",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "65",
+        "song": "Dear Lover",
+        "artist": "Mary Wells",
+        "last-week": "74",
+        "peak-rank": "65",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "66",
+        "song": "Batman",
+        "artist": "Jan & Dean",
+        "last-week": "70",
+        "peak-rank": "66",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "67",
+        "song": "Get Ready",
+        "artist": "The Temptations",
+        "last-week": "84",
+        "peak-rank": "67",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "68",
+        "song": "Tears",
+        "artist": "Bobby Vinton",
+        "last-week": "75",
+        "peak-rank": "68",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "69",
+        "song": "Walkin' My Cat Named Dog",
+        "artist": "Norma Tanega",
+        "last-week": "87",
+        "peak-rank": "69",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "70",
+        "song": "Stop Her On Sight (S.O.S.)",
+        "artist": "Edwin Starr",
+        "last-week": "78",
+        "peak-rank": "70",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "71",
+        "song": "Georgia On My Mind",
+        "artist": "The Righteous Brothers",
+        "last-week": "64",
+        "peak-rank": "62",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "72",
+        "song": "Inside-Looking Out",
+        "artist": "The Animals",
+        "last-week": "96",
+        "peak-rank": "72",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "73",
+        "song": "The One On The Right Is On The Left",
+        "artist": "Johnny Cash",
+        "last-week": "83",
+        "peak-rank": "73",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "74",
+        "song": "Why Can't You Bring Me Home",
+        "artist": "Jay & The Americans",
+        "last-week": "80",
+        "peak-rank": "74",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "75",
+        "song": "Whenever She Holds You",
+        "artist": "Patty Duke",
+        "last-week": "86",
+        "peak-rank": "75",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "76",
+        "song": "Take Me For What I'm Worth",
+        "artist": "The Searchers",
+        "last-week": "77",
+        "peak-rank": "76",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "77",
+        "song": "Smokey Joe's La La",
+        "artist": "Googie Rene Combo",
+        "last-week": "85",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "78",
+        "song": "Ain't That A Groove (Part 1)",
+        "artist": "James Brown And The Famous Flames",
+        "last-week": "",
+        "peak-rank": "78",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "79",
+        "song": "Satisfaction",
+        "artist": "Otis Redding",
+        "last-week": "",
+        "peak-rank": "79",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "80",
+        "song": "I Confess",
+        "artist": "New Colony Six",
+        "last-week": "88",
+        "peak-rank": "80",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "81",
+        "song": "Time Won't Let Me",
+        "artist": "The Outsiders",
+        "last-week": "97",
+        "peak-rank": "81",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "82",
+        "song": "This Golden Ring",
+        "artist": "The Fortunes",
+        "last-week": "92",
+        "peak-rank": "82",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "83",
+        "song": "Keep On Running",
+        "artist": "The Spencer Davis Group",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "84",
+        "song": "Promise Her Anything",
+        "artist": "Tom Jones",
+        "last-week": "93",
+        "peak-rank": "84",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "85",
+        "song": "Red Hot",
+        "artist": "Sam The Sham and the Pharaohs",
+        "last-week": "82",
+        "peak-rank": "82",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "86",
+        "song": "Secret Agent Man",
+        "artist": "The Ventures",
+        "last-week": "90",
+        "peak-rank": "86",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "87",
+        "song": "Sure Gonna Miss Her",
+        "artist": "Gary Lewis And The Playboys",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "88",
+        "song": "Little Latin Lupe Lu",
+        "artist": "Mitch Ryder And The Detroit Wheels",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "89",
+        "song": "Time",
+        "artist": "Pozo Seco Singers",
+        "last-week": "91",
+        "peak-rank": "89",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "90",
+        "song": "(You're My) Soul And Inspiration",
+        "artist": "The Righteous Brothers",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "91",
+        "song": "Wait A Minute",
+        "artist": "Tim Tam And The Turn-Ons",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "92",
+        "song": "Put Yourself In My Place",
+        "artist": "The Elgins",
+        "last-week": "98",
+        "peak-rank": "92",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "93",
+        "song": "I Want Someone",
+        "artist": "The Mad Lads",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "94",
+        "song": "Lullaby Of Love",
+        "artist": "The Poppies",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "95",
+        "song": "Superman",
+        "artist": "Dino, Desi & Billy",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "96",
+        "song": "Moulty",
+        "artist": "The Barbarians",
+        "last-week": "100",
+        "peak-rank": "96",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "97",
+        "song": "Outside The Gates Of Heaven",
+        "artist": "Lou Christie",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "98",
+        "song": "The Love You Save (May Be Your Own)",
+        "artist": "Joe Tex",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "99",
+        "song": "Shake Hands (And Come Out Crying)",
+        "artist": "The Newbeats",
+        "last-week": "99",
+        "peak-rank": "99",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-03-05",
+        "rank": "100",
+        "song": "Philly Dog",
+        "artist": "The Mar-Keys",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

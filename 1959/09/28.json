@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1959-09-28",
+        "rank": "1",
+        "song": "Sleep Walk",
+        "artist": "Santo & Johnny",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "2",
+        "song": "Mack The Knife",
+        "artist": "Bobby Darin",
+        "last-week": "7",
+        "peak-rank": "2",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "3",
+        "song": "The Three Bells",
+        "artist": "The Browns",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "4",
+        "song": "('til) I Kissed You",
+        "artist": "The Everly Brothers",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "5",
+        "song": "I'm Gonna Get Married",
+        "artist": "Lloyd Price",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "6",
+        "song": "Sea Of Love",
+        "artist": "Phil Phillips With The Twilights",
+        "last-week": "5",
+        "peak-rank": "2",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "7",
+        "song": "Put Your Head On My Shoulder",
+        "artist": "Paul Anka",
+        "last-week": "10",
+        "peak-rank": "7",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "8",
+        "song": "Red River Rock",
+        "artist": "Johnny And The Hurricanes",
+        "last-week": "6",
+        "peak-rank": "5",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "9",
+        "song": "Teen Beat",
+        "artist": "Sandy Nelson",
+        "last-week": "15",
+        "peak-rank": "9",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "10",
+        "song": "Broken-Hearted Melody",
+        "artist": "Sarah Vaughan",
+        "last-week": "8",
+        "peak-rank": "7",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "11",
+        "song": "Poison Ivy",
+        "artist": "The Coasters",
+        "last-week": "12",
+        "peak-rank": "11",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "12",
+        "song": "Mr. Blue",
+        "artist": "The Fleetwoods",
+        "last-week": "16",
+        "peak-rank": "12",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "13",
+        "song": "Just Ask Your Heart",
+        "artist": "Frankie Avalon",
+        "last-week": "14",
+        "peak-rank": "13",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "14",
+        "song": "I Want To Walk You Home",
+        "artist": "Fats Domino",
+        "last-week": "9",
+        "peak-rank": "8",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "15",
+        "song": "Primrose Lane",
+        "artist": "Jerry Wallace With The Jewels",
+        "last-week": "17",
+        "peak-rank": "15",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "16",
+        "song": "Morgen",
+        "artist": "Ivo Robic and The Song-Masters",
+        "last-week": "13",
+        "peak-rank": "13",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "17",
+        "song": "The Battle Of Kookamonga",
+        "artist": "Homer And Jethro",
+        "last-week": "19",
+        "peak-rank": "17",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "18",
+        "song": "Baby Talk",
+        "artist": "Jan & Dean",
+        "last-week": "18",
+        "peak-rank": "10",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "19",
+        "song": "Lonely Street",
+        "artist": "Andy Williams",
+        "last-week": "41",
+        "peak-rank": "19",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "20",
+        "song": "Makin' Love",
+        "artist": "Floyd Robinson",
+        "last-week": "23",
+        "peak-rank": "20",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "21",
+        "song": "I Loves You, Porgy",
+        "artist": "Nina Simone",
+        "last-week": "25",
+        "peak-rank": "21",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "22",
+        "song": "Kissin' Time",
+        "artist": "Bobby Rydell",
+        "last-week": "11",
+        "peak-rank": "11",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "23",
+        "song": "Battle Hymn Of The Republic",
+        "artist": "The Mormon Tabernacle Choir",
+        "last-week": "29",
+        "peak-rank": "23",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "24",
+        "song": "Hey Little Girl",
+        "artist": "Dee Clark",
+        "last-week": "20",
+        "peak-rank": "20",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "25",
+        "song": "Lavender-Blue",
+        "artist": "Sammy Turner",
+        "last-week": "22",
+        "peak-rank": "3",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "26",
+        "song": "Mary Lou",
+        "artist": "Ronnie Hawkins and The Hawks",
+        "last-week": "28",
+        "peak-rank": "26",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "27",
+        "song": "Caribbean",
+        "artist": "Mitchell Torok",
+        "last-week": "31",
+        "peak-rank": "27",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "28",
+        "song": "The Three Bells (The Jimmy Brown Story)",
+        "artist": "Dick Flood",
+        "last-week": "24",
+        "peak-rank": "23",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "29",
+        "song": "I Ain't Never",
+        "artist": "Webb Pierce",
+        "last-week": "26",
+        "peak-rank": "24",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "30",
+        "song": "Fools Hall Of Fame",
+        "artist": "Pat Boone",
+        "last-week": "48",
+        "peak-rank": "30",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "31",
+        "song": "A Worried Man",
+        "artist": "The Kingston Trio",
+        "last-week": "40",
+        "peak-rank": "31",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "32",
+        "song": "I'm Gonna Be A Wheel Some Day",
+        "artist": "Fats Domino",
+        "last-week": "36",
+        "peak-rank": "17",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "33",
+        "song": "You Were Mine",
+        "artist": "Fireflies",
+        "last-week": "57",
+        "peak-rank": "33",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "34",
+        "song": "You're Gonna Miss Me",
+        "artist": "Connie Francis",
+        "last-week": "37",
+        "peak-rank": "34",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "35",
+        "song": "The Angels Listened In",
+        "artist": "The Crests",
+        "last-week": "35",
+        "peak-rank": "35",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "36",
+        "song": "Thank You Pretty Baby",
+        "artist": "Brook Benton",
+        "last-week": "27",
+        "peak-rank": "16",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "37",
+        "song": "Come On And Get Me",
+        "artist": "Fabian",
+        "last-week": "50",
+        "peak-rank": "37",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "38",
+        "song": "There Goes My Baby",
+        "artist": "The Drifters",
+        "last-week": "34",
+        "peak-rank": "2",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "39",
+        "song": "What'd I Say (Part I & II)",
+        "artist": "Ray Charles and his Orchestra",
+        "last-week": "21",
+        "peak-rank": "6",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "40",
+        "song": "Deck Of Cards",
+        "artist": "Wink Martindale",
+        "last-week": "58",
+        "peak-rank": "40",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "41",
+        "song": "My Own True Love",
+        "artist": "Jimmy Clanton",
+        "last-week": "33",
+        "peak-rank": "33",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "42",
+        "song": "Say Man",
+        "artist": "Bo Diddley",
+        "last-week": "71",
+        "peak-rank": "42",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "43",
+        "song": "Okefenokee",
+        "artist": "Freddie Cannon",
+        "last-week": "46",
+        "peak-rank": "43",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "44",
+        "song": "It Was I",
+        "artist": "Skip And Flip",
+        "last-week": "30",
+        "peak-rank": "11",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "45",
+        "song": "I'm A Hog For You",
+        "artist": "The Coasters",
+        "last-week": "38",
+        "peak-rank": "38",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "46",
+        "song": "(Seven Little Girls) Sitting In The Back Seat",
+        "artist": "Paul Evans and the Curls",
+        "last-week": "75",
+        "peak-rank": "46",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "47",
+        "song": "What A Diff'rence A Day Makes",
+        "artist": "Dinah Washington",
+        "last-week": "32",
+        "peak-rank": "8",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "48",
+        "song": "You Better Know It",
+        "artist": "Jackie Wilson",
+        "last-week": "59",
+        "peak-rank": "48",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "49",
+        "song": "I Got Stripes",
+        "artist": "Johnny Cash",
+        "last-week": "43",
+        "peak-rank": "43",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "50",
+        "song": "Don't You Know",
+        "artist": "Della Reese",
+        "last-week": "74",
+        "peak-rank": "50",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "51",
+        "song": "Mona Lisa",
+        "artist": "Conway Twitty",
+        "last-week": "51",
+        "peak-rank": "29",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "52",
+        "song": "Like I Love You",
+        "artist": "Edd Byrnes and Friend",
+        "last-week": "61",
+        "peak-rank": "42",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "53",
+        "song": "The Mummy",
+        "artist": "Bob McFadden And Dor",
+        "last-week": "47",
+        "peak-rank": "39",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "54",
+        "song": "Got The Feeling",
+        "artist": "Fabian",
+        "last-week": "62",
+        "peak-rank": "54",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "55",
+        "song": "Robbin' The Cradle",
+        "artist": "Tony Bellus",
+        "last-week": "44",
+        "peak-rank": "25",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "56",
+        "song": "High Hopes",
+        "artist": "Frank Sinatra \"and a bunch of kids\"",
+        "last-week": "64",
+        "peak-rank": "30",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "57",
+        "song": "Ski King",
+        "artist": "E.C. Beatty",
+        "last-week": "70",
+        "peak-rank": "57",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "58",
+        "song": "Just As Much As Ever",
+        "artist": "Bob Beckham",
+        "last-week": "86",
+        "peak-rank": "58",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "59",
+        "song": "Where",
+        "artist": "The Platters",
+        "last-week": "69",
+        "peak-rank": "59",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "60",
+        "song": "Every Little Thing I Do",
+        "artist": "Dion & The Belmonts",
+        "last-week": "73",
+        "peak-rank": "60",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "61",
+        "song": "I've Been There",
+        "artist": "Tommy Edwards",
+        "last-week": "53",
+        "peak-rank": "53",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "62",
+        "song": "What Is Love?",
+        "artist": "The Playmates",
+        "last-week": "39",
+        "peak-rank": "15",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "63",
+        "song": "A Big Hunk O' Love",
+        "artist": "Elvis Presley With The Jordanaires",
+        "last-week": "42",
+        "peak-rank": "1",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "64",
+        "song": "Two Fools",
+        "artist": "Frankie Avalon",
+        "last-week": "90",
+        "peak-rank": "64",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "65",
+        "song": "So High So Low",
+        "artist": "LaVern Baker",
+        "last-week": "55",
+        "peak-rank": "52",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "66",
+        "song": "Love Potion No. 9",
+        "artist": "The Clovers",
+        "last-week": "80",
+        "peak-rank": "66",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "67",
+        "song": "Tucumcari",
+        "artist": "Jimmie Rodgers",
+        "last-week": "88",
+        "peak-rank": "67",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "68",
+        "song": "My Heart Is An Open Book",
+        "artist": "Carl Dobkins, Jr.",
+        "last-week": "45",
+        "peak-rank": "3",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "69",
+        "song": "With Open Arms",
+        "artist": "Jane Morgan",
+        "last-week": "84",
+        "peak-rank": "39",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "70",
+        "song": "Darling, I Love You",
+        "artist": "Al Martino",
+        "last-week": "",
+        "peak-rank": "70",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "71",
+        "song": "On An Evening In Roma",
+        "artist": "Dean Martin",
+        "last-week": "67",
+        "peak-rank": "59",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "72",
+        "song": "Shout - Part 1",
+        "artist": "The Isley Brothers",
+        "last-week": "82",
+        "peak-rank": "72",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "73",
+        "song": "Somethin Else",
+        "artist": "Eddie Cochran",
+        "last-week": "63",
+        "peak-rank": "58",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "74",
+        "song": "True True Happiness",
+        "artist": "Johnny Tillotson",
+        "last-week": "65",
+        "peak-rank": "54",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "75",
+        "song": "Danny Boy",
+        "artist": "Conway Twitty",
+        "last-week": "",
+        "peak-rank": "75",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "76",
+        "song": "Midnight Flyer",
+        "artist": "Nat King Cole",
+        "last-week": "60",
+        "peak-rank": "51",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "77",
+        "song": "I'll Never Fall In Love Again",
+        "artist": "Johnnie Ray",
+        "last-week": "81",
+        "peak-rank": "77",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "78",
+        "song": "I'll Be Seeing You",
+        "artist": "Tommy Sands",
+        "last-week": "",
+        "peak-rank": "78",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "79",
+        "song": "I Ain't Never",
+        "artist": "The Four Preps",
+        "last-week": "",
+        "peak-rank": "79",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "80",
+        "song": "Living Doll",
+        "artist": "Cliff Richard and The Drifters",
+        "last-week": "",
+        "peak-rank": "80",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "81",
+        "song": "Johnny Reb",
+        "artist": "Johnny Horton",
+        "last-week": "54",
+        "peak-rank": "54",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "82",
+        "song": "Boogie Bear",
+        "artist": "Boyd Bennett",
+        "last-week": "79",
+        "peak-rank": "79",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "83",
+        "song": "It Happened Today",
+        "artist": "The Skyliners",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "84",
+        "song": "See You In September",
+        "artist": "The Tempos",
+        "last-week": "52",
+        "peak-rank": "23",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "85",
+        "song": "Six Boys And Seven Girls",
+        "artist": "Anita Bryant",
+        "last-week": "94",
+        "peak-rank": "85",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "86",
+        "song": "Boo Boo Stick Beat",
+        "artist": "Chet Atkins",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "87",
+        "song": "Torquay",
+        "artist": "Fireballs",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "88",
+        "song": "Linda Lu",
+        "artist": "Ray Sharpe",
+        "last-week": "72",
+        "peak-rank": "46",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "89",
+        "song": "The Caterpillar Crawl",
+        "artist": "The Strangers",
+        "last-week": "56",
+        "peak-rank": "49",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "90",
+        "song": "Plenty Good Lovin'",
+        "artist": "Connie Francis",
+        "last-week": "98",
+        "peak-rank": "90",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "91",
+        "song": "The Way I Walk",
+        "artist": "Jack Scott",
+        "last-week": "95",
+        "peak-rank": "35",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "92",
+        "song": "Wish It Were Me",
+        "artist": "The Platters",
+        "last-week": "77",
+        "peak-rank": "77",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "93",
+        "song": "Leave My Kitten Alone",
+        "artist": "Little Willie John",
+        "last-week": "87",
+        "peak-rank": "60",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "94",
+        "song": "Sal's Got A Sugar Lip",
+        "artist": "Johnny Horton",
+        "last-week": "91",
+        "peak-rank": "81",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "95",
+        "song": "In The Mood",
+        "artist": "Ernie Fields & Orch.",
+        "last-week": "99",
+        "peak-rank": "95",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "96",
+        "song": "First Love, First Tears",
+        "artist": "Duane Eddy His Twangy Guitar And The Rebels",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "97",
+        "song": "The Enchanted Sea",
+        "artist": "The Islanders",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "98",
+        "song": "Poco-Loco",
+        "artist": "Gene & Eunice",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "99",
+        "song": "Chapel Of Dreams",
+        "artist": "The Dubs",
+        "last-week": "100",
+        "peak-rank": "74",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1959-09-28",
+        "rank": "100",
+        "song": "I Cried",
+        "artist": "Joe Damiano",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "3"
+    }
+]

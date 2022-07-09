@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1978-12-23",
+        "rank": "1",
+        "song": "Le Freak",
+        "artist": "Chic",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "2",
+        "song": "Too Much Heaven",
+        "artist": "Bee Gees",
+        "last-week": "3",
+        "peak-rank": "2",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "3",
+        "song": "You Don't Bring Me Flowers",
+        "artist": "Barbra Streisand & Neil Diamond",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "4",
+        "song": "My Life",
+        "artist": "Billy Joel",
+        "last-week": "5",
+        "peak-rank": "4",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "5",
+        "song": "I Love The Nightlife (Disco 'round)",
+        "artist": "Alicia Bridges",
+        "last-week": "6",
+        "peak-rank": "5",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "6",
+        "song": "I Just Wanna Stop",
+        "artist": "Gino Vannelli",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "7",
+        "song": "Sharing The Night Together",
+        "artist": "Dr. Hook",
+        "last-week": "8",
+        "peak-rank": "7",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "8",
+        "song": "Y.M.C.A.",
+        "artist": "Village People",
+        "last-week": "12",
+        "peak-rank": "8",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "9",
+        "song": "(Our Love) Don't Throw It All Away",
+        "artist": "Andy Gibb",
+        "last-week": "9",
+        "peak-rank": "9",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "10",
+        "song": "Hold The Line",
+        "artist": "Toto",
+        "last-week": "13",
+        "peak-rank": "10",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "11",
+        "song": "Ooh Baby Baby",
+        "artist": "Linda Ronstadt",
+        "last-week": "18",
+        "peak-rank": "11",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "12",
+        "song": "How You Gonna See Me Now",
+        "artist": "Alice Cooper",
+        "last-week": "16",
+        "peak-rank": "12",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "13",
+        "song": "Promises",
+        "artist": "Eric Clapton And His Band",
+        "last-week": "19",
+        "peak-rank": "13",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "14",
+        "song": "Time Passages",
+        "artist": "Al Stewart",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "15",
+        "song": "MacArthur Park",
+        "artist": "Donna Summer",
+        "last-week": "10",
+        "peak-rank": "1",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "16",
+        "song": "Strange Way",
+        "artist": "Firefall",
+        "last-week": "11",
+        "peak-rank": "11",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "17",
+        "song": "We've Got Tonight",
+        "artist": "Bob Seger & The Silver Bullet Band",
+        "last-week": "21",
+        "peak-rank": "17",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "18",
+        "song": "September",
+        "artist": "Earth, Wind & Fire",
+        "last-week": "31",
+        "peak-rank": "18",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "19",
+        "song": "A Little More Love",
+        "artist": "Olivia Newton-John",
+        "last-week": "26",
+        "peak-rank": "19",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "20",
+        "song": "Please Come Home For Christmas",
+        "artist": "Eagles",
+        "last-week": "45",
+        "peak-rank": "20",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "21",
+        "song": "I'm Every Woman",
+        "artist": "Chaka Khan",
+        "last-week": "23",
+        "peak-rank": "21",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "22",
+        "song": "Every 1's A Winner",
+        "artist": "Hot Chocolate",
+        "last-week": "28",
+        "peak-rank": "22",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "23",
+        "song": "New York Groove",
+        "artist": "Ace Frehley",
+        "last-week": "25",
+        "peak-rank": "23",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "24",
+        "song": "Sweet Life",
+        "artist": "Paul Davis",
+        "last-week": "17",
+        "peak-rank": "17",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "25",
+        "song": "Bicycle Race/Fat Bottomed Girls",
+        "artist": "Queen",
+        "last-week": "27",
+        "peak-rank": "25",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "26",
+        "song": "Shake It",
+        "artist": "Ian Matthews",
+        "last-week": "30",
+        "peak-rank": "26",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "27",
+        "song": "Lotta Love",
+        "artist": "Nicolette Larson",
+        "last-week": "41",
+        "peak-rank": "27",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "28",
+        "song": "Fire",
+        "artist": "The Pointer Sisters",
+        "last-week": "32",
+        "peak-rank": "28",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "29",
+        "song": "How Much I Feel",
+        "artist": "Ambrosia",
+        "last-week": "14",
+        "peak-rank": "3",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "30",
+        "song": "I Was Made For Dancin'",
+        "artist": "Leif Garrett",
+        "last-week": "35",
+        "peak-rank": "30",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "31",
+        "song": "Straight On",
+        "artist": "Heart",
+        "last-week": "15",
+        "peak-rank": "15",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "32",
+        "song": "Don't Hold Back",
+        "artist": "Chanson",
+        "last-week": "40",
+        "peak-rank": "32",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "33",
+        "song": "Instant Replay",
+        "artist": "Dan Hartman",
+        "last-week": "34",
+        "peak-rank": "33",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "34",
+        "song": "I Will Be In Love With You",
+        "artist": "Livingston Taylor",
+        "last-week": "39",
+        "peak-rank": "34",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "35",
+        "song": "My Best Friend's Girl",
+        "artist": "The Cars",
+        "last-week": "37",
+        "peak-rank": "35",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "36",
+        "song": "Part-Time Love",
+        "artist": "Elton John",
+        "last-week": "22",
+        "peak-rank": "22",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "37",
+        "song": "A Man I'll Never Be",
+        "artist": "Boston",
+        "last-week": "48",
+        "peak-rank": "37",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "38",
+        "song": "The Gambler",
+        "artist": "Kenny Rogers",
+        "last-week": "42",
+        "peak-rank": "38",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "39",
+        "song": "Take Me To The River",
+        "artist": "Talking Heads",
+        "last-week": "43",
+        "peak-rank": "39",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "40",
+        "song": "Da Ya Think I'm Sexy?",
+        "artist": "Rod Stewart",
+        "last-week": "",
+        "peak-rank": "40",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "41",
+        "song": "Don't Cry Out Loud",
+        "artist": "Melissa Manchester",
+        "last-week": "50",
+        "peak-rank": "41",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "42",
+        "song": "Mary Jane",
+        "artist": "Rick James",
+        "last-week": "46",
+        "peak-rank": "42",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "43",
+        "song": "Home And Dry",
+        "artist": "Gerry Rafferty",
+        "last-week": "53",
+        "peak-rank": "43",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "44",
+        "song": "Got To Be Real",
+        "artist": "Cheryl Lynn",
+        "last-week": "55",
+        "peak-rank": "44",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "45",
+        "song": "One Last Kiss",
+        "artist": "The J. Geils Band",
+        "last-week": "49",
+        "peak-rank": "45",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "46",
+        "song": "Hold Me, Touch Me",
+        "artist": "Paul Stanley",
+        "last-week": "47",
+        "peak-rank": "46",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "47",
+        "song": "You Thrill Me",
+        "artist": "Exile",
+        "last-week": "52",
+        "peak-rank": "47",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "48",
+        "song": "The Dream Never Dies",
+        "artist": "Cooper Brothers",
+        "last-week": "59",
+        "peak-rank": "48",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "49",
+        "song": "You Took The Words Right Out Of My Mouth",
+        "artist": "Meat Loaf",
+        "last-week": "54",
+        "peak-rank": "49",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "50",
+        "song": "Radioactive",
+        "artist": "Gene Simmons",
+        "last-week": "61",
+        "peak-rank": "50",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "51",
+        "song": "Double Vision",
+        "artist": "Foreigner",
+        "last-week": "29",
+        "peak-rank": "2",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "52",
+        "song": "The Power Of Gold",
+        "artist": "Dan Fogelberg/Tim Weisberg",
+        "last-week": "24",
+        "peak-rank": "24",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "53",
+        "song": "Love Don't Live Here Anymore",
+        "artist": "Rose Royce",
+        "last-week": "67",
+        "peak-rank": "53",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "54",
+        "song": "Soul Man",
+        "artist": "Blues Brothers",
+        "last-week": "68",
+        "peak-rank": "54",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "55",
+        "song": "Shattered",
+        "artist": "The Rolling Stones",
+        "last-week": "78",
+        "peak-rank": "55",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "56",
+        "song": "Baby I'm Burnin'",
+        "artist": "Dolly Parton",
+        "last-week": "76",
+        "peak-rank": "56",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "57",
+        "song": "Somewhere In The Night",
+        "artist": "Barry Manilow",
+        "last-week": "75",
+        "peak-rank": "57",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "58",
+        "song": "In The Bush",
+        "artist": "Musique",
+        "last-week": "60",
+        "peak-rank": "58",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "59",
+        "song": "You Need A Woman Tonight",
+        "artist": "Captain & Tennille",
+        "last-week": "71",
+        "peak-rank": "59",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "60",
+        "song": "Your Sweetness Is My Weakness",
+        "artist": "Barry White",
+        "last-week": "62",
+        "peak-rank": "60",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "61",
+        "song": "Alive Again",
+        "artist": "Chicago",
+        "last-week": "20",
+        "peak-rank": "14",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "62",
+        "song": "Easy Driver",
+        "artist": "Kenny Loggins",
+        "last-week": "66",
+        "peak-rank": "62",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "63",
+        "song": "Miles Away",
+        "artist": "Fotomaker",
+        "last-week": "65",
+        "peak-rank": "63",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "64",
+        "song": "Dancin' Shoes",
+        "artist": "Nigel Olsson",
+        "last-week": "79",
+        "peak-rank": "64",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "65",
+        "song": "I Don't Wanna Lose You",
+        "artist": "Daryl Hall John Oates",
+        "last-week": "74",
+        "peak-rank": "65",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "66",
+        "song": "Light The Sky On Fire",
+        "artist": "Jefferson Starship",
+        "last-week": "70",
+        "peak-rank": "66",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "67",
+        "song": "Got To Have Loving",
+        "artist": "Don Ray",
+        "last-week": "73",
+        "peak-rank": "44",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "68",
+        "song": "I Believe You",
+        "artist": "Carpenters",
+        "last-week": "72",
+        "peak-rank": "68",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "69",
+        "song": "Well All Right",
+        "artist": "Santana",
+        "last-week": "69",
+        "peak-rank": "69",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "70",
+        "song": "Lost In Your Love",
+        "artist": "John Paul Young",
+        "last-week": "80",
+        "peak-rank": "70",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "71",
+        "song": "Shake Your Groove Thing",
+        "artist": "Peaches & Herb",
+        "last-week": "83",
+        "peak-rank": "71",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "72",
+        "song": "Silver Lining",
+        "artist": "Player",
+        "last-week": "82",
+        "peak-rank": "72",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "73",
+        "song": "You've Really Got A Hold On Me",
+        "artist": "Eddie Money",
+        "last-week": "77",
+        "peak-rank": "73",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "74",
+        "song": "Run For Home",
+        "artist": "Lindisfarne",
+        "last-week": "33",
+        "peak-rank": "33",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "75",
+        "song": "Blue Morning, Blue Day",
+        "artist": "Foreigner",
+        "last-week": "",
+        "peak-rank": "75",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "76",
+        "song": "I Will Survive",
+        "artist": "Gloria Gaynor",
+        "last-week": "87",
+        "peak-rank": "76",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "77",
+        "song": "No Tell Lover",
+        "artist": "Chicago",
+        "last-week": "",
+        "peak-rank": "77",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "78",
+        "song": "Dancing In The City",
+        "artist": "Marshall Hain",
+        "last-week": "89",
+        "peak-rank": "78",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "79",
+        "song": "There'll Never Be",
+        "artist": "Switch",
+        "last-week": "36",
+        "peak-rank": "36",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "80",
+        "song": "Dancin' Shoes",
+        "artist": "Faith Band",
+        "last-week": "90",
+        "peak-rank": "80",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "81",
+        "song": "Forever Autumn",
+        "artist": "Justin Hayward",
+        "last-week": "64",
+        "peak-rank": "47",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "82",
+        "song": "Free Me From My Freedom/Tie Me To A Tree (Handcuff Me)",
+        "artist": "Bonnie Pointer",
+        "last-week": "86",
+        "peak-rank": "82",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "83",
+        "song": "What You Won't Do For Love",
+        "artist": "Bobby Caldwell",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "84",
+        "song": "Who Do Ya Love",
+        "artist": "KC And The Sunshine Band",
+        "last-week": "88",
+        "peak-rank": "84",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "85",
+        "song": "This Moment In Time",
+        "artist": "Engelbert Humperdinck",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "86",
+        "song": "You Can Do It",
+        "artist": "Dobie Gray",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "87",
+        "song": "Change Of Heart",
+        "artist": "Eric Carmen",
+        "last-week": "44",
+        "peak-rank": "19",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "88",
+        "song": "Animal House",
+        "artist": "Stephen Bishop",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "89",
+        "song": "Moment By Moment",
+        "artist": "Yvonne Elliman",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "90",
+        "song": "Mary's Boy Child / Oh My Lord",
+        "artist": "Boney M.",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "91",
+        "song": "I'm Gonna Make You Love Me",
+        "artist": "The Blend",
+        "last-week": "91",
+        "peak-rank": "91",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "92",
+        "song": "Ain't That Enough For You",
+        "artist": "John Davis And The Monster Orchestra",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "93",
+        "song": "A Little Lovin' (Keeps The Doctor Away)",
+        "artist": "The Raes",
+        "last-week": "93",
+        "peak-rank": "93",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "94",
+        "song": "Can You Fool",
+        "artist": "Glen Campbell",
+        "last-week": "38",
+        "peak-rank": "38",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "95",
+        "song": "Don't Want To Live Without It",
+        "artist": "Pablo Cruise",
+        "last-week": "51",
+        "peak-rank": "21",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "96",
+        "song": "You Needed Me",
+        "artist": "Anne Murray",
+        "last-week": "56",
+        "peak-rank": "1",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "97",
+        "song": "You Never Done It Like That",
+        "artist": "Captain & Tennille",
+        "last-week": "58",
+        "peak-rank": "10",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "98",
+        "song": "Ready To Take A Chance Again",
+        "artist": "Barry Manilow",
+        "last-week": "57",
+        "peak-rank": "11",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "99",
+        "song": "Hot Child In The City",
+        "artist": "Nick Gilder",
+        "last-week": "63",
+        "peak-rank": "1",
+        "weeks-on-board": "29"
+    },
+    {
+        "date": "1978-12-23",
+        "rank": "100",
+        "song": "Ma\u00c3\u00b1ana",
+        "artist": "Jimmy Buffett",
+        "last-week": "84",
+        "peak-rank": "84",
+        "weeks-on-board": "4"
+    }
+]

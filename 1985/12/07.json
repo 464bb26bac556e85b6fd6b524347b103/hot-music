@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1985-12-07",
+        "rank": "1",
+        "song": "Broken Wings",
+        "artist": "Mr. Mister",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "2",
+        "song": "Separate Lives",
+        "artist": "Phil Collins and Marilyn Martin",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "3",
+        "song": "We Built This City",
+        "artist": "Starship",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "4",
+        "song": "Never",
+        "artist": "Heart",
+        "last-week": "5",
+        "peak-rank": "4",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "5",
+        "song": "Say You, Say Me",
+        "artist": "Lionel Richie",
+        "last-week": "12",
+        "peak-rank": "5",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "6",
+        "song": "You Belong To The City",
+        "artist": "Glenn Frey",
+        "last-week": "4",
+        "peak-rank": "2",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "7",
+        "song": "Election Day",
+        "artist": "Arcadia",
+        "last-week": "8",
+        "peak-rank": "7",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "8",
+        "song": "Who's Zoomin' Who",
+        "artist": "Aretha Franklin",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "9",
+        "song": "Party All The Time",
+        "artist": "Eddie Murphy",
+        "last-week": "9",
+        "peak-rank": "9",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "10",
+        "song": "Sleeping Bag",
+        "artist": "ZZ Top",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "11",
+        "song": "Alive & Kicking",
+        "artist": "Simple Minds",
+        "last-week": "11",
+        "peak-rank": "11",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "12",
+        "song": "Lay Your Hands On Me",
+        "artist": "Thompson Twins",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "13",
+        "song": "I Miss You",
+        "artist": "Klymaxx",
+        "last-week": "16",
+        "peak-rank": "13",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "14",
+        "song": "Small Town",
+        "artist": "John Mellencamp",
+        "last-week": "21",
+        "peak-rank": "14",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "15",
+        "song": "Perfect Way",
+        "artist": "Scritti Politti",
+        "last-week": "19",
+        "peak-rank": "15",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "16",
+        "song": "That's What Friends Are For",
+        "artist": "Dionne & Friends",
+        "last-week": "27",
+        "peak-rank": "16",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "17",
+        "song": "Tonight She Comes",
+        "artist": "The Cars",
+        "last-week": "25",
+        "peak-rank": "17",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "18",
+        "song": "Sisters Are Doin' It For Themselves",
+        "artist": "Eurythmics & Aretha Franklin",
+        "last-week": "24",
+        "peak-rank": "18",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "19",
+        "song": "Walk Of Life",
+        "artist": "Dire Straits",
+        "last-week": "28",
+        "peak-rank": "19",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "20",
+        "song": "Wrap Her Up",
+        "artist": "Elton John",
+        "last-week": "26",
+        "peak-rank": "20",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "21",
+        "song": "Emergency",
+        "artist": "Kool & The Gang",
+        "last-week": "31",
+        "peak-rank": "21",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "22",
+        "song": "Miami Vice Theme",
+        "artist": "Jan Hammer",
+        "last-week": "14",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "23",
+        "song": "Talk To Me",
+        "artist": "Stevie Nicks",
+        "last-week": "33",
+        "peak-rank": "23",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "24",
+        "song": "You Are My Lady",
+        "artist": "Freddie Jackson",
+        "last-week": "20",
+        "peak-rank": "12",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "25",
+        "song": "Part-Time Lover",
+        "artist": "Stevie Wonder",
+        "last-week": "18",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "26",
+        "song": "One Of The Living",
+        "artist": "Tina Turner",
+        "last-week": "15",
+        "peak-rank": "15",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "27",
+        "song": "Burning Heart",
+        "artist": "Survivor",
+        "last-week": "34",
+        "peak-rank": "27",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "28",
+        "song": "Object Of My Desire",
+        "artist": "Starpoint",
+        "last-week": "29",
+        "peak-rank": "28",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "29",
+        "song": "Be Near Me",
+        "artist": "ABC",
+        "last-week": "13",
+        "peak-rank": "9",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "30",
+        "song": "Head Over Heels",
+        "artist": "Tears For Fears",
+        "last-week": "17",
+        "peak-rank": "3",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "31",
+        "song": "Love Is The Seventh Wave",
+        "artist": "Sting",
+        "last-week": "35",
+        "peak-rank": "31",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "32",
+        "song": "Conga",
+        "artist": "Miami Sound Machine",
+        "last-week": "36",
+        "peak-rank": "32",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "33",
+        "song": "You're A Friend Of Mine",
+        "artist": "Clarence Clemons & Jackson Browne",
+        "last-week": "37",
+        "peak-rank": "33",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "34",
+        "song": "Soul Kiss",
+        "artist": "Olivia Newton-John",
+        "last-week": "22",
+        "peak-rank": "20",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "35",
+        "song": "Do It For Love",
+        "artist": "Sheena Easton",
+        "last-week": "39",
+        "peak-rank": "35",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "36",
+        "song": "Love Theme From St. Elmo's Fire (Instrumental)",
+        "artist": "David Foster",
+        "last-week": "23",
+        "peak-rank": "15",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "37",
+        "song": "It's Only Love",
+        "artist": "Bryan Adams/Tina Turner",
+        "last-week": "44",
+        "peak-rank": "37",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "38",
+        "song": "Everybody Dance",
+        "artist": "Ta Mara & The Seen",
+        "last-week": "40",
+        "peak-rank": "38",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "39",
+        "song": "Sun City",
+        "artist": "Artists United Against Apartheid",
+        "last-week": "42",
+        "peak-rank": "39",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "40",
+        "song": "Goodbye",
+        "artist": "Night Ranger",
+        "last-week": "49",
+        "peak-rank": "40",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "41",
+        "song": "Spies Like Us",
+        "artist": "Paul McCartney",
+        "last-week": "47",
+        "peak-rank": "41",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "42",
+        "song": "To Live And Die In L.A.",
+        "artist": "Wang Chung",
+        "last-week": "43",
+        "peak-rank": "42",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "43",
+        "song": "Running Up That Hill",
+        "artist": "Kate Bush",
+        "last-week": "30",
+        "peak-rank": "30",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "44",
+        "song": "Go Home",
+        "artist": "Stevie Wonder",
+        "last-week": "52",
+        "peak-rank": "44",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "45",
+        "song": "I'm Your Man",
+        "artist": "Wham!",
+        "last-week": "55",
+        "peak-rank": "45",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "46",
+        "song": "Sex As A Weapon",
+        "artist": "Pat Benatar",
+        "last-week": "56",
+        "peak-rank": "46",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "47",
+        "song": "Face The Face",
+        "artist": "Pete Townshend",
+        "last-week": "50",
+        "peak-rank": "47",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "48",
+        "song": "Sidewalk Talk",
+        "artist": "Jellybean Featuring Catherine Buchanan",
+        "last-week": "54",
+        "peak-rank": "48",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "49",
+        "song": "Take On Me",
+        "artist": "a-ha",
+        "last-week": "32",
+        "peak-rank": "1",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "50",
+        "song": "When The Going Gets Tough, The Tough Get Going",
+        "artist": "Billy Ocean",
+        "last-week": "63",
+        "peak-rank": "50",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "51",
+        "song": "Saving All My Love For You",
+        "artist": "Whitney Houston",
+        "last-week": "38",
+        "peak-rank": "1",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "52",
+        "song": "Too Young",
+        "artist": "Jack Wagner",
+        "last-week": "53",
+        "peak-rank": "52",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "53",
+        "song": "Count Me Out",
+        "artist": "New Edition",
+        "last-week": "60",
+        "peak-rank": "53",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "54",
+        "song": "Everything In My Heart",
+        "artist": "Corey Hart",
+        "last-week": "74",
+        "peak-rank": "54",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "55",
+        "song": "My Hometown",
+        "artist": "Bruce Springsteen",
+        "last-week": "",
+        "peak-rank": "55",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "56",
+        "song": "Tears Are Falling",
+        "artist": "KISS",
+        "last-week": "51",
+        "peak-rank": "51",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "57",
+        "song": "One Night Love Affair",
+        "artist": "Bryan Adams",
+        "last-week": "45",
+        "peak-rank": "13",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "58",
+        "song": "Tarzan Boy (From \"Teenage Mutant Ninja Turtles III\")",
+        "artist": "Baltimora",
+        "last-week": "62",
+        "peak-rank": "58",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "59",
+        "song": "Freedom",
+        "artist": "The Pointer Sisters",
+        "last-week": "59",
+        "peak-rank": "59",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "60",
+        "song": "How Will I Know",
+        "artist": "Whitney Houston",
+        "last-week": "",
+        "peak-rank": "60",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "61",
+        "song": "The Big Money",
+        "artist": "Rush",
+        "last-week": "70",
+        "peak-rank": "61",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "62",
+        "song": "A Love Bizarre",
+        "artist": "Sheila E.",
+        "last-week": "67",
+        "peak-rank": "62",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "63",
+        "song": "Everyday",
+        "artist": "James Taylor",
+        "last-week": "64",
+        "peak-rank": "63",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "64",
+        "song": "Small Town Girl",
+        "artist": "John Cafferty & The Beaver Brown Band",
+        "last-week": "66",
+        "peak-rank": "64",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "65",
+        "song": "Girls Are More Fun",
+        "artist": "Ray Parker Jr.",
+        "last-week": "57",
+        "peak-rank": "34",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "66",
+        "song": "Oh Sheila",
+        "artist": "Ready For The World",
+        "last-week": "58",
+        "peak-rank": "1",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "67",
+        "song": "Dangerous",
+        "artist": "Loverboy",
+        "last-week": "75",
+        "peak-rank": "67",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "68",
+        "song": "The Sun Always Shines on T.V.",
+        "artist": "a-ha",
+        "last-week": "79",
+        "peak-rank": "68",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "69",
+        "song": "The Sweetest Taboo",
+        "artist": "Sade",
+        "last-week": "81",
+        "peak-rank": "69",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "70",
+        "song": "And We Danced",
+        "artist": "Hooters",
+        "last-week": "48",
+        "peak-rank": "21",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "71",
+        "song": "So In Love",
+        "artist": "Orchestral Manoeuvres In The Dark",
+        "last-week": "41",
+        "peak-rank": "26",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "72",
+        "song": "Lovin' Every Minute Of It",
+        "artist": "Loverboy",
+        "last-week": "46",
+        "peak-rank": "9",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "73",
+        "song": "Can You Feel The Beat",
+        "artist": "Lisa Lisa And Clult Jam With Full Force",
+        "last-week": "78",
+        "peak-rank": "73",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "74",
+        "song": "Everything Must Change",
+        "artist": "Paul Young",
+        "last-week": "80",
+        "peak-rank": "74",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "75",
+        "song": "Fortress Around Your Heart",
+        "artist": "Sting",
+        "last-week": "61",
+        "peak-rank": "8",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "76",
+        "song": "Life In A Northern Town",
+        "artist": "The Dream Academy",
+        "last-week": "89",
+        "peak-rank": "76",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "77",
+        "song": "Leader Of The Pack",
+        "artist": "Twisted Sister",
+        "last-week": "88",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "78",
+        "song": "Morning Desire",
+        "artist": "Kenny Rogers",
+        "last-week": "84",
+        "peak-rank": "78",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "79",
+        "song": "Money For Nothing",
+        "artist": "Dire Straits",
+        "last-week": "68",
+        "peak-rank": "1",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "80",
+        "song": "The Oak Tree",
+        "artist": "Morris Day",
+        "last-week": "73",
+        "peak-rank": "65",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "81",
+        "song": "This Time",
+        "artist": "INXS",
+        "last-week": "83",
+        "peak-rank": "81",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "82",
+        "song": "Discipline Of Love",
+        "artist": "Robert Palmer",
+        "last-week": "82",
+        "peak-rank": "82",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "83",
+        "song": "Lonely Ol' Night",
+        "artist": "John Mellencamp",
+        "last-week": "72",
+        "peak-rank": "6",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "84",
+        "song": "Cherish",
+        "artist": "Kool & The Gang",
+        "last-week": "71",
+        "peak-rank": "2",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "85",
+        "song": "Silent Running (On Dangerous Ground)",
+        "artist": "Mike + The Mechanics",
+        "last-week": "90",
+        "peak-rank": "85",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "86",
+        "song": "Go",
+        "artist": "Asia",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "87",
+        "song": "And She Was",
+        "artist": "Talking Heads",
+        "last-week": "65",
+        "peak-rank": "54",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "88",
+        "song": "One Vision",
+        "artist": "Queen",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "89",
+        "song": "I'm Gonna Tear Your Playhouse Down",
+        "artist": "Paul Young",
+        "last-week": "69",
+        "peak-rank": "13",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "90",
+        "song": "I Knew The Bride (When She Use To Rock And Roll)",
+        "artist": "Nick Lowe And His Cowboy Outfit",
+        "last-week": "96",
+        "peak-rank": "90",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "91",
+        "song": "Living In America",
+        "artist": "James Brown",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "92",
+        "song": "Digital Display",
+        "artist": "Ready For The World",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "93",
+        "song": "The Heart Is Not So Smart",
+        "artist": "El DeBarge With DeBarge",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "94",
+        "song": "Sounds Of Your Voice",
+        "artist": "Jon Butcher Axis",
+        "last-week": "94",
+        "peak-rank": "94",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "95",
+        "song": "Chain Reaction",
+        "artist": "Diana Ross",
+        "last-week": "95",
+        "peak-rank": "95",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "96",
+        "song": "Caravan Of Love",
+        "artist": "Isley, Jasper, Isley",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "97",
+        "song": "Don't Say No Tonight",
+        "artist": "Eugene Wilde",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "98",
+        "song": "The Night Is Still Young",
+        "artist": "Billy Joel",
+        "last-week": "86",
+        "peak-rank": "34",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "99",
+        "song": "After The Fire",
+        "artist": "Roger Daltrey",
+        "last-week": "87",
+        "peak-rank": "48",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1985-12-07",
+        "rank": "100",
+        "song": "Hurts To Be In Love",
+        "artist": "Gino Vannelli",
+        "last-week": "76",
+        "peak-rank": "57",
+        "weeks-on-board": "12"
+    }
+]

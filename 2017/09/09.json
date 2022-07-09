@@ -1,0 +1,902 @@
+[
+    {
+        "date": "2017-09-09",
+        "rank": "1",
+        "song": "Despacito",
+        "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "32"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "2",
+        "song": "Wild Thoughts",
+        "artist": "DJ Khaled Featuring Rihanna & Bryson Tiller",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "3",
+        "song": "Bodak Yellow (Money Moves)",
+        "artist": "Cardi B",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "4",
+        "song": "Believer",
+        "artist": "Imagine Dragons",
+        "last-week": "5",
+        "peak-rank": "4",
+        "weeks-on-board": "29"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "5",
+        "song": "Attention",
+        "artist": "Charlie Puth",
+        "last-week": "6",
+        "peak-rank": "5",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "6",
+        "song": "Unforgettable",
+        "artist": "French Montana Featuring Swae Lee",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "7",
+        "song": "There's Nothing Holdin' Me Back",
+        "artist": "Shawn Mendes",
+        "last-week": "7",
+        "peak-rank": "6",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "8",
+        "song": "That's What I Like",
+        "artist": "Bruno Mars",
+        "last-week": "8",
+        "peak-rank": "1",
+        "weeks-on-board": "32"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "9",
+        "song": "Shape Of You",
+        "artist": "Ed Sheeran",
+        "last-week": "9",
+        "peak-rank": "1",
+        "weeks-on-board": "33"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "10",
+        "song": "Rake It Up",
+        "artist": "Yo Gotti Featuring Nicki Minaj",
+        "last-week": "24",
+        "peak-rank": "10",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "11",
+        "song": "Strip That Down",
+        "artist": "Liam Payne Featuring Quavo",
+        "last-week": "13",
+        "peak-rank": "11",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "12",
+        "song": "Bank Account",
+        "artist": "21 Savage",
+        "last-week": "12",
+        "peak-rank": "12",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "13",
+        "song": "Body Like A Back Road",
+        "artist": "Sam Hunt",
+        "last-week": "10",
+        "peak-rank": "6",
+        "weeks-on-board": "30"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "14",
+        "song": "Slow Hands",
+        "artist": "Niall Horan",
+        "last-week": "15",
+        "peak-rank": "14",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "15",
+        "song": "Congratulations",
+        "artist": "Post Malone Featuring Quavo",
+        "last-week": "14",
+        "peak-rank": "8",
+        "weeks-on-board": "35"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "16",
+        "song": "I'm The One",
+        "artist": "DJ Khaled Featuring Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",
+        "last-week": "11",
+        "peak-rank": "1",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "17",
+        "song": "Redbone",
+        "artist": "Childish Gambino",
+        "last-week": "16",
+        "peak-rank": "12",
+        "weeks-on-board": "38"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "18",
+        "song": "Sorry Not Sorry",
+        "artist": "Demi Lovato",
+        "last-week": "25",
+        "peak-rank": "18",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "19",
+        "song": "Humble.",
+        "artist": "Kendrick Lamar",
+        "last-week": "17",
+        "peak-rank": "1",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "20",
+        "song": "Friends",
+        "artist": "Justin Bieber + BloodPop",
+        "last-week": "",
+        "peak-rank": "20",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "21",
+        "song": "Something Just Like This",
+        "artist": "The Chainsmokers & Coldplay",
+        "last-week": "19",
+        "peak-rank": "3",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "22",
+        "song": "Feels",
+        "artist": "Calvin Harris Featuring Pharrell Williams, Katy Perry & Big Sean",
+        "last-week": "20",
+        "peak-rank": "20",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "23",
+        "song": "Feel It Still",
+        "artist": "Portugal. The Man",
+        "last-week": "26",
+        "peak-rank": "23",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "24",
+        "song": "Mi Gente",
+        "artist": "J Balvin & Willy William Featuring Beyonce",
+        "last-week": "21",
+        "peak-rank": "21",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "25",
+        "song": "XO TOUR Llif3",
+        "artist": "Lil Uzi Vert",
+        "last-week": "18",
+        "peak-rank": "7",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "26",
+        "song": "Location",
+        "artist": "Khalid",
+        "last-week": "27",
+        "peak-rank": "16",
+        "weeks-on-board": "33"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "27",
+        "song": "Stay",
+        "artist": "Zedd & Alessia Cara",
+        "last-week": "23",
+        "peak-rank": "7",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "28",
+        "song": "Praying",
+        "artist": "Kesha",
+        "last-week": "22",
+        "peak-rank": "22",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "29",
+        "song": "1-800-273-8255",
+        "artist": "Logic Featuring Alessia Cara & Khalid",
+        "last-week": "37",
+        "peak-rank": "29",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "30",
+        "song": "Mask Off",
+        "artist": "Future",
+        "last-week": "28",
+        "peak-rank": "5",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "31",
+        "song": "Say You Won't Let Go",
+        "artist": "James Arthur",
+        "last-week": "30",
+        "peak-rank": "11",
+        "weeks-on-board": "44"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "32",
+        "song": "Loyalty.",
+        "artist": "Kendrick Lamar Featuring Rihanna",
+        "last-week": "31",
+        "peak-rank": "14",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "33",
+        "song": "Love Galore",
+        "artist": "SZA Featuring Travis Scott",
+        "last-week": "35",
+        "peak-rank": "33",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "34",
+        "song": "I Get The Bag",
+        "artist": "Gucci Mane Featuring Migos",
+        "last-week": "",
+        "peak-rank": "34",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "35",
+        "song": "What About Us",
+        "artist": "P!nk",
+        "last-week": "29",
+        "peak-rank": "29",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "36",
+        "song": "Small Town Boy",
+        "artist": "Dustin Lynch",
+        "last-week": "38",
+        "peak-rank": "36",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "37",
+        "song": "It Ain't Me",
+        "artist": "Kygo x Selena Gomez",
+        "last-week": "34",
+        "peak-rank": "10",
+        "weeks-on-board": "28"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "38",
+        "song": "What Ifs",
+        "artist": "Kane Brown Featuring Lauren Alaina",
+        "last-week": "44",
+        "peak-rank": "38",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "39",
+        "song": "No Promises",
+        "artist": "Cheat Codes Featuring Demi Lovato",
+        "last-week": "43",
+        "peak-rank": "39",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "40",
+        "song": "Now Or Never",
+        "artist": "Halsey",
+        "last-week": "32",
+        "peak-rank": "17",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "41",
+        "song": "Young Dumb & Broke",
+        "artist": "Khalid",
+        "last-week": "49",
+        "peak-rank": "41",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "42",
+        "song": "Versace On The Floor",
+        "artist": "Bruno Mars",
+        "last-week": "33",
+        "peak-rank": "33",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "43",
+        "song": "Everyday We Lit",
+        "artist": "YFN Lucci Featuring PnB Rock",
+        "last-week": "40",
+        "peak-rank": "33",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "44",
+        "song": "It's A Vibe",
+        "artist": "2 Chainz Featuring Ty Dolla $ign, Trey Songz & Jhene Aiko",
+        "last-week": "47",
+        "peak-rank": "44",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "45",
+        "song": "Drinkin' Problem",
+        "artist": "Midland",
+        "last-week": "51",
+        "peak-rank": "45",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "46",
+        "song": "Drowning",
+        "artist": "A Boogie Wit da Hoodie Featuring Kodak Black",
+        "last-week": "41",
+        "peak-rank": "38",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "47",
+        "song": "Magnolia",
+        "artist": "Playboi Carti",
+        "last-week": "36",
+        "peak-rank": "29",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "48",
+        "song": "Castle On The Hill",
+        "artist": "Ed Sheeran",
+        "last-week": "39",
+        "peak-rank": "6",
+        "weeks-on-board": "33"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "49",
+        "song": "The Race",
+        "artist": "Tay-K",
+        "last-week": "52",
+        "peak-rank": "49",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "50",
+        "song": "No Such Thing As A Broken Heart",
+        "artist": "Old Dominion",
+        "last-week": "50",
+        "peak-rank": "50",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "51",
+        "song": "Crew",
+        "artist": "GoldLink Featuring Brent Faiyaz & Shy Glizzy",
+        "last-week": "54",
+        "peak-rank": "51",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "52",
+        "song": "Silence",
+        "artist": "Marshmello Featuring Khalid",
+        "last-week": "42",
+        "peak-rank": "42",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "53",
+        "song": "Roll In Peace",
+        "artist": "Kodak Black Featuring XXXTENTACION",
+        "last-week": "",
+        "peak-rank": "53",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "54",
+        "song": "Do Re Mi",
+        "artist": "blackbear",
+        "last-week": "63",
+        "peak-rank": "54",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "55",
+        "song": "Fetish",
+        "artist": "Selena Gomez Featuring Gucci Mane",
+        "last-week": "48",
+        "peak-rank": "27",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "56",
+        "song": "Heartache On The Dance Floor",
+        "artist": "Jon Pardi",
+        "last-week": "55",
+        "peak-rank": "54",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "57",
+        "song": "Butterfly Effect",
+        "artist": "Travis Scott",
+        "last-week": "58",
+        "peak-rank": "55",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "58",
+        "song": "When It Rains It Pours",
+        "artist": "Luke Combs",
+        "last-week": "68",
+        "peak-rank": "58",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "59",
+        "song": "Thunder",
+        "artist": "Imagine Dragons",
+        "last-week": "57",
+        "peak-rank": "53",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "60",
+        "song": "Back To You",
+        "artist": "Louis Tomlinson Featuring Bebe Rexha & Digital Farm Animals",
+        "last-week": "56",
+        "peak-rank": "40",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "61",
+        "song": "Felices Los 4",
+        "artist": "Maluma",
+        "last-week": "53",
+        "peak-rank": "48",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "62",
+        "song": "You Look Good",
+        "artist": "Lady Antebellum",
+        "last-week": "65",
+        "peak-rank": "59",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "63",
+        "song": "Escapate Conmigo",
+        "artist": "Wisin Featuring Ozuna",
+        "last-week": "69",
+        "peak-rank": "63",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "64",
+        "song": "Whatever You Need",
+        "artist": "Meek Mill Featuring Chris Brown & Ty Dolla $ign",
+        "last-week": "61",
+        "peak-rank": "51",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "65",
+        "song": "DNA.",
+        "artist": "Kendrick Lamar",
+        "last-week": "66",
+        "peak-rank": "4",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "66",
+        "song": "Do I Make You Wanna",
+        "artist": "Billy Currington",
+        "last-week": "62",
+        "peak-rank": "47",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "67",
+        "song": "Unforgettable",
+        "artist": "Thomas Rhett",
+        "last-week": "73",
+        "peak-rank": "67",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "68",
+        "song": "Glorious",
+        "artist": "Macklemore Featuring Skylar Grey",
+        "last-week": "71",
+        "peak-rank": "68",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "69",
+        "song": "Somebody Else Will",
+        "artist": "Justin Moore",
+        "last-week": "59",
+        "peak-rank": "59",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "70",
+        "song": "Most Girls",
+        "artist": "Hailee Steinfeld",
+        "last-week": "67",
+        "peak-rank": "58",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "71",
+        "song": "Love.",
+        "artist": "Kendrick Lamar Featuring Zacari",
+        "last-week": "70",
+        "peak-rank": "18",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "72",
+        "song": "The Weekend",
+        "artist": "SZA",
+        "last-week": "75",
+        "peak-rank": "72",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "73",
+        "song": "2U",
+        "artist": "David Guetta Featuring Justin Bieber",
+        "last-week": "64",
+        "peak-rank": "16",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "74",
+        "song": "New Rules",
+        "artist": "Dua Lipa",
+        "last-week": "81",
+        "peak-rank": "74",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "75",
+        "song": "B.E.D.",
+        "artist": "Jacquees",
+        "last-week": "89",
+        "peak-rank": "75",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "76",
+        "song": "All The Pretty Girls",
+        "artist": "Kenny Chesney",
+        "last-week": "80",
+        "peak-rank": "76",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "77",
+        "song": "Look What You Made Me Do",
+        "artist": "Taylor Swift",
+        "last-week": "",
+        "peak-rank": "77",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "78",
+        "song": "My Girl",
+        "artist": "Dylan Scott",
+        "last-week": "72",
+        "peak-rank": "39",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "79",
+        "song": "Younger Now",
+        "artist": "Miley Cyrus",
+        "last-week": "",
+        "peak-rank": "79",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "80",
+        "song": "Its Every Night Sis",
+        "artist": "RiceGum Featuring Alissa Violet",
+        "last-week": "",
+        "peak-rank": "80",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "81",
+        "song": "Honest",
+        "artist": "The Chainsmokers",
+        "last-week": "77",
+        "peak-rank": "77",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "82",
+        "song": "Transportin'",
+        "artist": "Kodak Black",
+        "last-week": "",
+        "peak-rank": "82",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "83",
+        "song": "It Ain't My Fault",
+        "artist": "Brothers Osborne",
+        "last-week": "79",
+        "peak-rank": "79",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "84",
+        "song": "Every Little Thing",
+        "artist": "Carly Pearce",
+        "last-week": "85",
+        "peak-rank": "84",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "85",
+        "song": "Wish I Knew You",
+        "artist": "The Revivalists",
+        "last-week": "87",
+        "peak-rank": "85",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "86",
+        "song": "They Don't Know",
+        "artist": "Jason Aldean",
+        "last-week": "82",
+        "peak-rank": "82",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "87",
+        "song": "Reminder",
+        "artist": "The Weeknd",
+        "last-week": "76",
+        "peak-rank": "31",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "88",
+        "song": "Flatliner",
+        "artist": "Cole Swindell",
+        "last-week": "74",
+        "peak-rank": "56",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "89",
+        "song": "More Girls Like You",
+        "artist": "Kip Moore",
+        "last-week": "88",
+        "peak-rank": "88",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "90",
+        "song": "Questions",
+        "artist": "Chris Brown",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "91",
+        "song": "Perplexing Pegasus",
+        "artist": "Rae Sremmurd",
+        "last-week": "93",
+        "peak-rank": "84",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "92",
+        "song": "For Her",
+        "artist": "Chris Lane",
+        "last-week": "94",
+        "peak-rank": "92",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "93",
+        "song": "Patty Cake",
+        "artist": "Kodak Black",
+        "last-week": "86",
+        "peak-rank": "76",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "94",
+        "song": "Havana",
+        "artist": "Camila Cabello Featuring Young Thug",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "95",
+        "song": "4 AM",
+        "artist": "2 Chainz Featuring Travis Scott",
+        "last-week": "90",
+        "peak-rank": "55",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "96",
+        "song": "Untouchable",
+        "artist": "YoungBoy Never Broke Again",
+        "last-week": "95",
+        "peak-rank": "95",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "97",
+        "song": "Privacy",
+        "artist": "Chris Brown",
+        "last-week": "91",
+        "peak-rank": "62",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "98",
+        "song": "Relationship",
+        "artist": "Young Thug Featuring Future",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "99",
+        "song": "Know No Better",
+        "artist": "Major Lazer Featuring Travis Scott, Camila Cabello & Quavo",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2017-09-09",
+        "rank": "100",
+        "song": "I Could Use A Love Song",
+        "artist": "Maren Morris",
+        "last-week": "97",
+        "peak-rank": "97",
+        "weeks-on-board": "2"
+    }
+]

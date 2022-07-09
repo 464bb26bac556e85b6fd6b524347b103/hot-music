@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1986-09-20",
+        "rank": "1",
+        "song": "Stuck With You",
+        "artist": "Huey Lewis & The News",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "2",
+        "song": "Dancing On The Ceiling",
+        "artist": "Lionel Richie",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "3",
+        "song": "Friends And Lovers",
+        "artist": "Carl Anderson & Gloria Loring",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "4",
+        "song": "Take My Breath Away (Love Theme From \"Top Gun\")",
+        "artist": "Berlin",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "5",
+        "song": "Words Get In The Way",
+        "artist": "Miami Sound Machine",
+        "last-week": "8",
+        "peak-rank": "5",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "6",
+        "song": "Walk This Way",
+        "artist": "Run-D.M.C.",
+        "last-week": "9",
+        "peak-rank": "6",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "7",
+        "song": "Venus",
+        "artist": "Bananarama",
+        "last-week": "5",
+        "peak-rank": "1",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "8",
+        "song": "Don't Forget Me (When I'm Gone)",
+        "artist": "Glass Tiger",
+        "last-week": "11",
+        "peak-rank": "8",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "9",
+        "song": "Dreamtime",
+        "artist": "Daryl Hall",
+        "last-week": "12",
+        "peak-rank": "9",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "10",
+        "song": "Baby Love",
+        "artist": "Regina",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "11",
+        "song": "Love Zone",
+        "artist": "Billy Ocean",
+        "last-week": "13",
+        "peak-rank": "11",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "12",
+        "song": "Higher Love",
+        "artist": "Steve Winwood",
+        "last-week": "6",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "13",
+        "song": "Sweet Freedom (Theme From \"Running Scared\")",
+        "artist": "Michael McDonald",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "14",
+        "song": "When I Think Of You",
+        "artist": "Janet Jackson",
+        "last-week": "18",
+        "peak-rank": "14",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "15",
+        "song": "Two Of Hearts",
+        "artist": "Stacey Q",
+        "last-week": "17",
+        "peak-rank": "15",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "16",
+        "song": "The Captain Of Her Heart",
+        "artist": "Double",
+        "last-week": "16",
+        "peak-rank": "16",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "17",
+        "song": "Throwing It All Away",
+        "artist": "Genesis",
+        "last-week": "20",
+        "peak-rank": "17",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "18",
+        "song": "Missionary Man",
+        "artist": "Eurythmics",
+        "last-week": "23",
+        "peak-rank": "18",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "19",
+        "song": "Typical Male",
+        "artist": "Tina Turner",
+        "last-week": "27",
+        "peak-rank": "19",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "20",
+        "song": "Heartbeat",
+        "artist": "Don Johnson",
+        "last-week": "30",
+        "peak-rank": "20",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "21",
+        "song": "Press",
+        "artist": "Paul McCartney",
+        "last-week": "21",
+        "peak-rank": "21",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "22",
+        "song": "Heaven In Your Eyes",
+        "artist": "Loverboy",
+        "last-week": "25",
+        "peak-rank": "22",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "23",
+        "song": "All Cried Out",
+        "artist": "Lisa Lisa And Cult Jam With Full Force Featuring Paul Anthony & Bow Legged Lou",
+        "last-week": "26",
+        "peak-rank": "23",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "24",
+        "song": "Man Size Love (From \"Running Scared\")",
+        "artist": "Klymaxx",
+        "last-week": "15",
+        "peak-rank": "15",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "25",
+        "song": "Twist And Shout",
+        "artist": "The Beatles",
+        "last-week": "29",
+        "peak-rank": "2",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "26",
+        "song": "Love Walks In",
+        "artist": "Van Halen",
+        "last-week": "28",
+        "peak-rank": "26",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "27",
+        "song": "Papa Don't Preach",
+        "artist": "Madonna",
+        "last-week": "14",
+        "peak-rank": "1",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "28",
+        "song": "Rumors",
+        "artist": "Timex Social Club",
+        "last-week": "19",
+        "peak-rank": "8",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "29",
+        "song": "A Matter Of Trust",
+        "artist": "Billy Joel",
+        "last-week": "33",
+        "peak-rank": "29",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "30",
+        "song": "True Colors",
+        "artist": "Cyndi Lauper",
+        "last-week": "40",
+        "peak-rank": "30",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "31",
+        "song": "Money$ Too Tight (To Mention)",
+        "artist": "Simply Red",
+        "last-week": "32",
+        "peak-rank": "31",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "32",
+        "song": "Sweet Love",
+        "artist": "Anita Baker",
+        "last-week": "35",
+        "peak-rank": "32",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "33",
+        "song": "I Didn't Mean To Turn You On",
+        "artist": "Robert Palmer",
+        "last-week": "38",
+        "peak-rank": "33",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "34",
+        "song": "Earth Angel (From \"The Karate Kid Part II\")",
+        "artist": "New Edition",
+        "last-week": "42",
+        "peak-rank": "34",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "35",
+        "song": "Point Of No Return",
+        "artist": "Nu Shooz",
+        "last-week": "37",
+        "peak-rank": "35",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "36",
+        "song": "Glory Of Love (Theme From \"The Karate Kid Part II\")",
+        "artist": "Peter Cetera",
+        "last-week": "24",
+        "peak-rank": "1",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "37",
+        "song": "Girl Can't Help It",
+        "artist": "Journey",
+        "last-week": "46",
+        "peak-rank": "37",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "38",
+        "song": "Mad About You",
+        "artist": "Belinda Carlisle",
+        "last-week": "31",
+        "peak-rank": "3",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "39",
+        "song": "We Don't Have To Take Our Clothes Off",
+        "artist": "Jermaine Stewart",
+        "last-week": "34",
+        "peak-rank": "5",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "40",
+        "song": "Paranoimia",
+        "artist": "Art Of Noise With Max Headroom",
+        "last-week": "48",
+        "peak-rank": "40",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "41",
+        "song": "Velcro Fly",
+        "artist": "ZZ Top",
+        "last-week": "39",
+        "peak-rank": "35",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "42",
+        "song": "Yankee Rose",
+        "artist": "David Lee Roth",
+        "last-week": "22",
+        "peak-rank": "16",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "43",
+        "song": "Love Always",
+        "artist": "El DeBarge",
+        "last-week": "45",
+        "peak-rank": "43",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "44",
+        "song": "I'll Be Over You",
+        "artist": "Toto",
+        "last-week": "58",
+        "peak-rank": "44",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "45",
+        "song": "Ain't Nothin' Goin' On But The Rent",
+        "artist": "Gwen Guthrie",
+        "last-week": "47",
+        "peak-rank": "45",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "46",
+        "song": "Take Me Home Tonight",
+        "artist": "Eddie Money",
+        "last-week": "56",
+        "peak-rank": "46",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "47",
+        "song": "So Far So Good (From \"About Last Night\")",
+        "artist": "Sheena Easton",
+        "last-week": "49",
+        "peak-rank": "47",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "48",
+        "song": "In Your Eyes (Theme From \"Say Anything\")",
+        "artist": "Peter Gabriel",
+        "last-week": "59",
+        "peak-rank": "48",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "49",
+        "song": "You Can Call Me Al",
+        "artist": "Paul Simon",
+        "last-week": "53",
+        "peak-rank": "49",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "50",
+        "song": "Wrap It Up",
+        "artist": "The Fabulous Thunderbirds",
+        "last-week": "50",
+        "peak-rank": "50",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "51",
+        "song": "Human",
+        "artist": "The Human League",
+        "last-week": "71",
+        "peak-rank": "51",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "52",
+        "song": "It's You",
+        "artist": "Bob Seger",
+        "last-week": "55",
+        "peak-rank": "52",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "53",
+        "song": "What Does It Take",
+        "artist": "Honeymoon Suite",
+        "last-week": "52",
+        "peak-rank": "52",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "54",
+        "song": "Another Heartache",
+        "artist": "Rod Stewart",
+        "last-week": "63",
+        "peak-rank": "54",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "55",
+        "song": "25 Or 6 To 4",
+        "artist": "Chicago",
+        "last-week": "67",
+        "peak-rank": "4",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "56",
+        "song": "Emotion In Motion",
+        "artist": "Ric Ocasek",
+        "last-week": "74",
+        "peak-rank": "56",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "57",
+        "song": "Give Me The Reason",
+        "artist": "Luther Vandross",
+        "last-week": "68",
+        "peak-rank": "57",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "58",
+        "song": "The Other Side Of Life",
+        "artist": "The Moody Blues",
+        "last-week": "61",
+        "peak-rank": "58",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "59",
+        "song": "Oh, People",
+        "artist": "Patti LaBelle",
+        "last-week": "41",
+        "peak-rank": "29",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "60",
+        "song": "Playing With The Boys",
+        "artist": "Kenny Loggins",
+        "last-week": "60",
+        "peak-rank": "60",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "61",
+        "song": "Nothing In Common",
+        "artist": "Thompson Twins",
+        "last-week": "54",
+        "peak-rank": "54",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "62",
+        "song": "That Was Then, This Is Now",
+        "artist": "The Monkees",
+        "last-week": "36",
+        "peak-rank": "20",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "63",
+        "song": "Private Number",
+        "artist": "The Jets",
+        "last-week": "51",
+        "peak-rank": "47",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "64",
+        "song": "You Should Be Mine (The Woo Woo Song)",
+        "artist": "Jeffrey Osborne",
+        "last-week": "44",
+        "peak-rank": "13",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "65",
+        "song": "Love Comes Quickly",
+        "artist": "Pet Shop Boys",
+        "last-week": "72",
+        "peak-rank": "65",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "66",
+        "song": "I Am By Your Side",
+        "artist": "Corey Hart",
+        "last-week": "",
+        "peak-rank": "66",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "67",
+        "song": "Somebody's Out There",
+        "artist": "Triumph",
+        "last-week": "78",
+        "peak-rank": "67",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "68",
+        "song": "You Give Love A Bad Name",
+        "artist": "Bon Jovi",
+        "last-week": "83",
+        "peak-rank": "68",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "69",
+        "song": "Spirit In The Sky",
+        "artist": "Doctor And The Medics",
+        "last-week": "69",
+        "peak-rank": "69",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "70",
+        "song": "The Edge Of Heaven",
+        "artist": "Wham!",
+        "last-week": "43",
+        "peak-rank": "10",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "71",
+        "song": "Taken In",
+        "artist": "Mike + The Mechanics",
+        "last-week": "57",
+        "peak-rank": "32",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "72",
+        "song": "The Rain",
+        "artist": "Oran 'Juice' Jones",
+        "last-week": "94",
+        "peak-rank": "72",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "73",
+        "song": "Word Up",
+        "artist": "Cameo",
+        "last-week": "81",
+        "peak-rank": "73",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "74",
+        "song": "The Next Time I Fall",
+        "artist": "Peter Cetera With Amy Grant",
+        "last-week": "",
+        "peak-rank": "74",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "75",
+        "song": "Somebody Like You",
+        "artist": "Thirty Eight Special",
+        "last-week": "62",
+        "peak-rank": "48",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "76",
+        "song": "Can't Wait Another Minute",
+        "artist": "Five Star",
+        "last-week": "89",
+        "peak-rank": "76",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "77",
+        "song": "Sledgehammer",
+        "artist": "Peter Gabriel",
+        "last-week": "64",
+        "peak-rank": "1",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "78",
+        "song": "Wild Wild Life",
+        "artist": "Talking Heads",
+        "last-week": "88",
+        "peak-rank": "78",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "79",
+        "song": "Danger Zone",
+        "artist": "Kenny Loggins",
+        "last-week": "70",
+        "peak-rank": "2",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "80",
+        "song": "Jody",
+        "artist": "Jermaine Stewart",
+        "last-week": "",
+        "peak-rank": "80",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "81",
+        "song": "Eye Of The Zombie",
+        "artist": "John Fogerty",
+        "last-week": "86",
+        "peak-rank": "81",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "82",
+        "song": "Love Touch (Theme From \"Legal Eagles\")",
+        "artist": "Rod Stewart",
+        "last-week": "65",
+        "peak-rank": "6",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "83",
+        "song": "Lonely Is The Night",
+        "artist": "Air Supply",
+        "last-week": "77",
+        "peak-rank": "76",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "84",
+        "song": "What About Love",
+        "artist": "'Til Tuesday",
+        "last-week": "",
+        "peak-rank": "84",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "85",
+        "song": "Everytime You Cry",
+        "artist": "The Outfield",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "86",
+        "song": "The Way It Is",
+        "artist": "Bruce Hornsby & The Range",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "87",
+        "song": "The Hunter",
+        "artist": "GTR",
+        "last-week": "87",
+        "peak-rank": "85",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "88",
+        "song": "Midas Touch",
+        "artist": "Midnight Star",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "89",
+        "song": "Take It Easy",
+        "artist": "Andy Taylor",
+        "last-week": "76",
+        "peak-rank": "24",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "90",
+        "song": "I Feel The Magic",
+        "artist": "Belinda Carlisle",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "91",
+        "song": "All The Love In The World",
+        "artist": "The Outfield",
+        "last-week": "73",
+        "peak-rank": "19",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "92",
+        "song": "Runaway",
+        "artist": "Luis Cardenas",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "93",
+        "song": "California Dreamin'",
+        "artist": "The Beach Boys",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "94",
+        "song": "Love Of A Lifetime",
+        "artist": "Chaka Khan",
+        "last-week": "82",
+        "peak-rank": "53",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "95",
+        "song": "Anotherloverholenyohead",
+        "artist": "Prince And The Revolution",
+        "last-week": "85",
+        "peak-rank": "63",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "96",
+        "song": "Rumbleseat",
+        "artist": "John Mellencamp",
+        "last-week": "80",
+        "peak-rank": "28",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "97",
+        "song": "Ruthless People",
+        "artist": "Mick Jagger",
+        "last-week": "66",
+        "peak-rank": "51",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "98",
+        "song": "Invisible Touch",
+        "artist": "Genesis",
+        "last-week": "79",
+        "peak-rank": "1",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "99",
+        "song": "Every Little Kiss",
+        "artist": "Bruce Hornsby & The Range",
+        "last-week": "75",
+        "peak-rank": "72",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1986-09-20",
+        "rank": "100",
+        "song": "Nasty",
+        "artist": "Janet Jackson",
+        "last-week": "84",
+        "peak-rank": "3",
+        "weeks-on-board": "19"
+    }
+]

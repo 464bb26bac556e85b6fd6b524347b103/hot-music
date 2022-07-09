@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1996-11-23",
+        "rank": "1",
+        "song": "No Diggity",
+        "artist": "BLACKstreet (Featuring Dr. Dre)",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "2",
+        "song": "It's All Coming Back To Me Now",
+        "artist": "Celine Dion",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "3",
+        "song": "Un-Break My Heart",
+        "artist": "Toni Braxton",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "4",
+        "song": "Mouth",
+        "artist": "Merril Bainbridge",
+        "last-week": "6",
+        "peak-rank": "4",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "5",
+        "song": "Nobody",
+        "artist": "Keith Sweat Featuring Athena Cage",
+        "last-week": "7",
+        "peak-rank": "5",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "6",
+        "song": "Pony",
+        "artist": "Ginuwine",
+        "last-week": "8",
+        "peak-rank": "6",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "7",
+        "song": "I Love You Always Forever",
+        "artist": "Donna Lewis",
+        "last-week": "5",
+        "peak-rank": "2",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "8",
+        "song": "Where Do You Go",
+        "artist": "No Mercy",
+        "last-week": "9",
+        "peak-rank": "5",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "9",
+        "song": "Macarena (Bayside Boys Mix)",
+        "artist": "Los Del Rio",
+        "last-week": "4",
+        "peak-rank": "1",
+        "weeks-on-board": "49"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "10",
+        "song": "This Is For The Lover In You",
+        "artist": "Babyface Featuring LL Cool J, Howard Hewett, Jody Watley & Jeffrey Daniels",
+        "last-week": "10",
+        "peak-rank": "6",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "11",
+        "song": "Don't Let Go (Love)",
+        "artist": "En Vogue",
+        "last-week": "17",
+        "peak-rank": "11",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "12",
+        "song": "I'm Still In Love With You",
+        "artist": "New Edition",
+        "last-week": "14",
+        "peak-rank": "12",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "13",
+        "song": "If It Makes You Happy",
+        "artist": "Sheryl Crow",
+        "last-week": "11",
+        "peak-rank": "11",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "14",
+        "song": "When You Love A Woman",
+        "artist": "Journey",
+        "last-week": "13",
+        "peak-rank": "13",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "15",
+        "song": "Last Night (From \"The Nutty Professor\")",
+        "artist": "Az Yet",
+        "last-week": "15",
+        "peak-rank": "9",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "16",
+        "song": "Twisted",
+        "artist": "Keith Sweat",
+        "last-week": "12",
+        "peak-rank": "2",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "17",
+        "song": "Change The World",
+        "artist": "Eric Clapton",
+        "last-week": "16",
+        "peak-rank": "5",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "18",
+        "song": "You Must Love Me (From \"Evita\")",
+        "artist": "Madonna",
+        "last-week": "22",
+        "peak-rank": "18",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "19",
+        "song": "Falling",
+        "artist": "Montell Jordan",
+        "last-week": "28",
+        "peak-rank": "19",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "20",
+        "song": "Key West Intermezzo (I Saw You First)",
+        "artist": "John Mellencamp",
+        "last-week": "20",
+        "peak-rank": "14",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "21",
+        "song": "What Kind Of Man Would I Be",
+        "artist": "Mint Condition",
+        "last-week": "24",
+        "peak-rank": "21",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "22",
+        "song": "Tell Me (From \"Eddie\")",
+        "artist": "Dru Hill",
+        "last-week": "18",
+        "peak-rank": "18",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "23",
+        "song": "You're Makin' Me High/Let It Flow",
+        "artist": "Toni Braxton",
+        "last-week": "21",
+        "peak-rank": "1",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "24",
+        "song": "C'mon N' Ride It (The Train)",
+        "artist": "Quad City DJ's",
+        "last-week": "19",
+        "peak-rank": "3",
+        "weeks-on-board": "37"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "25",
+        "song": "This Is Your Night",
+        "artist": "Amber",
+        "last-week": "27",
+        "peak-rank": "25",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "26",
+        "song": "Counting Blue Cars",
+        "artist": "Dishwalla",
+        "last-week": "25",
+        "peak-rank": "15",
+        "weeks-on-board": "34"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "27",
+        "song": "Let's Make A Night To Remember",
+        "artist": "Bryan Adams",
+        "last-week": "26",
+        "peak-rank": "24",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "28",
+        "song": "I Finally Found Someone (From \"The Mirror Has Two Faces\")",
+        "artist": "Barbra Streisand & Bryan Adams",
+        "last-week": "",
+        "peak-rank": "28",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "29",
+        "song": "Street Dreams",
+        "artist": "Nas",
+        "last-week": "32",
+        "peak-rank": "29",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "30",
+        "song": "Sittin' On Top Of The World",
+        "artist": "Da Brat",
+        "last-week": "30",
+        "peak-rank": "30",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "31",
+        "song": "You Learn/You Oughta Know",
+        "artist": "Alanis Morissette",
+        "last-week": "29",
+        "peak-rank": "6",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "32",
+        "song": "If Your Girl Only Knew",
+        "artist": "Aaliyah",
+        "last-week": "23",
+        "peak-rank": "11",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "33",
+        "song": "My Boo",
+        "artist": "Ghost Town DJ's",
+        "last-week": "37",
+        "peak-rank": "31",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "34",
+        "song": "Bow Down",
+        "artist": "Westside Connection",
+        "last-week": "33",
+        "peak-rank": "21",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "35",
+        "song": "Loungin",
+        "artist": "LL Cool J",
+        "last-week": "31",
+        "peak-rank": "3",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "36",
+        "song": "Between You And Me",
+        "artist": "dc Talk",
+        "last-week": "39",
+        "peak-rank": "36",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "37",
+        "song": "Po Pimp",
+        "artist": "Do Or Die (Featuring Twista)",
+        "last-week": "34",
+        "peak-rank": "22",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "38",
+        "song": "Give Me One Reason",
+        "artist": "Tracy Chapman",
+        "last-week": "36",
+        "peak-rank": "3",
+        "weeks-on-board": "34"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "39",
+        "song": "Never Leave Me Alone",
+        "artist": "Nate Dogg Featuring Snoop Doggy Dogg",
+        "last-week": "42",
+        "peak-rank": "39",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "40",
+        "song": "Who Will Save Your Soul",
+        "artist": "Jewel",
+        "last-week": "38",
+        "peak-rank": "11",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "41",
+        "song": "That Thing You Do! (From \"That Thing You Do!\")",
+        "artist": "The Wonders",
+        "last-week": "41",
+        "peak-rank": "41",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "42",
+        "song": "No Time",
+        "artist": "Lil' Kim Featuring Puff Daddy",
+        "last-week": "44",
+        "peak-rank": "42",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "43",
+        "song": "Steelo",
+        "artist": "702",
+        "last-week": "46",
+        "peak-rank": "43",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "44",
+        "song": "Missing You (From \"Set It Off\")",
+        "artist": "Brandy, Tamia, Gladys Knight & Chaka Khan",
+        "last-week": "35",
+        "peak-rank": "25",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "45",
+        "song": "Only You",
+        "artist": "112 Featuring The Notorious B.I.G.",
+        "last-week": "40",
+        "peak-rank": "13",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "46",
+        "song": "Bohemian Rhapsody (From \"High School High\")",
+        "artist": "The Braids",
+        "last-week": "48",
+        "peak-rank": "46",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "47",
+        "song": "How Do U Want It/California Love",
+        "artist": "2Pac Featuring K-Ci And JoJo",
+        "last-week": "43",
+        "peak-rank": "1",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "48",
+        "song": "Follow You Down/Til I Hear It From You",
+        "artist": "Gin Blossoms",
+        "last-week": "47",
+        "peak-rank": "9",
+        "weeks-on-board": "42"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "49",
+        "song": "I Can't Sleep Baby (If I)",
+        "artist": "R. Kelly",
+        "last-week": "45",
+        "peak-rank": "5",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "50",
+        "song": "Macarena",
+        "artist": "Los Del Rio",
+        "last-week": "49",
+        "peak-rank": "23",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "51",
+        "song": "Bittersweet Me",
+        "artist": "R.E.M.",
+        "last-week": "53",
+        "peak-rank": "51",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "52",
+        "song": "Do You Miss Me",
+        "artist": "Jocelyn Enriquez",
+        "last-week": "55",
+        "peak-rank": "52",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "53",
+        "song": "How Could You (From \"Bulletproof\")",
+        "artist": "K-Ci & JoJo",
+        "last-week": "58",
+        "peak-rank": "53",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "54",
+        "song": "When Boy Meets Girl",
+        "artist": "Total",
+        "last-week": "61",
+        "peak-rank": "54",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "55",
+        "song": "Dance Into The Light",
+        "artist": "Phil Collins",
+        "last-week": "50",
+        "peak-rank": "45",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "56",
+        "song": "Nowhere To Go",
+        "artist": "Melissa Etheridge",
+        "last-week": "52",
+        "peak-rank": "40",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "57",
+        "song": "Floatin' On Your Love",
+        "artist": "The Isley Brothers Featuring Angela Winbush",
+        "last-week": "51",
+        "peak-rank": "47",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "58",
+        "song": "Come See Me",
+        "artist": "112",
+        "last-week": "69",
+        "peak-rank": "58",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "59",
+        "song": "Knocks Me Off My Feet",
+        "artist": "Donell Jones",
+        "last-week": "67",
+        "peak-rank": "59",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "60",
+        "song": "Ready To Go",
+        "artist": "Republica",
+        "last-week": "59",
+        "peak-rank": "56",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "61",
+        "song": "One And One",
+        "artist": "Robert Miles Featuring Maria Nayler",
+        "last-week": "54",
+        "peak-rank": "54",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "62",
+        "song": "Birmingham",
+        "artist": "Amanda Marshall",
+        "last-week": "56",
+        "peak-rank": "43",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "63",
+        "song": "At Night I Pray",
+        "artist": "Wild Orchid",
+        "last-week": "63",
+        "peak-rank": "63",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "64",
+        "song": "Use Your Heart",
+        "artist": "SWV",
+        "last-week": "62",
+        "peak-rank": "22",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "65",
+        "song": "If We Fall In Love Tonight",
+        "artist": "Rod Stewart",
+        "last-week": "78",
+        "peak-rank": "65",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "66",
+        "song": "When You're Gone/Free To Decide",
+        "artist": "The Cranberries",
+        "last-week": "",
+        "peak-rank": "66",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "67",
+        "song": "The Things That You Do",
+        "artist": "Gina Thompson",
+        "last-week": "57",
+        "peak-rank": "41",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "68",
+        "song": "Ascension (Don't Ever Wonder)",
+        "artist": "Maxwell",
+        "last-week": "60",
+        "peak-rank": "36",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "69",
+        "song": "What's Love Got To Do With It (From \"Supercop\")",
+        "artist": "Warren G Featuring Adina Howard",
+        "last-week": "66",
+        "peak-rank": "32",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "70",
+        "song": "Hit Me Off",
+        "artist": "New Edition",
+        "last-week": "68",
+        "peak-rank": "3",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "71",
+        "song": "I Luv U Baby",
+        "artist": "The Original",
+        "last-week": "71",
+        "peak-rank": "71",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "72",
+        "song": "Stupid Girl",
+        "artist": "Garbage",
+        "last-week": "74",
+        "peak-rank": "24",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "73",
+        "song": "The Moment",
+        "artist": "Kenny G",
+        "last-week": "84",
+        "peak-rank": "73",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "74",
+        "song": "Hero Of The Day",
+        "artist": "Metallica",
+        "last-week": "82",
+        "peak-rank": "74",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "75",
+        "song": "I Don't Need Your Love",
+        "artist": "Angelina",
+        "last-week": "75",
+        "peak-rank": "75",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "76",
+        "song": "Music Makes Me High",
+        "artist": "Lost Boyz",
+        "last-week": "64",
+        "peak-rank": "51",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "77",
+        "song": "You Can Make History (Young Again)",
+        "artist": "Elton John",
+        "last-week": "70",
+        "peak-rank": "70",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "78",
+        "song": "Let's Get The Mood Right",
+        "artist": "Johnny Gill",
+        "last-week": "73",
+        "peak-rank": "53",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "79",
+        "song": "Strawberry Wine",
+        "artist": "Deana Carter",
+        "last-week": "65",
+        "peak-rank": "65",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "80",
+        "song": "Tonight Is The Night",
+        "artist": "Le Click",
+        "last-week": "80",
+        "peak-rank": "80",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "81",
+        "song": "Little Bitty",
+        "artist": "Alan Jackson",
+        "last-week": "83",
+        "peak-rank": "81",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "82",
+        "song": "Like I Do",
+        "artist": "For Real",
+        "last-week": "72",
+        "peak-rank": "72",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "83",
+        "song": "Elevators (Me & You)",
+        "artist": "OutKast",
+        "last-week": "79",
+        "peak-rank": "12",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "84",
+        "song": "Tucker's Town",
+        "artist": "Hootie & The Blowfish",
+        "last-week": "77",
+        "peak-rank": "38",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "85",
+        "song": "Just The Way (Playas Play)",
+        "artist": "Alfonzo Hunter",
+        "last-week": "87",
+        "peak-rank": "85",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "86",
+        "song": "Touch Myself (From \"Fled\")",
+        "artist": "T-Boz",
+        "last-week": "90",
+        "peak-rank": "40",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "87",
+        "song": "Why Does It Hurt So Bad (From \"Waiting To Exhale\")",
+        "artist": "Whitney Houston",
+        "last-week": "81",
+        "peak-rank": "26",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "88",
+        "song": "Can't Knock The Hustle",
+        "artist": "JAY-Z",
+        "last-week": "88",
+        "peak-rank": "73",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "89",
+        "song": "I Fell In Love",
+        "artist": "Rockell",
+        "last-week": "92",
+        "peak-rank": "89",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "90",
+        "song": "Your Secret Love",
+        "artist": "Luther Vandross",
+        "last-week": "76",
+        "peak-rank": "52",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "91",
+        "song": "Everything Falls Apart/Small Wonders",
+        "artist": "dog's eye view",
+        "last-week": "89",
+        "peak-rank": "66",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "92",
+        "song": "Jellyhead",
+        "artist": "Crush",
+        "last-week": "85",
+        "peak-rank": "79",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "93",
+        "song": "Tell Me (I'll Be Around)",
+        "artist": "Shades",
+        "last-week": "86",
+        "peak-rank": "50",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "94",
+        "song": "Devil's Haircut",
+        "artist": "Beck",
+        "last-week": "94",
+        "peak-rank": "94",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "95",
+        "song": "Snapshot",
+        "artist": "RuPaul",
+        "last-week": "95",
+        "peak-rank": "95",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "96",
+        "song": "Missing You",
+        "artist": "Tina Turner",
+        "last-week": "93",
+        "peak-rank": "84",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "97",
+        "song": "Every Light In The House",
+        "artist": "Trace Adkins",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "98",
+        "song": "The Child (Inside)",
+        "artist": "Qkumba Zoo",
+        "last-week": "91",
+        "peak-rank": "69",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "99",
+        "song": "DJ Girl",
+        "artist": "Katalina",
+        "last-week": "97",
+        "peak-rank": "86",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1996-11-23",
+        "rank": "100",
+        "song": "Don't Go Away",
+        "artist": "Fun Factory",
+        "last-week": "98",
+        "peak-rank": "93",
+        "weeks-on-board": "4"
+    }
+]

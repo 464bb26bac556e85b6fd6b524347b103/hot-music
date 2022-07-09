@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1998-12-05",
+        "rank": "1",
+        "song": "I'm Your Angel",
+        "artist": "R. Kelly & Celine Dion",
+        "last-week": "",
+        "peak-rank": "1",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "2",
+        "song": "Nobody's Supposed To Be Here",
+        "artist": "Deborah Cox",
+        "last-week": "3",
+        "peak-rank": "2",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "3",
+        "song": "Lately",
+        "artist": "Divine",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "4",
+        "song": "Doo Wop (That Thing)",
+        "artist": "Lauryn Hill",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "5",
+        "song": "From This Moment On",
+        "artist": "Shania Twain",
+        "last-week": "",
+        "peak-rank": "5",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "6",
+        "song": "Because Of You",
+        "artist": "98 Degrees",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "7",
+        "song": "The First Night",
+        "artist": "Monica",
+        "last-week": "5",
+        "peak-rank": "1",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "8",
+        "song": "How Deep Is Your Love",
+        "artist": "Dru Hill Featuring Redman",
+        "last-week": "8",
+        "peak-rank": "3",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "9",
+        "song": "Iris",
+        "artist": "Goo Goo Dolls",
+        "last-week": "",
+        "peak-rank": "9",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "10",
+        "song": "Love Like This",
+        "artist": "Faith Evans",
+        "last-week": "15",
+        "peak-rank": "10",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "11",
+        "song": "This Kiss",
+        "artist": "Faith Hill",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "38"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "12",
+        "song": "Lullaby",
+        "artist": "Shawn Mullins",
+        "last-week": "",
+        "peak-rank": "12",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "13",
+        "song": "One Week",
+        "artist": "Barenaked Ladies",
+        "last-week": "6",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "14",
+        "song": "Save Tonight",
+        "artist": "Eagle-Eye Cherry",
+        "last-week": "",
+        "peak-rank": "14",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "15",
+        "song": "Have You Ever?",
+        "artist": "Brandy",
+        "last-week": "",
+        "peak-rank": "15",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "16",
+        "song": "Jumper",
+        "artist": "Third Eye Blind",
+        "last-week": "",
+        "peak-rank": "16",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "17",
+        "song": "Thank U",
+        "artist": "Alanis Morissette",
+        "last-week": "",
+        "peak-rank": "17",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "18",
+        "song": "...Baby One More Time",
+        "artist": "Britney Spears",
+        "last-week": "14",
+        "peak-rank": "14",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "19",
+        "song": "Love Me",
+        "artist": "112 Featuring Mase",
+        "last-week": "17",
+        "peak-rank": "17",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "20",
+        "song": "Trippin'",
+        "artist": "Total Featuring Missy Elliott",
+        "last-week": "18",
+        "peak-rank": "18",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "21",
+        "song": "Are You That Somebody?",
+        "artist": "Aaliyah",
+        "last-week": "",
+        "peak-rank": "21",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "22",
+        "song": "I'll Be",
+        "artist": "Edwin McCain",
+        "last-week": "9",
+        "peak-rank": "5",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "23",
+        "song": "My Favorite Mistake",
+        "artist": "Sheryl Crow",
+        "last-week": "",
+        "peak-rank": "23",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "24",
+        "song": "Hands",
+        "artist": "Jewel",
+        "last-week": "",
+        "peak-rank": "24",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "25",
+        "song": "Slide",
+        "artist": "Goo Goo Dolls",
+        "last-week": "",
+        "peak-rank": "25",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "26",
+        "song": "Crush",
+        "artist": "Jennifer Paige",
+        "last-week": "10",
+        "peak-rank": "3",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "27",
+        "song": "Can I Get A...",
+        "artist": "Jay-Z Featuring Amil (Of Major Coinz) & Ja",
+        "last-week": "30",
+        "peak-rank": "27",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "28",
+        "song": "Touch It",
+        "artist": "Monifah",
+        "last-week": "16",
+        "peak-rank": "9",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "29",
+        "song": "Westside",
+        "artist": "TQ",
+        "last-week": "13",
+        "peak-rank": "12",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "30",
+        "song": "The Power Of Good-Bye",
+        "artist": "Madonna",
+        "last-week": "11",
+        "peak-rank": "11",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "31",
+        "song": "Inside Out",
+        "artist": "Eve 6",
+        "last-week": "",
+        "peak-rank": "31",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "32",
+        "song": "Too Close",
+        "artist": "Next",
+        "last-week": "20",
+        "peak-rank": "1",
+        "weeks-on-board": "43"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "33",
+        "song": "All The Places (I Will Kiss You)",
+        "artist": "Aaron Hall",
+        "last-week": "26",
+        "peak-rank": "26",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "34",
+        "song": "I Still Love You",
+        "artist": "Next",
+        "last-week": "21",
+        "peak-rank": "14",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "35",
+        "song": "I'll Never Break Your Heart",
+        "artist": "Backstreet Boys",
+        "last-week": "",
+        "peak-rank": "35",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "36",
+        "song": "Hard Knock Life (Ghetto Anthem)",
+        "artist": "JAY-Z",
+        "last-week": "32",
+        "peak-rank": "32",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "37",
+        "song": "I Don't Want To Miss A Thing",
+        "artist": "Aerosmith",
+        "last-week": "12",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "38",
+        "song": "Real World",
+        "artist": "matchbox 20",
+        "last-week": "",
+        "peak-rank": "38",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "39",
+        "song": "Let Me Let Go",
+        "artist": "Faith Hill",
+        "last-week": "",
+        "peak-rank": "39",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "40",
+        "song": "It Must Be Love",
+        "artist": "Ty Herndon",
+        "last-week": "",
+        "peak-rank": "40",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "41",
+        "song": "Wide Open Spaces",
+        "artist": "Dixie Chicks",
+        "last-week": "96",
+        "peak-rank": "41",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "42",
+        "song": "Come And Get With Me",
+        "artist": "Keith Sweat Featuring Snoop Dogg",
+        "last-week": "19",
+        "peak-rank": "12",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "43",
+        "song": "A Little Past Little Rock",
+        "artist": "Lee Ann Womack",
+        "last-week": "",
+        "peak-rank": "43",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "44",
+        "song": "Pushin' Weight",
+        "artist": "Ice Cube Featuring Mr. Short Khop",
+        "last-week": "28",
+        "peak-rank": "28",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "45",
+        "song": "Someone You Used To Know",
+        "artist": "Collin Raye",
+        "last-week": "95",
+        "peak-rank": "45",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "46",
+        "song": "My Little Secret",
+        "artist": "Xscape",
+        "last-week": "25",
+        "peak-rank": "9",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "47",
+        "song": "Torn",
+        "artist": "Natalie Imbruglia",
+        "last-week": "",
+        "peak-rank": "47",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "48",
+        "song": "Husbands And Wives",
+        "artist": "Brooks & Dunn",
+        "last-week": "",
+        "peak-rank": "48",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "49",
+        "song": "We Really Shouldn't Be Doing This",
+        "artist": "George Strait",
+        "last-week": "",
+        "peak-rank": "49",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "50",
+        "song": "You're Easy On The Eyes",
+        "artist": "Terri Clark",
+        "last-week": "",
+        "peak-rank": "50",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "51",
+        "song": "When You Believe",
+        "artist": "Whitney Houston & Mariah Carey",
+        "last-week": "",
+        "peak-rank": "51",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "52",
+        "song": "Fly Away",
+        "artist": "Lenny Kravitz",
+        "last-week": "",
+        "peak-rank": "52",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "53",
+        "song": "Right On The Money",
+        "artist": "Alan Jackson",
+        "last-week": "",
+        "peak-rank": "53",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "54",
+        "song": "Ghetto Cowboy",
+        "artist": "Mo Thugs Family Featuring Bone Thugs-N-Harmony",
+        "last-week": "29",
+        "peak-rank": "29",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "55",
+        "song": "For You I Will",
+        "artist": "Aaron Tippin",
+        "last-week": "79",
+        "peak-rank": "55",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "56",
+        "song": "These Are The Times",
+        "artist": "Dru Hill",
+        "last-week": "",
+        "peak-rank": "56",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "57",
+        "song": "Miami",
+        "artist": "Will Smith",
+        "last-week": "",
+        "peak-rank": "57",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "58",
+        "song": "You're Beginning To Get To Me",
+        "artist": "Clay Walker",
+        "last-week": "",
+        "peak-rank": "58",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "59",
+        "song": "Tearin' Up My Heart",
+        "artist": "'N Sync",
+        "last-week": "",
+        "peak-rank": "59",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "60",
+        "song": "(God Must Have Spent) A Little More Time On You",
+        "artist": "'N Sync",
+        "last-week": "",
+        "peak-rank": "60",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "61",
+        "song": "Wrong Again",
+        "artist": "Martina McBride",
+        "last-week": "",
+        "peak-rank": "61",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "62",
+        "song": "It's Your Song",
+        "artist": "Garth Brooks",
+        "last-week": "",
+        "peak-rank": "62",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "63",
+        "song": "Angel",
+        "artist": "Sarah McLachlan",
+        "last-week": "",
+        "peak-rank": "63",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "64",
+        "song": "You Get What You Give",
+        "artist": "New Radicals",
+        "last-week": "",
+        "peak-rank": "64",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "65",
+        "song": "There You Have It",
+        "artist": "BlackHawk",
+        "last-week": "",
+        "peak-rank": "65",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "66",
+        "song": "Sweetest Thing",
+        "artist": "U2",
+        "last-week": "",
+        "peak-rank": "66",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "67",
+        "song": "How Do You Sleep At Night",
+        "artist": "Wade Hayes",
+        "last-week": "",
+        "peak-rank": "67",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "68",
+        "song": "Changes",
+        "artist": "2Pac",
+        "last-week": "",
+        "peak-rank": "68",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "69",
+        "song": "Hooch",
+        "artist": "Everything",
+        "last-week": "",
+        "peak-rank": "69",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "70",
+        "song": "Take Me There",
+        "artist": "BLACKstreet & Mya Featuring Mase & Blinky Blink",
+        "last-week": "",
+        "peak-rank": "70",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "71",
+        "song": "Home Alone",
+        "artist": "R. Kelly Featuring Keith Murray",
+        "last-week": "",
+        "peak-rank": "71",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "72",
+        "song": "Pretty Fly (For A White Guy)",
+        "artist": "The Offspring",
+        "last-week": "",
+        "peak-rank": "72",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "73",
+        "song": "Don't Laugh At Me",
+        "artist": "Mark Wills",
+        "last-week": "",
+        "peak-rank": "73",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "74",
+        "song": "Angel Of Mine",
+        "artist": "Monica",
+        "last-week": "",
+        "peak-rank": "74",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "75",
+        "song": "Rosa Parks",
+        "artist": "OutKast",
+        "last-week": "",
+        "peak-rank": "75",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "76",
+        "song": "Movin' On",
+        "artist": "Mya Featuring Silkk The Shocker",
+        "last-week": "45",
+        "peak-rank": "34",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "77",
+        "song": "Father Of Mine",
+        "artist": "Everclear",
+        "last-week": "",
+        "peak-rank": "77",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "78",
+        "song": "Angel In Disguise",
+        "artist": "Brandy",
+        "last-week": "",
+        "peak-rank": "78",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "79",
+        "song": "Where The Green Grass Grows",
+        "artist": "Tim McGraw",
+        "last-week": "",
+        "peak-rank": "79",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "80",
+        "song": "Lean On Me",
+        "artist": "Kirk Franklin Featuring Mary J. Blige, Bono, R. Kelly, Crystal Lewis & The Family",
+        "last-week": "",
+        "peak-rank": "80",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "81",
+        "song": "Wherever You Go",
+        "artist": "Voices Of Theory",
+        "last-week": "39",
+        "peak-rank": "36",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "82",
+        "song": "How Do You Fall In Love",
+        "artist": "Alabama",
+        "last-week": "",
+        "peak-rank": "82",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "83",
+        "song": "Absence Of The Heart",
+        "artist": "Deana Carter",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "84",
+        "song": "Spirit Of A Boy, Wisdom Of A Man",
+        "artist": "Randy Travis",
+        "last-week": "",
+        "peak-rank": "84",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "85",
+        "song": "Celebrity Skin",
+        "artist": "Hole",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "86",
+        "song": "For A Little While",
+        "artist": "Tim McGraw",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "87",
+        "song": "Never There",
+        "artist": "Cake",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "88",
+        "song": "Thinkin' Bout It",
+        "artist": "Gerald Levert",
+        "last-week": "59",
+        "peak-rank": "12",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "89",
+        "song": "Fire Escape",
+        "artist": "Fastball",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "90",
+        "song": "Hold Me",
+        "artist": "Brian McKnight Featuring Tone & Kobe Bryant",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "91",
+        "song": "Hold On To Me",
+        "artist": "John Michael Montgomery",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "92",
+        "song": "If I Lost You",
+        "artist": "Travis Tritt",
+        "last-week": "87",
+        "peak-rank": "86",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "93",
+        "song": "Here We Come",
+        "artist": "Timbaland Featuring Missy \"Misdemeanor\" Elliott & Magoo",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "94",
+        "song": "Jump Jive An' Wail",
+        "artist": "The Brian Setzer Orchestra",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "95",
+        "song": "Everything's Changed",
+        "artist": "Lonestar",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "96",
+        "song": "Can't Get Enough",
+        "artist": "Willie Max Featuring Raphael Saadiq",
+        "last-week": "49",
+        "peak-rank": "49",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "97",
+        "song": "Time After Time",
+        "artist": "Inoj",
+        "last-week": "37",
+        "peak-rank": "6",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "98",
+        "song": "Splackavellie",
+        "artist": "Pressha",
+        "last-week": "40",
+        "peak-rank": "27",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "99",
+        "song": "It's The Things You Do",
+        "artist": "Five",
+        "last-week": "53",
+        "peak-rank": "53",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1998-12-05",
+        "rank": "100",
+        "song": "SuperThug (What What)",
+        "artist": "Noreaga",
+        "last-week": "44",
+        "peak-rank": "36",
+        "weeks-on-board": "13"
+    }
+]

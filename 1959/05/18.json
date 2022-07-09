@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1959-05-18",
+        "rank": "1",
+        "song": "Kansas City",
+        "artist": "Wilbert Harrison",
+        "last-week": "6",
+        "peak-rank": "1",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "2",
+        "song": "Sorry (I Ran All The Way Home)",
+        "artist": "The Impalas",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "3",
+        "song": "The Happy Organ",
+        "artist": "Dave \"Baby\" Cortez",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "4",
+        "song": "Kookie, Kookie (Lend Me Your Comb)",
+        "artist": "Edward Byrnes & Connie Stevens",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "5",
+        "song": "A Teenager In Love",
+        "artist": "Dion & The Belmonts",
+        "last-week": "12",
+        "peak-rank": "5",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "6",
+        "song": "Dream Lover",
+        "artist": "Bobby Darin",
+        "last-week": "16",
+        "peak-rank": "6",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "7",
+        "song": "The Battle Of New Orleans",
+        "artist": "Johnny Horton",
+        "last-week": "23",
+        "peak-rank": "7",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "8",
+        "song": "Quiet Village",
+        "artist": "The Exotic Sounds of Martin Denny",
+        "last-week": "19",
+        "peak-rank": "8",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "9",
+        "song": "Turn Me Loose",
+        "artist": "Fabian",
+        "last-week": "9",
+        "peak-rank": "9",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "10",
+        "song": "Pink Shoe Laces",
+        "artist": "Dodie Stevens",
+        "last-week": "8",
+        "peak-rank": "3",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "11",
+        "song": "(Now and Then There's) A Fool Such As I",
+        "artist": "Elvis Presley With The Jordanaires",
+        "last-week": "5",
+        "peak-rank": "2",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "12",
+        "song": "Guitar Boogie Shuffle",
+        "artist": "The Virtues",
+        "last-week": "7",
+        "peak-rank": "5",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "13",
+        "song": "Enchanted",
+        "artist": "The Platters",
+        "last-week": "15",
+        "peak-rank": "12",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "14",
+        "song": "Only You",
+        "artist": "Franck Pourcel's French Fiddles",
+        "last-week": "20",
+        "peak-rank": "14",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "15",
+        "song": "Come Softly To Me",
+        "artist": "The Fleetwoods",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "16",
+        "song": "Take A Message To Mary",
+        "artist": "The Everly Brothers",
+        "last-week": "18",
+        "peak-rank": "16",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "17",
+        "song": "I Need Your Love Tonight",
+        "artist": "Elvis Presley With The Jordanaires",
+        "last-week": "10",
+        "peak-rank": "4",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "18",
+        "song": "Endlessly",
+        "artist": "Brook Benton",
+        "last-week": "28",
+        "peak-rank": "18",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "19",
+        "song": "Tell Him No",
+        "artist": "Travis & Bob",
+        "last-week": "11",
+        "peak-rank": "8",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "20",
+        "song": "That's Why (I Love You So)",
+        "artist": "Jackie Wilson",
+        "last-week": "17",
+        "peak-rank": "13",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "21",
+        "song": "So Fine",
+        "artist": "The Fiestas",
+        "last-week": "25",
+        "peak-rank": "21",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "22",
+        "song": "Personality",
+        "artist": "Lloyd Price and His Orchestra",
+        "last-week": "38",
+        "peak-rank": "22",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "23",
+        "song": "Goodbye Jimmy, Goodbye",
+        "artist": "Kathy Linden",
+        "last-week": "24",
+        "peak-rank": "23",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "24",
+        "song": "Three Stars",
+        "artist": "Tommy Dee with Carol Kay and the Teen-Aires",
+        "last-week": "13",
+        "peak-rank": "11",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "25",
+        "song": "The Tijuana Jail",
+        "artist": "The Kingston Trio",
+        "last-week": "21",
+        "peak-rank": "12",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "26",
+        "song": "Venus",
+        "artist": "Frankie Avalon",
+        "last-week": "14",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "27",
+        "song": "Since I Don't Have You",
+        "artist": "The Skyliners",
+        "last-week": "22",
+        "peak-rank": "12",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "28",
+        "song": "Poor Jenny",
+        "artist": "The Everly Brothers",
+        "last-week": "27",
+        "peak-rank": "22",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "29",
+        "song": "Six Nights A Week",
+        "artist": "The Crests",
+        "last-week": "34",
+        "peak-rank": "28",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "30",
+        "song": "Come To Me",
+        "artist": "Marv Johnson",
+        "last-week": "37",
+        "peak-rank": "30",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "31",
+        "song": "Guess Who",
+        "artist": "Jesse Belvin",
+        "last-week": "35",
+        "peak-rank": "31",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "32",
+        "song": "Almost Grown",
+        "artist": "Chuck Berry",
+        "last-week": "36",
+        "peak-rank": "32",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "33",
+        "song": "Never Be Anyone Else But You",
+        "artist": "Ricky Nelson",
+        "last-week": "26",
+        "peak-rank": "6",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "34",
+        "song": "I've Come Of Age",
+        "artist": "Billy Storm",
+        "last-week": "43",
+        "peak-rank": "34",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "35",
+        "song": "It's Late",
+        "artist": "Ricky Nelson",
+        "last-week": "29",
+        "peak-rank": "9",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "36",
+        "song": "Someone",
+        "artist": "Johnny Mathis",
+        "last-week": "41",
+        "peak-rank": "36",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "37",
+        "song": "For A Penny",
+        "artist": "Pat Boone",
+        "last-week": "30",
+        "peak-rank": "23",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "38",
+        "song": "This Should Go On Forever",
+        "artist": "Rod Bernard",
+        "last-week": "31",
+        "peak-rank": "20",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "39",
+        "song": "Sea Cruise",
+        "artist": "Frankie Ford",
+        "last-week": "33",
+        "peak-rank": "14",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "40",
+        "song": "Lonely For You",
+        "artist": "Gary Stites",
+        "last-week": "49",
+        "peak-rank": "40",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "41",
+        "song": "Everybody Likes To Cha Cha Cha",
+        "artist": "Sam Cooke",
+        "last-week": "46",
+        "peak-rank": "31",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "42",
+        "song": "Gidget",
+        "artist": "Jimmy Darren",
+        "last-week": "45",
+        "peak-rank": "42",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "43",
+        "song": "As Time Goes By",
+        "artist": "Johnny Nash",
+        "last-week": "51",
+        "peak-rank": "43",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "44",
+        "song": "Tragedy",
+        "artist": "Thomas Wayne With the Delons",
+        "last-week": "32",
+        "peak-rank": "5",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "45",
+        "song": "Just Keep It Up",
+        "artist": "Dee Clark",
+        "last-week": "48",
+        "peak-rank": "45",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "46",
+        "song": "I'm Ready",
+        "artist": "Fats Domino",
+        "last-week": "75",
+        "peak-rank": "46",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "47",
+        "song": "I Miss You So",
+        "artist": "Paul Anka",
+        "last-week": "40",
+        "peak-rank": "33",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "48",
+        "song": "I Waited Too Long",
+        "artist": "LaVern Baker",
+        "last-week": "54",
+        "peak-rank": "48",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "49",
+        "song": "It's Just A Matter Of Time",
+        "artist": "Brook Benton",
+        "last-week": "39",
+        "peak-rank": "3",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "50",
+        "song": "You're So Fine",
+        "artist": "The Falcons",
+        "last-week": "64",
+        "peak-rank": "50",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "51",
+        "song": "Bonaparte's Retreat",
+        "artist": "Billy Grammer",
+        "last-week": "50",
+        "peak-rank": "50",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "52",
+        "song": "Castin' My Spell",
+        "artist": "The Johnny Otis Show",
+        "last-week": "57",
+        "peak-rank": "52",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "53",
+        "song": "Tallahassee Lassie",
+        "artist": "Freddy Cannon",
+        "last-week": "96",
+        "peak-rank": "53",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "54",
+        "song": "Crossfire",
+        "artist": "Johnny And The Hurricanes",
+        "last-week": "47",
+        "peak-rank": "47",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "55",
+        "song": "\"Yep!\"",
+        "artist": "Duane Eddy His Twangy Guitar And The Rebels",
+        "last-week": "52",
+        "peak-rank": "30",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "56",
+        "song": "You Made Me Love You",
+        "artist": "Nat King Cole",
+        "last-week": "81",
+        "peak-rank": "56",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "57",
+        "song": "Lipstick On Your Collar",
+        "artist": "Connie Francis",
+        "last-week": "",
+        "peak-rank": "57",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "58",
+        "song": "I Still Get A Thrill (Thinking Of You)",
+        "artist": "Joni James",
+        "last-week": "53",
+        "peak-rank": "51",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "59",
+        "song": "Summer Dreams",
+        "artist": "The McGuire Sisters",
+        "last-week": "62",
+        "peak-rank": "59",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "60",
+        "song": "The Kissing Tree",
+        "artist": "Billy Grammer",
+        "last-week": "65",
+        "peak-rank": "60",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "61",
+        "song": "My Heart Is An Open Book",
+        "artist": "Carl Dobkins, Jr.",
+        "last-week": "91",
+        "peak-rank": "61",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "62",
+        "song": "Margie",
+        "artist": "Fats Domino",
+        "last-week": "87",
+        "peak-rank": "62",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "63",
+        "song": "So Close",
+        "artist": "Brook Benton",
+        "last-week": "",
+        "peak-rank": "63",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "64",
+        "song": "My Melancholy Baby",
+        "artist": "Tommy Edwards",
+        "last-week": "",
+        "peak-rank": "64",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "65",
+        "song": "It Doesn't Matter Anymore",
+        "artist": "Buddy Holly",
+        "last-week": "44",
+        "peak-rank": "13",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "66",
+        "song": "Frankie",
+        "artist": "Connie Francis",
+        "last-week": "",
+        "peak-rank": "66",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "67",
+        "song": "Rockin' Crickets",
+        "artist": "Hot-Toddys featuring Bill Pennell",
+        "last-week": "86",
+        "peak-rank": "67",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "68",
+        "song": "Robbin' The Cradle",
+        "artist": "Tony Bellus",
+        "last-week": "69",
+        "peak-rank": "68",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "69",
+        "song": "There's No Fool Like A Young Fool",
+        "artist": "Tab Hunter",
+        "last-week": "68",
+        "peak-rank": "68",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "70",
+        "song": "That's My Little Suzie",
+        "artist": "Ritchie Valens",
+        "last-week": "55",
+        "peak-rank": "55",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "71",
+        "song": "A String Of Trumpets",
+        "artist": "The Trumpeteers",
+        "last-week": "77",
+        "peak-rank": "71",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "72",
+        "song": "The Morning Side Of The Mountain",
+        "artist": "Tommy Edwards",
+        "last-week": "58",
+        "peak-rank": "27",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "73",
+        "song": "I Need Your Lovin'",
+        "artist": "Roy Hamilton",
+        "last-week": "67",
+        "peak-rank": "62",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "74",
+        "song": "Tall Cool One",
+        "artist": "The Wailers",
+        "last-week": "",
+        "peak-rank": "74",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "75",
+        "song": "Kansas City",
+        "artist": "Rocky Olson",
+        "last-week": "60",
+        "peak-rank": "60",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "76",
+        "song": "Kansas City",
+        "artist": "Hank Ballard And The Midnighters",
+        "last-week": "72",
+        "peak-rank": "72",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "77",
+        "song": "Hallelujah, I Love Him So",
+        "artist": "Peggy Lee",
+        "last-week": "",
+        "peak-rank": "77",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "78",
+        "song": "Young Ideas",
+        "artist": "Chico Holiday",
+        "last-week": "78",
+        "peak-rank": "78",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "79",
+        "song": "Frankie's Man, Johnny",
+        "artist": "Johnny Cash",
+        "last-week": "74",
+        "peak-rank": "71",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "80",
+        "song": "Bongo Rock",
+        "artist": "Preston Epps",
+        "last-week": "",
+        "peak-rank": "80",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "81",
+        "song": "Lonesome Old House",
+        "artist": "Don Gibson",
+        "last-week": "71",
+        "peak-rank": "71",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "82",
+        "song": "Your Cheatin' Heart",
+        "artist": "Billy Vaughn And His Orchestra",
+        "last-week": "89",
+        "peak-rank": "82",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "83",
+        "song": "Old Spanish Town",
+        "artist": "The Bell Notes",
+        "last-week": "95",
+        "peak-rank": "83",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "84",
+        "song": "Tell Him No",
+        "artist": "Dean & Marc",
+        "last-week": "42",
+        "peak-rank": "42",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "85",
+        "song": "Graduation's Here",
+        "artist": "The Fleetwoods",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "86",
+        "song": "Judy",
+        "artist": "David Seville",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "87",
+        "song": "Hey Little Lucy! (Don'tcha Put No Lipstick On)",
+        "artist": "Conway Twitty",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "88",
+        "song": "Along Came Jones",
+        "artist": "The Coasters",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "89",
+        "song": "Lovey Dovey",
+        "artist": "Clyde McPhatter",
+        "last-week": "59",
+        "peak-rank": "49",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "90",
+        "song": "The Class",
+        "artist": "Chubby Checker",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "91",
+        "song": "Russian Band Stand",
+        "artist": "Spencer & Spencer with the Sonia Pryor Choir",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "92",
+        "song": "(I Don't Care) Only Love Me",
+        "artist": "Steve Lawrence",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "93",
+        "song": "I Told Myself A Lie",
+        "artist": "Clyde McPhatter",
+        "last-week": "70",
+        "peak-rank": "70",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "94",
+        "song": "The Wonder Of You",
+        "artist": "Ray Peterson",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "95",
+        "song": "Kansas City (Hey-Hey-Hey-Hey)",
+        "artist": "Little Richard",
+        "last-week": "97",
+        "peak-rank": "95",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "96",
+        "song": "I Think I'm Gonna Kill Myself",
+        "artist": "Buddy Knox",
+        "last-week": "56",
+        "peak-rank": "55",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "97",
+        "song": "Peace",
+        "artist": "The McGuire Sisters",
+        "last-week": "85",
+        "peak-rank": "85",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "98",
+        "song": "Someone To Come Home To",
+        "artist": "The Ames Brothers",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "99",
+        "song": "Talk Of The School",
+        "artist": "Sonny James",
+        "last-week": "88",
+        "peak-rank": "88",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1959-05-18",
+        "rank": "100",
+        "song": "I Can't Get You Out Of My Heart",
+        "artist": "Al Martino",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "date": "2018-10-13",
+        "rank": "1",
+        "song": "Girls Like You",
+        "artist": "Maroon 5 Featuring Cardi B",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "2",
+        "song": "Mona Lisa",
+        "artist": "Lil Wayne Featuring Kendrick Lamar",
+        "last-week": "",
+        "peak-rank": "2",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "3",
+        "song": "Lucid Dreams",
+        "artist": "Juice WRLD",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "4",
+        "song": "Better Now",
+        "artist": "Post Malone",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "5",
+        "song": "Don't Cry",
+        "artist": "Lil Wayne Featuring XXXTENTACION",
+        "last-week": "",
+        "peak-rank": "5",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "6",
+        "song": "Sicko Mode",
+        "artist": "Travis Scott",
+        "last-week": "6",
+        "peak-rank": "4",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "7",
+        "song": "Uproar",
+        "artist": "Lil Wayne",
+        "last-week": "",
+        "peak-rank": "7",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "8",
+        "song": "Youngblood",
+        "artist": "5 Seconds Of Summer",
+        "last-week": "10",
+        "peak-rank": "8",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "9",
+        "song": "In My Feelings",
+        "artist": "Drake",
+        "last-week": "4",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "10",
+        "song": "Let It Fly",
+        "artist": "Lil Wayne Featuring Travis Scott",
+        "last-week": "",
+        "peak-rank": "10",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "11",
+        "song": "I Like It",
+        "artist": "Cardi B, Bad Bunny & J Balvin",
+        "last-week": "7",
+        "peak-rank": "1",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "12",
+        "song": "FEFE",
+        "artist": "6ix9ine Featuring Nicki Minaj & Murda Beatz",
+        "last-week": "8",
+        "peak-rank": "3",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "13",
+        "song": "Happier",
+        "artist": "Marshmello & Bastille",
+        "last-week": "15",
+        "peak-rank": "13",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "14",
+        "song": "Dedicate",
+        "artist": "Lil Wayne",
+        "last-week": "",
+        "peak-rank": "14",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "15",
+        "song": "Taste",
+        "artist": "Tyga Featuring Offset",
+        "last-week": "11",
+        "peak-rank": "8",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "16",
+        "song": "Love Lies",
+        "artist": "Khalid & Normani",
+        "last-week": "12",
+        "peak-rank": "9",
+        "weeks-on-board": "33"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "17",
+        "song": "Can't Be Broken",
+        "artist": "Lil Wayne",
+        "last-week": "",
+        "peak-rank": "17",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "18",
+        "song": "I Love It",
+        "artist": "Kanye West & Lil Pump",
+        "last-week": "9",
+        "peak-rank": "6",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "19",
+        "song": "Natural",
+        "artist": "Imagine Dragons",
+        "last-week": "14",
+        "peak-rank": "14",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "20",
+        "song": "Trip",
+        "artist": "Ella Mai",
+        "last-week": "18",
+        "peak-rank": "18",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "21",
+        "song": "God Is A Woman",
+        "artist": "Ariana Grande",
+        "last-week": "20",
+        "peak-rank": "8",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "22",
+        "song": "Back To You",
+        "artist": "Selena Gomez",
+        "last-week": "19",
+        "peak-rank": "18",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "23",
+        "song": "Nonstop",
+        "artist": "Drake",
+        "last-week": "16",
+        "peak-rank": "2",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "24",
+        "song": "What About Me",
+        "artist": "Lil Wayne Featuring Sosamann",
+        "last-week": "",
+        "peak-rank": "24",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "25",
+        "song": "Drip Too Hard",
+        "artist": "Lil Baby & Gunna",
+        "last-week": "25",
+        "peak-rank": "25",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "26",
+        "song": "Dark Side Of The Moon",
+        "artist": "Lil Wayne Featuring Nicki Minaj",
+        "last-week": "",
+        "peak-rank": "26",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "27",
+        "song": "Taki Taki",
+        "artist": "DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",
+        "last-week": "",
+        "peak-rank": "27",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "28",
+        "song": "Shallow",
+        "artist": "Lady Gaga & Bradley Cooper",
+        "last-week": "",
+        "peak-rank": "28",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "29",
+        "song": "Eastside",
+        "artist": "benny blanco, Halsey & Khalid",
+        "last-week": "27",
+        "peak-rank": "27",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "30",
+        "song": "No Brainer",
+        "artist": "DJ Khaled Featuring Justin Bieber, Chance The Rapper & Quavo",
+        "last-week": "17",
+        "peak-rank": "5",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "31",
+        "song": "Yes Indeed",
+        "artist": "Lil Baby & Drake",
+        "last-week": "22",
+        "peak-rank": "6",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "32",
+        "song": "Big Bank",
+        "artist": "YG Featuring 2 Chainz, Big Sean & Nicki Minaj",
+        "last-week": "26",
+        "peak-rank": "16",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "33",
+        "song": "Boo'd Up",
+        "artist": "Ella Mai",
+        "last-week": "23",
+        "peak-rank": "5",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "34",
+        "song": "Killshot",
+        "artist": "Eminem",
+        "last-week": "5",
+        "peak-rank": "3",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "35",
+        "song": "Meant To Be",
+        "artist": "Bebe Rexha & Florida Georgia Line",
+        "last-week": "30",
+        "peak-rank": "2",
+        "weeks-on-board": "50"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "36",
+        "song": "Famous",
+        "artist": "Lil Wayne Featuring Reginae Carter",
+        "last-week": "",
+        "peak-rank": "36",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "37",
+        "song": "Delicate",
+        "artist": "Taylor Swift",
+        "last-week": "29",
+        "peak-rank": "12",
+        "weeks-on-board": "30"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "38",
+        "song": "Mo Bamba",
+        "artist": "Sheck Wes",
+        "last-week": "31",
+        "peak-rank": "31",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "39",
+        "song": "Dope N****z",
+        "artist": "Lil Wayne Featuring Snoop Dogg",
+        "last-week": "",
+        "peak-rank": "39",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "40",
+        "song": "Falling Down",
+        "artist": "Lil Peep & XXXTENTACION",
+        "last-week": "13",
+        "peak-rank": "13",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "41",
+        "song": "Sad!",
+        "artist": "XXXTENTACION",
+        "last-week": "33",
+        "peak-rank": "1",
+        "weeks-on-board": "31"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "42",
+        "song": "I Like Me Better",
+        "artist": "Lauv",
+        "last-week": "34",
+        "peak-rank": "27",
+        "weeks-on-board": "34"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "43",
+        "song": "No Tears Left To Cry",
+        "artist": "Ariana Grande",
+        "last-week": "32",
+        "peak-rank": "3",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "44",
+        "song": "Psycho",
+        "artist": "Post Malone Featuring Ty Dolla $ign",
+        "last-week": "35",
+        "peak-rank": "1",
+        "weeks-on-board": "32"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "45",
+        "song": "I'm A Mess",
+        "artist": "Bebe Rexha",
+        "last-week": "36",
+        "peak-rank": "36",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "46",
+        "song": "The Middle",
+        "artist": "Zedd, Maren Morris & Grey",
+        "last-week": "37",
+        "peak-rank": "5",
+        "weeks-on-board": "36"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "47",
+        "song": "Open Letter",
+        "artist": "Lil Wayne",
+        "last-week": "",
+        "peak-rank": "47",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "48",
+        "song": "Broken",
+        "artist": "lovelytheband",
+        "last-week": "41",
+        "peak-rank": "41",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "49",
+        "song": "High Hopes",
+        "artist": "Panic! At The Disco",
+        "last-week": "46",
+        "peak-rank": "46",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "50",
+        "song": "Tequila",
+        "artist": "Dan + Shay",
+        "last-week": "44",
+        "peak-rank": "21",
+        "weeks-on-board": "30"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "51",
+        "song": "Wake Up In The Sky",
+        "artist": "Gucci Mane X Bruno Mars X Kodak Black",
+        "last-week": "38",
+        "peak-rank": "30",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "52",
+        "song": "Beautiful",
+        "artist": "Bazzi Featuring Camila Cabello",
+        "last-week": "43",
+        "peak-rank": "42",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "53",
+        "song": "Simple",
+        "artist": "Florida Georgia Line",
+        "last-week": "42",
+        "peak-rank": "32",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "54",
+        "song": "New Patek",
+        "artist": "Lil Uzi Vert",
+        "last-week": "24",
+        "peak-rank": "24",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "55",
+        "song": "Lucky You",
+        "artist": "Eminem Featuring Joyner Lucas",
+        "last-week": "28",
+        "peak-rank": "6",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "56",
+        "song": "If I'm Lyin, I'm Flyin",
+        "artist": "Kodak Black",
+        "last-week": "",
+        "peak-rank": "56",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "57",
+        "song": "Problems",
+        "artist": "Lil Wayne",
+        "last-week": "",
+        "peak-rank": "57",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "58",
+        "song": "She Got The Best Of Me ",
+        "artist": "Luke Combs",
+        "last-week": "48",
+        "peak-rank": "48",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "59",
+        "song": "Hittas",
+        "artist": "Lil Wayne",
+        "last-week": "",
+        "peak-rank": "59",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "60",
+        "song": "Blue Tacoma",
+        "artist": "Russell Dickerson",
+        "last-week": "52",
+        "peak-rank": "52",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "61",
+        "song": "Ring",
+        "artist": "Cardi B Featuring Kehlani",
+        "last-week": "49",
+        "peak-rank": "28",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "62",
+        "song": "Open Safe",
+        "artist": "Lil Wayne",
+        "last-week": "",
+        "peak-rank": "62",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "63",
+        "song": "Drew Barrymore",
+        "artist": "Bryce Vine",
+        "last-week": "51",
+        "peak-rank": "46",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "64",
+        "song": "Smile (Living My Best Life)",
+        "artist": "Lil' Duval Featuring Snoop Dogg & Ball Greezy",
+        "last-week": "56",
+        "peak-rank": "56",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "65",
+        "song": "Took His Time",
+        "artist": "Lil Wayne",
+        "last-week": "",
+        "peak-rank": "65",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "66",
+        "song": "Jackie Chan",
+        "artist": "Tiesto & Dzeko Featuring Preme & Post Malone",
+        "last-week": "54",
+        "peak-rank": "52",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "67",
+        "song": "Africa",
+        "artist": "Weezer",
+        "last-week": "55",
+        "peak-rank": "51",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "68",
+        "song": "Breathin",
+        "artist": "Ariana Grande",
+        "last-week": "58",
+        "peak-rank": "22",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "69",
+        "song": "Hotel Key",
+        "artist": "Old Dominion",
+        "last-week": "50",
+        "peak-rank": "48",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "70",
+        "song": "You Say",
+        "artist": "Lauren Daigle",
+        "last-week": "53",
+        "peak-rank": "44",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "71",
+        "song": "Lie",
+        "artist": "NF",
+        "last-week": "62",
+        "peak-rank": "62",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "72",
+        "song": "Lose It",
+        "artist": "Kane Brown",
+        "last-week": "63",
+        "peak-rank": "61",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "73",
+        "song": "Break Up In The End",
+        "artist": "Cole Swindell",
+        "last-week": "60",
+        "peak-rank": "49",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "74",
+        "song": "Mess",
+        "artist": "Lil Wayne",
+        "last-week": "",
+        "peak-rank": "74",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "75",
+        "song": "Let It All Work Out",
+        "artist": "Lil Wayne",
+        "last-week": "",
+        "peak-rank": "75",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "76",
+        "song": "Start This S**t Off Right",
+        "artist": "Lil Wayne Featuring Ashanti & Mack Maine",
+        "last-week": "",
+        "peak-rank": "76",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "77",
+        "song": "The Way I Am",
+        "artist": "Charlie Puth",
+        "last-week": "61",
+        "peak-rank": "61",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "78",
+        "song": "Used 2",
+        "artist": "Lil Wayne",
+        "last-week": "",
+        "peak-rank": "78",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "79",
+        "song": "Rap Devil",
+        "artist": "Machine Gun Kelly",
+        "last-week": "40",
+        "peak-rank": "13",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "80",
+        "song": "Drunk Me",
+        "artist": "Mitchell Tenpenny",
+        "last-week": "67",
+        "peak-rank": "67",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "81",
+        "song": "Demon",
+        "artist": "Lil Wayne",
+        "last-week": "",
+        "peak-rank": "81",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "82",
+        "song": "Speechless",
+        "artist": "Dan + Shay",
+        "last-week": "77",
+        "peak-rank": "77",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "83",
+        "song": "Sunrise, Sunburn, Sunset",
+        "artist": "Luke Bryan",
+        "last-week": "59",
+        "peak-rank": "35",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "84",
+        "song": "Dangerous",
+        "artist": "Meek Mill Featuring Jeremih & PnB Rock",
+        "last-week": "76",
+        "peak-rank": "76",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "85",
+        "song": "Promises",
+        "artist": "Calvin Harris & Sam Smith",
+        "last-week": "68",
+        "peak-rank": "65",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "86",
+        "song": "Perfect Strangers",
+        "artist": "Lil Wayne",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "87",
+        "song": "Better",
+        "artist": "Khalid",
+        "last-week": "57",
+        "peak-rank": "45",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "88",
+        "song": "That's On Me",
+        "artist": "Yella Beezy",
+        "last-week": "69",
+        "peak-rank": "69",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "89",
+        "song": "Medicine",
+        "artist": "Queen Naija",
+        "last-week": "66",
+        "peak-rank": "45",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "90",
+        "song": "Dope New Gospel",
+        "artist": "Lil Wayne Featuring Nivea",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "91",
+        "song": "W O R K I N  M E",
+        "artist": "Quavo",
+        "last-week": "65",
+        "peak-rank": "52",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "92",
+        "song": "Best Part",
+        "artist": "Daniel Caesar Featuring H.E.R.",
+        "last-week": "75",
+        "peak-rank": "75",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "93",
+        "song": "Head Above Water",
+        "artist": "Avril Lavigne",
+        "last-week": "64",
+        "peak-rank": "64",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "94",
+        "song": "No Stylist",
+        "artist": "French Montana Featuring Drake",
+        "last-week": "47",
+        "peak-rank": "47",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "95",
+        "song": "Best Shot",
+        "artist": "Jimmie Allen",
+        "last-week": "86",
+        "peak-rank": "86",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "96",
+        "song": "Hangin' On",
+        "artist": "Chris Young",
+        "last-week": "85",
+        "peak-rank": "85",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "97",
+        "song": "Drunk Girl",
+        "artist": "Chris Janson",
+        "last-week": "82",
+        "peak-rank": "82",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "98",
+        "song": "Leave Me Alone",
+        "artist": "Flipp Dinero",
+        "last-week": "81",
+        "peak-rank": "81",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "99",
+        "song": "Lost In Japan",
+        "artist": "Shawn Mendes X Zedd",
+        "last-week": "",
+        "peak-rank": "64",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2018-10-13",
+        "rank": "100",
+        "song": "Drowns The Whiskey",
+        "artist": "Jason Aldean Featuring Miranda Lambert",
+        "last-week": "80",
+        "peak-rank": "32",
+        "weeks-on-board": "16"
+    }
+]

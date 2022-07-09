@@ -1,0 +1,902 @@
+[
+    {
+        "date": "2021-10-30",
+        "rank": "1",
+        "song": "Easy On Me",
+        "artist": "Adele",
+        "last-week": "68",
+        "peak-rank": "1",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "2",
+        "song": "Stay",
+        "artist": "The Kid LAROI & Justin Bieber",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "3",
+        "song": "Industry Baby",
+        "artist": "Lil Nas X & Jack Harlow",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "4",
+        "song": "Fancy Like",
+        "artist": "Walker Hayes",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "5",
+        "song": "Bad Habits",
+        "artist": "Ed Sheeran",
+        "last-week": "4",
+        "peak-rank": "2",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "6",
+        "song": "Way 2 Sexy",
+        "artist": "Drake Featuring Future & Young Thug",
+        "last-week": "5",
+        "peak-rank": "1",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "7",
+        "song": "Good 4 U",
+        "artist": "Olivia Rodrigo",
+        "last-week": "6",
+        "peak-rank": "1",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "8",
+        "song": "Levitating",
+        "artist": "Dua Lipa",
+        "last-week": "8",
+        "peak-rank": "2",
+        "weeks-on-board": "55"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "9",
+        "song": "Shivers",
+        "artist": "Ed Sheeran",
+        "last-week": "10",
+        "peak-rank": "9",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "10",
+        "song": "Kiss Me More",
+        "artist": "Doja Cat Featuring SZA",
+        "last-week": "7",
+        "peak-rank": "3",
+        "weeks-on-board": "28"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "11",
+        "song": "Need To Know",
+        "artist": "Doja Cat",
+        "last-week": "11",
+        "peak-rank": "11",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "12",
+        "song": "Essence",
+        "artist": "Wizkid Featuring Justin Bieber & Tems",
+        "last-week": "9",
+        "peak-rank": "9",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "13",
+        "song": "My Universe",
+        "artist": "Coldplay x BTS",
+        "last-week": "18",
+        "peak-rank": "1",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "14",
+        "song": "Heat Waves",
+        "artist": "Glass Animals",
+        "last-week": "12",
+        "peak-rank": "12",
+        "weeks-on-board": "40"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "15",
+        "song": "Beggin'",
+        "artist": "Maneskin",
+        "last-week": "15",
+        "peak-rank": "15",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "16",
+        "song": "You Right",
+        "artist": "Doja Cat & The Weeknd",
+        "last-week": "16",
+        "peak-rank": "11",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "17",
+        "song": "Save Your Tears",
+        "artist": "The Weeknd & Ariana Grande",
+        "last-week": "13",
+        "peak-rank": "1",
+        "weeks-on-board": "45"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "18",
+        "song": "Knife Talk",
+        "artist": "Drake Featuring 21 Savage & Project Pat",
+        "last-week": "14",
+        "peak-rank": "4",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "19",
+        "song": "Who Want Smoke??",
+        "artist": "Nardo Wick Featuring G Herbo, Lil Durk & 21 Savage",
+        "last-week": "17",
+        "peak-rank": "17",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "20",
+        "song": "Bubbly",
+        "artist": "Young Thug With Drake & Travis Scott",
+        "last-week": "",
+        "peak-rank": "20",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "21",
+        "song": "Cold Heart (PNAU Remix)",
+        "artist": "Elton John & Dua Lipa",
+        "last-week": "25",
+        "peak-rank": "21",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "22",
+        "song": "Traitor",
+        "artist": "Olivia Rodrigo",
+        "last-week": "21",
+        "peak-rank": "9",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "23",
+        "song": "If I Didn't Love You",
+        "artist": "Jason Aldean & Carrie Underwood",
+        "last-week": "19",
+        "peak-rank": "15",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "24",
+        "song": "Montero (Call Me By Your Name)",
+        "artist": "Lil Nas X",
+        "last-week": "20",
+        "peak-rank": "1",
+        "weeks-on-board": "30"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "25",
+        "song": "Chasing After You",
+        "artist": "Ryan Hurd With Maren Morris",
+        "last-week": "23",
+        "peak-rank": "23",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "26",
+        "song": "Girls Want Girls",
+        "artist": "Drake Featuring Lil Baby",
+        "last-week": "22",
+        "peak-rank": "2",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "27",
+        "song": "Take My Breath",
+        "artist": "The Weeknd",
+        "last-week": "24",
+        "peak-rank": "6",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "28",
+        "song": "Thats What I Want",
+        "artist": "Lil Nas X",
+        "last-week": "26",
+        "peak-rank": "10",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "29",
+        "song": "Pepas",
+        "artist": "Farruko",
+        "last-week": "27",
+        "peak-rank": "25",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "30",
+        "song": "Happier Than Ever",
+        "artist": "Billie Eilish",
+        "last-week": "30",
+        "peak-rank": "11",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "31",
+        "song": "Love Nwantiti (Ah Ah Ah)",
+        "artist": "CKay",
+        "last-week": "31",
+        "peak-rank": "31",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "32",
+        "song": "Meet Me At Our Spot",
+        "artist": "THE ANXIETY: WILLOW & Tyler Cole",
+        "last-week": "44",
+        "peak-rank": "32",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "33",
+        "song": "Wockesha",
+        "artist": "Moneybagg Yo",
+        "last-week": "29",
+        "peak-rank": "20",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "34",
+        "song": "Buy Dirt",
+        "artist": "Jordan Davis Featuring Luke Bryan",
+        "last-week": "40",
+        "peak-rank": "34",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "35",
+        "song": "Memory I Don't Mess With",
+        "artist": "Lee Brice",
+        "last-week": "35",
+        "peak-rank": "33",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "36",
+        "song": "A-O-K",
+        "artist": "Tai Verdes",
+        "last-week": "34",
+        "peak-rank": "34",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "37",
+        "song": "My Boy",
+        "artist": "Elvie Shane",
+        "last-week": "28",
+        "peak-rank": "28",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "38",
+        "song": "Ghost",
+        "artist": "Justin Bieber",
+        "last-week": "32",
+        "peak-rank": "32",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "39",
+        "song": "Pissed Me Off",
+        "artist": "Lil Durk",
+        "last-week": "",
+        "peak-rank": "39",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "40",
+        "song": "You Should Probably Leave",
+        "artist": "Chris Stapleton",
+        "last-week": "43",
+        "peak-rank": "40",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "41",
+        "song": "Cold As You",
+        "artist": "Luke Combs",
+        "last-week": "45",
+        "peak-rank": "41",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "42",
+        "song": "I Was On A Boat That Day",
+        "artist": "Old Dominion",
+        "last-week": "37",
+        "peak-rank": "37",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "43",
+        "song": "Sharing Locations",
+        "artist": "Meek Mill Featuring Lil Baby & Lil Durk",
+        "last-week": "36",
+        "peak-rank": "22",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "44",
+        "song": "Leave The Door Open",
+        "artist": "Silk Sonic (Bruno Mars & Anderson .Paak)",
+        "last-week": "38",
+        "peak-rank": "1",
+        "weeks-on-board": "33"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "45",
+        "song": "Lets Go Brandon",
+        "artist": "Loza Alexander",
+        "last-week": "",
+        "peak-rank": "45",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "46",
+        "song": "Gyalis",
+        "artist": "Capella Grey",
+        "last-week": "46",
+        "peak-rank": "38",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "47",
+        "song": "Wild Side",
+        "artist": "Normani Featuring Cardi B",
+        "last-week": "52",
+        "peak-rank": "14",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "48",
+        "song": "Fair Trade",
+        "artist": "Drake Featuring Travis Scott",
+        "last-week": "39",
+        "peak-rank": "3",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "49",
+        "song": "Leave Before You Love Me",
+        "artist": "Marshmello X Jonas Brothers",
+        "last-week": "48",
+        "peak-rank": "19",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "50",
+        "song": "Deja Vu",
+        "artist": "Olivia Rodrigo",
+        "last-week": "42",
+        "peak-rank": "3",
+        "weeks-on-board": "29"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "51",
+        "song": "Thinking 'Bout You",
+        "artist": "Dustin Lynch Featuring Lauren Alaina Or MacKenzie Porter",
+        "last-week": "55",
+        "peak-rank": "51",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "52",
+        "song": "Family Ties",
+        "artist": "Baby Keem & Kendrick Lamar",
+        "last-week": "49",
+        "peak-rank": "18",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "53",
+        "song": "Have Mercy",
+        "artist": "Chloe",
+        "last-week": "54",
+        "peak-rank": "28",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "54",
+        "song": "Cold Beer Calling My Name",
+        "artist": "Jameson Rodgers Featuring Luke Combs",
+        "last-week": "33",
+        "peak-rank": "26",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "55",
+        "song": "Same Boat",
+        "artist": "Zac Brown Band",
+        "last-week": "64",
+        "peak-rank": "55",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "56",
+        "song": "Ex For A Reason",
+        "artist": "Summer Walker & JT",
+        "last-week": "",
+        "peak-rank": "56",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "57",
+        "song": "Better Days",
+        "artist": "NEIKED X Mae Muller X Polo G",
+        "last-week": "",
+        "peak-rank": "57",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "58",
+        "song": "Hurricane",
+        "artist": "Kanye West",
+        "last-week": "50",
+        "peak-rank": "6",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "59",
+        "song": "Baddest",
+        "artist": "Yung Bleu, Chris Brown & 2 Chainz",
+        "last-week": "56",
+        "peak-rank": "56",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "60",
+        "song": "Late At Night",
+        "artist": "Roddy Ricch",
+        "last-week": "57",
+        "peak-rank": "20",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "61",
+        "song": "Love Again",
+        "artist": "Dua Lipa",
+        "last-week": "47",
+        "peak-rank": "41",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "62",
+        "song": "Memory",
+        "artist": "Kane Brown X blackbear",
+        "last-week": "60",
+        "peak-rank": "50",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "63",
+        "song": "Chosen",
+        "artist": "Blxst & Tyga Featuring Ty Dolla $ign",
+        "last-week": "65",
+        "peak-rank": "63",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "64",
+        "song": "Knowing You",
+        "artist": "Kenny Chesney",
+        "last-week": "62",
+        "peak-rank": "62",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "65",
+        "song": "Woman",
+        "artist": "Doja Cat",
+        "last-week": "63",
+        "peak-rank": "62",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "66",
+        "song": "Esta Danada",
+        "artist": "Ivan Cornejo",
+        "last-week": "61",
+        "peak-rank": "61",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "67",
+        "song": "WFM",
+        "artist": "Realestk",
+        "last-week": "75",
+        "peak-rank": "67",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "68",
+        "song": "Livin It Up",
+        "artist": "Young Thug With Post Malone & A$AP Rocky",
+        "last-week": "",
+        "peak-rank": "68",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "69",
+        "song": "Stressed",
+        "artist": "Young Thug With J. Cole & T-Shyne",
+        "last-week": "",
+        "peak-rank": "69",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "70",
+        "song": "Whole Lotta Money",
+        "artist": "BIA Featuring Nicki Minaj",
+        "last-week": "59",
+        "peak-rank": "16",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "71",
+        "song": "Too Easy",
+        "artist": "Gunna & Future",
+        "last-week": "66",
+        "peak-rank": "38",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "72",
+        "song": "2055",
+        "artist": "Sleepy Hallow",
+        "last-week": "58",
+        "peak-rank": "51",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "73",
+        "song": "Lo Siento BB:/",
+        "artist": "Tainy, Bad Bunny & Julieta Venegas",
+        "last-week": "51",
+        "peak-rank": "51",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "74",
+        "song": "Sand In My Boots",
+        "artist": "Morgan Wallen",
+        "last-week": "72",
+        "peak-rank": "32",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "75",
+        "song": "Volvi",
+        "artist": "Aventura x Bad Bunny",
+        "last-week": "67",
+        "peak-rank": "22",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "76",
+        "song": "'Til You Can't",
+        "artist": "Cody Johnson",
+        "last-week": "94",
+        "peak-rank": "76",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "77",
+        "song": "Jugaste y Sufri",
+        "artist": "Eslabon Armado Featuring DannyLux",
+        "last-week": "69",
+        "peak-rank": "69",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "78",
+        "song": "Rich N***a Shit",
+        "artist": "Young Thug With Juice WRLD",
+        "last-week": "",
+        "peak-rank": "78",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "79",
+        "song": "Yonaguni",
+        "artist": "Bad Bunny",
+        "last-week": "76",
+        "peak-rank": "10",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "80",
+        "song": "One Mississippi",
+        "artist": "Kane Brown",
+        "last-week": "78",
+        "peak-rank": "73",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "81",
+        "song": "Whiskey And Rain",
+        "artist": "Michael Ray",
+        "last-week": "82",
+        "peak-rank": "81",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "82",
+        "song": "Thot Shit",
+        "artist": "Megan Thee Stallion",
+        "last-week": "71",
+        "peak-rank": "16",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "83",
+        "song": "Tequila Little Time",
+        "artist": "Jon Pardi",
+        "last-week": "86",
+        "peak-rank": "83",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "84",
+        "song": "Freedom Was A Highway",
+        "artist": "Jimmie Allen & Brad Paisley",
+        "last-week": "88",
+        "peak-rank": "84",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "85",
+        "song": "Maybach",
+        "artist": "42 Dugg Featuring Future",
+        "last-week": "85",
+        "peak-rank": "68",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "86",
+        "song": "Get Into It (Yuh)",
+        "artist": "Doja Cat",
+        "last-week": "79",
+        "peak-rank": "68",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "87",
+        "song": "No Friends In The Industry",
+        "artist": "Drake",
+        "last-week": "74",
+        "peak-rank": "11",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "88",
+        "song": "For Tonight",
+        "artist": "Giveon",
+        "last-week": "98",
+        "peak-rank": "88",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "89",
+        "song": "Praise God",
+        "artist": "Kanye West",
+        "last-week": "99",
+        "peak-rank": "20",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "90",
+        "song": "Champagne Poetry",
+        "artist": "Drake",
+        "last-week": "77",
+        "peak-rank": "4",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "91",
+        "song": "Let Somebody Go",
+        "artist": "Coldplay X Selena Gomez",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "92",
+        "song": "Ya Superame (En Vivo Desde Culiacan, Sinaloa)",
+        "artist": "Grupo Firme",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "93",
+        "song": "You Time",
+        "artist": "Scotty McCreery",
+        "last-week": "80",
+        "peak-rank": "50",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "94",
+        "song": "In The Bible",
+        "artist": "Drake Featuring Lil Durk & Giveon",
+        "last-week": "83",
+        "peak-rank": "7",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "95",
+        "song": "Peepin Out The Window",
+        "artist": "Young Thug With Future & BSlime",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "96",
+        "song": "Who's In Your Head",
+        "artist": "Jonas Brothers",
+        "last-week": "95",
+        "peak-rank": "95",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "97",
+        "song": "Woo Baby",
+        "artist": "Pop Smoke Featuring Chris Brown",
+        "last-week": "92",
+        "peak-rank": "64",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "98",
+        "song": "Flocky Flocky",
+        "artist": "Don Toliver Featuring Travis Scott",
+        "last-week": "53",
+        "peak-rank": "53",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "99",
+        "song": "Like A Lady",
+        "artist": "Lady A",
+        "last-week": "90",
+        "peak-rank": "90",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2021-10-30",
+        "rank": "100",
+        "song": "Just About Over You",
+        "artist": "Priscilla Block",
+        "last-week": "97",
+        "peak-rank": "97",
+        "weeks-on-board": "2"
+    }
+]

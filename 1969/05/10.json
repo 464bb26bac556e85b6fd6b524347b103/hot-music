@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1969-05-10",
+        "rank": "1",
+        "song": "Aquarius/Let The Sunshine In (The Flesh Failures)",
+        "artist": "The 5th Dimension",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "2",
+        "song": "Hair",
+        "artist": "The Cowsills",
+        "last-week": "3",
+        "peak-rank": "2",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "3",
+        "song": "It's Your Thing",
+        "artist": "The Isley Brothers",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "4",
+        "song": "Hawaii Five-O",
+        "artist": "The Ventures",
+        "last-week": "8",
+        "peak-rank": "4",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "5",
+        "song": "You've Made Me So Very Happy",
+        "artist": "Blood, Sweat & Tears",
+        "last-week": "4",
+        "peak-rank": "2",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "6",
+        "song": "Time Is Tight",
+        "artist": "Booker T. & The MG's",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "7",
+        "song": "Sweet Cherry Wine",
+        "artist": "Tommy James And The Shondells",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "8",
+        "song": "The Boxer",
+        "artist": "Simon & Garfunkel",
+        "last-week": "9",
+        "peak-rank": "8",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "9",
+        "song": "Atlantis",
+        "artist": "Donovan",
+        "last-week": "19",
+        "peak-rank": "9",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "10",
+        "song": "Get Back",
+        "artist": "The Beatles With Billy Preston",
+        "last-week": "",
+        "peak-rank": "10",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "11",
+        "song": "Love (Can Make You Happy)",
+        "artist": "Mercy",
+        "last-week": "15",
+        "peak-rank": "11",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "12",
+        "song": "Gimme Gimme Good Lovin'",
+        "artist": "Crazy Elephant",
+        "last-week": "12",
+        "peak-rank": "12",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "13",
+        "song": "These Eyes",
+        "artist": "The Guess Who",
+        "last-week": "14",
+        "peak-rank": "13",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "14",
+        "song": "Only The Strong Survive",
+        "artist": "Jerry Butler",
+        "last-week": "5",
+        "peak-rank": "4",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "15",
+        "song": "The Chokin' Kind",
+        "artist": "Joe Simon",
+        "last-week": "18",
+        "peak-rank": "15",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "16",
+        "song": "Do Your Thing",
+        "artist": "The Watts 103rd Street Rhythm Band",
+        "last-week": "16",
+        "peak-rank": "11",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "17",
+        "song": "Gitarzan",
+        "artist": "Ray Stevens",
+        "last-week": "20",
+        "peak-rank": "17",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "18",
+        "song": "Oh Happy Day",
+        "artist": "The Edwin Hawkins' Singers Featuring Dorothy Combs Morrison",
+        "last-week": "40",
+        "peak-rank": "18",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "19",
+        "song": "Galveston",
+        "artist": "Glen Campbell",
+        "last-week": "10",
+        "peak-rank": "4",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "20",
+        "song": "I Don't Want Nobody To Give Me Nothing (Open Up The Door, I'll Get It Mysel",
+        "artist": "James Brown",
+        "last-week": "21",
+        "peak-rank": "20",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "21",
+        "song": "Twenty-Five Miles",
+        "artist": "Edwin Starr",
+        "last-week": "13",
+        "peak-rank": "6",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "22",
+        "song": "Dizzy",
+        "artist": "Tommy Roe",
+        "last-week": "11",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "23",
+        "song": "Grazing In The Grass",
+        "artist": "The Friends Of Distinction",
+        "last-week": "35",
+        "peak-rank": "23",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "24",
+        "song": "Goodbye",
+        "artist": "Mary Hopkin",
+        "last-week": "27",
+        "peak-rank": "24",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "25",
+        "song": "Pinball Wizard",
+        "artist": "The Who",
+        "last-week": "25",
+        "peak-rank": "25",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "26",
+        "song": "Don't Give In To Him",
+        "artist": "Gary Puckett And The Union Gap",
+        "last-week": "17",
+        "peak-rank": "15",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "27",
+        "song": "My Way",
+        "artist": "Frank Sinatra",
+        "last-week": "29",
+        "peak-rank": "27",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "28",
+        "song": "The Composer",
+        "artist": "Diana Ross & The Supremes",
+        "last-week": "31",
+        "peak-rank": "28",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "29",
+        "song": "Too Busy Thinking About My Baby",
+        "artist": "Marvin Gaye",
+        "last-week": "54",
+        "peak-rank": "29",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "30",
+        "song": "I Can't See Myself Leaving You",
+        "artist": "Aretha Franklin",
+        "last-week": "33",
+        "peak-rank": "30",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "31",
+        "song": "More Today Than Yesterday",
+        "artist": "Spiral Starecase",
+        "last-week": "37",
+        "peak-rank": "31",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "32",
+        "song": "Will You Be Staying After Sunday",
+        "artist": "The Peppermint Rainbow",
+        "last-week": "32",
+        "peak-rank": "32",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "33",
+        "song": "Happy Heart",
+        "artist": "Andy Williams",
+        "last-week": "38",
+        "peak-rank": "33",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "34",
+        "song": "To Know You Is To Love You",
+        "artist": "Bobby Vinton",
+        "last-week": "34",
+        "peak-rank": "34",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "35",
+        "song": "Stand!",
+        "artist": "Sly & The Family Stone",
+        "last-week": "36",
+        "peak-rank": "35",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "36",
+        "song": "Morning Girl",
+        "artist": "The Neon Philharmonic",
+        "last-week": "51",
+        "peak-rank": "36",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "37",
+        "song": "I Can Hear Music",
+        "artist": "The Beach Boys",
+        "last-week": "28",
+        "peak-rank": "24",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "38",
+        "song": "Brother Love's Travelling Salvation Show",
+        "artist": "Neil Diamond",
+        "last-week": "22",
+        "peak-rank": "22",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "39",
+        "song": "Mercy",
+        "artist": "Ohio Express",
+        "last-week": "30",
+        "peak-rank": "30",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "40",
+        "song": "Don't Let Me Down",
+        "artist": "The Beatles With Billy Preston",
+        "last-week": "",
+        "peak-rank": "40",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "41",
+        "song": "In The Ghetto",
+        "artist": "Elvis Presley",
+        "last-week": "79",
+        "peak-rank": "41",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "42",
+        "song": "The River Is Wide",
+        "artist": "The Grass Roots",
+        "last-week": "43",
+        "peak-rank": "42",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "43",
+        "song": "Seattle",
+        "artist": "Perry Como",
+        "last-week": "44",
+        "peak-rank": "43",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "44",
+        "song": "Where's The Playground Susie",
+        "artist": "Glen Campbell",
+        "last-week": "59",
+        "peak-rank": "44",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "45",
+        "song": "Earth Angel (Will You Be Mine)",
+        "artist": "The Vogues",
+        "last-week": "47",
+        "peak-rank": "45",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "46",
+        "song": "Nothing But A Heartache",
+        "artist": "The Flirtations",
+        "last-week": "50",
+        "peak-rank": "46",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "47",
+        "song": "Cissy Strut",
+        "artist": "The Meters",
+        "last-week": "55",
+        "peak-rank": "47",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "48",
+        "song": "Buying A Book",
+        "artist": "Joe Tex",
+        "last-week": "53",
+        "peak-rank": "48",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "49",
+        "song": "Don't Touch Me",
+        "artist": "Bettye Swann",
+        "last-week": "48",
+        "peak-rank": "38",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "50",
+        "song": "Day Is Done",
+        "artist": "Peter, Paul & Mary",
+        "last-week": "66",
+        "peak-rank": "50",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "51",
+        "song": "Heather Honey",
+        "artist": "Tommy Roe",
+        "last-week": "62",
+        "peak-rank": "51",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "52",
+        "song": "In The Bad, Bad Old Days (Before You Loved Me)",
+        "artist": "The Foundations",
+        "last-week": "52",
+        "peak-rank": "52",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "53",
+        "song": "Proud Mary",
+        "artist": "Solomon Burke",
+        "last-week": "77",
+        "peak-rank": "53",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "54",
+        "song": "Bad Moon Rising",
+        "artist": "Creedence Clearwater Revival",
+        "last-week": "80",
+        "peak-rank": "54",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "55",
+        "song": "The Way It Used To Be",
+        "artist": "Engelbert Humperdinck",
+        "last-week": "42",
+        "peak-rank": "42",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "56",
+        "song": "It's Only Love",
+        "artist": "B.J. Thomas",
+        "last-week": "45",
+        "peak-rank": "45",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "57",
+        "song": "Foolish Fool",
+        "artist": "Dee Dee Warwick",
+        "last-week": "63",
+        "peak-rank": "57",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "58",
+        "song": "One",
+        "artist": "Three Dog Night",
+        "last-week": "84",
+        "peak-rank": "58",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "59",
+        "song": "Lodi",
+        "artist": "Creedence Clearwater Revival",
+        "last-week": "78",
+        "peak-rank": "59",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "60",
+        "song": "I've Been Hurt",
+        "artist": "Bill Deal & The Rhondels",
+        "last-week": "71",
+        "peak-rank": "60",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "61",
+        "song": "Sorry Suzanne",
+        "artist": "The Hollies",
+        "last-week": "69",
+        "peak-rank": "61",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "62",
+        "song": "Happy Heart",
+        "artist": "Petula Clark",
+        "last-week": "68",
+        "peak-rank": "62",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "63",
+        "song": "Everyday With You Girl",
+        "artist": "Classics IV Featuring Dennis Yost",
+        "last-week": "74",
+        "peak-rank": "63",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "64",
+        "song": "I'm A Drifter",
+        "artist": "Bobby Goldsboro",
+        "last-week": "67",
+        "peak-rank": "64",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "65",
+        "song": "(We've Got) Honey Love",
+        "artist": "Martha Reeves & The Vandellas",
+        "last-week": "70",
+        "peak-rank": "65",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "66",
+        "song": "Medicine Man (Part I)",
+        "artist": "Buchanan Brothers",
+        "last-week": "83",
+        "peak-rank": "66",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "67",
+        "song": "The Windmills Of Your Mind",
+        "artist": "Dusty Springfield",
+        "last-week": "99",
+        "peak-rank": "67",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "68",
+        "song": "Love Is All I Have To Give",
+        "artist": "The Checkmates, Ltd.",
+        "last-week": "65",
+        "peak-rank": "65",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "69",
+        "song": "I Shall Be Released",
+        "artist": "The Box Tops",
+        "last-week": "76",
+        "peak-rank": "69",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "70",
+        "song": "Where Do You Go To (My Lovely)",
+        "artist": "Peter Sarstedt",
+        "last-week": "72",
+        "peak-rank": "70",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "71",
+        "song": "Love Theme From Romeo & Juliet",
+        "artist": "Henry Mancini And His Orchestra",
+        "last-week": "",
+        "peak-rank": "71",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "72",
+        "song": "Rhythm Of The Rain",
+        "artist": "Gary Lewis And The Playboys",
+        "last-week": "81",
+        "peak-rank": "72",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "73",
+        "song": "Testify (I Wonna)",
+        "artist": "Johnnie Taylor",
+        "last-week": "",
+        "peak-rank": "73",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "74",
+        "song": "I Could Never Lie To You",
+        "artist": "The New Colony Six",
+        "last-week": "97",
+        "peak-rank": "74",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "75",
+        "song": "Black Pearl",
+        "artist": "Sonny Charles And The Checkmates, Ltd.",
+        "last-week": "",
+        "peak-rank": "75",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "76",
+        "song": "It's Never Too Late",
+        "artist": "Steppenwolf",
+        "last-week": "",
+        "peak-rank": "76",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "77",
+        "song": "Gentle On My Mind",
+        "artist": "Aretha Franklin",
+        "last-week": "",
+        "peak-rank": "77",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "78",
+        "song": "I Can't Say No To You",
+        "artist": "Betty Everett",
+        "last-week": "93",
+        "peak-rank": "78",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "79",
+        "song": "Marley Purt Drive",
+        "artist": "Jose Feliciano",
+        "last-week": "96",
+        "peak-rank": "79",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "80",
+        "song": "Mr. Walker, It's All Over",
+        "artist": "Billie Jo Spears",
+        "last-week": "88",
+        "peak-rank": "80",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "81",
+        "song": "With Pen In Hand",
+        "artist": "Vikki Carr",
+        "last-week": "89",
+        "peak-rank": "81",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "82",
+        "song": "I Want To Love You Baby",
+        "artist": "Peggy Scott & Jo Jo Benson",
+        "last-week": "100",
+        "peak-rank": "82",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "83",
+        "song": "Pretty World",
+        "artist": "Sergio Mendes & Brasil '66",
+        "last-week": "85",
+        "peak-rank": "83",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "84",
+        "song": "Seven Years",
+        "artist": "The Impressions",
+        "last-week": "94",
+        "peak-rank": "84",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "85",
+        "song": "Someday Man",
+        "artist": "The Monkees",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "86",
+        "song": "Love Is Just A Four-Letter Word",
+        "artist": "Joan Baez",
+        "last-week": "87",
+        "peak-rank": "86",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "87",
+        "song": "Singing My Song",
+        "artist": "Tammy Wynette",
+        "last-week": "75",
+        "peak-rank": "75",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "88",
+        "song": "Friend, Lover, Woman, Wife",
+        "artist": "O.C. Smith",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "89",
+        "song": "Special Delivery",
+        "artist": "1910 Fruitgum Co.",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "90",
+        "song": "Truck Stop",
+        "artist": "Jerry Smith and his Pianos",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "91",
+        "song": "I've Been Loving You Too Long",
+        "artist": "Ike & Tina Turner",
+        "last-week": "95",
+        "peak-rank": "91",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "92",
+        "song": "Sunday",
+        "artist": "The Moments",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "93",
+        "song": "Welcome Me Love",
+        "artist": "The Brooklyn Bridge Featuring Johnny Maestro",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "94",
+        "song": "What Is A Man",
+        "artist": "Four Tops",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "95",
+        "song": "Never Gonna Let Him Know",
+        "artist": "Debbie Taylor",
+        "last-week": "98",
+        "peak-rank": "95",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "96",
+        "song": "Turn Around And Love You",
+        "artist": "Rita Coolidge",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "97",
+        "song": "Ivory",
+        "artist": "Bob Seger System",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "98",
+        "song": "Just A Little Bit",
+        "artist": "Little Milton",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "99",
+        "song": "I'm Gonna Do All I Can (To Do Right By My Man)",
+        "artist": "Ike & Tina Turner",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-05-10",
+        "rank": "100",
+        "song": "Born To Be Wild",
+        "artist": "Wilson Pickett",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

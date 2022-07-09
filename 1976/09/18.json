@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1976-09-18",
+        "rank": "1",
+        "song": "Play That Funky Music",
+        "artist": "Wild Cherry",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "2",
+        "song": "(Shake, Shake, Shake) Shake Your Booty",
+        "artist": "KC And The Sunshine Band",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "3",
+        "song": "I'd Really Love To See You Tonight",
+        "artist": "England Dan & John Ford Coley",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "4",
+        "song": "A Fifth Of Beethoven",
+        "artist": "Walter Murphy & The Big Apple Band",
+        "last-week": "5",
+        "peak-rank": "4",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "5",
+        "song": "You'll Never Find Another Love Like Mine",
+        "artist": "Lou Rawls",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "6",
+        "song": "Lowdown",
+        "artist": "Boz Scaggs",
+        "last-week": "7",
+        "peak-rank": "6",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "7",
+        "song": "Devil Woman",
+        "artist": "Cliff Richard",
+        "last-week": "13",
+        "peak-rank": "7",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "8",
+        "song": "Summer",
+        "artist": "War",
+        "last-week": "10",
+        "peak-rank": "8",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "9",
+        "song": "If You Leave Me Now",
+        "artist": "Chicago",
+        "last-week": "11",
+        "peak-rank": "9",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "10",
+        "song": "You Should Be Dancing",
+        "artist": "Bee Gees",
+        "last-week": "6",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "11",
+        "song": "Say You Love Me",
+        "artist": "Fleetwood Mac",
+        "last-week": "12",
+        "peak-rank": "11",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "12",
+        "song": "With Your Love",
+        "artist": "Jefferson Starship",
+        "last-week": "14",
+        "peak-rank": "12",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "13",
+        "song": "Disco Duck (Part I)",
+        "artist": "Rick Dees & His Cast Of Idiots",
+        "last-week": "26",
+        "peak-rank": "13",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "14",
+        "song": "Don't Go Breaking My Heart",
+        "artist": "Elton John & Kiki Dee",
+        "last-week": "9",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "15",
+        "song": "A Little Bit More",
+        "artist": "Dr. Hook",
+        "last-week": "17",
+        "peak-rank": "15",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "16",
+        "song": "Still The One",
+        "artist": "Orleans",
+        "last-week": "18",
+        "peak-rank": "16",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "17",
+        "song": "Getaway",
+        "artist": "Earth, Wind & Fire",
+        "last-week": "19",
+        "peak-rank": "17",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "18",
+        "song": "Who'd She Coo?",
+        "artist": "Ohio Players",
+        "last-week": "20",
+        "peak-rank": "18",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "19",
+        "song": "Wham Bam (Shang-A-Lang)",
+        "artist": "Silver",
+        "last-week": "21",
+        "peak-rank": "19",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "20",
+        "song": "She's Gone",
+        "artist": "Daryl Hall John Oates",
+        "last-week": "22",
+        "peak-rank": "20",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "21",
+        "song": "That'll Be The Day",
+        "artist": "Linda Ronstadt",
+        "last-week": "25",
+        "peak-rank": "21",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "22",
+        "song": "Shower The People",
+        "artist": "James Taylor",
+        "last-week": "23",
+        "peak-rank": "22",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "23",
+        "song": "Rock'n Me",
+        "artist": "Steve Miller",
+        "last-week": "27",
+        "peak-rank": "23",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "24",
+        "song": "Let 'em In",
+        "artist": "Wings",
+        "last-week": "8",
+        "peak-rank": "3",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "25",
+        "song": "Heaven Must Be Missing An Angel (part 1)",
+        "artist": "Tavares",
+        "last-week": "15",
+        "peak-rank": "15",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "26",
+        "song": "Magic Man",
+        "artist": "Heart",
+        "last-week": "31",
+        "peak-rank": "26",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "27",
+        "song": "Street Singin'",
+        "artist": "Lady Flash",
+        "last-week": "28",
+        "peak-rank": "27",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "28",
+        "song": "One Love In My Lifetime",
+        "artist": "Diana Ross",
+        "last-week": "30",
+        "peak-rank": "28",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "29",
+        "song": "This Masquerade",
+        "artist": "George Benson",
+        "last-week": "16",
+        "peak-rank": "10",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "30",
+        "song": "Baby, I Love Your Way",
+        "artist": "Peter Frampton",
+        "last-week": "24",
+        "peak-rank": "12",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "31",
+        "song": "(Don't Fear) The Reaper",
+        "artist": "Blue Oyster Cult",
+        "last-week": "38",
+        "peak-rank": "31",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "32",
+        "song": "I Can't Hear You No More/Music Is My Life",
+        "artist": "Helen Reddy",
+        "last-week": "29",
+        "peak-rank": "29",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "33",
+        "song": "Don't Stop Believin'",
+        "artist": "Olivia Newton-John",
+        "last-week": "35",
+        "peak-rank": "33",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "34",
+        "song": "Kiss And Say Goodbye",
+        "artist": "The Manhattans",
+        "last-week": "34",
+        "peak-rank": "1",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "35",
+        "song": "I Only Want To Be With You",
+        "artist": "Bay City Rollers",
+        "last-week": "54",
+        "peak-rank": "35",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "36",
+        "song": "Superstar",
+        "artist": "Paul Davis",
+        "last-week": "40",
+        "peak-rank": "36",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "37",
+        "song": "(The System Of) Doctor Tarr And Professor Fether",
+        "artist": "The Alan Parsons Project",
+        "last-week": "39",
+        "peak-rank": "37",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "38",
+        "song": "Get The Funk Out Ma Face",
+        "artist": "The Brothers Johnson",
+        "last-week": "42",
+        "peak-rank": "38",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "39",
+        "song": "It's O.k.",
+        "artist": "The Beach Boys",
+        "last-week": "50",
+        "peak-rank": "39",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "40",
+        "song": "Sunrise",
+        "artist": "Eric Carmen",
+        "last-week": "43",
+        "peak-rank": "40",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "41",
+        "song": "You Are The Woman",
+        "artist": "Firefall",
+        "last-week": "51",
+        "peak-rank": "41",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "42",
+        "song": "The Wreck Of The Edmund Fitzgerald",
+        "artist": "Gordon Lightfoot",
+        "last-week": "47",
+        "peak-rank": "42",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "43",
+        "song": "Popsicle Toes",
+        "artist": "Michael Franks",
+        "last-week": "44",
+        "peak-rank": "43",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "44",
+        "song": "Beth/Detroit Rock City",
+        "artist": "KISS",
+        "last-week": "57",
+        "peak-rank": "44",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "45",
+        "song": "Can You Do It",
+        "artist": "Grand Funk Railroad",
+        "last-week": "46",
+        "peak-rank": "45",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "46",
+        "song": "Take A Hand",
+        "artist": "Rick Springfield",
+        "last-week": "52",
+        "peak-rank": "46",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "47",
+        "song": "Fernando",
+        "artist": "ABBA",
+        "last-week": "56",
+        "peak-rank": "47",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "48",
+        "song": "The Best Disco In Town",
+        "artist": "The Ritchie Family",
+        "last-week": "58",
+        "peak-rank": "48",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "49",
+        "song": "Get Up Offa That Thing",
+        "artist": "James Brown",
+        "last-week": "45",
+        "peak-rank": "45",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "50",
+        "song": "You Are My Starship",
+        "artist": "Norman Connors",
+        "last-week": "62",
+        "peak-rank": "50",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "51",
+        "song": "Love Is Alive",
+        "artist": "Gary Wright",
+        "last-week": "33",
+        "peak-rank": "2",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "52",
+        "song": "Did You Boogie (With Your Baby)",
+        "artist": "Flash Cadillac And The Continental Kids",
+        "last-week": "64",
+        "peak-rank": "52",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "53",
+        "song": "Get Closer",
+        "artist": "Seals & Crofts (Featuring Carolyn Willis)",
+        "last-week": "32",
+        "peak-rank": "6",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "54",
+        "song": "Turn The Beat Around",
+        "artist": "Vicki Sue Robinson",
+        "last-week": "36",
+        "peak-rank": "10",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "55",
+        "song": "Rock And Roll Music",
+        "artist": "The Beach Boys",
+        "last-week": "37",
+        "peak-rank": "5",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "56",
+        "song": "Like A Sad Song",
+        "artist": "John Denver",
+        "last-week": "74",
+        "peak-rank": "56",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "57",
+        "song": "Nadia's Theme (The Young And The Restless)",
+        "artist": "Barry DeVorzon And Perry Botikin Jr.",
+        "last-week": "67",
+        "peak-rank": "57",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "58",
+        "song": "Funny How Time Slips Away",
+        "artist": "Dorothy Moore",
+        "last-week": "59",
+        "peak-rank": "58",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "59",
+        "song": "Got To Get You Into My Life",
+        "artist": "The Beatles",
+        "last-week": "60",
+        "peak-rank": "7",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "60",
+        "song": "Queen Of My Soul",
+        "artist": "Average White Band",
+        "last-week": "71",
+        "peak-rank": "60",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "61",
+        "song": "Howzat",
+        "artist": "Sherbet",
+        "last-week": "63",
+        "peak-rank": "61",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "62",
+        "song": "The Rubberband Man",
+        "artist": "The Spinners",
+        "last-week": "84",
+        "peak-rank": "62",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "63",
+        "song": "Don't Think....Feel",
+        "artist": "Neil Diamond",
+        "last-week": "82",
+        "peak-rank": "63",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "64",
+        "song": "Harvest For The World",
+        "artist": "The Isley Brothers",
+        "last-week": "68",
+        "peak-rank": "64",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "65",
+        "song": "Hard Work",
+        "artist": "John Handy",
+        "last-week": "65",
+        "peak-rank": "46",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "66",
+        "song": "The More You Do It (The More I Like It Done To Me)",
+        "artist": "Ronnie Dyson",
+        "last-week": "66",
+        "peak-rank": "66",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "67",
+        "song": "Goofus",
+        "artist": "Carpenters",
+        "last-week": "77",
+        "peak-rank": "67",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "68",
+        "song": "Teddy Bear's Last Ride",
+        "artist": "Diana Williams",
+        "last-week": "78",
+        "peak-rank": "68",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "69",
+        "song": "Teddy Bear",
+        "artist": "Red Sovine",
+        "last-week": "72",
+        "peak-rank": "40",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "70",
+        "song": "Love So Right",
+        "artist": "Bee Gees",
+        "last-week": "",
+        "peak-rank": "70",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "71",
+        "song": "Message In Our Music",
+        "artist": "The O'Jays",
+        "last-week": "81",
+        "peak-rank": "71",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "72",
+        "song": "I Got To Know",
+        "artist": "Starbuck",
+        "last-week": "83",
+        "peak-rank": "72",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "73",
+        "song": "Last Child",
+        "artist": "Aerosmith",
+        "last-week": "73",
+        "peak-rank": "21",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "74",
+        "song": "Anything You Want",
+        "artist": "John Valenti",
+        "last-week": "85",
+        "peak-rank": "74",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "75",
+        "song": "Satin Sheets",
+        "artist": "Bellamy Brothers",
+        "last-week": "80",
+        "peak-rank": "75",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "76",
+        "song": "Mr. Melody",
+        "artist": "Natalie Cole",
+        "last-week": "86",
+        "peak-rank": "76",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "77",
+        "song": "Do You Feel Like We Do",
+        "artist": "Peter Frampton",
+        "last-week": "",
+        "peak-rank": "77",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "78",
+        "song": "The Princess And The Punk",
+        "artist": "Barry Mann",
+        "last-week": "79",
+        "peak-rank": "78",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "79",
+        "song": "Love Of My Life",
+        "artist": "Gino Vannelli",
+        "last-week": "89",
+        "peak-rank": "79",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "80",
+        "song": "You Don't Have To Be A Star (To Be In My Show)",
+        "artist": "Marilyn McCoo & Billy Davis, Jr.",
+        "last-week": "90",
+        "peak-rank": "80",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "81",
+        "song": "Rocky Mountain Music",
+        "artist": "Eddie Rabbitt",
+        "last-week": "76",
+        "peak-rank": "76",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "82",
+        "song": "This One's For You",
+        "artist": "Barry Manilow",
+        "last-week": "",
+        "peak-rank": "82",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "83",
+        "song": "Heart On My Sleeve",
+        "artist": "Gallagher And Lyle",
+        "last-week": "87",
+        "peak-rank": "83",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "84",
+        "song": "It's Only Love",
+        "artist": "ZZ Top",
+        "last-week": "88",
+        "peak-rank": "84",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "85",
+        "song": "Just To Be Close To You",
+        "artist": "Commodores",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "86",
+        "song": "More Than A Feeling",
+        "artist": "Boston",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "87",
+        "song": "Nice 'N' Naasty",
+        "artist": "The Salsoul Orchestra",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "88",
+        "song": "One For The Money (part 1)",
+        "artist": "The Whispers",
+        "last-week": "91",
+        "peak-rank": "88",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "89",
+        "song": "It's A Long Way There",
+        "artist": "Little River Band",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "90",
+        "song": "Gimme Your Money Please",
+        "artist": "Bachman-Turner Overdrive",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "91",
+        "song": "My Sweet Summer Suite",
+        "artist": "Love Unlimited Orchestra",
+        "last-week": "95",
+        "peak-rank": "91",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "92",
+        "song": "Made To Love You",
+        "artist": "Gary Wright",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "93",
+        "song": "Cowboy Song",
+        "artist": "Thin Lizzy",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "94",
+        "song": "The End Is Not In Sight (the Cowboy Tune)",
+        "artist": "Amazing Rhythm Aces",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "95",
+        "song": "Sweet Summer Music",
+        "artist": "Attitudes",
+        "last-week": "96",
+        "peak-rank": "95",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "96",
+        "song": "Showdown",
+        "artist": "Electric Light Orchestra",
+        "last-week": "99",
+        "peak-rank": "53",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "97",
+        "song": "Sun...Sun...Sun...Pt. I",
+        "artist": "Ja-Kki",
+        "last-week": "98",
+        "peak-rank": "97",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "98",
+        "song": "Afternoon Delight",
+        "artist": "Starland Vocal Band",
+        "last-week": "49",
+        "peak-rank": "1",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "99",
+        "song": "Roxy Roller",
+        "artist": "Sweeney Todd Featuring Bryan Guy Adams",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1976-09-18",
+        "rank": "100",
+        "song": "Let's Be Young Tonight",
+        "artist": "Jermaine Jackson",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

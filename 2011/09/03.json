@@ -1,0 +1,902 @@
+[
+    {
+        "date": "2011-09-03",
+        "rank": "1",
+        "song": "Last Friday Night (T.G.I.F.)",
+        "artist": "Katy Perry",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "2",
+        "song": "Party Rock Anthem",
+        "artist": "LMFAO Featuring Lauren Bennett & GoonRock",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "3",
+        "song": "She Will",
+        "artist": "Lil Wayne Featuring Drake",
+        "last-week": "",
+        "peak-rank": "3",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "4",
+        "song": "Moves Like Jagger",
+        "artist": "Maroon 5 Featuring Christina Aguilera",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "5",
+        "song": "Super Bass",
+        "artist": "Nicki Minaj",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "6",
+        "song": "Lighters",
+        "artist": "Bad Meets Evil Featuring Bruno Mars",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "7",
+        "song": "Pumped Up Kicks",
+        "artist": "Foster The People",
+        "last-week": "8",
+        "peak-rank": "7",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "8",
+        "song": "How To Love",
+        "artist": "Lil Wayne",
+        "last-week": "6",
+        "peak-rank": "5",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "9",
+        "song": "Good Life",
+        "artist": "OneRepublic",
+        "last-week": "10",
+        "peak-rank": "8",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "10",
+        "song": "I Wanna Go",
+        "artist": "Britney Spears",
+        "last-week": "9",
+        "peak-rank": "7",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "11",
+        "song": "Give Me Everything",
+        "artist": "Pitbull Featuring Ne-Yo, Afrojack & Nayer",
+        "last-week": "7",
+        "peak-rank": "1",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "12",
+        "song": "Tonight Tonight",
+        "artist": "Hot Chelle Rae",
+        "last-week": "11",
+        "peak-rank": "7",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "13",
+        "song": "Rolling In The Deep",
+        "artist": "Adele",
+        "last-week": "12",
+        "peak-rank": "1",
+        "weeks-on-board": "33"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "14",
+        "song": "If I Die Young",
+        "artist": "The Band Perry",
+        "last-week": "15",
+        "peak-rank": "14",
+        "weeks-on-board": "39"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "15",
+        "song": "Stereo Hearts",
+        "artist": "Gym Class Heroes Featuring Adam Levine",
+        "last-week": "19",
+        "peak-rank": "15",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "16",
+        "song": "The Edge Of Glory",
+        "artist": "Lady Gaga",
+        "last-week": "14",
+        "peak-rank": "3",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "17",
+        "song": "Cheers (Drink To That)",
+        "artist": "Rihanna",
+        "last-week": "25",
+        "peak-rank": "17",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "18",
+        "song": "I'm On One",
+        "artist": "DJ Khaled Featuring Drake, Rick Ross & Lil Wayne",
+        "last-week": "16",
+        "peak-rank": "10",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "19",
+        "song": "You Make Me Feel...",
+        "artist": "Cobra Starship Featuring Sabi",
+        "last-week": "23",
+        "peak-rank": "19",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "20",
+        "song": "Remind Me",
+        "artist": "Brad Paisley Duet With Carrie Underwood",
+        "last-week": "17",
+        "peak-rank": "17",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "21",
+        "song": "Headlines",
+        "artist": "Drake",
+        "last-week": "13",
+        "peak-rank": "13",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "22",
+        "song": "Just A Kiss",
+        "artist": "Lady Antebellum",
+        "last-week": "24",
+        "peak-rank": "7",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "23",
+        "song": "Motivation",
+        "artist": "Kelly Rowland Featuring Lil Wayne",
+        "last-week": "22",
+        "peak-rank": "17",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "24",
+        "song": "Best Thing I Never Had",
+        "artist": "Beyonce",
+        "last-week": "18",
+        "peak-rank": "16",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "25",
+        "song": "Dirt Road Anthem",
+        "artist": "Jason Aldean",
+        "last-week": "20",
+        "peak-rank": "7",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "26",
+        "song": "Barefoot Blue Jean Night",
+        "artist": "Jake Owen",
+        "last-week": "26",
+        "peak-rank": "24",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "27",
+        "song": "Otis",
+        "artist": "Jay Z Kanye West Featuring Otis Redding",
+        "last-week": "36",
+        "peak-rank": "12",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "28",
+        "song": "Country Girl (Shake It For Me)",
+        "artist": "Luke Bryan",
+        "last-week": "27",
+        "peak-rank": "22",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "29",
+        "song": "Knee Deep",
+        "artist": "Zac Brown Band Featuring Jimmy Buffett",
+        "last-week": "21",
+        "peak-rank": "18",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "30",
+        "song": "Where Them Girls At",
+        "artist": "David Guetta Featuring Flo Rida & Nicki Minaj",
+        "last-week": "28",
+        "peak-rank": "14",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "31",
+        "song": "Just Can't Get Enough",
+        "artist": "The Black Eyed Peas",
+        "last-week": "29",
+        "peak-rank": "3",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "32",
+        "song": "Rain Over Me",
+        "artist": "Pitbull Featuring Marc Anthony",
+        "last-week": "30",
+        "peak-rank": "30",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "33",
+        "song": "You And Tequila",
+        "artist": "Kenny Chesney Featuring Grace Potter",
+        "last-week": "33",
+        "peak-rank": "33",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "34",
+        "song": "Someone Like You",
+        "artist": "Adele",
+        "last-week": "51",
+        "peak-rank": "34",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "35",
+        "song": "You And I",
+        "artist": "Lady Gaga",
+        "last-week": "96",
+        "peak-rank": "35",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "36",
+        "song": "She Ain't You",
+        "artist": "Chris Brown",
+        "last-week": "31",
+        "peak-rank": "27",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "37",
+        "song": "E.T.",
+        "artist": "Katy Perry Featuring Kanye West",
+        "last-week": "32",
+        "peak-rank": "1",
+        "weeks-on-board": "28"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "38",
+        "song": "God Gave Me You",
+        "artist": "Blake Shelton",
+        "last-week": "45",
+        "peak-rank": "38",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "39",
+        "song": "Every Teardrop Is A Waterfall",
+        "artist": "Coldplay",
+        "last-week": "35",
+        "peak-rank": "14",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "40",
+        "song": "Take A Back Road",
+        "artist": "Rodney Atkins",
+        "last-week": "47",
+        "peak-rank": "40",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "41",
+        "song": "Marvins Room",
+        "artist": "Drake",
+        "last-week": "40",
+        "peak-rank": "21",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "42",
+        "song": "The Lazy Song",
+        "artist": "Bruno Mars",
+        "last-week": "34",
+        "peak-rank": "4",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "43",
+        "song": "On The Floor",
+        "artist": "Jennifer Lopez Featuring Pitbull",
+        "last-week": "37",
+        "peak-rank": "3",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "44",
+        "song": "Mr. Saxobeat",
+        "artist": "Alexandra Stan",
+        "last-week": "53",
+        "peak-rank": "44",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "45",
+        "song": "Crazy Girl",
+        "artist": "Eli Young Band",
+        "last-week": "",
+        "peak-rank": "45",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "46",
+        "song": "Am I The Only One",
+        "artist": "Dierks Bentley",
+        "last-week": "42",
+        "peak-rank": "39",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "47",
+        "song": "We Owned The Night",
+        "artist": "Lady Antebellum",
+        "last-week": "",
+        "peak-rank": "47",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "48",
+        "song": "Honey Bee",
+        "artist": "Blake Shelton",
+        "last-week": "38",
+        "peak-rank": "13",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "49",
+        "song": "Take Over Control",
+        "artist": "Afrojack Featuring Eva Simons",
+        "last-week": "52",
+        "peak-rank": "49",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "50",
+        "song": "Don't You Wanna Stay",
+        "artist": "Jason Aldean With Kelly Clarkson",
+        "last-week": "",
+        "peak-rank": "31",
+        "weeks-on-board": "31"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "51",
+        "song": "Out Of My Head",
+        "artist": "Lupe Fiasco Featuring Trey Songz",
+        "last-week": "43",
+        "peak-rank": "40",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "52",
+        "song": "I'm Into You",
+        "artist": "Jennifer Lopez Featuring Lil Wayne",
+        "last-week": "46",
+        "peak-rank": "41",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "53",
+        "song": "Marvin & Chardonnay",
+        "artist": "Big Sean Featuring Kanye West & Roscoe Dash",
+        "last-week": "56",
+        "peak-rank": "53",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "54",
+        "song": "Made In America",
+        "artist": "Toby Keith",
+        "last-week": "54",
+        "peak-rank": "54",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "55",
+        "song": "Long Hot Summer",
+        "artist": "Keith Urban",
+        "last-week": "60",
+        "peak-rank": "55",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "56",
+        "song": "In The Dark",
+        "artist": "Dev",
+        "last-week": "70",
+        "peak-rank": "56",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "57",
+        "song": "Keep Your Head Up",
+        "artist": "Andy Grammer",
+        "last-week": "58",
+        "peak-rank": "54",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "58",
+        "song": "Pretty Girls",
+        "artist": "Iyaz Featuring Travie McCoy",
+        "last-week": "63",
+        "peak-rank": "58",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "59",
+        "song": "Love Done Gone",
+        "artist": "Billy Currington",
+        "last-week": "61",
+        "peak-rank": "59",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "60",
+        "song": "Frick Park Market             ",
+        "artist": "Mac Miller",
+        "last-week": "",
+        "peak-rank": "60",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "61",
+        "song": "I Love You This Big",
+        "artist": "Scotty McCreery",
+        "last-week": "59",
+        "peak-rank": "11",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "62",
+        "song": "Hello",
+        "artist": "Martin Solveig & Dragonette",
+        "last-week": "64",
+        "peak-rank": "46",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "63",
+        "song": "Just Fishin'",
+        "artist": "Trace Adkins",
+        "last-week": "65",
+        "peak-rank": "63",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "64",
+        "song": "Better With The Lights Off",
+        "artist": "New Boyz Feat. Chris Brown",
+        "last-week": "62",
+        "peak-rank": "61",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "65",
+        "song": "It Girl",
+        "artist": "Jason Derulo",
+        "last-week": "39",
+        "peak-rank": "39",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "66",
+        "song": "Quickie",
+        "artist": "Miguel",
+        "last-week": "69",
+        "peak-rank": "66",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "67",
+        "song": "Love You Like A Love Song",
+        "artist": "Selena Gomez & The Scene",
+        "last-week": "55",
+        "peak-rank": "35",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "68",
+        "song": "Easy",
+        "artist": "Rascal Flatts Featuring Natasha Bedingfield",
+        "last-week": "76",
+        "peak-rank": "68",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "69",
+        "song": "The Adventures Of Rain Dance Maggie",
+        "artist": "Red Hot Chili Peppers",
+        "last-week": "80",
+        "peak-rank": "38",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "70",
+        "song": "Sparks Fly",
+        "artist": "Taylor Swift",
+        "last-week": "84",
+        "peak-rank": "17",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "71",
+        "song": "Country Must Be Country Wide",
+        "artist": "Brantley Gilbert",
+        "last-week": "74",
+        "peak-rank": "71",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "72",
+        "song": "Here For A Good Time",
+        "artist": "George Strait",
+        "last-week": "71",
+        "peak-rank": "65",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "73",
+        "song": "Nothing",
+        "artist": "The Script",
+        "last-week": "89",
+        "peak-rank": "73",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "74",
+        "song": "Don't Wanna Go Home",
+        "artist": "Jason Derulo",
+        "last-week": "57",
+        "peak-rank": "14",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "75",
+        "song": "Baggage Claim",
+        "artist": "Miranda Lambert",
+        "last-week": "67",
+        "peak-rank": "67",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "76",
+        "song": "Skyscraper",
+        "artist": "Demi Lovato",
+        "last-week": "82",
+        "peak-rank": "10",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "77",
+        "song": "Gucci Gucci",
+        "artist": "Kreayshawn",
+        "last-week": "83",
+        "peak-rank": "77",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "78",
+        "song": "Save Me, San Francisco",
+        "artist": "Train",
+        "last-week": "85",
+        "peak-rank": "78",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "79",
+        "song": "Who Gon Stop Me",
+        "artist": "Jay Z Kanye West",
+        "last-week": "44",
+        "peak-rank": "44",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "80",
+        "song": "Never Gonna Leave This Bed",
+        "artist": "Maroon 5",
+        "last-week": "72",
+        "peak-rank": "55",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "81",
+        "song": "California King Bed",
+        "artist": "Rihanna",
+        "last-week": "81",
+        "peak-rank": "37",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "82",
+        "song": "Ni**as in Paris",
+        "artist": "Jay Z Kanye West",
+        "last-week": "75",
+        "peak-rank": "75",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "83",
+        "song": "Man Down",
+        "artist": "Rihanna",
+        "last-week": "77",
+        "peak-rank": "59",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "84",
+        "song": "No Sleep",
+        "artist": "Wiz Khalifa",
+        "last-week": "98",
+        "peak-rank": "6",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "85",
+        "song": "Fish",
+        "artist": "Craig Campbell",
+        "last-week": "94",
+        "peak-rank": "85",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "86",
+        "song": "Don't Hold Your Breath",
+        "artist": "Nicole Scherzinger",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "87",
+        "song": "Walk",
+        "artist": "Foo Fighters",
+        "last-week": "92",
+        "peak-rank": "87",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "88",
+        "song": "Don't Stop The Party",
+        "artist": "The Black Eyed Peas",
+        "last-week": "86",
+        "peak-rank": "86",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "89",
+        "song": "Sail",
+        "artist": "AWOLNATION",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "90",
+        "song": "Brighter Than The Sun",
+        "artist": "Colbie Caillat",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "91",
+        "song": "One More Drinkin' Song",
+        "artist": "Jerrod Niemann",
+        "last-week": "95",
+        "peak-rank": "91",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "92",
+        "song": "Till I'm Gone",
+        "artist": "Tinie Tempah Featuring Wiz Khalifa",
+        "last-week": "90",
+        "peak-rank": "90",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "93",
+        "song": "Faster",
+        "artist": "Matt Nathanson",
+        "last-week": "87",
+        "peak-rank": "87",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "94",
+        "song": "Booty Wurk (One Cheek At A Time)",
+        "artist": "T-Pain Featuring Joey Galaxy",
+        "last-week": "93",
+        "peak-rank": "44",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "95",
+        "song": "I Got You",
+        "artist": "Thompson Square",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "96",
+        "song": "On My Level",
+        "artist": "Wiz Khalifa Featuring Too $hort",
+        "last-week": "88",
+        "peak-rank": "52",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "97",
+        "song": "Smile",
+        "artist": "Avril Lavigne",
+        "last-week": "73",
+        "peak-rank": "68",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "98",
+        "song": "Far Away",
+        "artist": "Tyga Featuring Chris Richardson",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "99",
+        "song": "Not Over You",
+        "artist": "Gavin DeGraw",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2011-09-03",
+        "rank": "100",
+        "song": "Old Alabama",
+        "artist": "Brad Paisley Featuring Alabama",
+        "last-week": "100",
+        "peak-rank": "38",
+        "weeks-on-board": "20"
+    }
+]

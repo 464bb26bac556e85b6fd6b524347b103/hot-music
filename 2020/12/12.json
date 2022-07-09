@@ -1,0 +1,902 @@
+[
+    {
+        "date": "2020-12-12",
+        "rank": "1",
+        "song": "Mood",
+        "artist": "24kGoldn Featuring iann dior",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "2",
+        "song": "All I Want For Christmas Is You",
+        "artist": "Mariah Carey",
+        "last-week": "14",
+        "peak-rank": "1",
+        "weeks-on-board": "40"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "3",
+        "song": "Positions",
+        "artist": "Ariana Grande",
+        "last-week": "4",
+        "peak-rank": "1",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "4",
+        "song": "Rockin' Around The Christmas Tree",
+        "artist": "Brenda Lee",
+        "last-week": "21",
+        "peak-rank": "2",
+        "weeks-on-board": "35"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "5",
+        "song": "Dakiti",
+        "artist": "Bad Bunny & Jhay Cortez",
+        "last-week": "15",
+        "peak-rank": "5",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "6",
+        "song": "Laugh Now Cry Later",
+        "artist": "Drake Featuring Lil Durk",
+        "last-week": "7",
+        "peak-rank": "2",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "7",
+        "song": "Holy",
+        "artist": "Justin Bieber Featuring Chance The Rapper",
+        "last-week": "6",
+        "peak-rank": "3",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "8",
+        "song": "I Hope",
+        "artist": "Gabby Barrett Featuring Charlie Puth",
+        "last-week": "5",
+        "peak-rank": "3",
+        "weeks-on-board": "49"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "9",
+        "song": "Jingle Bell Rock",
+        "artist": "Bobby Helms",
+        "last-week": "31",
+        "peak-rank": "3",
+        "weeks-on-board": "32"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "10",
+        "song": "Dynamite",
+        "artist": "BTS",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "11",
+        "song": "Blinding Lights",
+        "artist": "The Weeknd",
+        "last-week": "9",
+        "peak-rank": "1",
+        "weeks-on-board": "53"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "12",
+        "song": "It's The Most Wonderful Time Of The Year",
+        "artist": "Andy Williams",
+        "last-week": "37",
+        "peak-rank": "7",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "13",
+        "song": "Lemonade",
+        "artist": "Internet Money & Gunna Featuring Don Toliver & NAV",
+        "last-week": "10",
+        "peak-rank": "6",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "14",
+        "song": "Body",
+        "artist": "Megan Thee Stallion",
+        "last-week": "12",
+        "peak-rank": "12",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "15",
+        "song": "Go Crazy",
+        "artist": "Chris Brown & Young Thug",
+        "last-week": "17",
+        "peak-rank": "9",
+        "weeks-on-board": "30"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "16",
+        "song": "Feliz Navidad",
+        "artist": "Jose Feliciano",
+        "last-week": "45",
+        "peak-rank": "12",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "17",
+        "song": "For The Night",
+        "artist": "Pop Smoke Featuring Lil Baby & DaBaby",
+        "last-week": "16",
+        "peak-rank": "6",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "18",
+        "song": "The Christmas Song (Merry Christmas To You)",
+        "artist": "Nat King Cole",
+        "last-week": "48",
+        "peak-rank": "11",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "19",
+        "song": "Kings & Queens",
+        "artist": "Ava Max",
+        "last-week": "18",
+        "peak-rank": "13",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "20",
+        "song": "Therefore I Am",
+        "artist": "Billie Eilish",
+        "last-week": "11",
+        "peak-rank": "2",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "21",
+        "song": "Last Christmas",
+        "artist": "Wham!",
+        "last-week": "42",
+        "peak-rank": "11",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "22",
+        "song": "Let It Snow, Let It Snow, Let It Snow",
+        "artist": "Dean Martin",
+        "last-week": "49",
+        "peak-rank": "15",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "23",
+        "song": "Sleigh Ride",
+        "artist": "The Ronettes",
+        "last-week": "",
+        "peak-rank": "21",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "24",
+        "song": "A Holly Jolly Christmas",
+        "artist": "Burl Ives",
+        "last-week": "",
+        "peak-rank": "4",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "25",
+        "song": "34+35",
+        "artist": "Ariana Grande",
+        "last-week": "30",
+        "peak-rank": "8",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "26",
+        "song": "Levitating",
+        "artist": "Dua Lipa Featuring DaBaby",
+        "last-week": "24",
+        "peak-rank": "20",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "27",
+        "song": "Bang!",
+        "artist": "AJR",
+        "last-week": "29",
+        "peak-rank": "24",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "28",
+        "song": "Life Goes On",
+        "artist": "BTS",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "29",
+        "song": "Savage Love (Laxed - Siren Beat)",
+        "artist": "Jawsh 685 x Jason Derulo",
+        "last-week": "19",
+        "peak-rank": "1",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "30",
+        "song": "Underneath The Tree",
+        "artist": "Kelly Clarkson",
+        "last-week": "",
+        "peak-rank": "30",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "31",
+        "song": "Be Like That",
+        "artist": "Kane Brown With Swae Lee & Khalid",
+        "last-week": "27",
+        "peak-rank": "19",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "32",
+        "song": "More Than My Hometown",
+        "artist": "Morgan Wallen",
+        "last-week": "20",
+        "peak-rank": "15",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "33",
+        "song": "WAP",
+        "artist": "Cardi B Featuring Megan Thee Stallion",
+        "last-week": "23",
+        "peak-rank": "1",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "34",
+        "song": "Happy Holiday / The Holiday Season",
+        "artist": "Andy Williams",
+        "last-week": "",
+        "peak-rank": "24",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "35",
+        "song": "Rockstar",
+        "artist": "DaBaby Featuring Roddy Ricch",
+        "last-week": "26",
+        "peak-rank": "1",
+        "weeks-on-board": "33"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "36",
+        "song": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+        "artist": "Gene Autry",
+        "last-week": "",
+        "peak-rank": "28",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "37",
+        "song": "White Christmas",
+        "artist": "Bing Crosby",
+        "last-week": "",
+        "peak-rank": "12",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "38",
+        "song": "Monster",
+        "artist": "Shawn Mendes & Justin Bieber",
+        "last-week": "8",
+        "peak-rank": "8",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "39",
+        "song": "It's Beginning To Look A Lot Like Christmas",
+        "artist": "Michael Buble",
+        "last-week": "",
+        "peak-rank": "39",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "40",
+        "song": "Rudolph The Red-Nosed Reindeer",
+        "artist": "Gene Autry",
+        "last-week": "",
+        "peak-rank": "16",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "41",
+        "song": "Christmas (Baby Please Come Home)",
+        "artist": "Darlene Love",
+        "last-week": "",
+        "peak-rank": "29",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "42",
+        "song": "Before You Go",
+        "artist": "Lewis Capaldi",
+        "last-week": "28",
+        "peak-rank": "9",
+        "weeks-on-board": "44"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "43",
+        "song": "ily",
+        "artist": "Surf Mesa Featuring Emilee",
+        "last-week": "33",
+        "peak-rank": "23",
+        "weeks-on-board": "28"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "44",
+        "song": "Said Sum",
+        "artist": "Moneybagg Yo",
+        "last-week": "34",
+        "peak-rank": "17",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "45",
+        "song": "It's Beginning To Look A Lot Like Christmas",
+        "artist": "Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra",
+        "last-week": "",
+        "peak-rank": "28",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "46",
+        "song": "Lonely",
+        "artist": "Justin Bieber & benny blanco",
+        "last-week": "32",
+        "peak-rank": "14",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "47",
+        "song": "(There's No Place Like) Home For The Holidays",
+        "artist": "Perry Como",
+        "last-week": "",
+        "peak-rank": "32",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "48",
+        "song": "Whats Poppin",
+        "artist": "Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",
+        "last-week": "39",
+        "peak-rank": "2",
+        "weeks-on-board": "43"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "49",
+        "song": "Happy Anywhere",
+        "artist": "Blake Shelton Featuring Gwen Stefani",
+        "last-week": "44",
+        "peak-rank": "36",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "50",
+        "song": "Watermelon Sugar",
+        "artist": "Harry Styles",
+        "last-week": "36",
+        "peak-rank": "1",
+        "weeks-on-board": "37"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "51",
+        "song": "Holiday",
+        "artist": "Lil Nas X",
+        "last-week": "55",
+        "peak-rank": "37",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "52",
+        "song": "What You Know Bout Love",
+        "artist": "Pop Smoke",
+        "last-week": "41",
+        "peak-rank": "25",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "53",
+        "song": "La Noche de Anoche",
+        "artist": "Bad Bunny & Rosalia",
+        "last-week": "",
+        "peak-rank": "53",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "54",
+        "song": "Hawai",
+        "artist": "Maluma & The Weeknd",
+        "last-week": "35",
+        "peak-rank": "12",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "55",
+        "song": "Better Together",
+        "artist": "Luke Combs",
+        "last-week": "47",
+        "peak-rank": "30",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "56",
+        "song": "Big, Big Plans",
+        "artist": "Chris Lane",
+        "last-week": "51",
+        "peak-rank": "42",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "57",
+        "song": "Midnight Sky",
+        "artist": "Miley Cyrus",
+        "last-week": "75",
+        "peak-rank": "14",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "58",
+        "song": "Diamonds",
+        "artist": "Sam Smith",
+        "last-week": "56",
+        "peak-rank": "40",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "59",
+        "song": "Prisoner",
+        "artist": "Miley Cyrus Featuring Dua Lipa",
+        "last-week": "54",
+        "peak-rank": "54",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "60",
+        "song": "Te Mudaste",
+        "artist": "Bad Bunny",
+        "last-week": "",
+        "peak-rank": "60",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "61",
+        "song": "Love You Like I Used To",
+        "artist": "Russell Dickerson",
+        "last-week": "50",
+        "peak-rank": "31",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "62",
+        "song": "Starting Over",
+        "artist": "Chris Stapleton",
+        "last-week": "52",
+        "peak-rank": "25",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "63",
+        "song": "Ain't Always The Cowboy",
+        "artist": "Jon Pardi",
+        "last-week": "61",
+        "peak-rank": "55",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "64",
+        "song": "Yo Visto Asi",
+        "artist": "Bad Bunny",
+        "last-week": "",
+        "peak-rank": "64",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "65",
+        "song": "Dicked Down In Dallas",
+        "artist": "Trey Lewis",
+        "last-week": "",
+        "peak-rank": "65",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "66",
+        "song": "I Should Probably Go To Bed",
+        "artist": "Dan + Shay",
+        "last-week": "58",
+        "peak-rank": "42",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "67",
+        "song": "You Broke Me First.",
+        "artist": "Tate McRae",
+        "last-week": "63",
+        "peak-rank": "50",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "68",
+        "song": "Forever After All",
+        "artist": "Luke Combs",
+        "last-week": "53",
+        "peak-rank": "2",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "69",
+        "song": "Whoopty",
+        "artist": "CJ",
+        "last-week": "66",
+        "peak-rank": "66",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "70",
+        "song": "Mr. Right Now",
+        "artist": "21 Savage & Metro Boomin Featuring Drake",
+        "last-week": "65",
+        "peak-rank": "10",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "71",
+        "song": "B.S.",
+        "artist": "Jhene Aiko Featuring H.E.R.",
+        "last-week": "68",
+        "peak-rank": "24",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "72",
+        "song": "Haciendo Que Me Amas",
+        "artist": "Bad Bunny",
+        "last-week": "",
+        "peak-rank": "72",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "73",
+        "song": "My Ex's Best Friend",
+        "artist": "Machine Gun Kelly X blackbear",
+        "last-week": "67",
+        "peak-rank": "28",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "74",
+        "song": "Te Deseo Lo Mejor",
+        "artist": "Bad Bunny",
+        "last-week": "",
+        "peak-rank": "74",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "75",
+        "song": "Under The Mistletoe",
+        "artist": "Kelly Clarkson & Brett Eldredge",
+        "last-week": "",
+        "peak-rank": "75",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "76",
+        "song": "7 Summers",
+        "artist": "Morgan Wallen",
+        "last-week": "59",
+        "peak-rank": "6",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "77",
+        "song": "Wonder",
+        "artist": "Shawn Mendes",
+        "last-week": "57",
+        "peak-rank": "18",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "78",
+        "song": "Booker T",
+        "artist": "Bad Bunny",
+        "last-week": "",
+        "peak-rank": "78",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "79",
+        "song": "El Mundo Es Mio",
+        "artist": "Bad Bunny",
+        "last-week": "",
+        "peak-rank": "79",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "80",
+        "song": "pov",
+        "artist": "Ariana Grande",
+        "last-week": "64",
+        "peak-rank": "40",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "81",
+        "song": "Hoy Cobre",
+        "artist": "Bad Bunny",
+        "last-week": "",
+        "peak-rank": "81",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "82",
+        "song": "Champagne Night",
+        "artist": "Lady A",
+        "last-week": "76",
+        "peak-rank": "75",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "83",
+        "song": "Rockin' Around The Christmas Tree",
+        "artist": "Justin Bieber",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "84",
+        "song": "Somebody's Problem",
+        "artist": "Morgan Wallen",
+        "last-week": "25",
+        "peak-rank": "25",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "85",
+        "song": "Throat Baby (Go Baby)",
+        "artist": "BRS Kash",
+        "last-week": "74",
+        "peak-rank": "69",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "86",
+        "song": "Still Goin Down",
+        "artist": "Morgan Wallen",
+        "last-week": "46",
+        "peak-rank": "46",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "87",
+        "song": "Maldita Pobreza",
+        "artist": "Bad Bunny",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "88",
+        "song": "Took Her To The O",
+        "artist": "King Von",
+        "last-week": "73",
+        "peak-rank": "47",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "89",
+        "song": "Don't Stop",
+        "artist": "Megan Thee Stallion Featuring Young Thug",
+        "last-week": "62",
+        "peak-rank": "30",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "90",
+        "song": "Hit Different",
+        "artist": "SZA Featuring Ty Dolla $ign",
+        "last-week": "84",
+        "peak-rank": "29",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "91",
+        "song": "Tyler Herro",
+        "artist": "Jack Harlow",
+        "last-week": "77",
+        "peak-rank": "34",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "92",
+        "song": "Golden",
+        "artist": "Harry Styles",
+        "last-week": "81",
+        "peak-rank": "74",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "93",
+        "song": "Good Time",
+        "artist": "Niko Moon",
+        "last-week": "79",
+        "peak-rank": "71",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "94",
+        "song": "La Droga",
+        "artist": "Bad Bunny",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "95",
+        "song": "Favorite Time Of Year",
+        "artist": "Carrie Underwood",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "96",
+        "song": "Back To The Streets",
+        "artist": "Saweetie Featuring Jhene Aiko",
+        "last-week": "85",
+        "peak-rank": "76",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "97",
+        "song": "Martin & Gina",
+        "artist": "Polo G",
+        "last-week": "89",
+        "peak-rank": "61",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "98",
+        "song": "Hole In The Bottle",
+        "artist": "Kelsea Ballerini",
+        "last-week": "87",
+        "peak-rank": "72",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "99",
+        "song": "So Done",
+        "artist": "The Kid LAROI",
+        "last-week": "100",
+        "peak-rank": "59",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2020-12-12",
+        "rank": "100",
+        "song": "Bichota",
+        "artist": "Karol G",
+        "last-week": "97",
+        "peak-rank": "97",
+        "weeks-on-board": "2"
+    }
+]

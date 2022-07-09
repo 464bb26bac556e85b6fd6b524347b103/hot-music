@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1992-11-14",
+        "rank": "1",
+        "song": "How Do You Talk To An Angel",
+        "artist": "The Heights",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "2",
+        "song": "End Of The Road (From \"Boomerang\")",
+        "artist": "Boyz II Men",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "3",
+        "song": "I'd Die Without You (From \"Boomerang\")",
+        "artist": "P.M. Dawn",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "4",
+        "song": "If I Ever Fall In Love",
+        "artist": "Shai",
+        "last-week": "12",
+        "peak-rank": "4",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "5",
+        "song": "Sometimes Love Just Ain't Enough",
+        "artist": "Patty Smyth",
+        "last-week": "4",
+        "peak-rank": "2",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "6",
+        "song": "Rump Shaker",
+        "artist": "Wreckx-N-Effect",
+        "last-week": "8",
+        "peak-rank": "6",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "7",
+        "song": "Rhythm Is A Dancer",
+        "artist": "Snap!",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "8",
+        "song": "What About Your Friends",
+        "artist": "TLC",
+        "last-week": "10",
+        "peak-rank": "8",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "9",
+        "song": "Erotica",
+        "artist": "Madonna",
+        "last-week": "5",
+        "peak-rank": "3",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "10",
+        "song": "Jump Around",
+        "artist": "House Of Pain",
+        "last-week": "6",
+        "peak-rank": "3",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "11",
+        "song": "Real Love",
+        "artist": "Mary J. Blige",
+        "last-week": "9",
+        "peak-rank": "9",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "12",
+        "song": "Good Enough",
+        "artist": "Bobby Brown",
+        "last-week": "20",
+        "peak-rank": "12",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "13",
+        "song": "Free Your Mind",
+        "artist": "En Vogue",
+        "last-week": "11",
+        "peak-rank": "8",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "14",
+        "song": "Walking On Broken Glass",
+        "artist": "Annie Lennox",
+        "last-week": "17",
+        "peak-rank": "14",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "15",
+        "song": "Would I Lie To You?",
+        "artist": "Charles & Eddie",
+        "last-week": "13",
+        "peak-rank": "13",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "16",
+        "song": "Layla",
+        "artist": "Eric Clapton",
+        "last-week": "21",
+        "peak-rank": "16",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "17",
+        "song": "Love Is On The Way",
+        "artist": "Saigon Kick",
+        "last-week": "23",
+        "peak-rank": "17",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "18",
+        "song": "Have You Ever Needed Someone So Bad",
+        "artist": "Def Leppard",
+        "last-week": "15",
+        "peak-rank": "12",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "19",
+        "song": "People Everyday",
+        "artist": "Arrested Development",
+        "last-week": "14",
+        "peak-rank": "8",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "20",
+        "song": "She's Playing Hard To Get",
+        "artist": "Hi-Five",
+        "last-week": "16",
+        "peak-rank": "5",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "21",
+        "song": "Forever Love (From \"Mo' Money\")",
+        "artist": "Color Me Badd",
+        "last-week": "18",
+        "peak-rank": "15",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "22",
+        "song": "Someone To Hold",
+        "artist": "Trey Lorenz",
+        "last-week": "26",
+        "peak-rank": "22",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "23",
+        "song": "Do You Believe In Us",
+        "artist": "Jon Secada",
+        "last-week": "27",
+        "peak-rank": "23",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "24",
+        "song": "To Love Somebody",
+        "artist": "Michael Bolton",
+        "last-week": "34",
+        "peak-rank": "24",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "25",
+        "song": "Back To The Hotel",
+        "artist": "N2Deep",
+        "last-week": "29",
+        "peak-rank": "23",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "26",
+        "song": "When I Look Into Your Eyes",
+        "artist": "Firehouse",
+        "last-week": "19",
+        "peak-rank": "8",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "27",
+        "song": "Please Don't Go",
+        "artist": "K.W.S.",
+        "last-week": "22",
+        "peak-rank": "6",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "28",
+        "song": "Humpin' Around",
+        "artist": "Bobby Brown",
+        "last-week": "24",
+        "peak-rank": "3",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "29",
+        "song": "I Will Be Here For You",
+        "artist": "Michael W. Smith",
+        "last-week": "30",
+        "peak-rank": "29",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "30",
+        "song": "Just Another Day",
+        "artist": "Jon Secada",
+        "last-week": "28",
+        "peak-rank": "5",
+        "weeks-on-board": "31"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "31",
+        "song": "Baby-Baby-Baby",
+        "artist": "TLC",
+        "last-week": "25",
+        "peak-rank": "2",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "32",
+        "song": "Keep The Faith",
+        "artist": "Bon Jovi",
+        "last-week": "35",
+        "peak-rank": "32",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "33",
+        "song": "All I Want",
+        "artist": "Toad The Wet Sprocket",
+        "last-week": "32",
+        "peak-rank": "15",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "34",
+        "song": "Do I Have To Say The Words?",
+        "artist": "Bryan Adams",
+        "last-week": "31",
+        "peak-rank": "11",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "35",
+        "song": "Saving Forever For You (From \"Beverly Hills, 90210\")",
+        "artist": "Shanice",
+        "last-week": "41",
+        "peak-rank": "35",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "36",
+        "song": "Where You Goin' Now",
+        "artist": "Damn Yankees",
+        "last-week": "37",
+        "peak-rank": "36",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "37",
+        "song": "I Wanna Love You (From \"Class Act\")",
+        "artist": "Jade",
+        "last-week": "33",
+        "peak-rank": "16",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "38",
+        "song": "Flex",
+        "artist": "Mad Cobra",
+        "last-week": "45",
+        "peak-rank": "38",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "39",
+        "song": "Little Miss Can't Be Wrong",
+        "artist": "Spin Doctors",
+        "last-week": "44",
+        "peak-rank": "39",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "40",
+        "song": "I Will Always Love You",
+        "artist": "Whitney Houston",
+        "last-week": "",
+        "peak-rank": "40",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "41",
+        "song": "I Wish The Phone Would Ring",
+        "artist": "Expose",
+        "last-week": "57",
+        "peak-rank": "41",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "42",
+        "song": "The One",
+        "artist": "Elton John",
+        "last-week": "36",
+        "peak-rank": "9",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "43",
+        "song": "Slow And Sexy",
+        "artist": "Shabba Ranks (Featuring Johnny Gill)",
+        "last-week": "55",
+        "peak-rank": "43",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "44",
+        "song": "Chains Around My Heart",
+        "artist": "Richard Marx",
+        "last-week": "51",
+        "peak-rank": "44",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "45",
+        "song": "Giving Him Something He Can Feel",
+        "artist": "En Vogue",
+        "last-week": "42",
+        "peak-rank": "6",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "46",
+        "song": "Drive",
+        "artist": "R.E.M.",
+        "last-week": "65",
+        "peak-rank": "46",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "47",
+        "song": "Right Now",
+        "artist": "Al B. Sure!",
+        "last-week": "47",
+        "peak-rank": "47",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "48",
+        "song": "Restless Heart",
+        "artist": "Peter Cetera",
+        "last-week": "46",
+        "peak-rank": "35",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "49",
+        "song": "Move This",
+        "artist": "Technotronic Featuring Ya Kid K",
+        "last-week": "43",
+        "peak-rank": "6",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "50",
+        "song": "The Last Song",
+        "artist": "Elton John",
+        "last-week": "62",
+        "peak-rank": "50",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "51",
+        "song": "Slow Dance (Hey Mr. DJ)",
+        "artist": "R. Kelly & Public Announcement",
+        "last-week": "54",
+        "peak-rank": "43",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "52",
+        "song": "Always The Last To Know",
+        "artist": "Del Amitri",
+        "last-week": "39",
+        "peak-rank": "30",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "53",
+        "song": "How About That",
+        "artist": "Bad Company",
+        "last-week": "38",
+        "peak-rank": "38",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "54",
+        "song": "Work To Do",
+        "artist": "Vanessa Williams",
+        "last-week": "52",
+        "peak-rank": "52",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "55",
+        "song": "My Name Is Prince",
+        "artist": "Prince And The New Power Generation",
+        "last-week": "50",
+        "peak-rank": "36",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "56",
+        "song": "Faithful",
+        "artist": "Go West",
+        "last-week": "84",
+        "peak-rank": "56",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "57",
+        "song": "Digging In The Dirt",
+        "artist": "Peter Gabriel",
+        "last-week": "60",
+        "peak-rank": "57",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "58",
+        "song": "How Do You Do!",
+        "artist": "Roxette",
+        "last-week": "66",
+        "peak-rank": "58",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "59",
+        "song": "Who's Gonna Ride Your Wild Horses",
+        "artist": "U2",
+        "last-week": "77",
+        "peak-rank": "59",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "60",
+        "song": "Never A Time",
+        "artist": "Genesis",
+        "last-week": "83",
+        "peak-rank": "60",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "61",
+        "song": "Stay",
+        "artist": "Shakespear's Sister",
+        "last-week": "48",
+        "peak-rank": "4",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "62",
+        "song": "Am I The Same Girl",
+        "artist": "Swing Out Sister",
+        "last-week": "58",
+        "peak-rank": "45",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "63",
+        "song": "You Gotta Believe",
+        "artist": "Marky Mark & The Funky Bunch",
+        "last-week": "59",
+        "peak-rank": "49",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "64",
+        "song": "Crossover",
+        "artist": "EPMD",
+        "last-week": "64",
+        "peak-rank": "42",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "65",
+        "song": "You Lied To Me",
+        "artist": "Cathy Dennis",
+        "last-week": "56",
+        "peak-rank": "32",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "66",
+        "song": "Sweet November",
+        "artist": "Troop",
+        "last-week": "69",
+        "peak-rank": "63",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "67",
+        "song": "Constant Craving",
+        "artist": "k.d. lang",
+        "last-week": "61",
+        "peak-rank": "38",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "68",
+        "song": "Johnny Have You Seen Her?",
+        "artist": "The Rembrandts",
+        "last-week": "74",
+        "peak-rank": "68",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "69",
+        "song": "Baby I'm For Real/Natural High",
+        "artist": "After 7",
+        "last-week": "94",
+        "peak-rank": "69",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "70",
+        "song": "The Hitman",
+        "artist": "AB Logic",
+        "last-week": "70",
+        "peak-rank": "60",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "71",
+        "song": "Nothing Broken But My Heart",
+        "artist": "Celine Dion",
+        "last-week": "63",
+        "peak-rank": "29",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "72",
+        "song": "Not Enough Time",
+        "artist": "INXS",
+        "last-week": "53",
+        "peak-rank": "28",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "73",
+        "song": "Jesus He Knows Me",
+        "artist": "Genesis",
+        "last-week": "68",
+        "peak-rank": "23",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "74",
+        "song": "Jump!",
+        "artist": "The Movement",
+        "last-week": "67",
+        "peak-rank": "53",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "75",
+        "song": "Here It Comes",
+        "artist": "MC Serch",
+        "last-week": "71",
+        "peak-rank": "71",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "76",
+        "song": "Alone With You",
+        "artist": "Tevin Campbell",
+        "last-week": "72",
+        "peak-rank": "72",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "77",
+        "song": "Groovin' In The Midnight",
+        "artist": "Maxi Priest",
+        "last-week": "78",
+        "peak-rank": "77",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "78",
+        "song": "Sesame's Treet",
+        "artist": "Smart E's",
+        "last-week": "81",
+        "peak-rank": "74",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "79",
+        "song": "Gangsta",
+        "artist": "Bell Biv DeVoe",
+        "last-week": "",
+        "peak-rank": "79",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "80",
+        "song": "360 Degrees (What Goes Around)",
+        "artist": "Grand Puba",
+        "last-week": "88",
+        "peak-rank": "80",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "81",
+        "song": "No Ordinary Love",
+        "artist": "Sade",
+        "last-week": "87",
+        "peak-rank": "81",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "82",
+        "song": "I Missed The Bus",
+        "artist": "Kris Kross",
+        "last-week": "76",
+        "peak-rank": "63",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "83",
+        "song": "Always Tomorrow",
+        "artist": "Gloria Estefan",
+        "last-week": "95",
+        "peak-rank": "83",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "84",
+        "song": "When She Cries",
+        "artist": "Restless Heart",
+        "last-week": "",
+        "peak-rank": "84",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "85",
+        "song": "Where Does That Leave Love",
+        "artist": "George LaMond",
+        "last-week": "80",
+        "peak-rank": "59",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "86",
+        "song": "It's Alright (From \"South Central\")",
+        "artist": "Classic Example",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "87",
+        "song": "Love Shoulda Brought You Home (From \"Boomerang\")",
+        "artist": "Toni Braxton",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "88",
+        "song": "This Used To Be My Playground",
+        "artist": "Madonna",
+        "last-week": "73",
+        "peak-rank": "1",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "89",
+        "song": "Could've Been Me",
+        "artist": "Billy Ray Cyrus",
+        "last-week": "82",
+        "peak-rank": "72",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "90",
+        "song": "No One Else On Earth",
+        "artist": "Wynonna",
+        "last-week": "91",
+        "peak-rank": "90",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "91",
+        "song": "Walk On The Ocean",
+        "artist": "Toad The Wet Sprocket",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "92",
+        "song": "I'm Still Waiting",
+        "artist": "Jodeci",
+        "last-week": "85",
+        "peak-rank": "85",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "93",
+        "song": "Divine Thing",
+        "artist": "The Soup Dragons",
+        "last-week": "79",
+        "peak-rank": "35",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "94",
+        "song": "Symphony Of Destruction",
+        "artist": "Megadeth",
+        "last-week": "89",
+        "peak-rank": "82",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "95",
+        "song": "I'm Overjoyed",
+        "artist": "Nona Gaye",
+        "last-week": "86",
+        "peak-rank": "86",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "96",
+        "song": "I Got A Thang 4 Ya!",
+        "artist": "Lo-Key?",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "97",
+        "song": "Washed Away",
+        "artist": "Tom Cochrane",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "98",
+        "song": "Here We Go Again!",
+        "artist": "Portrait",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "99",
+        "song": "The Message",
+        "artist": "Sofia Shinas",
+        "last-week": "75",
+        "peak-rank": "75",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1992-11-14",
+        "rank": "100",
+        "song": "Really Into You",
+        "artist": "Around The Way",
+        "last-week": "98",
+        "peak-rank": "98",
+        "weeks-on-board": "2"
+    }
+]

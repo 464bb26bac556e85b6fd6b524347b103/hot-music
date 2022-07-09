@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1971-09-11",
+        "rank": "1",
+        "song": "Go Away Little Girl",
+        "artist": "Donny Osmond",
+        "last-week": "5",
+        "peak-rank": "1",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "2",
+        "song": "Spanish Harlem",
+        "artist": "Aretha Franklin",
+        "last-week": "4",
+        "peak-rank": "2",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "3",
+        "song": "Smiling Faces Sometimes",
+        "artist": "The Undisputed Truth",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "4",
+        "song": "Ain't No Sunshine",
+        "artist": "Bill Withers",
+        "last-week": "6",
+        "peak-rank": "4",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "5",
+        "song": "Uncle Albert/Admiral Halsey",
+        "artist": "Paul & Linda McCartney",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "6",
+        "song": "How Can You Mend A Broken Heart",
+        "artist": "Bee Gees",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "7",
+        "song": "I Just Want To Celebrate",
+        "artist": "Rare Earth",
+        "last-week": "10",
+        "peak-rank": "7",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "8",
+        "song": "Take Me Home, Country Roads",
+        "artist": "John Denver",
+        "last-week": "7",
+        "peak-rank": "2",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "9",
+        "song": "Signs",
+        "artist": "Five Man Electrical Band",
+        "last-week": "8",
+        "peak-rank": "3",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "10",
+        "song": "Maggie May/Reason To Believe",
+        "artist": "Rod Stewart",
+        "last-week": "19",
+        "peak-rank": "10",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "11",
+        "song": "Whatcha See Is Whatcha Get",
+        "artist": "The Dramatics",
+        "last-week": "11",
+        "peak-rank": "11",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "12",
+        "song": "The Night They Drove Old Dixie Down",
+        "artist": "Joan Baez",
+        "last-week": "18",
+        "peak-rank": "12",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "13",
+        "song": "Liar",
+        "artist": "Three Dog Night",
+        "last-week": "9",
+        "peak-rank": "7",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "14",
+        "song": "Stick-Up",
+        "artist": "The Honey Cone",
+        "last-week": "17",
+        "peak-rank": "14",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "15",
+        "song": "Mercy, Mercy Me (The Ecology)",
+        "artist": "Marvin Gaye",
+        "last-week": "13",
+        "peak-rank": "4",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "16",
+        "song": "Won't Get Fooled Again",
+        "artist": "The Who",
+        "last-week": "20",
+        "peak-rank": "16",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "17",
+        "song": "Superstar/Bless The Beasts And Children",
+        "artist": "Carpenters",
+        "last-week": "49",
+        "peak-rank": "17",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "18",
+        "song": "I Woke Up In Love This Morning",
+        "artist": "The Partridge Family Starring Shirley Jones Featuring David Cassidy",
+        "last-week": "21",
+        "peak-rank": "18",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "19",
+        "song": "Beginnings/Colour My World",
+        "artist": "Chicago",
+        "last-week": "15",
+        "peak-rank": "7",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "20",
+        "song": "Do You Know What I Mean",
+        "artist": "Lee Michaels",
+        "last-week": "34",
+        "peak-rank": "20",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "21",
+        "song": "Mr. Big Stuff",
+        "artist": "Jean Knight",
+        "last-week": "12",
+        "peak-rank": "2",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "22",
+        "song": "Sweet Hitch-Hiker",
+        "artist": "Creedence Clearwater Revival",
+        "last-week": "16",
+        "peak-rank": "6",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "23",
+        "song": "Bangla-Desh/Deep Blue",
+        "artist": "George Harrison",
+        "last-week": "24",
+        "peak-rank": "23",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "24",
+        "song": "Tired Of Being Alone",
+        "artist": "Al Green",
+        "last-week": "26",
+        "peak-rank": "24",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "25",
+        "song": "Riders On The Storm",
+        "artist": "The Doors",
+        "last-week": "14",
+        "peak-rank": "14",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "26",
+        "song": "The Story In Your Eyes",
+        "artist": "The Moody Blues",
+        "last-week": "31",
+        "peak-rank": "26",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "27",
+        "song": "Chirpy Chirpy Cheep Cheep",
+        "artist": "Mac And Katie Kissoon",
+        "last-week": "30",
+        "peak-rank": "27",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "28",
+        "song": "If You Really Love Me",
+        "artist": "Stevie Wonder",
+        "last-week": "37",
+        "peak-rank": "28",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "29",
+        "song": "If Not For You",
+        "artist": "Olivia Newton-John",
+        "last-week": "25",
+        "peak-rank": "25",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "30",
+        "song": "Make It Funky (Part 1)",
+        "artist": "James Brown",
+        "last-week": "56",
+        "peak-rank": "30",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "31",
+        "song": "Saturday Morning Confusion",
+        "artist": "Bobby Russell",
+        "last-week": "35",
+        "peak-rank": "31",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "32",
+        "song": "So Far Away/Smackwater Jack",
+        "artist": "Carole King",
+        "last-week": "39",
+        "peak-rank": "32",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "33",
+        "song": "Rain Dance",
+        "artist": "The Guess Who",
+        "last-week": "38",
+        "peak-rank": "33",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "34",
+        "song": "Wedding Song (There Is Love)",
+        "artist": "Paul Stookey",
+        "last-week": "36",
+        "peak-rank": "34",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "35",
+        "song": "Sweet City Woman",
+        "artist": "Stampeders",
+        "last-week": "43",
+        "peak-rank": "35",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "36",
+        "song": "Go Down Gamblin'",
+        "artist": "Blood, Sweat & Tears",
+        "last-week": "32",
+        "peak-rank": "32",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "37",
+        "song": "Hot Pants (She Got To Use What She Got To Get What She Wants) (Pt. 1)",
+        "artist": "James Brown",
+        "last-week": "23",
+        "peak-rank": "15",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "38",
+        "song": "I Likes To Do It",
+        "artist": "The People's Choice",
+        "last-week": "40",
+        "peak-rank": "38",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "39",
+        "song": "K-Jee",
+        "artist": "The Nite-Liters",
+        "last-week": "45",
+        "peak-rank": "39",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "40",
+        "song": "Surrender",
+        "artist": "Diana Ross",
+        "last-week": "44",
+        "peak-rank": "40",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "41",
+        "song": "I Ain't Got Time Anymore",
+        "artist": "The Glass Bottle",
+        "last-week": "42",
+        "peak-rank": "41",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "42",
+        "song": "All Day Music",
+        "artist": "War",
+        "last-week": "47",
+        "peak-rank": "42",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "43",
+        "song": "The Breakdown (Part I)",
+        "artist": "Rufus Thomas",
+        "last-week": "53",
+        "peak-rank": "43",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "44",
+        "song": "I've Found Someone Of My Own",
+        "artist": "The Free Movement",
+        "last-week": "58",
+        "peak-rank": "44",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "45",
+        "song": "Maggie",
+        "artist": "Redbone",
+        "last-week": "46",
+        "peak-rank": "45",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "46",
+        "song": "Marianne",
+        "artist": "Stephen Stills",
+        "last-week": "48",
+        "peak-rank": "46",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "47",
+        "song": "The Love We Had (Stays On My Mind)",
+        "artist": "The Dells",
+        "last-week": "52",
+        "peak-rank": "47",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "48",
+        "song": "Where Evil Grows",
+        "artist": "The Poppy Family",
+        "last-week": "51",
+        "peak-rank": "48",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "49",
+        "song": "Stop, Look, Listen (To Your Heart)",
+        "artist": "The Stylistics",
+        "last-week": "62",
+        "peak-rank": "39",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "50",
+        "song": "Take Me Girl, I'm Ready",
+        "artist": "Jr. Walker & The All Stars",
+        "last-week": "54",
+        "peak-rank": "50",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "51",
+        "song": "Easy Loving",
+        "artist": "Freddie Hart",
+        "last-week": "61",
+        "peak-rank": "51",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "52",
+        "song": "Stagger Lee",
+        "artist": "Tommy Roe",
+        "last-week": "60",
+        "peak-rank": "52",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "53",
+        "song": "Crazy Love",
+        "artist": "Helen Reddy",
+        "last-week": "57",
+        "peak-rank": "53",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "54",
+        "song": "Waiting At The Bus Stop",
+        "artist": "Bobby Sherman",
+        "last-week": "55",
+        "peak-rank": "54",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "55",
+        "song": "Another Time, Another Place",
+        "artist": "Engelbert Humperdinck",
+        "last-week": "64",
+        "peak-rank": "55",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "56",
+        "song": "Call My Name, I'll Be There",
+        "artist": "Wilson Pickett",
+        "last-week": "69",
+        "peak-rank": "56",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "57",
+        "song": "Thin Line Between Love & Hate",
+        "artist": "The Persuaders",
+        "last-week": "66",
+        "peak-rank": "57",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "58",
+        "song": "Loving Her Was Easier (Than Anything I'll Ever Do Again)",
+        "artist": "Kris Kristofferson",
+        "last-week": "63",
+        "peak-rank": "58",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "59",
+        "song": "Trapped By A Thing Called Love",
+        "artist": "Denise LaSalle",
+        "last-week": "65",
+        "peak-rank": "59",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "60",
+        "song": "Annabella",
+        "artist": "Hamilton, Joe Frank & Reynolds",
+        "last-week": "68",
+        "peak-rank": "60",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "61",
+        "song": "Gimme Shelter",
+        "artist": "Grand Funk Railroad",
+        "last-week": "72",
+        "peak-rank": "61",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "62",
+        "song": "Ko-Ko Joe",
+        "artist": "Jerry Reed",
+        "last-week": "74",
+        "peak-rank": "62",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "63",
+        "song": "Is That The Way",
+        "artist": "Tin Tin",
+        "last-week": "73",
+        "peak-rank": "63",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "64",
+        "song": "Them Changes",
+        "artist": "Buddy Miles & The Freedom Express",
+        "last-week": "67",
+        "peak-rank": "64",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "65",
+        "song": "How Can I Unlove You",
+        "artist": "Lynn Anderson",
+        "last-week": "75",
+        "peak-rank": "65",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "66",
+        "song": "Hijackin' Love",
+        "artist": "Johnnie Taylor (The Soul Philosopher)",
+        "last-week": "89",
+        "peak-rank": "66",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "67",
+        "song": "Mother Freedom",
+        "artist": "Bread",
+        "last-week": "50",
+        "peak-rank": "37",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "68",
+        "song": "A Natural Man",
+        "artist": "Lou Rawls",
+        "last-week": "77",
+        "peak-rank": "68",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "69",
+        "song": "Where You Lead",
+        "artist": "Barbra Streisand",
+        "last-week": "59",
+        "peak-rank": "40",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "70",
+        "song": "I'd Rather Be Sorry",
+        "artist": "Ray Price",
+        "last-week": "79",
+        "peak-rank": "70",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "71",
+        "song": "Think His Name",
+        "artist": "Johnny Rivers",
+        "last-week": "80",
+        "peak-rank": "71",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "72",
+        "song": "California Kid And Reemo",
+        "artist": "Lobo",
+        "last-week": "81",
+        "peak-rank": "72",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "73",
+        "song": "Roll On",
+        "artist": "The New Colony Six",
+        "last-week": "90",
+        "peak-rank": "73",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "74",
+        "song": "Don't Try To Lay No Boogie-Woogie On The King Of Rock And Roll",
+        "artist": "John Baldry",
+        "last-week": "83",
+        "peak-rank": "74",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "75",
+        "song": "One Fine Morning",
+        "artist": "Lighthouse",
+        "last-week": "",
+        "peak-rank": "75",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "76",
+        "song": "Talk It Over In The Morning",
+        "artist": "Anne Murray",
+        "last-week": "",
+        "peak-rank": "76",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "77",
+        "song": "All My Trials",
+        "artist": "Ray Stevens",
+        "last-week": "85",
+        "peak-rank": "77",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "78",
+        "song": "MacArthur Park (Part II)",
+        "artist": "Four Tops",
+        "last-week": "",
+        "peak-rank": "78",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "79",
+        "song": "Ghetto Woman",
+        "artist": "B.B. King",
+        "last-week": "",
+        "peak-rank": "79",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "80",
+        "song": "Get It While You Can",
+        "artist": "Janis Joplin",
+        "last-week": "",
+        "peak-rank": "80",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "81",
+        "song": "Birds Of A Feather",
+        "artist": "The Raiders",
+        "last-week": "",
+        "peak-rank": "81",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "82",
+        "song": "Military Madness",
+        "artist": "Graham Nash",
+        "last-week": "97",
+        "peak-rank": "82",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "83",
+        "song": "A Song For You",
+        "artist": "Andy Williams",
+        "last-week": "82",
+        "peak-rank": "82",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "84",
+        "song": "He'd Rather Have The Rain",
+        "artist": "Heaven Bound with Tony Scotti",
+        "last-week": "94",
+        "peak-rank": "84",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "85",
+        "song": "Yo-Yo",
+        "artist": "The Osmonds",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "86",
+        "song": "Feel So Bad",
+        "artist": "Ray Charles",
+        "last-week": "95",
+        "peak-rank": "86",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "87",
+        "song": "Pin The Tail On The Donkey",
+        "artist": "The Newcomers",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "88",
+        "song": "The Year That Clayton Delaney Died",
+        "artist": "Tom T. Hall",
+        "last-week": "88",
+        "peak-rank": "88",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "89",
+        "song": "Women's Love Rights",
+        "artist": "Laura Lee",
+        "last-week": "98",
+        "peak-rank": "89",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "90",
+        "song": "Some Of Shelly's Blues",
+        "artist": "Nitty Gritty Dirt Band",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "91",
+        "song": "I Know I'm In Love",
+        "artist": "Chee-Chee & Peppy",
+        "last-week": "",
+        "peak-rank": "49",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "92",
+        "song": "A Long Time, A Long Way To Go",
+        "artist": "Runt-Todd Rundgren",
+        "last-week": "92",
+        "peak-rank": "92",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "93",
+        "song": "That's The Way A Woman Is",
+        "artist": "Messengers",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "94",
+        "song": "Desdemona",
+        "artist": "The Searchers",
+        "last-week": "96",
+        "peak-rank": "94",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "95",
+        "song": "Handbags And Gladrags",
+        "artist": "Chase",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "96",
+        "song": "Can You Get To That",
+        "artist": "Funkadelic",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "97",
+        "song": "A Part Of You",
+        "artist": "Brenda & The Tabulations",
+        "last-week": "99",
+        "peak-rank": "97",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "98",
+        "song": "Solo",
+        "artist": "Billie Sans",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "99",
+        "song": "Summer Side Of Life",
+        "artist": "Gordon Lightfoot",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1971-09-11",
+        "rank": "100",
+        "song": "Black Seeds Keep On Growing",
+        "artist": "The Main Ingredient",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

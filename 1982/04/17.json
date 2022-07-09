@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1982-04-17",
+        "rank": "1",
+        "song": "I Love Rock 'N Roll",
+        "artist": "Joan Jett & the Blackhearts",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "2",
+        "song": "We Got The Beat",
+        "artist": "Go-Go's",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "3",
+        "song": "Chariots Of Fire - Titles",
+        "artist": "Vangelis",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "4",
+        "song": "Freeze-frame",
+        "artist": "The J. Geils Band",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "5",
+        "song": "Make A Move On Me",
+        "artist": "Olivia Newton-John",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "6",
+        "song": "Don't Talk To Strangers",
+        "artist": "Rick Springfield",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "7",
+        "song": "Do You Believe In Love",
+        "artist": "Huey Lewis & The News",
+        "last-week": "10",
+        "peak-rank": "7",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "8",
+        "song": "Key Largo",
+        "artist": "Bertie Higgins",
+        "last-week": "9",
+        "peak-rank": "8",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "9",
+        "song": "Open Arms",
+        "artist": "Journey",
+        "last-week": "7",
+        "peak-rank": "2",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "10",
+        "song": "That Girl",
+        "artist": "Stevie Wonder",
+        "last-week": "8",
+        "peak-rank": "4",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "11",
+        "song": "Edge Of Seventeen (Just Like The White Winged Dove)",
+        "artist": "Stevie Nicks",
+        "last-week": "12",
+        "peak-rank": "11",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "12",
+        "song": "(oh) Pretty Woman",
+        "artist": "Van Halen",
+        "last-week": "14",
+        "peak-rank": "12",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "13",
+        "song": "'65 Love Affair",
+        "artist": "Paul Davis",
+        "last-week": "16",
+        "peak-rank": "13",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "14",
+        "song": "One Hundred Ways",
+        "artist": "Quincy Jones Featuring James Ingram",
+        "last-week": "15",
+        "peak-rank": "14",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "15",
+        "song": "867-5309/jenny",
+        "artist": "Tommy Tutone",
+        "last-week": "21",
+        "peak-rank": "15",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "16",
+        "song": "Find Another Fool",
+        "artist": "Quarterflash",
+        "last-week": "18",
+        "peak-rank": "16",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "17",
+        "song": "Did It In A Minute",
+        "artist": "Daryl Hall John Oates",
+        "last-week": "24",
+        "peak-rank": "17",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "18",
+        "song": "Nobody Said It Was Easy (Lookin' For The Lights)",
+        "artist": "LeRoux",
+        "last-week": "20",
+        "peak-rank": "18",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "19",
+        "song": "Goin' Down",
+        "artist": "Greg Guidry",
+        "last-week": "22",
+        "peak-rank": "19",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "20",
+        "song": "Get Down On It",
+        "artist": "Kool & The Gang",
+        "last-week": "25",
+        "peak-rank": "20",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "21",
+        "song": "Ebony And Ivory",
+        "artist": "Paul McCartney And Stevie Wonder",
+        "last-week": "29",
+        "peak-rank": "21",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "22",
+        "song": "The Beatles' Movie Medley",
+        "artist": "The Beatles",
+        "last-week": "34",
+        "peak-rank": "22",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "23",
+        "song": "I've Never Been To Me",
+        "artist": "Charlene",
+        "last-week": "28",
+        "peak-rank": "23",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "24",
+        "song": "Pac-Man Fever",
+        "artist": "Buckner & Garcia",
+        "last-week": "11",
+        "peak-rank": "9",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "25",
+        "song": "Baby Makes Her Blue Jeans Talk",
+        "artist": "Dr. Hook",
+        "last-week": "27",
+        "peak-rank": "25",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "26",
+        "song": "Always On My Mind",
+        "artist": "Willie Nelson",
+        "last-week": "30",
+        "peak-rank": "26",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "27",
+        "song": "Should I Do It",
+        "artist": "The Pointer Sisters",
+        "last-week": "13",
+        "peak-rank": "13",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "28",
+        "song": "The Other Woman",
+        "artist": "Ray Parker Jr.",
+        "last-week": "40",
+        "peak-rank": "28",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "29",
+        "song": "Sweet Dreams",
+        "artist": "Air Supply",
+        "last-week": "17",
+        "peak-rank": "5",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "30",
+        "song": "Hang Fire",
+        "artist": "The Rolling Stones",
+        "last-week": "38",
+        "peak-rank": "30",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "31",
+        "song": "Mama Used To Say",
+        "artist": "Junior",
+        "last-week": "33",
+        "peak-rank": "31",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "32",
+        "song": "Don't You Want Me",
+        "artist": "The Human League",
+        "last-week": "39",
+        "peak-rank": "32",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "33",
+        "song": "Genius Of Love",
+        "artist": "Tom Tom Club",
+        "last-week": "37",
+        "peak-rank": "33",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "34",
+        "song": "Theme From Magnum P.i.",
+        "artist": "Mike Post",
+        "last-week": "36",
+        "peak-rank": "34",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "35",
+        "song": "Pop Goes The Movies Part I",
+        "artist": "Meco",
+        "last-week": "35",
+        "peak-rank": "35",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "36",
+        "song": "Empty Garden (Hey Hey Johnny)",
+        "artist": "Elton John",
+        "last-week": "42",
+        "peak-rank": "36",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "37",
+        "song": "Take Off",
+        "artist": "Bob & Doug McKenzie",
+        "last-week": "19",
+        "peak-rank": "16",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "38",
+        "song": "Stars on 45 III",
+        "artist": "Stars On",
+        "last-week": "45",
+        "peak-rank": "38",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "39",
+        "song": "Still In Saigon",
+        "artist": "The Charlie Daniels Band",
+        "last-week": "46",
+        "peak-rank": "39",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "40",
+        "song": "Making Love",
+        "artist": "Roberta Flack",
+        "last-week": "44",
+        "peak-rank": "40",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "41",
+        "song": "I'll Try Something New",
+        "artist": "A Taste Of Honey",
+        "last-week": "43",
+        "peak-rank": "41",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "42",
+        "song": "Let's Hang On",
+        "artist": "Barry Manilow",
+        "last-week": "47",
+        "peak-rank": "42",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "43",
+        "song": "My Guy",
+        "artist": "Sister Sledge",
+        "last-week": "23",
+        "peak-rank": "23",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "44",
+        "song": "Shanghai Breezes",
+        "artist": "John Denver",
+        "last-week": "48",
+        "peak-rank": "44",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "45",
+        "song": "If I Had My Wish Tonight",
+        "artist": "David Lasley",
+        "last-week": "49",
+        "peak-rank": "45",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "46",
+        "song": "Run For The Roses",
+        "artist": "Dan Fogelberg",
+        "last-week": "56",
+        "peak-rank": "46",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "47",
+        "song": "Man On Your Mind",
+        "artist": "Little River Band",
+        "last-week": "57",
+        "peak-rank": "47",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "48",
+        "song": "Since You're Gone",
+        "artist": "The Cars",
+        "last-week": "54",
+        "peak-rank": "48",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "49",
+        "song": "Tainted Love",
+        "artist": "Soft Cell",
+        "last-week": "50",
+        "peak-rank": "49",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "50",
+        "song": "On A Carousel",
+        "artist": "Glass Moon",
+        "last-week": "51",
+        "peak-rank": "50",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "51",
+        "song": "Man On The Corner",
+        "artist": "Genesis",
+        "last-week": "55",
+        "peak-rank": "51",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "52",
+        "song": "It's Gonna Take A Miracle",
+        "artist": "Deniece Williams",
+        "last-week": "58",
+        "peak-rank": "52",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "53",
+        "song": "Apache",
+        "artist": "Sugarhill Gang",
+        "last-week": "53",
+        "peak-rank": "53",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "54",
+        "song": "Wake Up Little Susie",
+        "artist": "Simon & Garfunkel",
+        "last-week": "59",
+        "peak-rank": "54",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "55",
+        "song": "My Girl",
+        "artist": "Donnie Iris",
+        "last-week": "69",
+        "peak-rank": "55",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "56",
+        "song": "Fantasy",
+        "artist": "Aldo Nova",
+        "last-week": "61",
+        "peak-rank": "56",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "57",
+        "song": "I'm In Love Again",
+        "artist": "Pia Zadora",
+        "last-week": "67",
+        "peak-rank": "57",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "58",
+        "song": "Circles",
+        "artist": "Atlantic Starr",
+        "last-week": "63",
+        "peak-rank": "58",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "59",
+        "song": "When He Shines",
+        "artist": "Sheena Easton",
+        "last-week": "64",
+        "peak-rank": "59",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "60",
+        "song": "One To One",
+        "artist": "Carole King",
+        "last-week": "65",
+        "peak-rank": "60",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "61",
+        "song": "Don't Stop Me Baby (I'm On Fire)",
+        "artist": "The Boys Band",
+        "last-week": "62",
+        "peak-rank": "61",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "62",
+        "song": "The Gigolo",
+        "artist": "O'Bryan",
+        "last-week": "66",
+        "peak-rank": "62",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "63",
+        "song": "Baby Step Back",
+        "artist": "Gordon Lightfoot",
+        "last-week": "71",
+        "peak-rank": "63",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "64",
+        "song": "Work That Body",
+        "artist": "Diana Ross",
+        "last-week": "73",
+        "peak-rank": "64",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "65",
+        "song": "I'll Drink To You",
+        "artist": "Duke Jupiter",
+        "last-week": "72",
+        "peak-rank": "65",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "66",
+        "song": "You Got The Power",
+        "artist": "War",
+        "last-week": "74",
+        "peak-rank": "66",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "67",
+        "song": "Without You (Not Another Lonely Night)",
+        "artist": "Franke & The Knockouts",
+        "last-week": "81",
+        "peak-rank": "67",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "68",
+        "song": "Heat Of The Moment",
+        "artist": "Asia",
+        "last-week": "",
+        "peak-rank": "68",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "69",
+        "song": "Just To Satisfy You",
+        "artist": "Waylon & Willie",
+        "last-week": "76",
+        "peak-rank": "69",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "70",
+        "song": "If It Ain't One Thing...It's Another",
+        "artist": "Richard \"Dimples\" Fields",
+        "last-week": "77",
+        "peak-rank": "70",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "71",
+        "song": "When It's Over",
+        "artist": "Loverboy",
+        "last-week": "79",
+        "peak-rank": "71",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "72",
+        "song": "All Night With Me",
+        "artist": "Laura Branigan",
+        "last-week": "78",
+        "peak-rank": "72",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "73",
+        "song": "Make Up Your Mind",
+        "artist": "Aurra",
+        "last-week": "75",
+        "peak-rank": "73",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "74",
+        "song": "Finally",
+        "artist": "T.G. Sheppard",
+        "last-week": "80",
+        "peak-rank": "74",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "75",
+        "song": "Juke Box Hero",
+        "artist": "Foreigner",
+        "last-week": "26",
+        "peak-rank": "26",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "76",
+        "song": "A Night To Remember",
+        "artist": "Shalamar",
+        "last-week": "82",
+        "peak-rank": "76",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "77",
+        "song": "Teach Me Tonight",
+        "artist": "Al Jarreau",
+        "last-week": "83",
+        "peak-rank": "77",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "78",
+        "song": "If I Could Get You (into my Life)",
+        "artist": "Gene Cotton",
+        "last-week": "84",
+        "peak-rank": "78",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "79",
+        "song": "I Don't Know Where To Start",
+        "artist": "Eddie Rabbitt",
+        "last-week": "89",
+        "peak-rank": "79",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "80",
+        "song": "Secret Journey",
+        "artist": "The Police",
+        "last-week": "87",
+        "peak-rank": "80",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "81",
+        "song": "Rosanna",
+        "artist": "Toto",
+        "last-week": "",
+        "peak-rank": "81",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "82",
+        "song": "Murphy's Law",
+        "artist": "Cheri",
+        "last-week": "90",
+        "peak-rank": "82",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "83",
+        "song": "Cat People (Putting Out Fire)",
+        "artist": "David Bowie",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "84",
+        "song": "Right The First Time",
+        "artist": "Gamma",
+        "last-week": "85",
+        "peak-rank": "84",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "85",
+        "song": "Turn On Your Radar",
+        "artist": "Prism",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "86",
+        "song": "Friends In Love",
+        "artist": "Dionne Warwick & Johnny Mathis",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "87",
+        "song": "Hollywood",
+        "artist": "Shooting Star",
+        "last-week": "70",
+        "peak-rank": "70",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "88",
+        "song": "Loving You",
+        "artist": "Chris Rea",
+        "last-week": "88",
+        "peak-rank": "88",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "89",
+        "song": "Centerfold",
+        "artist": "The J. Geils Band",
+        "last-week": "31",
+        "peak-rank": "1",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "90",
+        "song": "Old Fashioned Love",
+        "artist": "Smokey Robinson",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "91",
+        "song": "Over The Line",
+        "artist": "Eddie Schwartz",
+        "last-week": "91",
+        "peak-rank": "91",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "92",
+        "song": "Sing A Simple Song",
+        "artist": "West Street Mob",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "93",
+        "song": "Bobbie Sue",
+        "artist": "The Oak Ridge Boys",
+        "last-week": "32",
+        "peak-rank": "12",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "94",
+        "song": "Tonight I'm Yours (Don't Hurt Me)",
+        "artist": "Rod Stewart",
+        "last-week": "92",
+        "peak-rank": "20",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "95",
+        "song": "The Visitors",
+        "artist": "ABBA",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "96",
+        "song": "Sleepwalk",
+        "artist": "Larry Carlton",
+        "last-week": "86",
+        "peak-rank": "74",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "97",
+        "song": "Shine On",
+        "artist": "George Duke",
+        "last-week": "41",
+        "peak-rank": "41",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "98",
+        "song": "Never Give Up On A Good Thing",
+        "artist": "George Benson",
+        "last-week": "52",
+        "peak-rank": "52",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "99",
+        "song": "On The Way To The Sky",
+        "artist": "Neil Diamond",
+        "last-week": "60",
+        "peak-rank": "27",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1982-04-17",
+        "rank": "100",
+        "song": "Shake It Up",
+        "artist": "The Cars",
+        "last-week": "68",
+        "peak-rank": "4",
+        "weeks-on-board": "22"
+    }
+]

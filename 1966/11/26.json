@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1966-11-26",
+        "rank": "1",
+        "song": "You Keep Me Hangin' On",
+        "artist": "The Supremes",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "2",
+        "song": "Good Vibrations",
+        "artist": "The Beach Boys",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "3",
+        "song": "Winchester Cathedral",
+        "artist": "The New Vaudeville Band",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "4",
+        "song": "Devil With A Blue Dress On & Good Golly Miss Molly",
+        "artist": "Mitch Ryder And The Detroit Wheels",
+        "last-week": "6",
+        "peak-rank": "4",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "5",
+        "song": "Poor Side Of Town",
+        "artist": "Johnny Rivers",
+        "last-week": "5",
+        "peak-rank": "1",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "6",
+        "song": "I'm Your Puppet",
+        "artist": "James & Bobby Purify",
+        "last-week": "7",
+        "peak-rank": "6",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "7",
+        "song": "Last Train To Clarksville",
+        "artist": "The Monkees",
+        "last-week": "4",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "8",
+        "song": "Lady Godiva",
+        "artist": "Peter And Gordon",
+        "last-week": "11",
+        "peak-rank": "8",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "9",
+        "song": "Mellow Yellow",
+        "artist": "Donovan",
+        "last-week": "24",
+        "peak-rank": "9",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "10",
+        "song": "Born Free",
+        "artist": "Roger Williams",
+        "last-week": "12",
+        "peak-rank": "10",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "11",
+        "song": "96 Tears",
+        "artist": "? (Question Mark) & The Mysterians",
+        "last-week": "8",
+        "peak-rank": "1",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "12",
+        "song": "Coming On Strong",
+        "artist": "Brenda Lee",
+        "last-week": "17",
+        "peak-rank": "12",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "13",
+        "song": "Stop Stop Stop",
+        "artist": "The Hollies",
+        "last-week": "20",
+        "peak-rank": "13",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "14",
+        "song": "Rain On The Roof",
+        "artist": "The Lovin' Spoonful",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "15",
+        "song": "If I Were A Carpenter",
+        "artist": "Bobby Darin",
+        "last-week": "9",
+        "peak-rank": "8",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "16",
+        "song": "I'm Ready For Love",
+        "artist": "Martha & The Vandellas",
+        "last-week": "21",
+        "peak-rank": "16",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "17",
+        "song": "A Hazy Shade Of Winter",
+        "artist": "Simon & Garfunkel",
+        "last-week": "23",
+        "peak-rank": "17",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "18",
+        "song": "Love Is A Hurtin' Thing",
+        "artist": "Lou Rawls",
+        "last-week": "13",
+        "peak-rank": "13",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "19",
+        "song": "Hooray For Hazel",
+        "artist": "Tommy Roe",
+        "last-week": "15",
+        "peak-rank": "6",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "20",
+        "song": "What Becomes Of The Brokenhearted",
+        "artist": "Jimmy Ruffin",
+        "last-week": "18",
+        "peak-rank": "7",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "21",
+        "song": "Who Am I",
+        "artist": "Petula Clark",
+        "last-week": "22",
+        "peak-rank": "21",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "22",
+        "song": "Reach Out I'll Be There",
+        "artist": "Four Tops",
+        "last-week": "14",
+        "peak-rank": "1",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "23",
+        "song": "Walk Away Renee",
+        "artist": "The Left Banke",
+        "last-week": "16",
+        "peak-rank": "5",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "24",
+        "song": "Look Through My Window",
+        "artist": "The Mamas & The Papas",
+        "last-week": "25",
+        "peak-rank": "24",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "25",
+        "song": "Dandy",
+        "artist": "Herman's Hermits",
+        "last-week": "19",
+        "peak-rank": "5",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "26",
+        "song": "Whispers (Gettin' Louder)",
+        "artist": "Jackie Wilson",
+        "last-week": "39",
+        "peak-rank": "26",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "27",
+        "song": "I Got The Feelin' (Oh No No)",
+        "artist": "Neil Diamond",
+        "last-week": "58",
+        "peak-rank": "27",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "28",
+        "song": "But It's Alright",
+        "artist": "J.J. Jackson",
+        "last-week": "26",
+        "peak-rank": "26",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "29",
+        "song": "Secret Love",
+        "artist": "Billy Stewart",
+        "last-week": "29",
+        "peak-rank": "29",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "30",
+        "song": "Louie, Louie",
+        "artist": "The Sandpipers",
+        "last-week": "32",
+        "peak-rank": "30",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "31",
+        "song": "The Wheel Of Hurt",
+        "artist": "Margaret Whiting",
+        "last-week": "33",
+        "peak-rank": "31",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "32",
+        "song": "Holy Cow",
+        "artist": "Lee Dorsey",
+        "last-week": "34",
+        "peak-rank": "32",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "33",
+        "song": "Run, Run, Look And See",
+        "artist": "Brian Hyland",
+        "last-week": "43",
+        "peak-rank": "33",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "34",
+        "song": "It Tears Me Up",
+        "artist": "Percy Sledge",
+        "last-week": "40",
+        "peak-rank": "34",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "35",
+        "song": "Knock On Wood",
+        "artist": "Eddie Floyd",
+        "last-week": "37",
+        "peak-rank": "35",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "36",
+        "song": "(Come 'round Here) I'm The One You Need",
+        "artist": "The Miracles",
+        "last-week": "55",
+        "peak-rank": "36",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "37",
+        "song": "A Place In The Sun",
+        "artist": "Stevie Wonder",
+        "last-week": "53",
+        "peak-rank": "37",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "38",
+        "song": "B-A-B-Y",
+        "artist": "Carla Thomas",
+        "last-week": "27",
+        "peak-rank": "14",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "39",
+        "song": "(When She Needs Good Lovin') She Comes To Me",
+        "artist": "The Chicago Loop",
+        "last-week": "57",
+        "peak-rank": "39",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "40",
+        "song": "(You Don't Have To) Paint Me A Picture",
+        "artist": "Gary Lewis And The Playboys",
+        "last-week": "28",
+        "peak-rank": "15",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "41",
+        "song": "Psychotic Reaction",
+        "artist": "Count Five",
+        "last-week": "35",
+        "peak-rank": "5",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "42",
+        "song": "That's Life",
+        "artist": "Frank Sinatra",
+        "last-week": "75",
+        "peak-rank": "42",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "43",
+        "song": "(I Know) I'm Losing You",
+        "artist": "The Temptations",
+        "last-week": "79",
+        "peak-rank": "43",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "44",
+        "song": "Cherish",
+        "artist": "The Association",
+        "last-week": "36",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "45",
+        "song": "Mame",
+        "artist": "Herb Alpert & The Tijuana Brass",
+        "last-week": "82",
+        "peak-rank": "45",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "46",
+        "song": "Time After Time",
+        "artist": "Chris Montez",
+        "last-week": "54",
+        "peak-rank": "46",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "47",
+        "song": "On This Side Of Goodbye",
+        "artist": "The Righteous Brothers",
+        "last-week": "47",
+        "peak-rank": "47",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "48",
+        "song": "Go Away Little Girl",
+        "artist": "The Happenings",
+        "last-week": "30",
+        "peak-rank": "12",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "49",
+        "song": "Nineteen Days",
+        "artist": "The Dave Clark Five",
+        "last-week": "48",
+        "peak-rank": "48",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "50",
+        "song": "Help Me Girl",
+        "artist": "The Outsiders",
+        "last-week": "60",
+        "peak-rank": "50",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "51",
+        "song": "A Symphony For Susan",
+        "artist": "The Arbors",
+        "last-week": "65",
+        "peak-rank": "51",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "52",
+        "song": "Heaven Must Have Sent You",
+        "artist": "The Elgins",
+        "last-week": "52",
+        "peak-rank": "52",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "53",
+        "song": "Wish You Were Here, Buddy",
+        "artist": "Pat Boone",
+        "last-week": "56",
+        "peak-rank": "53",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "54",
+        "song": "Why Pick On Me",
+        "artist": "The Standells",
+        "last-week": "61",
+        "peak-rank": "54",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "55",
+        "song": "Somebody (Somewhere) Needs You",
+        "artist": "Darrell Banks",
+        "last-week": "59",
+        "peak-rank": "55",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "56",
+        "song": "It's Only Love",
+        "artist": "Tommy James And The Shondells",
+        "last-week": "66",
+        "peak-rank": "56",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "57",
+        "song": "Games That Lovers Play",
+        "artist": "Eddie Fisher",
+        "last-week": "67",
+        "peak-rank": "57",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "58",
+        "song": "Talk Talk",
+        "artist": "The Music Machine",
+        "last-week": "81",
+        "peak-rank": "58",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "59",
+        "song": "The Wheel Of Hurt",
+        "artist": "Al Martino",
+        "last-week": "62",
+        "peak-rank": "59",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "60",
+        "song": "All That I Am",
+        "artist": "Elvis Presley With The Jordanaires",
+        "last-week": "41",
+        "peak-rank": "41",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "61",
+        "song": "Come Back",
+        "artist": "The Five Stairsteps",
+        "last-week": "63",
+        "peak-rank": "61",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "62",
+        "song": "Sugar Town",
+        "artist": "Nancy Sinatra",
+        "last-week": "83",
+        "peak-rank": "62",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "63",
+        "song": "Bang Bang",
+        "artist": "The Joe Cuba Sextet",
+        "last-week": "71",
+        "peak-rank": "63",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "64",
+        "song": "A Day In The Life Of A Fool",
+        "artist": "Jack Jones",
+        "last-week": "73",
+        "peak-rank": "64",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "65",
+        "song": "Stay With Me",
+        "artist": "Lorraine Ellison",
+        "last-week": "64",
+        "peak-rank": "64",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "66",
+        "song": "Mustang Sally",
+        "artist": "Wilson Pickett",
+        "last-week": "",
+        "peak-rank": "66",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "67",
+        "song": "We Got A Thing That's In The Groove",
+        "artist": "The Capitols",
+        "last-week": "77",
+        "peak-rank": "67",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "68",
+        "song": "Please Say You're Fooling",
+        "artist": "Ray Charles and his Orchestra",
+        "last-week": "78",
+        "peak-rank": "68",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "69",
+        "song": "Single Girl",
+        "artist": "Sandy Posey",
+        "last-week": "96",
+        "peak-rank": "69",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "70",
+        "song": "The Proud One",
+        "artist": "Frankie Valli",
+        "last-week": "80",
+        "peak-rank": "70",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "71",
+        "song": "I Need Somebody",
+        "artist": "? (Question Mark) & The Mysterians",
+        "last-week": "90",
+        "peak-rank": "71",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "72",
+        "song": "Winchester Cathedral",
+        "artist": "Dana Rollin",
+        "last-week": "72",
+        "peak-rank": "72",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "73",
+        "song": "Coming Home Soldier",
+        "artist": "Bobby Vinton",
+        "last-week": "84",
+        "peak-rank": "73",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "74",
+        "song": "Money (That's What I Want) (Part 1)",
+        "artist": "Jr. Walker & The All Stars",
+        "last-week": "89",
+        "peak-rank": "74",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "75",
+        "song": "Don't Answer The Door - Part 1",
+        "artist": "B.B. King",
+        "last-week": "76",
+        "peak-rank": "75",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "76",
+        "song": "Baby What Do You Want Me To Do",
+        "artist": "Barbara Lewis",
+        "last-week": "74",
+        "peak-rank": "74",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "77",
+        "song": "Pandora's Golden Heebie Jeebies",
+        "artist": "The Association",
+        "last-week": "",
+        "peak-rank": "77",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "78",
+        "song": "I Fooled You This Time",
+        "artist": "Gene Chandler",
+        "last-week": "",
+        "peak-rank": "78",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "79",
+        "song": "I (Who Have Nothing)",
+        "artist": "Terry Knight and The Pack",
+        "last-week": "93",
+        "peak-rank": "79",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "80",
+        "song": "I Don't Need No Doctor",
+        "artist": "Ray Charles and his Orchestra",
+        "last-week": "",
+        "peak-rank": "80",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "81",
+        "song": "Alvin's Boo-Ga-Loo",
+        "artist": "Alvin Cash & The Registers",
+        "last-week": "",
+        "peak-rank": "81",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "82",
+        "song": "Ghost Riders In The Sky",
+        "artist": "Baja Marimba Band",
+        "last-week": "",
+        "peak-rank": "82",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "83",
+        "song": "A Corner In The Sun",
+        "artist": "Walter Jackson",
+        "last-week": "86",
+        "peak-rank": "83",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "84",
+        "song": "Heartbreak Hotel",
+        "artist": "Roger Miller",
+        "last-week": "85",
+        "peak-rank": "84",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "85",
+        "song": "The Eggplant That Ate Chicago",
+        "artist": "Dr. West's Medicine Show and Junk Band",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "86",
+        "song": "Games That Lovers Play",
+        "artist": "Wayne Newton",
+        "last-week": "87",
+        "peak-rank": "86",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "87",
+        "song": "Living For You",
+        "artist": "Sonny & Cher",
+        "last-week": "97",
+        "peak-rank": "87",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "88",
+        "song": "You Can Bring Me All Your Heartaches",
+        "artist": "Lou Rawls",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "89",
+        "song": "Can I Get To Know You Better",
+        "artist": "The Turtles",
+        "last-week": "91",
+        "peak-rank": "89",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "90",
+        "song": "I Wanna Meet You",
+        "artist": "The Cryan' Shames",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "91",
+        "song": "Help Me Girl",
+        "artist": "Eric Burdon & The Animals",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "92",
+        "song": "Respect",
+        "artist": "The Rationals",
+        "last-week": "95",
+        "peak-rank": "92",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "93",
+        "song": "Tiny Bubbles",
+        "artist": "Don Ho and the Aliis",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "94",
+        "song": "I'm Gonna Make You Love Me",
+        "artist": "Dee Dee Warwick",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "95",
+        "song": "(He's) Raining In My Sunshine",
+        "artist": "Jay & The Americans",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "96",
+        "song": "Hi Hi Hazel",
+        "artist": "Gary And The Hornets",
+        "last-week": "98",
+        "peak-rank": "96",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "97",
+        "song": "Behind The Door",
+        "artist": "Cher",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "98",
+        "song": "Have You Ever Loved Somebody",
+        "artist": "The Searchers",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "99",
+        "song": "Happenings Ten Years Time Ago",
+        "artist": "The Yardbirds",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1966-11-26",
+        "rank": "100",
+        "song": "Cry",
+        "artist": "Ronnie Dove",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

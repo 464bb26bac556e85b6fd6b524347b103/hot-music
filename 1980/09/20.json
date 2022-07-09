@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1980-09-20",
+        "rank": "1",
+        "song": "Upside Down",
+        "artist": "Diana Ross",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "2",
+        "song": "All Out Of Love",
+        "artist": "Air Supply",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "3",
+        "song": "Another One Bites The Dust",
+        "artist": "Queen",
+        "last-week": "9",
+        "peak-rank": "3",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "4",
+        "song": "Fame",
+        "artist": "Irene Cara",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "5",
+        "song": "Lookin' For Love",
+        "artist": "Johnny Lee",
+        "last-week": "8",
+        "peak-rank": "5",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "6",
+        "song": "Give Me The Night",
+        "artist": "George Benson",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "7",
+        "song": "Late In The Evening",
+        "artist": "Paul Simon",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "8",
+        "song": "Drivin' My Life Away",
+        "artist": "Eddie Rabbitt",
+        "last-week": "10",
+        "peak-rank": "8",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "9",
+        "song": "One In A Million You",
+        "artist": "Larry Graham",
+        "last-week": "15",
+        "peak-rank": "9",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "10",
+        "song": "Emotional Rescue",
+        "artist": "The Rolling Stones",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "11",
+        "song": "I'm Alright",
+        "artist": "Kenny Loggins",
+        "last-week": "12",
+        "peak-rank": "11",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "12",
+        "song": "Xanadu",
+        "artist": "Olivia Newton-John And The Electric Light Orchestra",
+        "last-week": "17",
+        "peak-rank": "12",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "13",
+        "song": "You're The Only Woman (You & I)",
+        "artist": "Ambrosia",
+        "last-week": "14",
+        "peak-rank": "13",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "14",
+        "song": "You'll Accomp'ny Me",
+        "artist": "Bob Seger",
+        "last-week": "16",
+        "peak-rank": "14",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "15",
+        "song": "Sailing",
+        "artist": "Christopher Cross",
+        "last-week": "5",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "16",
+        "song": "All Over The World",
+        "artist": "Electric Light Orchestra",
+        "last-week": "18",
+        "peak-rank": "16",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "17",
+        "song": "Real Love",
+        "artist": "The Doobie Brothers",
+        "last-week": "28",
+        "peak-rank": "17",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "18",
+        "song": "Hot Rod Hearts",
+        "artist": "Robbie Dupree",
+        "last-week": "20",
+        "peak-rank": "18",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "19",
+        "song": "Don't Ask Me Why",
+        "artist": "Billy Joel",
+        "last-week": "21",
+        "peak-rank": "19",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "20",
+        "song": "He's So Shy",
+        "artist": "The Pointer Sisters",
+        "last-week": "27",
+        "peak-rank": "20",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "21",
+        "song": "Someone That I Used To Love",
+        "artist": "Natalie Cole",
+        "last-week": "23",
+        "peak-rank": "21",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "22",
+        "song": "Never Knew Love Like This Before",
+        "artist": "Stephanie Mills",
+        "last-week": "26",
+        "peak-rank": "22",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "23",
+        "song": "Jesse",
+        "artist": "Carly Simon",
+        "last-week": "25",
+        "peak-rank": "23",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "24",
+        "song": "Look What You've Done To Me",
+        "artist": "Boz Scaggs",
+        "last-week": "29",
+        "peak-rank": "24",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "25",
+        "song": "Woman In Love",
+        "artist": "Barbra Streisand",
+        "last-week": "33",
+        "peak-rank": "25",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "26",
+        "song": "No Night So Long",
+        "artist": "Dionne Warwick",
+        "last-week": "32",
+        "peak-rank": "26",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "27",
+        "song": "Magic",
+        "artist": "Olivia Newton-John",
+        "last-week": "13",
+        "peak-rank": "1",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "28",
+        "song": "Into The Night",
+        "artist": "Benny Mardones",
+        "last-week": "11",
+        "peak-rank": "11",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "29",
+        "song": "Take Your Time (Do It Right) Part 1",
+        "artist": "The S.O.S. Band",
+        "last-week": "22",
+        "peak-rank": "3",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "30",
+        "song": "Boulevard",
+        "artist": "Jackson Browne",
+        "last-week": "19",
+        "peak-rank": "19",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "31",
+        "song": "Let My Love Open The Door",
+        "artist": "Pete Townshend",
+        "last-week": "24",
+        "peak-rank": "9",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "32",
+        "song": "How Do I Survive",
+        "artist": "Amy Holland",
+        "last-week": "38",
+        "peak-rank": "32",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "33",
+        "song": "How Does It Feel To Be Back",
+        "artist": "Daryl Hall John Oates",
+        "last-week": "30",
+        "peak-rank": "30",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "34",
+        "song": "You're Supposed To Keep Your Love For Me",
+        "artist": "Jermaine Jackson",
+        "last-week": "35",
+        "peak-rank": "34",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "35",
+        "song": "It's Still Rock And Roll To Me",
+        "artist": "Billy Joel",
+        "last-week": "34",
+        "peak-rank": "1",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "36",
+        "song": "Who'll Be The Fool Tonight",
+        "artist": "Larsen-Feiten Band",
+        "last-week": "40",
+        "peak-rank": "36",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "37",
+        "song": "More Love",
+        "artist": "Kim Carnes",
+        "last-week": "36",
+        "peak-rank": "10",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "38",
+        "song": "First Time Love",
+        "artist": "Livingston Taylor",
+        "last-week": "39",
+        "peak-rank": "38",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "39",
+        "song": "Old-Fashion Love",
+        "artist": "Commodores",
+        "last-week": "37",
+        "peak-rank": "20",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "40",
+        "song": "(Sartorial Eloquence) Don't Ya Wanna Play This Game No More?",
+        "artist": "Elton John",
+        "last-week": "44",
+        "peak-rank": "40",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "41",
+        "song": "Midnight Rocks",
+        "artist": "Al Stewart",
+        "last-week": "50",
+        "peak-rank": "41",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "42",
+        "song": "Red Light",
+        "artist": "Linda Clifford",
+        "last-week": "46",
+        "peak-rank": "42",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "43",
+        "song": "The Wanderer",
+        "artist": "Donna Summer",
+        "last-week": "",
+        "peak-rank": "43",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "44",
+        "song": "Out Here On My Own",
+        "artist": "Irene Cara",
+        "last-week": "48",
+        "peak-rank": "44",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "45",
+        "song": "The Legend Of Wooley Swamp",
+        "artist": "The Charlie Daniels Band",
+        "last-week": "51",
+        "peak-rank": "45",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "46",
+        "song": "I'm Almost Ready",
+        "artist": "Pure Prairie League",
+        "last-week": "52",
+        "peak-rank": "46",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "47",
+        "song": "Whip It",
+        "artist": "Devo",
+        "last-week": "60",
+        "peak-rank": "47",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "48",
+        "song": "Games Without Frontiers",
+        "artist": "Peter Gabriel",
+        "last-week": "54",
+        "peak-rank": "48",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "49",
+        "song": "Let Me Be Your Angel",
+        "artist": "Stacy Lattisaw",
+        "last-week": "56",
+        "peak-rank": "49",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "50",
+        "song": "On The Road Again",
+        "artist": "Willie Nelson",
+        "last-week": "69",
+        "peak-rank": "50",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "51",
+        "song": "Hey There Lonely Girl",
+        "artist": "Robert John",
+        "last-week": "31",
+        "peak-rank": "31",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "52",
+        "song": "Dreaming",
+        "artist": "Cliff Richard",
+        "last-week": "77",
+        "peak-rank": "52",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "53",
+        "song": "My Prayer",
+        "artist": "Ray, Goodman & Brown",
+        "last-week": "59",
+        "peak-rank": "53",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "54",
+        "song": "I'm Coming Out",
+        "artist": "Diana Ross",
+        "last-week": "76",
+        "peak-rank": "54",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "55",
+        "song": "Good Morning Girl/stay Awhile",
+        "artist": "Journey",
+        "last-week": "61",
+        "peak-rank": "55",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "56",
+        "song": "Thunder And Lightning",
+        "artist": "Chicago",
+        "last-week": "62",
+        "peak-rank": "56",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "57",
+        "song": "I Got You",
+        "artist": "Split Enz",
+        "last-week": "64",
+        "peak-rank": "57",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "58",
+        "song": "Can't We Try",
+        "artist": "Teddy Pendergrass",
+        "last-week": "66",
+        "peak-rank": "58",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "59",
+        "song": "Switchin' To Glide/This Beat Goes On",
+        "artist": "The Kings",
+        "last-week": "65",
+        "peak-rank": "59",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "60",
+        "song": "Walk Away",
+        "artist": "Donna Summer",
+        "last-week": "82",
+        "peak-rank": "60",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "61",
+        "song": "Rebels Are We",
+        "artist": "Chic",
+        "last-week": "63",
+        "peak-rank": "61",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "62",
+        "song": "Girl, Don't Let It Get You Down",
+        "artist": "The O'Jays",
+        "last-week": "68",
+        "peak-rank": "62",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "63",
+        "song": "Touch And Go",
+        "artist": "The Cars",
+        "last-week": "70",
+        "peak-rank": "63",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "64",
+        "song": "Could I Have This Dance",
+        "artist": "Anne Murray",
+        "last-week": "72",
+        "peak-rank": "64",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "65",
+        "song": "Why Not Me",
+        "artist": "Fred Knoblock",
+        "last-week": "45",
+        "peak-rank": "18",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "66",
+        "song": "Turn It On Again",
+        "artist": "Genesis",
+        "last-week": "73",
+        "peak-rank": "66",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "67",
+        "song": "Dreamer",
+        "artist": "Supertramp",
+        "last-week": "",
+        "peak-rank": "67",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "68",
+        "song": "Without Your Love",
+        "artist": "Roger Daltrey",
+        "last-week": "81",
+        "peak-rank": "68",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "69",
+        "song": "My Guy/My Girl",
+        "artist": "Amii Stewart & Johnny Bristol",
+        "last-week": "75",
+        "peak-rank": "69",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "70",
+        "song": "You Shook Me All Night Long",
+        "artist": "AC/DC",
+        "last-week": "80",
+        "peak-rank": "70",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "71",
+        "song": "Leaving L.A.",
+        "artist": "Deliverance",
+        "last-week": "71",
+        "peak-rank": "71",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "72",
+        "song": "Take A Little Rhythm",
+        "artist": "Ali Thomson",
+        "last-week": "41",
+        "peak-rank": "15",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "73",
+        "song": "Shining Star",
+        "artist": "The Manhattans",
+        "last-week": "49",
+        "peak-rank": "5",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "74",
+        "song": "JoJo",
+        "artist": "Boz Scaggs",
+        "last-week": "42",
+        "peak-rank": "17",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "75",
+        "song": "Let Me Talk",
+        "artist": "Earth, Wind & Fire",
+        "last-week": "",
+        "peak-rank": "75",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "76",
+        "song": "Live Every Minute",
+        "artist": "Ali Thomson",
+        "last-week": "86",
+        "peak-rank": "76",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "77",
+        "song": "Angeline",
+        "artist": "The Allman Brothers Band",
+        "last-week": "90",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "78",
+        "song": "Master Blaster (Jammin')",
+        "artist": "Stevie Wonder",
+        "last-week": "",
+        "peak-rank": "78",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "79",
+        "song": "If You Should Sail",
+        "artist": "Nielsen/Pearson",
+        "last-week": "88",
+        "peak-rank": "79",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "80",
+        "song": "Running Back",
+        "artist": "Eddie Money",
+        "last-week": "89",
+        "peak-rank": "80",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "81",
+        "song": "Lola",
+        "artist": "The Kinks",
+        "last-week": "83",
+        "peak-rank": "9",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "82",
+        "song": "That Girl Could Sing",
+        "artist": "Jackson Browne",
+        "last-week": "",
+        "peak-rank": "82",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "83",
+        "song": "Make A Little Magic",
+        "artist": "The Dirt Band",
+        "last-week": "43",
+        "peak-rank": "25",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "84",
+        "song": "Misunderstanding",
+        "artist": "Genesis",
+        "last-week": "55",
+        "peak-rank": "14",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "85",
+        "song": "Heroes",
+        "artist": "Commodores",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "86",
+        "song": "Theme From The Dukes Of Hazzard (Good Ol' Boys)",
+        "artist": "Waylon",
+        "last-week": "97",
+        "peak-rank": "86",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "87",
+        "song": "True Love Ways",
+        "artist": "Mickey Gilley",
+        "last-week": "87",
+        "peak-rank": "66",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "88",
+        "song": "The Breaks (Part 1)",
+        "artist": "Kurtis Blow",
+        "last-week": "94",
+        "peak-rank": "88",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "89",
+        "song": "I've Just Begun To Love You",
+        "artist": "Dynasty",
+        "last-week": "99",
+        "peak-rank": "89",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "90",
+        "song": "Hold On",
+        "artist": "Kansas",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "91",
+        "song": "Tulsa Time/Cocaine",
+        "artist": "Eric Clapton And His Band",
+        "last-week": "74",
+        "peak-rank": "30",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "92",
+        "song": "Don't Misunderstand Me",
+        "artist": "Rossington Collins Band",
+        "last-week": "79",
+        "peak-rank": "55",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "93",
+        "song": "Cupid/I've Loved You For A Long Time",
+        "artist": "The Spinners",
+        "last-week": "78",
+        "peak-rank": "4",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "94",
+        "song": "Under The Gun",
+        "artist": "Poco",
+        "last-week": "85",
+        "peak-rank": "48",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "95",
+        "song": "You Better Run",
+        "artist": "Pat Benatar",
+        "last-week": "47",
+        "peak-rank": "42",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "96",
+        "song": "I Hear You Now",
+        "artist": "Jon & Vangelis",
+        "last-week": "58",
+        "peak-rank": "58",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "97",
+        "song": "Little Jeannie",
+        "artist": "Elton John",
+        "last-week": "67",
+        "peak-rank": "3",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "98",
+        "song": "The Part Of Me That Needs You Most",
+        "artist": "Jay Black",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "99",
+        "song": "Fool For Your Loving",
+        "artist": "Whitesnake",
+        "last-week": "53",
+        "peak-rank": "53",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1980-09-20",
+        "rank": "100",
+        "song": "Late At Night",
+        "artist": "England Dan Seals",
+        "last-week": "57",
+        "peak-rank": "57",
+        "weeks-on-board": "6"
+    }
+]

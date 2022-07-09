@@ -1,0 +1,902 @@
+[
+    {
+        "date": "2012-10-06",
+        "rank": "1",
+        "song": "One More Night",
+        "artist": "Maroon 5",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "2",
+        "song": "Gangnam Style",
+        "artist": "PSY",
+        "last-week": "11",
+        "peak-rank": "2",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "3",
+        "song": "Some Nights",
+        "artist": "fun.",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "31"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "4",
+        "song": "We Are Never Ever Getting Back Together",
+        "artist": "Taylor Swift",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "5",
+        "song": "Blow Me (One Last Kiss)",
+        "artist": "P!nk",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "6",
+        "song": "Whistle",
+        "artist": "Flo Rida",
+        "last-week": "4",
+        "peak-rank": "1",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "7",
+        "song": "As Long As You Love Me",
+        "artist": "Justin Bieber Featuring Big Sean",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "8",
+        "song": "Good Time",
+        "artist": "Owl City & Carly Rae Jepsen",
+        "last-week": "9",
+        "peak-rank": "8",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "9",
+        "song": "Too Close",
+        "artist": "Alex Clare",
+        "last-week": "8",
+        "peak-rank": "8",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "10",
+        "song": "Lights",
+        "artist": "Ellie Goulding",
+        "last-week": "7",
+        "peak-rank": "2",
+        "weeks-on-board": "40"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "11",
+        "song": "Everybody Talks",
+        "artist": "Neon Trees",
+        "last-week": "10",
+        "peak-rank": "6",
+        "weeks-on-board": "28"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "12",
+        "song": "Call Me Maybe",
+        "artist": "Carly Rae Jepsen",
+        "last-week": "13",
+        "peak-rank": "1",
+        "weeks-on-board": "31"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "13",
+        "song": "Wide Awake",
+        "artist": "Katy Perry",
+        "last-week": "14",
+        "peak-rank": "2",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "14",
+        "song": "Don't Wake Me Up",
+        "artist": "Chris Brown",
+        "last-week": "21",
+        "peak-rank": "14",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "15",
+        "song": "Pound The Alarm",
+        "artist": "Nicki Minaj",
+        "last-week": "17",
+        "peak-rank": "15",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "16",
+        "song": "Wanted",
+        "artist": "Hunter Hayes",
+        "last-week": "22",
+        "peak-rank": "16",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "17",
+        "song": "Mercy",
+        "artist": "Kanye West, Big Sean, Pusha T, 2 Chainz",
+        "last-week": "20",
+        "peak-rank": "13",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "18",
+        "song": "Clique",
+        "artist": "Kanye West, Jay-Z, Big Sean",
+        "last-week": "12",
+        "peak-rank": "12",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "19",
+        "song": "Somebody That I Used To Know",
+        "artist": "Gotye Featuring Kimbra",
+        "last-week": "16",
+        "peak-rank": "1",
+        "weeks-on-board": "38"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "20",
+        "song": "Payphone",
+        "artist": "Maroon 5 Featuring Wiz Khalifa",
+        "last-week": "15",
+        "peak-rank": "2",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "21",
+        "song": "Give Your Heart A Break",
+        "artist": "Demi Lovato",
+        "last-week": "18",
+        "peak-rank": "16",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "22",
+        "song": "Home",
+        "artist": "Phillip Phillips",
+        "last-week": "23",
+        "peak-rank": "9",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "23",
+        "song": "Titanium",
+        "artist": "David Guetta Featuring Sia",
+        "last-week": "19",
+        "peak-rank": "7",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "24",
+        "song": "Blown Away",
+        "artist": "Carrie Underwood",
+        "last-week": "28",
+        "peak-rank": "24",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "25",
+        "song": "I Won't Give Up",
+        "artist": "Jason Mraz",
+        "last-week": "26",
+        "peak-rank": "8",
+        "weeks-on-board": "38"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "26",
+        "song": "50 Ways To Say Goodbye",
+        "artist": "Train",
+        "last-week": "30",
+        "peak-rank": "26",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "27",
+        "song": "Where Have You Been",
+        "artist": "Rihanna",
+        "last-week": "24",
+        "peak-rank": "5",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "28",
+        "song": "Let Me Love You (Until You Learn To Love Yourself)",
+        "artist": "Ne-Yo",
+        "last-week": "37",
+        "peak-rank": "28",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "29",
+        "song": "No Lie",
+        "artist": "2 Chainz Featuring Drake",
+        "last-week": "25",
+        "peak-rank": "24",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "30",
+        "song": "Want U Back",
+        "artist": "Cher Lloyd",
+        "last-week": "27",
+        "peak-rank": "12",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "31",
+        "song": "Adorn",
+        "artist": "Miguel",
+        "last-week": "35",
+        "peak-rank": "31",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "32",
+        "song": "Ho Hey",
+        "artist": "The Lumineers",
+        "last-week": "38",
+        "peak-rank": "32",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "33",
+        "song": "Take A Little Ride",
+        "artist": "Jason Aldean",
+        "last-week": "32",
+        "peak-rank": "12",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "34",
+        "song": "Your Body",
+        "artist": "Christina Aguilera",
+        "last-week": "",
+        "peak-rank": "34",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "35",
+        "song": "Pontoon",
+        "artist": "Little Big Town",
+        "last-week": "29",
+        "peak-rank": "22",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "36",
+        "song": "What Makes You Beautiful",
+        "artist": "One Direction",
+        "last-week": "31",
+        "peak-rank": "4",
+        "weeks-on-board": "32"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "37",
+        "song": "It's Time",
+        "artist": "Imagine Dragons",
+        "last-week": "33",
+        "peak-rank": "33",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "38",
+        "song": "We Are Young",
+        "artist": "fun. Featuring Janelle Monae",
+        "last-week": "34",
+        "peak-rank": "1",
+        "weeks-on-board": "40"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "39",
+        "song": "Pop That",
+        "artist": "French Montana Featuring Rick Ross, Drake, Lil Wayne",
+        "last-week": "42",
+        "peak-rank": "39",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "40",
+        "song": "Cowboys And Angels",
+        "artist": "Dustin Lynch",
+        "last-week": "43",
+        "peak-rank": "40",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "41",
+        "song": "Thinkin Bout You",
+        "artist": "Frank Ocean",
+        "last-week": "41",
+        "peak-rank": "39",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "42",
+        "song": "Heart Attack",
+        "artist": "Trey Songz",
+        "last-week": "44",
+        "peak-rank": "35",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "43",
+        "song": "Hard To Love",
+        "artist": "Lee Brice",
+        "last-week": "49",
+        "peak-rank": "43",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "44",
+        "song": "I Can Only Imagine",
+        "artist": "David Guetta Featuring Chris Brown & Lil Wayne",
+        "last-week": "55",
+        "peak-rank": "44",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "45",
+        "song": "I Will Wait",
+        "artist": "Mumford & Sons",
+        "last-week": "73",
+        "peak-rank": "23",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "46",
+        "song": "2 Reasons",
+        "artist": "Trey Songz Featuring T.I.",
+        "last-week": "51",
+        "peak-rank": "43",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "47",
+        "song": "Kiss Tomorrow Goodbye",
+        "artist": "Luke Bryan",
+        "last-week": "57",
+        "peak-rank": "47",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "48",
+        "song": "Cruise",
+        "artist": "Florida Georgia Line Featuring Nelly",
+        "last-week": "59",
+        "peak-rank": "48",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "49",
+        "song": "Glad You Came",
+        "artist": "The Wanted",
+        "last-week": "46",
+        "peak-rank": "3",
+        "weeks-on-board": "37"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "50",
+        "song": "Why Ya Wanna",
+        "artist": "Jana Kramer",
+        "last-week": "54",
+        "peak-rank": "50",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "51",
+        "song": "Let's Go",
+        "artist": "Calvin Harris Featuring Ne-Yo",
+        "last-week": "39",
+        "peak-rank": "17",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "52",
+        "song": "The A Team",
+        "artist": "Ed Sheeran",
+        "last-week": "61",
+        "peak-rank": "52",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "53",
+        "song": "Little Talks",
+        "artist": "Of Monsters And Men",
+        "last-week": "53",
+        "peak-rank": "49",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "54",
+        "song": "Turn On The Lights",
+        "artist": "Future",
+        "last-week": "56",
+        "peak-rank": "54",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "55",
+        "song": "Girl On Fire",
+        "artist": "Alicia Keys Featuring Nicki Minaj",
+        "last-week": "40",
+        "peak-rank": "37",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "56",
+        "song": "Try",
+        "artist": "P!nk",
+        "last-week": "",
+        "peak-rank": "56",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "57",
+        "song": "Birthday Song",
+        "artist": "2 Chainz Featuring Kanye West",
+        "last-week": "65",
+        "peak-rank": "57",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "58",
+        "song": "She's So Mean",
+        "artist": "matchbox twenty",
+        "last-week": "52",
+        "peak-rank": "40",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "59",
+        "song": "Come Wake Me Up",
+        "artist": "Rascal Flatts",
+        "last-week": "70",
+        "peak-rank": "59",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "60",
+        "song": "Lovin' You Is Fun",
+        "artist": "Easton Corbin",
+        "last-week": "60",
+        "peak-rank": "60",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "61",
+        "song": "Truck Yeah",
+        "artist": "Tim McGraw",
+        "last-week": "62",
+        "peak-rank": "57",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "62",
+        "song": "Hello",
+        "artist": "Karmin",
+        "last-week": "64",
+        "peak-rank": "62",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "63",
+        "song": "Bandz A Make Her Dance",
+        "artist": "Juicy J Featuring Lil Wayne & 2 Chainz",
+        "last-week": "71",
+        "peak-rank": "63",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "64",
+        "song": "Fastest Girl In Town",
+        "artist": "Miranda Lambert",
+        "last-week": "76",
+        "peak-rank": "64",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "65",
+        "song": "The One That Got Away",
+        "artist": "Jake Owen",
+        "last-week": "77",
+        "peak-rank": "65",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "66",
+        "song": "Burn It Down",
+        "artist": "Linkin Park",
+        "last-week": "66",
+        "peak-rank": "30",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "67",
+        "song": "Feel Again",
+        "artist": "OneRepublic",
+        "last-week": "78",
+        "peak-rank": "61",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "68",
+        "song": "Don't You Worry Child",
+        "artist": "Swedish House Mafia Featuring John Martin",
+        "last-week": "",
+        "peak-rank": "68",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "69",
+        "song": "Lemme See",
+        "artist": "Usher Featuring Rick Ross",
+        "last-week": "68",
+        "peak-rank": "46",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "70",
+        "song": "To The World",
+        "artist": "Kanye West, R. Kelly",
+        "last-week": "",
+        "peak-rank": "70",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "71",
+        "song": "Come Over",
+        "artist": "Kenny Chesney",
+        "last-week": "72",
+        "peak-rank": "23",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "72",
+        "song": "Amen",
+        "artist": "Meek Mill Featuring Drake",
+        "last-week": "69",
+        "peak-rank": "57",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "73",
+        "song": "I Don't Like",
+        "artist": "Chief Keef Featuring Lil Reese",
+        "last-week": "",
+        "peak-rank": "73",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "74",
+        "song": "Dark Side",
+        "artist": "Kelly Clarkson",
+        "last-week": "63",
+        "peak-rank": "42",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "75",
+        "song": "Over",
+        "artist": "Blake Shelton",
+        "last-week": "75",
+        "peak-rank": "43",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "76",
+        "song": "Put It Down",
+        "artist": "Brandy Featuring Chris Brown",
+        "last-week": "81",
+        "peak-rank": "76",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "77",
+        "song": "Angel Eyes",
+        "artist": "Love And Theft",
+        "last-week": "67",
+        "peak-rank": "32",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "78",
+        "song": "Creepin'",
+        "artist": "Eric Church",
+        "last-week": "80",
+        "peak-rank": "78",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "79",
+        "song": "Madness",
+        "artist": "Muse",
+        "last-week": "82",
+        "peak-rank": "79",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "80",
+        "song": "No Worries",
+        "artist": "Lil Wayne Featuring Detail",
+        "last-week": "58",
+        "peak-rank": "58",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "81",
+        "song": "Swimming Pools (Drank)",
+        "artist": "Kendrick Lamar",
+        "last-week": "92",
+        "peak-rank": "81",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "82",
+        "song": "Celebration",
+        "artist": "Game Featuring Chris Brown, Tyga, Wiz Khalifa & Lil Wayne",
+        "last-week": "",
+        "peak-rank": "82",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "83",
+        "song": "Finally Found You",
+        "artist": "Enrique Iglesias Featuring Sammy Adams",
+        "last-week": "94",
+        "peak-rank": "83",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "84",
+        "song": "Dance For You",
+        "artist": "Beyonce",
+        "last-week": "90",
+        "peak-rank": "84",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "85",
+        "song": "For You",
+        "artist": "Keith Urban",
+        "last-week": "74",
+        "peak-rank": "55",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "86",
+        "song": "Dive In",
+        "artist": "Trey Songz",
+        "last-week": "87",
+        "peak-rank": "86",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "87",
+        "song": "Beautiful",
+        "artist": "Carly Rae Jepsen Featuring Justin Bieber",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "88",
+        "song": "Enough Of No Love",
+        "artist": "Keyshia Cole Featuring Lil Wayne",
+        "last-week": "84",
+        "peak-rank": "84",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "89",
+        "song": "Take A Walk",
+        "artist": "Passion Pit",
+        "last-week": "85",
+        "peak-rank": "85",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "90",
+        "song": "5-1-5-0",
+        "artist": "Dierks Bentley",
+        "last-week": "93",
+        "peak-rank": "33",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "91",
+        "song": "Tonight (Best You Ever Had)",
+        "artist": "John Legend Featuring Ludacris",
+        "last-week": "88",
+        "peak-rank": "79",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "92",
+        "song": "Til My Last Day",
+        "artist": "Justin Moore",
+        "last-week": "98",
+        "peak-rank": "92",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "93",
+        "song": "Radioactive",
+        "artist": "Imagine Dragons",
+        "last-week": "91",
+        "peak-rank": "91",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "94",
+        "song": "Shinin' On Me",
+        "artist": "Jerrod Niemann",
+        "last-week": "97",
+        "peak-rank": "94",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "95",
+        "song": "Bag Of Money",
+        "artist": "Wale Featuring Rick Ross, Meek Mill & T-Pain",
+        "last-week": "83",
+        "peak-rank": "64",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "96",
+        "song": "Heart Skips A Beat",
+        "artist": "Olly Murs Featuring Chiddy Bang",
+        "last-week": "96",
+        "peak-rank": "96",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "97",
+        "song": "Numb",
+        "artist": "Usher",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "98",
+        "song": "Nobody's Perfect",
+        "artist": "J. Cole Featuring Missy Elliott",
+        "last-week": "99",
+        "peak-rank": "61",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "99",
+        "song": "Beer Money",
+        "artist": "Kip Moore",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2012-10-06",
+        "rank": "100",
+        "song": "Did It For The Girl",
+        "artist": "Greg Bates",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

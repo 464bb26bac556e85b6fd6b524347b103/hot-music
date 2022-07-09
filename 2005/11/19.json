@@ -1,0 +1,902 @@
+[
+    {
+        "date": "2005-11-19",
+        "rank": "1",
+        "song": "Gold Digger",
+        "artist": "Kanye West Featuring Jamie Foxx",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "2",
+        "song": "Run It!",
+        "artist": "Chris Brown",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "3",
+        "song": "My Humps",
+        "artist": "The Black Eyed Peas",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "4",
+        "song": "Soul Survivor",
+        "artist": "Young Jeezy Featuring Akon",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "5",
+        "song": "Photograph",
+        "artist": "Nickelback",
+        "last-week": "5",
+        "peak-rank": "2",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "6",
+        "song": "We Be Burnin'",
+        "artist": "Sean Paul",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "7",
+        "song": "Because Of You",
+        "artist": "Kelly Clarkson",
+        "last-week": "8",
+        "peak-rank": "7",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "8",
+        "song": "I'm Sprung",
+        "artist": "T-Pain",
+        "last-week": "11",
+        "peak-rank": "8",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "9",
+        "song": "Shake It Off",
+        "artist": "Mariah Carey",
+        "last-week": "9",
+        "peak-rank": "2",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "10",
+        "song": "Sugar, We're Goin' Down",
+        "artist": "Fall Out Boy",
+        "last-week": "10",
+        "peak-rank": "8",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "11",
+        "song": "Like You",
+        "artist": "Bow Wow Featuring Ciara",
+        "last-week": "7",
+        "peak-rank": "3",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "12",
+        "song": "Wake Me Up When September Ends",
+        "artist": "Green Day",
+        "last-week": "12",
+        "peak-rank": "6",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "13",
+        "song": "Laffy Taffy",
+        "artist": "D4L",
+        "last-week": "18",
+        "peak-rank": "13",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "14",
+        "song": "Girl Tonite",
+        "artist": "Twista Featuring Trey Songz",
+        "last-week": "16",
+        "peak-rank": "14",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "15",
+        "song": "You And Me",
+        "artist": "Lifehouse",
+        "last-week": "13",
+        "peak-rank": "5",
+        "weeks-on-board": "40"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "16",
+        "song": "Stay Fly",
+        "artist": "Three 6 Mafia Featuring Young Buck & Eightball & MJG",
+        "last-week": "19",
+        "peak-rank": "16",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "17",
+        "song": "I Think They Like Me",
+        "artist": "Dem Franchize Boyz Featuring Jermaine Dupri, Da Brat & Bow Wow",
+        "last-week": "20",
+        "peak-rank": "17",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "18",
+        "song": "Stickwitu",
+        "artist": "The Pussycat Dolls",
+        "last-week": "25",
+        "peak-rank": "18",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "19",
+        "song": "Your Body",
+        "artist": "Pretty Ricky",
+        "last-week": "14",
+        "peak-rank": "12",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "20",
+        "song": "Don't Forget About Us",
+        "artist": "Mariah Carey",
+        "last-week": "26",
+        "peak-rank": "20",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "21",
+        "song": "Beverly Hills",
+        "artist": "Weezer",
+        "last-week": "15",
+        "peak-rank": "10",
+        "weeks-on-board": "32"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "22",
+        "song": "Dance, Dance",
+        "artist": "Fall Out Boy",
+        "last-week": "32",
+        "peak-rank": "22",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "23",
+        "song": "One Wish",
+        "artist": "Ray J",
+        "last-week": "30",
+        "peak-rank": "23",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "24",
+        "song": "Here We Go",
+        "artist": "Trina Featuring Kelly Rowland",
+        "last-week": "28",
+        "peak-rank": "24",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "25",
+        "song": "Play",
+        "artist": "David Banner",
+        "last-week": "17",
+        "peak-rank": "7",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "26",
+        "song": "We Belong Together",
+        "artist": "Mariah Carey",
+        "last-week": "22",
+        "peak-rank": "1",
+        "weeks-on-board": "32"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "27",
+        "song": "Hung Up",
+        "artist": "Madonna",
+        "last-week": "21",
+        "peak-rank": "20",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "28",
+        "song": "Feel Good Inc",
+        "artist": "Gorillaz",
+        "last-week": "23",
+        "peak-rank": "14",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "29",
+        "song": "There It Go! (The Whistle Song)",
+        "artist": "Juelz Santana",
+        "last-week": "29",
+        "peak-rank": "29",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "30",
+        "song": "Don't Cha",
+        "artist": "The Pussycat Dolls Featuring Busta Rhymes",
+        "last-week": "24",
+        "peak-rank": "2",
+        "weeks-on-board": "29"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "31",
+        "song": "Lighters Up",
+        "artist": "Lil' Kim",
+        "last-week": "34",
+        "peak-rank": "31",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "32",
+        "song": "Tequila Makes Her Clothes Fall Off",
+        "artist": "Joe Nichols",
+        "last-week": "41",
+        "peak-rank": "32",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "33",
+        "song": "Boyfriend",
+        "artist": "Ashlee Simpson",
+        "last-week": "27",
+        "peak-rank": "19",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "34",
+        "song": "Behind These Hazel Eyes",
+        "artist": "Kelly Clarkson",
+        "last-week": "31",
+        "peak-rank": "6",
+        "weeks-on-board": "31"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "35",
+        "song": "Unbreakable",
+        "artist": "Alicia Keys",
+        "last-week": "39",
+        "peak-rank": "34",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "36",
+        "song": "I Should Have Cheated",
+        "artist": "Keyshia Cole",
+        "last-week": "35",
+        "peak-rank": "35",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "37",
+        "song": "Pon de Replay",
+        "artist": "Rihanna",
+        "last-week": "33",
+        "peak-rank": "2",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "38",
+        "song": "Listen To Your Heart",
+        "artist": "D.H.T.",
+        "last-week": "36",
+        "peak-rank": "8",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "39",
+        "song": "Luxurious",
+        "artist": "Gwen Stefani",
+        "last-week": "55",
+        "peak-rank": "39",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "40",
+        "song": "Come A Little Closer",
+        "artist": "Dierks Bentley",
+        "last-week": "43",
+        "peak-rank": "40",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "41",
+        "song": "Shake",
+        "artist": "Ying Yang Twins Featuring Pitbull",
+        "last-week": "44",
+        "peak-rank": "41",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "42",
+        "song": "More Than Words",
+        "artist": "Frankie J",
+        "last-week": "37",
+        "peak-rank": "25",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "43",
+        "song": "Belly Dancer (Bananza)",
+        "artist": "Akon",
+        "last-week": "40",
+        "peak-rank": "30",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "44",
+        "song": "Skin (Sarabeth)",
+        "artist": "Rascal Flatts",
+        "last-week": "46",
+        "peak-rank": "42",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "45",
+        "song": "Lose Control",
+        "artist": "Missy Elliott Featuring Ciara & Fat Man Scoop",
+        "last-week": "38",
+        "peak-rank": "3",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "46",
+        "song": "Who You'd Be Today",
+        "artist": "Kenny Chesney",
+        "last-week": "49",
+        "peak-rank": "46",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "47",
+        "song": "Heard 'Em Say",
+        "artist": "Kanye West Featuring Adam Levine",
+        "last-week": "56",
+        "peak-rank": "47",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "48",
+        "song": "Jesus, Take The Wheel",
+        "artist": "Carrie Underwood",
+        "last-week": "",
+        "peak-rank": "48",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "49",
+        "song": "Better Life",
+        "artist": "Keith Urban",
+        "last-week": "47",
+        "peak-rank": "44",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "50",
+        "song": "La Tortura",
+        "artist": "Shakira Feat. Alejandro Sanz",
+        "last-week": "42",
+        "peak-rank": "23",
+        "weeks-on-board": "29"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "51",
+        "song": "Dirty Little Secret",
+        "artist": "The All-American Rejects",
+        "last-week": "50",
+        "peak-rank": "50",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "52",
+        "song": "Don't Lie",
+        "artist": "The Black Eyed Peas",
+        "last-week": "45",
+        "peak-rank": "14",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "53",
+        "song": "Best I Ever Had",
+        "artist": "Gary Allan",
+        "last-week": "51",
+        "peak-rank": "51",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "54",
+        "song": "Like We Never Loved At All",
+        "artist": "Faith Hill",
+        "last-week": "58",
+        "peak-rank": "54",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "55",
+        "song": "I'm Feeling You",
+        "artist": "Santana Featuring Michelle Branch & The Wreckers",
+        "last-week": "81",
+        "peak-rank": "55",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "56",
+        "song": "Can I Have It Like That",
+        "artist": "Pharrell Featuring Gwen Stefani",
+        "last-week": "76",
+        "peak-rank": "56",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "57",
+        "song": "Cool",
+        "artist": "Gwen Stefani",
+        "last-week": "57",
+        "peak-rank": "13",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "58",
+        "song": "Honky Tonk Badonkadonk",
+        "artist": "Trace Adkins",
+        "last-week": "70",
+        "peak-rank": "58",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "59",
+        "song": "Must Be Doin' Somethin' Right",
+        "artist": "Billy Currington",
+        "last-week": "62",
+        "peak-rank": "59",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "60",
+        "song": "Probably Wouldn't Be This Way",
+        "artist": "LeAnn Rimes",
+        "last-week": "54",
+        "peak-rank": "54",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "61",
+        "song": "Just The Girl",
+        "artist": "The Click Five",
+        "last-week": "52",
+        "peak-rank": "11",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "62",
+        "song": "Something To Be Proud Of",
+        "artist": "Montgomery Gentry",
+        "last-week": "61",
+        "peak-rank": "41",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "63",
+        "song": "You're Like Comin' Home",
+        "artist": "Lonestar",
+        "last-week": "64",
+        "peak-rank": "63",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "64",
+        "song": "Window Shopper",
+        "artist": "50 Cent",
+        "last-week": "82",
+        "peak-rank": "64",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "65",
+        "song": "If It's Lovin' That You Want",
+        "artist": "Rihanna",
+        "last-week": "65",
+        "peak-rank": "65",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "66",
+        "song": "Outta Control (Remix)",
+        "artist": "50 Cent Feat. Mobb Deep",
+        "last-week": "53",
+        "peak-rank": "6",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "67",
+        "song": "Big Blue Note",
+        "artist": "Toby Keith",
+        "last-week": "66",
+        "peak-rank": "66",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "68",
+        "song": "Good Ride Cowboy",
+        "artist": "Garth Brooks",
+        "last-week": "67",
+        "peak-rank": "67",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "69",
+        "song": "Redneck Yacht Club",
+        "artist": "Craig Morgan",
+        "last-week": "63",
+        "peak-rank": "45",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "70",
+        "song": "Boondocks",
+        "artist": "Little Big Town",
+        "last-week": "73",
+        "peak-rank": "70",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "71",
+        "song": "Better Days",
+        "artist": "Goo Goo Dolls",
+        "last-week": "77",
+        "peak-rank": "36",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "72",
+        "song": "Check On It",
+        "artist": "Beyonce Featuring Slim Thug",
+        "last-week": "",
+        "peak-rank": "72",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "73",
+        "song": "Stay With Me (Brass Bed)",
+        "artist": "Josh Gracin",
+        "last-week": "60",
+        "peak-rank": "47",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "74",
+        "song": "Hustler's Ambition",
+        "artist": "50 Cent",
+        "last-week": "79",
+        "peak-rank": "73",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "75",
+        "song": "Home",
+        "artist": "Michael Buble",
+        "last-week": "72",
+        "peak-rank": "72",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "76",
+        "song": "She Let Herself Go",
+        "artist": "George Strait",
+        "last-week": "84",
+        "peak-rank": "76",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "77",
+        "song": "Billy's Got His Beer Goggles On",
+        "artist": "Neal McCoy",
+        "last-week": "75",
+        "peak-rank": "75",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "78",
+        "song": "You're Beautiful",
+        "artist": "James Blunt",
+        "last-week": "88",
+        "peak-rank": "78",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "79",
+        "song": "Doesn't Remind Me",
+        "artist": "Audioslave",
+        "last-week": "69",
+        "peak-rank": "68",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "80",
+        "song": "Turn It Up",
+        "artist": "Chamillionaire Featuring Lil' Flip",
+        "last-week": "91",
+        "peak-rank": "80",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "81",
+        "song": "Presidential",
+        "artist": "YoungBloodZ",
+        "last-week": "83",
+        "peak-rank": "81",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "82",
+        "song": "DOA",
+        "artist": "Foo Fighters",
+        "last-week": "86",
+        "peak-rank": "82",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "83",
+        "song": "A Real Fine Place To Start",
+        "artist": "Sara Evans",
+        "last-week": "74",
+        "peak-rank": "38",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "84",
+        "song": "Grillz",
+        "artist": "Nelly Featuring Paul Wall, Ali & Gipp",
+        "last-week": "",
+        "peak-rank": "84",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "85",
+        "song": "Badd",
+        "artist": "Ying Yang Twins Featuring Mike Jones & Mr. ColliPark",
+        "last-week": "68",
+        "peak-rank": "29",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "86",
+        "song": "Naked",
+        "artist": "Marques Houston",
+        "last-week": "59",
+        "peak-rank": "47",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "87",
+        "song": "Bat Country",
+        "artist": "Avenged Sevenfold",
+        "last-week": "87",
+        "peak-rank": "87",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "88",
+        "song": "Soul Meets Body",
+        "artist": "Death Cab For Cutie",
+        "last-week": "92",
+        "peak-rank": "85",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "89",
+        "song": "Somebody's Hero",
+        "artist": "Jamie O'Neal",
+        "last-week": "78",
+        "peak-rank": "51",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "90",
+        "song": "Miss Me Baby",
+        "artist": "Chris Cagle",
+        "last-week": "95",
+        "peak-rank": "90",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "91",
+        "song": "Fireman",
+        "artist": "Lil Wayne",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "92",
+        "song": "Save Me",
+        "artist": "Shinedown",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "93",
+        "song": "Only",
+        "artist": "Nine Inch Nails",
+        "last-week": "97",
+        "peak-rank": "93",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "94",
+        "song": "This Is How A Heart Breaks",
+        "artist": "Rob Thomas",
+        "last-week": "89",
+        "peak-rank": "52",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "95",
+        "song": "Seasons Of Love",
+        "artist": "Cast Of Rent",
+        "last-week": "",
+        "peak-rank": "57",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "96",
+        "song": "Good Is Good",
+        "artist": "Sheryl Crow",
+        "last-week": "85",
+        "peak-rank": "64",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "97",
+        "song": "Have A Nice Day",
+        "artist": "Bon Jovi",
+        "last-week": "93",
+        "peak-rank": "53",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "98",
+        "song": "Hypnotize",
+        "artist": "System Of A Down",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "99",
+        "song": "Stars",
+        "artist": "Switchfoot",
+        "last-week": "",
+        "peak-rank": "68",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2005-11-19",
+        "rank": "100",
+        "song": "All These Things That I've Done",
+        "artist": "The Killers",
+        "last-week": "94",
+        "peak-rank": "74",
+        "weeks-on-board": "13"
+    }
+]

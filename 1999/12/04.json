@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1999-12-04",
+        "rank": "1",
+        "song": "Smooth",
+        "artist": "Santana Featuring Rob Thomas",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "2",
+        "song": "Back At One",
+        "artist": "Brian McKnight",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "3",
+        "song": "I Need To Know",
+        "artist": "Marc Anthony",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "4",
+        "song": "Mambo No. 5 (A Little Bit Of...)",
+        "artist": "Lou Bega",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "5",
+        "song": "I Wanna Love You Forever",
+        "artist": "Jessica Simpson",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "6",
+        "song": "My Love Is Your Love",
+        "artist": "Whitney Houston",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "7",
+        "song": "I Knew I Loved You",
+        "artist": "Savage Garden",
+        "last-week": "13",
+        "peak-rank": "7",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "8",
+        "song": "Waiting For Tonight",
+        "artist": "Jennifer Lopez",
+        "last-week": "9",
+        "peak-rank": "8",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "9",
+        "song": "U Know What's Up",
+        "artist": "Donell Jones",
+        "last-week": "11",
+        "peak-rank": "9",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "10",
+        "song": "Unpretty",
+        "artist": "TLC",
+        "last-week": "7",
+        "peak-rank": "1",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "11",
+        "song": "Steal My Sunshine",
+        "artist": "Len",
+        "last-week": "12",
+        "peak-rank": "9",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "12",
+        "song": "Satisfy You",
+        "artist": "Puff Daddy Featuring R. Kelly",
+        "last-week": "10",
+        "peak-rank": "2",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "13",
+        "song": "Where My Girls At?",
+        "artist": "702",
+        "last-week": "15",
+        "peak-rank": "4",
+        "weeks-on-board": "32"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "14",
+        "song": "Heartbreaker",
+        "artist": "Mariah Carey Featuring Jay-Z",
+        "last-week": "8",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "15",
+        "song": "Girl On TV",
+        "artist": "LFO",
+        "last-week": "16",
+        "peak-rank": "15",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "16",
+        "song": "Get Gone",
+        "artist": "Ideal",
+        "last-week": "14",
+        "peak-rank": "13",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "17",
+        "song": "Bring It All To Me",
+        "artist": "Blaque",
+        "last-week": "19",
+        "peak-rank": "17",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "18",
+        "song": "(You Drive Me) Crazy",
+        "artist": "Britney Spears",
+        "last-week": "17",
+        "peak-rank": "10",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "19",
+        "song": "Someday",
+        "artist": "Sugar Ray",
+        "last-week": "18",
+        "peak-rank": "7",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "20",
+        "song": "Back That Thang Up",
+        "artist": "Juvenile Featuring Mannie Fresh & Lil' Wayne",
+        "last-week": "21",
+        "peak-rank": "19",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "21",
+        "song": "Hot Boyz",
+        "artist": "Missy \"Misdemeanor\" Elliott Featuring NAS, EVE & Q-Tip",
+        "last-week": "36",
+        "peak-rank": "21",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "22",
+        "song": "24/7",
+        "artist": "Kevon Edmonds",
+        "last-week": "68",
+        "peak-rank": "22",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "23",
+        "song": "Then The Morning Comes",
+        "artist": "Smash Mouth",
+        "last-week": "27",
+        "peak-rank": "23",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "24",
+        "song": "Scar Tissue",
+        "artist": "Red Hot Chili Peppers",
+        "last-week": "20",
+        "peak-rank": "9",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "25",
+        "song": "Will 2K",
+        "artist": "Will Smith Featuring K-Ci",
+        "last-week": "26",
+        "peak-rank": "25",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "26",
+        "song": "Meet Virginia",
+        "artist": "Train",
+        "last-week": "32",
+        "peak-rank": "26",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "27",
+        "song": "I Do (Cherish You)",
+        "artist": "98 Degrees",
+        "last-week": "23",
+        "peak-rank": "13",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "28",
+        "song": "Genie In A Bottle",
+        "artist": "Christina Aguilera",
+        "last-week": "22",
+        "peak-rank": "1",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "29",
+        "song": "15 Minutes",
+        "artist": "Marc Nelson",
+        "last-week": "44",
+        "peak-rank": "29",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "30",
+        "song": "Larger Than Life",
+        "artist": "Backstreet Boys",
+        "last-week": "28",
+        "peak-rank": "25",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "31",
+        "song": "I Love You",
+        "artist": "Martina McBride",
+        "last-week": "25",
+        "peak-rank": "24",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "32",
+        "song": "Learn To Fly",
+        "artist": "Foo Fighters",
+        "last-week": "42",
+        "peak-rank": "32",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "33",
+        "song": "When I Said I Do",
+        "artist": "Clint Black",
+        "last-week": "35",
+        "peak-rank": "33",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "34",
+        "song": "Stay The Night",
+        "artist": "IMx",
+        "last-week": "31",
+        "peak-rank": "31",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "35",
+        "song": "If You Love Me",
+        "artist": "Mint Condition",
+        "last-week": "30",
+        "peak-rank": "30",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "36",
+        "song": "All Star",
+        "artist": "Smash Mouth",
+        "last-week": "29",
+        "peak-rank": "4",
+        "weeks-on-board": "29"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "37",
+        "song": "Big Deal",
+        "artist": "LeAnn Rimes",
+        "last-week": "41",
+        "peak-rank": "37",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "38",
+        "song": "Gotta Man",
+        "artist": "Eve",
+        "last-week": "33",
+        "peak-rank": "26",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "39",
+        "song": "Bling Bling",
+        "artist": "B.G. Featuring Baby, Turk, Mannie Fresh, Juvenile & Lil' Wayne",
+        "last-week": "40",
+        "peak-rank": "36",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "40",
+        "song": "She's So High",
+        "artist": "Tal Bachman",
+        "last-week": "34",
+        "peak-rank": "14",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "41",
+        "song": "4, 5, 6",
+        "artist": "Sole Featuring JT Money & Kandi",
+        "last-week": "47",
+        "peak-rank": "41",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "42",
+        "song": "Breathe",
+        "artist": "Faith Hill",
+        "last-week": "51",
+        "peak-rank": "42",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "43",
+        "song": "He Didn't Have To Be",
+        "artist": "Brad Paisley",
+        "last-week": "46",
+        "peak-rank": "43",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "44",
+        "song": "We Can't Be Friends",
+        "artist": "Deborah Cox With R.L.",
+        "last-week": "24",
+        "peak-rank": "8",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "45",
+        "song": "Home To You",
+        "artist": "John Michael Montgomery",
+        "last-week": "48",
+        "peak-rank": "45",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "46",
+        "song": "Hanginaround",
+        "artist": "Counting Crows",
+        "last-week": "60",
+        "peak-rank": "46",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "47",
+        "song": "Black Balloon",
+        "artist": "Goo Goo Dolls",
+        "last-week": "38",
+        "peak-rank": "16",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "48",
+        "song": "Got Your Money",
+        "artist": "Ol' Dirty Bastard Featuring Kelis",
+        "last-week": "59",
+        "peak-rank": "48",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "49",
+        "song": "That's The Way It Is",
+        "artist": "Celine Dion",
+        "last-week": "65",
+        "peak-rank": "49",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "50",
+        "song": "American Woman",
+        "artist": "Lenny Kravitz",
+        "last-week": "49",
+        "peak-rank": "49",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "51",
+        "song": "What A Girl Wants",
+        "artist": "Christina Aguilera",
+        "last-week": "71",
+        "peak-rank": "51",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "52",
+        "song": "Shake Your Bon-Bon",
+        "artist": "Ricky Martin",
+        "last-week": "66",
+        "peak-rank": "52",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "53",
+        "song": "There She Goes",
+        "artist": "Sixpence None The Richer",
+        "last-week": "43",
+        "peak-rank": "32",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "54",
+        "song": "Get It On Tonite",
+        "artist": "Montell Jordan",
+        "last-week": "61",
+        "peak-rank": "54",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "55",
+        "song": "Something Like That",
+        "artist": "Tim McGraw",
+        "last-week": "54",
+        "peak-rank": "28",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "56",
+        "song": "Bug A Boo",
+        "artist": "Destiny's Child",
+        "last-week": "39",
+        "peak-rank": "33",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "57",
+        "song": "Higher",
+        "artist": "Creed",
+        "last-week": "57",
+        "peak-rank": "52",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "58",
+        "song": "Come On Over",
+        "artist": "Shania Twain",
+        "last-week": "58",
+        "peak-rank": "58",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "59",
+        "song": "She's All I Ever Had",
+        "artist": "Ricky Martin",
+        "last-week": "52",
+        "peak-rank": "2",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "60",
+        "song": "All Things Considered",
+        "artist": "Yankee Grey",
+        "last-week": "64",
+        "peak-rank": "60",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "61",
+        "song": "I Want It All",
+        "artist": "Warren G Featuring Mack 10",
+        "last-week": "37",
+        "peak-rank": "23",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "62",
+        "song": "Don't Say You Love Me",
+        "artist": "M2M",
+        "last-week": "53",
+        "peak-rank": "53",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "63",
+        "song": "What Do You Say",
+        "artist": "Reba",
+        "last-week": "69",
+        "peak-rank": "63",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "64",
+        "song": "Pop A Top",
+        "artist": "Alan Jackson",
+        "last-week": "70",
+        "peak-rank": "64",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "65",
+        "song": "What Do You Say To That",
+        "artist": "George Strait",
+        "last-week": "56",
+        "peak-rank": "45",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "66",
+        "song": "If I Could Turn Back The Hands Of Time",
+        "artist": "R. Kelly",
+        "last-week": "45",
+        "peak-rank": "12",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "67",
+        "song": "The Chemicals Between Us",
+        "artist": "Bush",
+        "last-week": "75",
+        "peak-rank": "67",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "68",
+        "song": "The Greatest Romance Ever Sold",
+        "artist": "Prince",
+        "last-week": "63",
+        "peak-rank": "63",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "69",
+        "song": "Angels",
+        "artist": "Robbie Williams",
+        "last-week": "77",
+        "peak-rank": "69",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "70",
+        "song": "Music Of My Heart",
+        "artist": "'N Sync & Gloria Estefan",
+        "last-week": "62",
+        "peak-rank": "2",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "71",
+        "song": "Give You What You Want (Fa Sure)",
+        "artist": "Chico DeBarge",
+        "last-week": "78",
+        "peak-rank": "71",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "72",
+        "song": "Cowboy Take Me Away",
+        "artist": "Dixie Chicks",
+        "last-week": "79",
+        "peak-rank": "72",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "73",
+        "song": "Got To Get It",
+        "artist": "Sisqo Featuring Make It Hot",
+        "last-week": "76",
+        "peak-rank": "73",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "74",
+        "song": "Take A Picture",
+        "artist": "Filter",
+        "last-week": "91",
+        "peak-rank": "74",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "75",
+        "song": "Deep Inside",
+        "artist": "Mary J. Blige",
+        "last-week": "80",
+        "peak-rank": "75",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "76",
+        "song": "My Best Friend",
+        "artist": "Tim McGraw",
+        "last-week": "85",
+        "peak-rank": "76",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "77",
+        "song": "The Rockafeller Skank",
+        "artist": "Fatboy Slim",
+        "last-week": "87",
+        "peak-rank": "77",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "78",
+        "song": "Candy",
+        "artist": "Mandy Moore",
+        "last-week": "67",
+        "peak-rank": "41",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "79",
+        "song": "I'll Go Crazy",
+        "artist": "Andy Griggs",
+        "last-week": "73",
+        "peak-rank": "65",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "80",
+        "song": "The Dolphin's Cry",
+        "artist": "Live",
+        "last-week": "81",
+        "peak-rank": "78",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "81",
+        "song": "She Thinks My Tractor's Sexy",
+        "artist": "Kenny Chesney",
+        "last-week": "86",
+        "peak-rank": "81",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "82",
+        "song": "I'm Already Taken",
+        "artist": "Steve Wariner",
+        "last-week": "72",
+        "peak-rank": "42",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "83",
+        "song": "Guerrilla Radio",
+        "artist": "Rage Against The Machine",
+        "last-week": "84",
+        "peak-rank": "69",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "84",
+        "song": "Caught Out There",
+        "artist": "Kelis",
+        "last-week": "",
+        "peak-rank": "84",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "85",
+        "song": "Steam",
+        "artist": "Ty Herndon",
+        "last-week": "83",
+        "peak-rank": "83",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "86",
+        "song": "You Can Do It",
+        "artist": "Ice Cube Featuring Mack 10 & Ms. Toi",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "87",
+        "song": "A Man Ain't Made Of Stone",
+        "artist": "Randy Travis",
+        "last-week": "82",
+        "peak-rank": "82",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "88",
+        "song": "Sexual (Li Da Di)",
+        "artist": "Amber",
+        "last-week": "88",
+        "peak-rank": "88",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "89",
+        "song": "All The Small Things",
+        "artist": "Blink-182",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "90",
+        "song": "Rhythm Divine",
+        "artist": "Enrique Iglesias",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "91",
+        "song": "Re-arranged",
+        "artist": "Limp Bizkit",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "92",
+        "song": "NAStradamus",
+        "artist": "Nas",
+        "last-week": "94",
+        "peak-rank": "92",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "93",
+        "song": "Still D.R.E.",
+        "artist": "Dr. Dre Featuring Snoop Dogg",
+        "last-week": "93",
+        "peak-rank": "93",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "94",
+        "song": "N 2 Gether Now",
+        "artist": "Limp Bizkit Featuring Method Man",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "95",
+        "song": "Live, Laugh, Love",
+        "artist": "Clay Walker",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "96",
+        "song": "Beauty",
+        "artist": "Dru Hill",
+        "last-week": "97",
+        "peak-rank": "79",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "97",
+        "song": "B-Please",
+        "artist": "Snoop Dogg Featuring Xzibit & Nate Dogg",
+        "last-week": "96",
+        "peak-rank": "77",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "98",
+        "song": "Lonely And Gone",
+        "artist": "Montgomery Gentry",
+        "last-week": "74",
+        "peak-rank": "46",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "99",
+        "song": "Tha Block Is Hot",
+        "artist": "Lil' Wayne Featuring Juvenile & B.G.",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1999-12-04",
+        "rank": "100",
+        "song": "L.A. Song",
+        "artist": "Beth Hart",
+        "last-week": "99",
+        "peak-rank": "99",
+        "weeks-on-board": "2"
+    }
+]

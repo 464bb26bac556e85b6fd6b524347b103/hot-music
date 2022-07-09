@@ -1,0 +1,893 @@
+[
+    {
+        "date": "1977-01-22",
+        "rank": "1",
+        "song": "I Wish",
+        "artist": "Stevie Wonder",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "2",
+        "song": "Car Wash",
+        "artist": "Rose Royce",
+        "last-week": "3",
+        "peak-rank": "2",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "3",
+        "song": "You Make Me Feel Like Dancing",
+        "artist": "Leo Sayer",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "4",
+        "song": "Dazz",
+        "artist": "Brick",
+        "last-week": "5",
+        "peak-rank": "4",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "5",
+        "song": "You Don't Have To Be A Star (To Be In My Show)",
+        "artist": "Marilyn McCoo & Billy Davis, Jr.",
+        "last-week": "4",
+        "peak-rank": "1",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "6",
+        "song": "Hot Line",
+        "artist": "The Sylvers",
+        "last-week": "8",
+        "peak-rank": "6",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "7",
+        "song": "New Kid In Town",
+        "artist": "Eagles",
+        "last-week": "12",
+        "peak-rank": "7",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "8",
+        "song": "After The Lovin'",
+        "artist": "Engelbert Humperdinck",
+        "last-week": "9",
+        "peak-rank": "8",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "9",
+        "song": "Blinded By The Light",
+        "artist": "Manfred Mann's Earth Band",
+        "last-week": "19",
+        "peak-rank": "9",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "10",
+        "song": "Torn Between Two Lovers",
+        "artist": "Mary Macgregor",
+        "last-week": "20",
+        "peak-rank": "10",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "11",
+        "song": "Tonight's The Night (Gonna Be Alright)",
+        "artist": "Rod Stewart",
+        "last-week": "6",
+        "peak-rank": "1",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "12",
+        "song": "Walk This Way",
+        "artist": "Aerosmith",
+        "last-week": "14",
+        "peak-rank": "12",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "14",
+        "song": "Lost Without Your Love",
+        "artist": "Bread",
+        "last-week": "16",
+        "peak-rank": "14",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "15",
+        "song": "Enjoy Yourself",
+        "artist": "The Jacksons",
+        "last-week": "17",
+        "peak-rank": "15",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "16",
+        "song": "I Like Dreamin'",
+        "artist": "Kenny Nolan",
+        "last-week": "21",
+        "peak-rank": "16",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "17",
+        "song": "Livin' Thing",
+        "artist": "Electric Light Orchestra",
+        "last-week": "13",
+        "peak-rank": "13",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "18",
+        "song": "Jeans On",
+        "artist": "David Dundas",
+        "last-week": "22",
+        "peak-rank": "18",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "18",
+        "song": "Fly Like An Eagle",
+        "artist": "Steve Miller",
+        "last-week": "28",
+        "peak-rank": "18",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "20",
+        "song": "Evergreen (Love Theme From \"A Star Is Born\")",
+        "artist": "Barbra Streisand",
+        "last-week": "35",
+        "peak-rank": "20",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "21",
+        "song": "Weekend In New England",
+        "artist": "Barry Manilow",
+        "last-week": "26",
+        "peak-rank": "21",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "22",
+        "song": "Saturday Nite",
+        "artist": "Earth, Wind & Fire",
+        "last-week": "24",
+        "peak-rank": "22",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "23",
+        "song": "Sorry Seems To Be The Hardest Word",
+        "artist": "Elton John",
+        "last-week": "7",
+        "peak-rank": "6",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "24",
+        "song": "Stand Tall",
+        "artist": "Burton Cummings",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "25",
+        "song": "Hard Luck Woman",
+        "artist": "KISS",
+        "last-week": "33",
+        "peak-rank": "25",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "26",
+        "song": "I Never Cry",
+        "artist": "Alice Cooper",
+        "last-week": "27",
+        "peak-rank": "12",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "27",
+        "song": "Ain't Nothing Like The Real Thing",
+        "artist": "Donny & Marie Osmond",
+        "last-week": "31",
+        "peak-rank": "27",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "28",
+        "song": "Whispering/Cherchez La Femme/Se Si Bon",
+        "artist": "Dr. Buzzard's Original Savannah Band",
+        "last-week": "30",
+        "peak-rank": "28",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "29",
+        "song": "Night Moves",
+        "artist": "Bob Seger & The Silver Bullet Band",
+        "last-week": "36",
+        "peak-rank": "29",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "30",
+        "song": "The Rubberband Man",
+        "artist": "The Spinners",
+        "last-week": "11",
+        "peak-rank": "2",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "31",
+        "song": "Shake Your Rump To The Funk",
+        "artist": "The Bar-Kays",
+        "last-week": "23",
+        "peak-rank": "23",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "32",
+        "song": "This Song",
+        "artist": "George Harrison",
+        "last-week": "25",
+        "peak-rank": "25",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "33",
+        "song": "Dancing Queen",
+        "artist": "ABBA",
+        "last-week": "41",
+        "peak-rank": "33",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "34",
+        "song": "Love Me",
+        "artist": "Yvonne Elliman",
+        "last-week": "18",
+        "peak-rank": "14",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "35",
+        "song": "Save It For A Rainy Day",
+        "artist": "Stephen Bishop",
+        "last-week": "45",
+        "peak-rank": "35",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "36",
+        "song": "Year Of The Cat",
+        "artist": "Al Stewart",
+        "last-week": "50",
+        "peak-rank": "36",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "37",
+        "song": "You've Got Me Runnin'",
+        "artist": "Gene Cotton",
+        "last-week": "47",
+        "peak-rank": "37",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "38",
+        "song": "Go Your Own Way",
+        "artist": "Fleetwood Mac",
+        "last-week": "57",
+        "peak-rank": "38",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "39",
+        "song": "It Keeps You Runnin'",
+        "artist": "The Doobie Brothers",
+        "last-week": "43",
+        "peak-rank": "39",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "40",
+        "song": "Living Next Door To Alice",
+        "artist": "Smokie",
+        "last-week": "46",
+        "peak-rank": "40",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "41",
+        "song": "I Like To Do It",
+        "artist": "KC And The Sunshine Band",
+        "last-week": "42",
+        "peak-rank": "41",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "42",
+        "song": "Someone To Lay Down Beside Me",
+        "artist": "Linda Ronstadt",
+        "last-week": "44",
+        "peak-rank": "42",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "43",
+        "song": "Don't Leave Me This Way",
+        "artist": "Thelma Houston",
+        "last-week": "55",
+        "peak-rank": "43",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "44",
+        "song": "Dreamboat Annie",
+        "artist": "Heart",
+        "last-week": "54",
+        "peak-rank": "44",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "45",
+        "song": "Muskrat Love",
+        "artist": "Captain & Tennille",
+        "last-week": "32",
+        "peak-rank": "4",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "46",
+        "song": "Moody Blue/she Thinks I Still Care",
+        "artist": "Elvis Presley",
+        "last-week": "56",
+        "peak-rank": "46",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "47",
+        "song": "Do It To My Mind",
+        "artist": "Johnny Bristol",
+        "last-week": "48",
+        "peak-rank": "47",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "48",
+        "song": "More Than A Feeling",
+        "artist": "Boston",
+        "last-week": "29",
+        "peak-rank": "5",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "49",
+        "song": "What Can I Say",
+        "artist": "Boz Scaggs",
+        "last-week": "49",
+        "peak-rank": "42",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "50",
+        "song": "The Things We Do For Love",
+        "artist": "10cc",
+        "last-week": "63",
+        "peak-rank": "50",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "51",
+        "song": "In The Mood",
+        "artist": "Henhouse Five Plus Too",
+        "last-week": "62",
+        "peak-rank": "51",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "52",
+        "song": "Do What You Want, Be What You Are",
+        "artist": "Daryl Hall John Oates",
+        "last-week": "53",
+        "peak-rank": "39",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "53",
+        "song": "Drivin' Wheel",
+        "artist": "Foghat",
+        "last-week": "34",
+        "peak-rank": "34",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "54",
+        "song": "Nadia's Theme (The Young And The Restless)",
+        "artist": "Barry DeVorzon And Perry Botikin Jr.",
+        "last-week": "37",
+        "peak-rank": "8",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "55",
+        "song": "Carry On Wayward Son",
+        "artist": "Kansas",
+        "last-week": "66",
+        "peak-rank": "55",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "56",
+        "song": "Love So Right",
+        "artist": "Bee Gees",
+        "last-week": "40",
+        "peak-rank": "3",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "57",
+        "song": "Boogie Child",
+        "artist": "Bee Gees",
+        "last-week": "84",
+        "peak-rank": "57",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "58",
+        "song": "Spring Affair/Winter Melody",
+        "artist": "Donna Summer",
+        "last-week": "60",
+        "peak-rank": "58",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "59",
+        "song": "Baby Don't You Know",
+        "artist": "Wild Cherry",
+        "last-week": "72",
+        "peak-rank": "59",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "60",
+        "song": "Happier",
+        "artist": "Paul Anka",
+        "last-week": "64",
+        "peak-rank": "60",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "61",
+        "song": "Open Sesame - Part 1",
+        "artist": "Kool & The Gang",
+        "last-week": "65",
+        "peak-rank": "61",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "62",
+        "song": "Free",
+        "artist": "Deniece Williams",
+        "last-week": "68",
+        "peak-rank": "62",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "63",
+        "song": "Free Bird",
+        "artist": "Lynyrd Skynyrd",
+        "last-week": "38",
+        "peak-rank": "19",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "64",
+        "song": "Nights Are Forever Without You",
+        "artist": "England Dan & John Ford Coley",
+        "last-week": "39",
+        "peak-rank": "10",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "65",
+        "song": "Mademoiselle",
+        "artist": "Styx",
+        "last-week": "59",
+        "peak-rank": "36",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "66",
+        "song": "9,999,999 Tears",
+        "artist": "Dickey Lee",
+        "last-week": "52",
+        "peak-rank": "52",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "67",
+        "song": "Dis-Gorilla (Part 1)",
+        "artist": "Rick Dees & His Cast Of Idiots",
+        "last-week": "77",
+        "peak-rank": "67",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "68",
+        "song": "Fancy Dancer",
+        "artist": "Commodores",
+        "last-week": "79",
+        "peak-rank": "68",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "69",
+        "song": "Baby, You Look Good To Me Tonight",
+        "artist": "John Denver",
+        "last-week": "69",
+        "peak-rank": "69",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "70",
+        "song": "Say You'll Stay Until Tomorrow",
+        "artist": "Tom Jones",
+        "last-week": "80",
+        "peak-rank": "70",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "71",
+        "song": "When Love Is New",
+        "artist": "Arthur Prysock",
+        "last-week": "74",
+        "peak-rank": "71",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "72",
+        "song": "C.b. Savage",
+        "artist": "Rod Hart",
+        "last-week": "76",
+        "peak-rank": "72",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "73",
+        "song": "Ha Cha Cha (funktion)",
+        "artist": "Brass Construction",
+        "last-week": "78",
+        "peak-rank": "73",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "74",
+        "song": "Be My Girl",
+        "artist": "The Dramatics",
+        "last-week": "81",
+        "peak-rank": "74",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "75",
+        "song": "Keep Me Cryin'",
+        "artist": "Al Green",
+        "last-week": "51",
+        "peak-rank": "37",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "76",
+        "song": "Beth/Detroit Rock City",
+        "artist": "KISS",
+        "last-week": "67",
+        "peak-rank": "7",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "77",
+        "song": "Yesterday's Hero",
+        "artist": "Bay City Rollers",
+        "last-week": "71",
+        "peak-rank": "54",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "78",
+        "song": "Love Ballad",
+        "artist": "L.T.D.",
+        "last-week": "70",
+        "peak-rank": "20",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "79",
+        "song": "Hail! Hail! Rock And Roll!",
+        "artist": "Starland Vocal Band",
+        "last-week": "83",
+        "peak-rank": "79",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "80",
+        "song": "Darlin' Darlin' Baby (Sweet, Tender, Love)",
+        "artist": "The O'Jays",
+        "last-week": "",
+        "peak-rank": "80",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "81",
+        "song": "Rich Girl",
+        "artist": "Daryl Hall John Oates",
+        "last-week": "",
+        "peak-rank": "81",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "82",
+        "song": "I Don't Wanna Lose Your Love/Flowers",
+        "artist": "The Emotions",
+        "last-week": "92",
+        "peak-rank": "82",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "83",
+        "song": "Bless The Beasts And Children",
+        "artist": "Barry DeVorzon And Perry Botikin Jr.",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "84",
+        "song": "I Just Can't Say No To You",
+        "artist": "Parker McGee",
+        "last-week": "",
+        "peak-rank": "84",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "85",
+        "song": "You Know Like I Know",
+        "artist": "Ozark Mountain Daredevils",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "86",
+        "song": "Prisoner (Captured By Your Eyes)",
+        "artist": "L.A. Jets",
+        "last-week": "88",
+        "peak-rank": "86",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "87",
+        "song": "Daddy Cool",
+        "artist": "Boney M.",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "88",
+        "song": "Shakey Ground",
+        "artist": "Phoebe Snow",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "89",
+        "song": "If Not You",
+        "artist": "Dr. Hook",
+        "last-week": "97",
+        "peak-rank": "55",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "90",
+        "song": "Baby Boy",
+        "artist": "Mary Kay Place As Loretta Haggers",
+        "last-week": "90",
+        "peak-rank": "60",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "91",
+        "song": "Disco Lucy (i Love Lucy Theme)",
+        "artist": "Wilton Place Street Band",
+        "last-week": "95",
+        "peak-rank": "91",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "92",
+        "song": "Fly By Night/In The Mood",
+        "artist": "Rush",
+        "last-week": "98",
+        "peak-rank": "92",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "93",
+        "song": "Pirate",
+        "artist": "Cher",
+        "last-week": "96",
+        "peak-rank": "93",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "94",
+        "song": "Disco Duck (Part I)",
+        "artist": "Rick Dees & His Cast Of Idiots",
+        "last-week": "89",
+        "peak-rank": "1",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "95",
+        "song": "White Bird",
+        "artist": "David Laflamme",
+        "last-week": "99",
+        "peak-rank": "89",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "96",
+        "song": "Spring Rain",
+        "artist": "Silvetti",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "97",
+        "song": "Spend Some Time",
+        "artist": "Elvin Bishop Featuring Mickey Thomas",
+        "last-week": "100",
+        "peak-rank": "94",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "98",
+        "song": "Sorry/That's The Trouble",
+        "artist": "Grace Jones",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "99",
+        "song": "Theme From King Kong (Pt. I)",
+        "artist": "Love Unlimited Orchestra",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-01-22",
+        "rank": "100",
+        "song": "Up Your Nose",
+        "artist": "Gabriel Kaplan",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

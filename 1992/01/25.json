@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1992-01-25",
+        "rank": "1",
+        "song": "All 4 Love",
+        "artist": "Color Me Badd",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "2",
+        "song": "Can't Let Go",
+        "artist": "Mariah Carey",
+        "last-week": "3",
+        "peak-rank": "2",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "3",
+        "song": "Don't Let The Sun Go Down On Me",
+        "artist": "George Michael/Elton John",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "4",
+        "song": "Black Or White",
+        "artist": "Michael Jackson",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "5",
+        "song": "Finally",
+        "artist": "CeCe Peniston",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "6",
+        "song": "Diamonds And Pearls",
+        "artist": "Prince And The N.P.G.",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "7",
+        "song": "I Love Your Smile",
+        "artist": "Shanice",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "8",
+        "song": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "last-week": "9",
+        "peak-rank": "6",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "9",
+        "song": "Mysterious Ways",
+        "artist": "U2",
+        "last-week": "15",
+        "peak-rank": "9",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "10",
+        "song": "I'm Too Sexy",
+        "artist": "Right Said Fred",
+        "last-week": "31",
+        "peak-rank": "10",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "11",
+        "song": "2 Legit 2 Quit",
+        "artist": "M.C. Hammer",
+        "last-week": "11",
+        "peak-rank": "5",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "12",
+        "song": "Tell Me What You Want Me To Do",
+        "artist": "Tevin Campbell",
+        "last-week": "16",
+        "peak-rank": "12",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "13",
+        "song": "No Son Of Mine",
+        "artist": "Genesis",
+        "last-week": "12",
+        "peak-rank": "12",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "14",
+        "song": "The Way I Feel About You",
+        "artist": "Karyn White",
+        "last-week": "17",
+        "peak-rank": "14",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "15",
+        "song": "It's So Hard To Say Goodbye To Yesterday",
+        "artist": "Boyz II Men",
+        "last-week": "8",
+        "peak-rank": "2",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "16",
+        "song": "Addams Groove",
+        "artist": "M.C. Hammer",
+        "last-week": "10",
+        "peak-rank": "7",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "17",
+        "song": "Set Adrift On Memory Bliss",
+        "artist": "P.M. Dawn",
+        "last-week": "13",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "18",
+        "song": "Wildside",
+        "artist": "Marky Mark & The Funky Bunch",
+        "last-week": "14",
+        "peak-rank": "10",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "19",
+        "song": "Keep It Comin'",
+        "artist": "Keith Sweat",
+        "last-week": "26",
+        "peak-rank": "19",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "20",
+        "song": "Broken Arrow",
+        "artist": "Rod Stewart",
+        "last-week": "22",
+        "peak-rank": "20",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "21",
+        "song": "That's What Love Is For",
+        "artist": "Amy Grant",
+        "last-week": "20",
+        "peak-rank": "7",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "22",
+        "song": "When A Man Loves A Woman",
+        "artist": "Michael Bolton",
+        "last-week": "19",
+        "peak-rank": "1",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "23",
+        "song": "To Be With You",
+        "artist": "Mr. Big",
+        "last-week": "50",
+        "peak-rank": "23",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "24",
+        "song": "Live For Loving You",
+        "artist": "Gloria Estefan",
+        "last-week": "23",
+        "peak-rank": "22",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "25",
+        "song": "Keep Coming Back",
+        "artist": "Richard Marx",
+        "last-week": "21",
+        "peak-rank": "12",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "26",
+        "song": "Love Me All Up",
+        "artist": "Stacy Earl",
+        "last-week": "30",
+        "peak-rank": "26",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "27",
+        "song": "Blowing Kisses In The Wind",
+        "artist": "Paula Abdul",
+        "last-week": "18",
+        "peak-rank": "6",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "28",
+        "song": "I've Got A Lot To Learn About Love",
+        "artist": "The Storm",
+        "last-week": "34",
+        "peak-rank": "28",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "29",
+        "song": "I Can't Make You Love Me",
+        "artist": "Bonnie Raitt",
+        "last-week": "39",
+        "peak-rank": "29",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "30",
+        "song": "Uhh Ahh",
+        "artist": "Boyz II Men",
+        "last-week": "35",
+        "peak-rank": "30",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "31",
+        "song": "Change",
+        "artist": "Lisa Stansfield",
+        "last-week": "27",
+        "peak-rank": "27",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "32",
+        "song": "Good For Me",
+        "artist": "Amy Grant",
+        "last-week": "69",
+        "peak-rank": "32",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "33",
+        "song": "Hearts Don't Think (They Feel)",
+        "artist": "Natural Selection",
+        "last-week": "46",
+        "peak-rank": "33",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "34",
+        "song": "In My Dreams",
+        "artist": "The Party",
+        "last-week": "44",
+        "peak-rank": "34",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "35",
+        "song": "Forever My Lady",
+        "artist": "Jodeci",
+        "last-week": "29",
+        "peak-rank": "25",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "36",
+        "song": "Is It Good To You",
+        "artist": "Heavy D & The Boyz",
+        "last-week": "32",
+        "peak-rank": "32",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "37",
+        "song": "O.P.P.",
+        "artist": "Naughty By Nature",
+        "last-week": "28",
+        "peak-rank": "6",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "38",
+        "song": "Can't Stop This Thing We Started",
+        "artist": "Bryan Adams",
+        "last-week": "25",
+        "peak-rank": "2",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "39",
+        "song": "I'll Get By",
+        "artist": "Eddie Money",
+        "last-week": "54",
+        "peak-rank": "39",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "40",
+        "song": "Don't Cry",
+        "artist": "Guns N' Roses",
+        "last-week": "24",
+        "peak-rank": "10",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "41",
+        "song": "Too Blind To See It",
+        "artist": "Kym Sims",
+        "last-week": "47",
+        "peak-rank": "41",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "42",
+        "song": "There Will Never Be Another Tonight",
+        "artist": "Bryan Adams",
+        "last-week": "55",
+        "peak-rank": "42",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "43",
+        "song": "Save Up All Your Tears",
+        "artist": "Cher",
+        "last-week": "40",
+        "peak-rank": "37",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "44",
+        "song": "Send Me An Angel",
+        "artist": "Scorpions",
+        "last-week": "48",
+        "peak-rank": "44",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "45",
+        "song": "Vibeology",
+        "artist": "Paula Abdul",
+        "last-week": "65",
+        "peak-rank": "45",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "46",
+        "song": "Spending My Time",
+        "artist": "Roxette",
+        "last-week": "38",
+        "peak-rank": "32",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "47",
+        "song": "Set The Night To Music",
+        "artist": "Roberta Flack With Maxi Priest",
+        "last-week": "36",
+        "peak-rank": "6",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "48",
+        "song": "Live And Let Die",
+        "artist": "Guns N' Roses",
+        "last-week": "41",
+        "peak-rank": "41",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "49",
+        "song": "Home Sweet Home",
+        "artist": "Motley Crue",
+        "last-week": "37",
+        "peak-rank": "37",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "50",
+        "song": "The Unforgiven",
+        "artist": "Metallica",
+        "last-week": "43",
+        "peak-rank": "35",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "51",
+        "song": "On A Sunday Afternoon",
+        "artist": "Lighter Shade Of Brown",
+        "last-week": "52",
+        "peak-rank": "43",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "52",
+        "song": "Cream",
+        "artist": "Prince And The N.P.G.",
+        "last-week": "33",
+        "peak-rank": "1",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "53",
+        "song": "Remember The Time",
+        "artist": "Michael Jackson",
+        "last-week": "",
+        "peak-rank": "53",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "54",
+        "song": "Angel Baby",
+        "artist": "Angelica",
+        "last-week": "42",
+        "peak-rank": "29",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "55",
+        "song": "I Wanna Be Your Girl",
+        "artist": "Icy Blu",
+        "last-week": "49",
+        "peak-rank": "46",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "56",
+        "song": "Mind Playing Tricks On Me",
+        "artist": "Geto Boys",
+        "last-week": "45",
+        "peak-rank": "23",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "57",
+        "song": "Kiss You Back",
+        "artist": "Digital Underground",
+        "last-week": "51",
+        "peak-rank": "40",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "58",
+        "song": "Tender Kisses",
+        "artist": "Tracie Spencer",
+        "last-week": "57",
+        "peak-rank": "42",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "59",
+        "song": "Breakin' My Heart (Pretty Brown Eyes)",
+        "artist": "Mint Condition",
+        "last-week": "73",
+        "peak-rank": "59",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "60",
+        "song": "Ain't Gonna Hurt Nobody",
+        "artist": "Kid 'N Play",
+        "last-week": "53",
+        "peak-rank": "51",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "61",
+        "song": "I Want You",
+        "artist": "Jody Watley",
+        "last-week": "61",
+        "peak-rank": "61",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "62",
+        "song": "Move Any Mountain",
+        "artist": "The Shamen",
+        "last-week": "66",
+        "peak-rank": "62",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "63",
+        "song": "Street Of Dreams",
+        "artist": "Nia Peeples",
+        "last-week": "59",
+        "peak-rank": "12",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "64",
+        "song": "All She Wrote",
+        "artist": "Firehouse",
+        "last-week": "58",
+        "peak-rank": "58",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "65",
+        "song": "The Comfort Zone",
+        "artist": "Vanessa Williams",
+        "last-week": "62",
+        "peak-rank": "62",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "66",
+        "song": "Paper Doll",
+        "artist": "P.M. Dawn",
+        "last-week": "79",
+        "peak-rank": "66",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "67",
+        "song": "In Paradise",
+        "artist": "Laissez Faire",
+        "last-week": "70",
+        "peak-rank": "67",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "68",
+        "song": "Stay",
+        "artist": "Jodeci",
+        "last-week": "67",
+        "peak-rank": "62",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "69",
+        "song": "A Deeper Love/Pride In The Name Of Love",
+        "artist": "Clivilles & Cole",
+        "last-week": "75",
+        "peak-rank": "69",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "70",
+        "song": "Ring My Bell",
+        "artist": "D.J. Jazzy Jeff & The Fresh Prince",
+        "last-week": "56",
+        "peak-rank": "20",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "71",
+        "song": "Top Of The World",
+        "artist": "Van Halen",
+        "last-week": "63",
+        "peak-rank": "27",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "72",
+        "song": "Until Your Love Comes Back Around",
+        "artist": "RTZ",
+        "last-week": "96",
+        "peak-rank": "72",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "73",
+        "song": "The Rush",
+        "artist": "Luther Vandross",
+        "last-week": "77",
+        "peak-rank": "73",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "74",
+        "song": "Housecall",
+        "artist": "Shabba Ranks (Featuring Maxi Priest)",
+        "last-week": "64",
+        "peak-rank": "37",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "75",
+        "song": "Ain't No Future In Yo' Fronting",
+        "artist": "M.C. Breed & D.F.C.",
+        "last-week": "74",
+        "peak-rank": "66",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "76",
+        "song": "Whispers",
+        "artist": "Corina",
+        "last-week": "71",
+        "peak-rank": "51",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "77",
+        "song": "Oochie Coochie",
+        "artist": "M.C. Brains",
+        "last-week": "87",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "78",
+        "song": "Shot Of Poison",
+        "artist": "Lita Ford",
+        "last-week": "72",
+        "peak-rank": "45",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "79",
+        "song": "Missing You Now",
+        "artist": "Michael Bolton",
+        "last-week": "",
+        "peak-rank": "79",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "80",
+        "song": "Blinded By Love",
+        "artist": "Rhythm Syndicate",
+        "last-week": "84",
+        "peak-rank": "80",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "81",
+        "song": "Beauty And The Beast",
+        "artist": "Celine Dion And Peabo Bryson",
+        "last-week": "88",
+        "peak-rank": "81",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "82",
+        "song": "There's No Other Way",
+        "artist": "Blur",
+        "last-week": "90",
+        "peak-rank": "82",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "83",
+        "song": "Every Road Leads Back To You",
+        "artist": "Bette Midler",
+        "last-week": "78",
+        "peak-rank": "78",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "84",
+        "song": "Hold On (Tighter To Love)",
+        "artist": "Clubland",
+        "last-week": "93",
+        "peak-rank": "84",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "85",
+        "song": "A Day In My Life (Without You)",
+        "artist": "Lisette Melendez",
+        "last-week": "80",
+        "peak-rank": "49",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "86",
+        "song": "She Ain't Pretty",
+        "artist": "The Northern Pikes",
+        "last-week": "94",
+        "peak-rank": "86",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "87",
+        "song": "Within My Heart",
+        "artist": "Voyce",
+        "last-week": "82",
+        "peak-rank": "77",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "88",
+        "song": "Can't Truss It",
+        "artist": "Public Enemy",
+        "last-week": "68",
+        "peak-rank": "50",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "89",
+        "song": "Insatiable",
+        "artist": "Prince And The N.P.G.",
+        "last-week": "86",
+        "peak-rank": "77",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "90",
+        "song": "Cold Shower",
+        "artist": "Erin Cruise",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "91",
+        "song": "Butt Naked",
+        "artist": "Charm",
+        "last-week": "92",
+        "peak-rank": "91",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "92",
+        "song": "Pop That Coochie",
+        "artist": "The 2 Live Crew",
+        "last-week": "83",
+        "peak-rank": "58",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "93",
+        "song": "Stars",
+        "artist": "Simply Red",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "94",
+        "song": "All Through The Night",
+        "artist": "Tone-Loc",
+        "last-week": "89",
+        "peak-rank": "80",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "95",
+        "song": "Give It Away",
+        "artist": "Red Hot Chili Peppers",
+        "last-week": "85",
+        "peak-rank": "76",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "96",
+        "song": "What Goes Around Comes Around",
+        "artist": "Giggles",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "97",
+        "song": "I'll Take You There",
+        "artist": "BeBe & CeCe Winans Featuring Mavis Staples",
+        "last-week": "99",
+        "peak-rank": "90",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "98",
+        "song": "Everlasting Love",
+        "artist": "Tony Terry",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "99",
+        "song": "Just A Touch Of Love",
+        "artist": "C+C Music Factory Presents Zelma Davis",
+        "last-week": "76",
+        "peak-rank": "50",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1992-01-25",
+        "rank": "100",
+        "song": "No More Tears",
+        "artist": "Ozzy Osbourne",
+        "last-week": "81",
+        "peak-rank": "71",
+        "weeks-on-board": "9"
+    }
+]

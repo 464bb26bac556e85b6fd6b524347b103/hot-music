@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1968-05-25",
+        "rank": "1",
+        "song": "Tighten Up",
+        "artist": "Archie Bell & The Drells",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "2",
+        "song": "Mrs. Robinson",
+        "artist": "Simon & Garfunkel",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "3",
+        "song": "A Beautiful Morning",
+        "artist": "The Rascals",
+        "last-week": "5",
+        "peak-rank": "3",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "4",
+        "song": "The Good, The Bad And The Ugly",
+        "artist": "Hugo Montenegro, His Orchestra And Chorus",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "5",
+        "song": "Honey",
+        "artist": "Bobby Goldsboro",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "6",
+        "song": "Cowboys To Girls",
+        "artist": "The Intruders",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "7",
+        "song": "The Unicorn",
+        "artist": "The Irish Rovers",
+        "last-week": "8",
+        "peak-rank": "7",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "8",
+        "song": "Ain't Nothing Like The Real Thing",
+        "artist": "Marvin Gaye & Tammi Terrell",
+        "last-week": "14",
+        "peak-rank": "8",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "9",
+        "song": "Shoo-Be-Doo-Be-Doo-Da-Day",
+        "artist": "Stevie Wonder",
+        "last-week": "11",
+        "peak-rank": "9",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "10",
+        "song": "Do You Know The Way To San Jos\u00c3\u00a9",
+        "artist": "Dionne Warwick",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "11",
+        "song": "Take Time To Know Her",
+        "artist": "Percy Sledge",
+        "last-week": "13",
+        "peak-rank": "11",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "12",
+        "song": "Mony Mony",
+        "artist": "Tommy James And The Shondells",
+        "last-week": "19",
+        "peak-rank": "12",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "13",
+        "song": "Young Girl",
+        "artist": "The Union Gap Featuring Gary Puckett",
+        "last-week": "9",
+        "peak-rank": "2",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "14",
+        "song": "Love Is All Around",
+        "artist": "The Troggs",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "15",
+        "song": "She's Lookin' Good",
+        "artist": "Wilson Pickett",
+        "last-week": "22",
+        "peak-rank": "15",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "16",
+        "song": "Think",
+        "artist": "Aretha Franklin",
+        "last-week": "67",
+        "peak-rank": "16",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "17",
+        "song": "I Got The Feelin'",
+        "artist": "James Brown And The Famous Flames",
+        "last-week": "17",
+        "peak-rank": "6",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "18",
+        "song": "Funky Street",
+        "artist": "Arthur Conley",
+        "last-week": "18",
+        "peak-rank": "14",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "19",
+        "song": "Cry Like A Baby",
+        "artist": "The Box Tops",
+        "last-week": "12",
+        "peak-rank": "2",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "20",
+        "song": "Like To Get To Know You",
+        "artist": "Spanky And Our Gang",
+        "last-week": "20",
+        "peak-rank": "20",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "21",
+        "song": "Delilah",
+        "artist": "Tom Jones",
+        "last-week": "26",
+        "peak-rank": "21",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "22",
+        "song": "I Could Never Love Another (After Loving You)",
+        "artist": "The Temptations",
+        "last-week": "25",
+        "peak-rank": "22",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "23",
+        "song": "Soul Serenade",
+        "artist": "Willie Mitchell",
+        "last-week": "23",
+        "peak-rank": "23",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "24",
+        "song": "Yummy Yummy Yummy",
+        "artist": "Ohio Express",
+        "last-week": "32",
+        "peak-rank": "24",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "25",
+        "song": "The Happy Song (Dum-Dum)",
+        "artist": "Otis Redding",
+        "last-week": "27",
+        "peak-rank": "25",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "26",
+        "song": "If I Were A Carpenter",
+        "artist": "Four Tops",
+        "last-week": "29",
+        "peak-rank": "26",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "27",
+        "song": "This Guy's In Love With You",
+        "artist": "Herb Alpert",
+        "last-week": "72",
+        "peak-rank": "27",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "28",
+        "song": "I Will Always Think About You",
+        "artist": "The New Colony Six",
+        "last-week": "28",
+        "peak-rank": "28",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "29",
+        "song": "Does Your Mama Know About Me",
+        "artist": "Bobby Taylor & The Vancouvers",
+        "last-week": "30",
+        "peak-rank": "29",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "30",
+        "song": "Master Jack",
+        "artist": "Four Jacks And A Jill",
+        "last-week": "31",
+        "peak-rank": "30",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "31",
+        "song": "Lady Madonna",
+        "artist": "The Beatles",
+        "last-week": "15",
+        "peak-rank": "4",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "32",
+        "song": "Sweet Inspiration",
+        "artist": "The Sweet Inspirations",
+        "last-week": "24",
+        "peak-rank": "18",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "33",
+        "song": "Summertime Blues",
+        "artist": "Blue Cheer",
+        "last-week": "16",
+        "peak-rank": "14",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "34",
+        "song": "MacArthur Park",
+        "artist": "Richard Harris",
+        "last-week": "48",
+        "peak-rank": "34",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "35",
+        "song": "My Girl/Hey Girl",
+        "artist": "Bobby Vee",
+        "last-week": "36",
+        "peak-rank": "35",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "36",
+        "song": "I Wanna Live",
+        "artist": "Glen Campbell",
+        "last-week": "44",
+        "peak-rank": "36",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "37",
+        "song": "Ain't No Way",
+        "artist": "Aretha Franklin",
+        "last-week": "21",
+        "peak-rank": "16",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "38",
+        "song": "Playboy",
+        "artist": "Gene And Debbe",
+        "last-week": "38",
+        "peak-rank": "17",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "39",
+        "song": "Paying The Cost To Be The Boss",
+        "artist": "B.B. King",
+        "last-week": "52",
+        "peak-rank": "39",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "40",
+        "song": "I Love You",
+        "artist": "People",
+        "last-week": "50",
+        "peak-rank": "40",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "41",
+        "song": "(You Keep Me) Hangin' On",
+        "artist": "Joe Simon",
+        "last-week": "61",
+        "peak-rank": "41",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "42",
+        "song": "The Look Of Love",
+        "artist": "Sergio Mendes & Brasil '66",
+        "last-week": "60",
+        "peak-rank": "42",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "43",
+        "song": "I'm Sorry",
+        "artist": "The Delfonics",
+        "last-week": "46",
+        "peak-rank": "43",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "44",
+        "song": "Wear It On Our Face",
+        "artist": "The Dells",
+        "last-week": "45",
+        "peak-rank": "44",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "45",
+        "song": "The Son Of Hickory Holler's Tramp",
+        "artist": "O.C. Smith",
+        "last-week": "43",
+        "peak-rank": "40",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "46",
+        "song": "Time For Livin'",
+        "artist": "The Association",
+        "last-week": "73",
+        "peak-rank": "46",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "47",
+        "song": "Friends",
+        "artist": "The Beach Boys",
+        "last-week": "47",
+        "peak-rank": "47",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "48",
+        "song": "Angel Of The Morning",
+        "artist": "Merrilee Rush & The Turnabouts",
+        "last-week": "55",
+        "peak-rank": "48",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "49",
+        "song": "How'd We Ever Get This Way",
+        "artist": "Andy Kim",
+        "last-week": "54",
+        "peak-rank": "49",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "50",
+        "song": "Never Give You Up",
+        "artist": "Jerry Butler",
+        "last-week": "62",
+        "peak-rank": "50",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "51",
+        "song": "I Can Remember",
+        "artist": "James & Bobby Purify",
+        "last-week": "51",
+        "peak-rank": "51",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "52",
+        "song": "A Man Without Love (Quando M'innamoro)",
+        "artist": "Engelbert Humperdinck",
+        "last-week": "53",
+        "peak-rank": "52",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "53",
+        "song": "If You Don't Want My Love",
+        "artist": "Robert John",
+        "last-week": "57",
+        "peak-rank": "53",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "54",
+        "song": "Jennifer Eccles",
+        "artist": "The Hollies",
+        "last-week": "40",
+        "peak-rank": "40",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "55",
+        "song": "Unwind",
+        "artist": "Ray Stevens",
+        "last-week": "56",
+        "peak-rank": "55",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "56",
+        "song": "Jelly Jungle (Of Orange Marmalade)",
+        "artist": "Lemon Pipers",
+        "last-week": "70",
+        "peak-rank": "56",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "57",
+        "song": "Reach Out Of The Darkness",
+        "artist": "Friend And Lover",
+        "last-week": "97",
+        "peak-rank": "57",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "58",
+        "song": "She's A Heartbreaker",
+        "artist": "Gene Pitney",
+        "last-week": "65",
+        "peak-rank": "58",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "59",
+        "song": "United",
+        "artist": "Peaches & Herb",
+        "last-week": "89",
+        "peak-rank": "59",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "60",
+        "song": "Love In Every Room",
+        "artist": "Paul Mauriat And His Orchestra",
+        "last-week": "71",
+        "peak-rank": "60",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "61",
+        "song": "I'll Never Do You Wrong",
+        "artist": "Joe Tex",
+        "last-week": "81",
+        "peak-rank": "61",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "62",
+        "song": "I Promise To Wait My Love",
+        "artist": "Martha Reeves & The Vandellas",
+        "last-week": "66",
+        "peak-rank": "62",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "63",
+        "song": "We're Rolling On (Part I)",
+        "artist": "The Impressions",
+        "last-week": "63",
+        "peak-rank": "59",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "64",
+        "song": "Baby Make Your Own Sweet Music",
+        "artist": "Jay And The Techniques",
+        "last-week": "64",
+        "peak-rank": "64",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "65",
+        "song": "Anyone For Tennis",
+        "artist": "Cream",
+        "last-week": "79",
+        "peak-rank": "65",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "66",
+        "song": "Brooklyn Roads",
+        "artist": "Neil Diamond",
+        "last-week": "75",
+        "peak-rank": "66",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "67",
+        "song": "Sleepy Joe",
+        "artist": "Herman's Hermits",
+        "last-week": "80",
+        "peak-rank": "67",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "68",
+        "song": "May I Take A Giant Step (Into Your Heart)",
+        "artist": "1910 Fruitgum Co.",
+        "last-week": "69",
+        "peak-rank": "68",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "69",
+        "song": "Tip-Toe Thru' The Tulips With Me",
+        "artist": "Tiny Tim",
+        "last-week": "83",
+        "peak-rank": "69",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "70",
+        "song": "Impossible Mission (Mission Impossible)",
+        "artist": "Soul Survivors",
+        "last-week": "68",
+        "peak-rank": "68",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "71",
+        "song": "The Horse",
+        "artist": "Cliff Nobles & Co.",
+        "last-week": "",
+        "peak-rank": "71",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "72",
+        "song": "Cabaret",
+        "artist": "Herb Alpert & The Tijuana Brass",
+        "last-week": "76",
+        "peak-rank": "72",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "73",
+        "song": "I Got A Sure Thing",
+        "artist": "Ollie & The Nightingales",
+        "last-week": "74",
+        "peak-rank": "73",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "74",
+        "song": "I Wish I Knew (How It Would Feel To Be Free)",
+        "artist": "Solomon Burke",
+        "last-week": "77",
+        "peak-rank": "74",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "75",
+        "song": "Licking Stick - Licking Stick (Part 1)",
+        "artist": "James Brown And The Famous Flames",
+        "last-week": "",
+        "peak-rank": "75",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "76",
+        "song": "Here's To You",
+        "artist": "Hamilton Camp",
+        "last-week": "82",
+        "peak-rank": "76",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "77",
+        "song": "You Don't Know What You Mean To Me",
+        "artist": "Sam & Dave",
+        "last-week": "",
+        "peak-rank": "77",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "78",
+        "song": "You Ain't Going Nowhere",
+        "artist": "The Byrds",
+        "last-week": "78",
+        "peak-rank": "78",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "79",
+        "song": "I Got You Babe",
+        "artist": "Etta James",
+        "last-week": "88",
+        "peak-rank": "79",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "80",
+        "song": "My Shy Violet",
+        "artist": "The Mills Brothers",
+        "last-week": "84",
+        "peak-rank": "80",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "81",
+        "song": "Face It Girl, It's Over",
+        "artist": "Nancy Wilson",
+        "last-week": "95",
+        "peak-rank": "81",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "82",
+        "song": "Apologize",
+        "artist": "Ed Ames",
+        "last-week": "94",
+        "peak-rank": "82",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "83",
+        "song": "The Doctor",
+        "artist": "Mary Wells",
+        "last-week": "100",
+        "peak-rank": "83",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "84",
+        "song": "Chain Gang",
+        "artist": "Jackie Wilson & Count Basie",
+        "last-week": "85",
+        "peak-rank": "84",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "85",
+        "song": "Gentle On My Mind",
+        "artist": "Patti Page",
+        "last-week": "87",
+        "peak-rank": "66",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "86",
+        "song": "A Tribute To A King",
+        "artist": "William Bell",
+        "last-week": "86",
+        "peak-rank": "86",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "87",
+        "song": "Lili Marlene",
+        "artist": "Al Martino",
+        "last-week": "93",
+        "peak-rank": "87",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "88",
+        "song": "I Have A Dream",
+        "artist": "Rev. Martin Luther King, Jr.",
+        "last-week": "91",
+        "peak-rank": "88",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "89",
+        "song": "America Is My Home - Pt. 1",
+        "artist": "James Brown And The Famous Flames",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "90",
+        "song": "Climb Every Mountain",
+        "artist": "The Hesitations",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "91",
+        "song": "It's Over",
+        "artist": "Eddy Arnold",
+        "last-week": "96",
+        "peak-rank": "91",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "92",
+        "song": "He Don't Really Love You",
+        "artist": "The Delfonics",
+        "last-week": "92",
+        "peak-rank": "92",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "93",
+        "song": "Hold On",
+        "artist": "Radiants",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "94",
+        "song": "Lonely Is The Name",
+        "artist": "Sammy Davis Jr.",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "95",
+        "song": "I Can't Make It Alone",
+        "artist": "Bill Medley",
+        "last-week": "98",
+        "peak-rank": "95",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "96",
+        "song": "Folsom Prison Blues",
+        "artist": "Johnny Cash",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "97",
+        "song": "Bring A Little Lovin'",
+        "artist": "Los Bravos",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "98",
+        "song": "Pictures Of Matchstick Men",
+        "artist": "The Status Quo",
+        "last-week": "99",
+        "peak-rank": "98",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "99",
+        "song": "Don't Sign The Paper Baby (I Want You Back)",
+        "artist": "Jimmy Delphs",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-05-25",
+        "rank": "100",
+        "song": "Ready, Willing and Able",
+        "artist": "The American Breed",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

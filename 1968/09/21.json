@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1968-09-21",
+        "rank": "1",
+        "song": "Harper Valley P.T.A.",
+        "artist": "Jeannie C. Riley",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "2",
+        "song": "People Got To Be Free",
+        "artist": "The Rascals",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "3",
+        "song": "Hey Jude",
+        "artist": "The Beatles",
+        "last-week": "10",
+        "peak-rank": "3",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "4",
+        "song": "Hush",
+        "artist": "Deep Purple",
+        "last-week": "8",
+        "peak-rank": "4",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "5",
+        "song": "1, 2, 3, Red Light",
+        "artist": "1910 Fruitgum Co.",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "6",
+        "song": "Light My Fire",
+        "artist": "Jose Feliciano",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "7",
+        "song": "Born To Be Wild",
+        "artist": "Steppenwolf",
+        "last-week": "4",
+        "peak-rank": "2",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "8",
+        "song": "The Fool On The Hill",
+        "artist": "Sergio Mendes & Brasil '66",
+        "last-week": "11",
+        "peak-rank": "8",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "9",
+        "song": "I've Gotta Get A Message To You",
+        "artist": "Bee Gees",
+        "last-week": "23",
+        "peak-rank": "9",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "10",
+        "song": "The House That Jack Built",
+        "artist": "Aretha Franklin",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "11",
+        "song": "Time Has Come Today",
+        "artist": "The Chambers Brothers",
+        "last-week": "27",
+        "peak-rank": "11",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "12",
+        "song": "Revolution",
+        "artist": "The Beatles",
+        "last-week": "38",
+        "peak-rank": "12",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "13",
+        "song": "Slip Away",
+        "artist": "Clarence Carter",
+        "last-week": "17",
+        "peak-rank": "13",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "14",
+        "song": "I Say A Little Prayer",
+        "artist": "Aretha Franklin",
+        "last-week": "14",
+        "peak-rank": "14",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "15",
+        "song": "Fire",
+        "artist": "The Crazy World Of Arthur Brown",
+        "last-week": "60",
+        "peak-rank": "15",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "16",
+        "song": "Girl Watcher",
+        "artist": "The O'Kaysions",
+        "last-week": "18",
+        "peak-rank": "16",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "17",
+        "song": "You're All I Need To Get By",
+        "artist": "Marvin Gaye & Tammi Terrell",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "18",
+        "song": "On The Road Again",
+        "artist": "Canned Heat",
+        "last-week": "24",
+        "peak-rank": "18",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "19",
+        "song": "My Special Angel",
+        "artist": "The Vogues",
+        "last-week": "57",
+        "peak-rank": "19",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "20",
+        "song": "Do It Again",
+        "artist": "The Beach Boys",
+        "last-week": "20",
+        "peak-rank": "20",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "21",
+        "song": "Midnight Confessions",
+        "artist": "The Grass Roots",
+        "last-week": "52",
+        "peak-rank": "21",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "22",
+        "song": "You Keep Me Hangin' On",
+        "artist": "The Vanilla Fudge",
+        "last-week": "12",
+        "peak-rank": "6",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "23",
+        "song": "Hello, I Love You",
+        "artist": "The Doors",
+        "last-week": "9",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "24",
+        "song": "Tuesday Afternoon (Forever Afternoon)",
+        "artist": "The Moody Blues",
+        "last-week": "29",
+        "peak-rank": "24",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "25",
+        "song": "Sunshine Of Your Love",
+        "artist": "Cream",
+        "last-week": "13",
+        "peak-rank": "5",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "26",
+        "song": "Magic Bus",
+        "artist": "The Who",
+        "last-week": "26",
+        "peak-rank": "26",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "27",
+        "song": "Little Green Apples",
+        "artist": "O.C. Smith",
+        "last-week": "41",
+        "peak-rank": "27",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "28",
+        "song": "Love Makes A Woman",
+        "artist": "Barbara Acklin",
+        "last-week": "21",
+        "peak-rank": "15",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "29",
+        "song": "(The Lament Of The Cherokee) Indian Reservation",
+        "artist": "Don Fardon",
+        "last-week": "59",
+        "peak-rank": "29",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "30",
+        "song": "Classical Gas",
+        "artist": "Mason Williams",
+        "last-week": "22",
+        "peak-rank": "2",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "31",
+        "song": "Say It Loud - I'm Black And I'm Proud (Part 1)",
+        "artist": "James Brown",
+        "last-week": "31",
+        "peak-rank": "31",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "32",
+        "song": "Turn Around, Look At Me",
+        "artist": "The Vogues",
+        "last-week": "15",
+        "peak-rank": "7",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "33",
+        "song": "Down At Lulu's",
+        "artist": "Ohio Express",
+        "last-week": "34",
+        "peak-rank": "33",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "34",
+        "song": "Special Occasion",
+        "artist": "Smokey Robinson & The Miracles",
+        "last-week": "37",
+        "peak-rank": "34",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "35",
+        "song": "Sealed With A Kiss",
+        "artist": "Gary Lewis And The Playboys",
+        "last-week": "25",
+        "peak-rank": "19",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "36",
+        "song": "Stay In My Corner",
+        "artist": "The Dells",
+        "last-week": "19",
+        "peak-rank": "10",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "37",
+        "song": "I Can't Stop Dancing",
+        "artist": "Archie Bell & The Drells",
+        "last-week": "16",
+        "peak-rank": "9",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "38",
+        "song": "Hip City - Pt. 2",
+        "artist": "Jr. Walker & The All Stars",
+        "last-week": "39",
+        "peak-rank": "38",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "39",
+        "song": "Who Is Gonna Love Me?",
+        "artist": "Dionne Warwick",
+        "last-week": "49",
+        "peak-rank": "39",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "40",
+        "song": "The Snake",
+        "artist": "Al Wilson",
+        "last-week": "44",
+        "peak-rank": "40",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "41",
+        "song": "The Eyes Of A New York Woman",
+        "artist": "B.J. Thomas",
+        "last-week": "28",
+        "peak-rank": "28",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "42",
+        "song": "In-A-Gadda-Da-Vida",
+        "artist": "Iron Butterfly",
+        "last-week": "58",
+        "peak-rank": "42",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "43",
+        "song": "Girls Can't Do What The Guys Do",
+        "artist": "Betty Wright",
+        "last-week": "33",
+        "peak-rank": "33",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "44",
+        "song": "Suzie Q. (Part One)",
+        "artist": "Creedence Clearwater Revival",
+        "last-week": "88",
+        "peak-rank": "44",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "45",
+        "song": "Piece Of My Heart",
+        "artist": "Big Brother And The Holding Company",
+        "last-week": "56",
+        "peak-rank": "45",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "46",
+        "song": "Brown Eyed Woman",
+        "artist": "Bill Medley",
+        "last-week": "46",
+        "peak-rank": "46",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "47",
+        "song": "Baby, Come Back",
+        "artist": "The Equals",
+        "last-week": "66",
+        "peak-rank": "47",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "48",
+        "song": "Help Yourself",
+        "artist": "Tom Jones",
+        "last-week": "48",
+        "peak-rank": "48",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "49",
+        "song": "Give A Damn",
+        "artist": "Spanky And Our Gang",
+        "last-week": "43",
+        "peak-rank": "43",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "50",
+        "song": "I Can't Dance To That Music You're Playin'",
+        "artist": "Martha Reeves & The Vandellas",
+        "last-week": "42",
+        "peak-rank": "42",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "51",
+        "song": "To Wait For Love",
+        "artist": "Herb Alpert",
+        "last-week": "54",
+        "peak-rank": "51",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "52",
+        "song": "Morning Dew",
+        "artist": "Lulu",
+        "last-week": "53",
+        "peak-rank": "52",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "53",
+        "song": "I've Never Found A Girl (To Love Me Like You Do)",
+        "artist": "Eddie Floyd",
+        "last-week": "40",
+        "peak-rank": "40",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "54",
+        "song": "Over You",
+        "artist": "Gary Puckett And The Union Gap",
+        "last-week": "",
+        "peak-rank": "54",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "55",
+        "song": "Listen Here",
+        "artist": "Eddie Harris",
+        "last-week": "55",
+        "peak-rank": "55",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "56",
+        "song": "The Weight",
+        "artist": "Jackie DeShannon",
+        "last-week": "61",
+        "peak-rank": "56",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "57",
+        "song": "Street Fighting Man",
+        "artist": "The Rolling Stones",
+        "last-week": "63",
+        "peak-rank": "57",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "58",
+        "song": "Six Man Band",
+        "artist": "The Association",
+        "last-week": "47",
+        "peak-rank": "47",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "59",
+        "song": "I Wish It Would Rain",
+        "artist": "Gladys Knight And The Pips",
+        "last-week": "45",
+        "peak-rank": "45",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "60",
+        "song": "Hey, Western Union Man",
+        "artist": "Jerry Butler",
+        "last-week": "64",
+        "peak-rank": "60",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "61",
+        "song": "Down On Me",
+        "artist": "Big Brother And The Holding Company",
+        "last-week": "68",
+        "peak-rank": "61",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "62",
+        "song": "Workin' On A Groovy Thing",
+        "artist": "Patti Drew",
+        "last-week": "62",
+        "peak-rank": "62",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "63",
+        "song": "Shape Of Things To Come",
+        "artist": "Max Frost And The Troopers",
+        "last-week": "84",
+        "peak-rank": "63",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "64",
+        "song": "Break Your Promise",
+        "artist": "The Delfonics",
+        "last-week": "65",
+        "peak-rank": "64",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "65",
+        "song": "(There's) Always Something There To Remind Me",
+        "artist": "Dionne Warwick",
+        "last-week": "69",
+        "peak-rank": "65",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "66",
+        "song": "All Along The Watchtower",
+        "artist": "The Jimi Hendrix Experience",
+        "last-week": "",
+        "peak-rank": "66",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "67",
+        "song": "Barefoot In Baltimore",
+        "artist": "Strawberry Alarm Clock",
+        "last-week": "67",
+        "peak-rank": "67",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "68",
+        "song": "I Met Her In Church",
+        "artist": "The Box Tops",
+        "last-week": "80",
+        "peak-rank": "68",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "69",
+        "song": "Down Here On The Ground",
+        "artist": "Lou Rawls",
+        "last-week": "72",
+        "peak-rank": "69",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "70",
+        "song": "The Weight",
+        "artist": "The Band",
+        "last-week": "70",
+        "peak-rank": "70",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "71",
+        "song": "My Way Of Life",
+        "artist": "Frank Sinatra",
+        "last-week": "71",
+        "peak-rank": "71",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "72",
+        "song": "Chained",
+        "artist": "Marvin Gaye",
+        "last-week": "79",
+        "peak-rank": "72",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "73",
+        "song": "Fly Me To The Moon",
+        "artist": "Bobby Womack",
+        "last-week": "73",
+        "peak-rank": "73",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "74",
+        "song": "Unchained Melody",
+        "artist": "The Sweet Inspirations",
+        "last-week": "74",
+        "peak-rank": "74",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "75",
+        "song": "Private Number",
+        "artist": "Judy Clay & William Bell",
+        "last-week": "75",
+        "peak-rank": "75",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "76",
+        "song": "That Kind Of Woman",
+        "artist": "Merrilee Rush & The Turnabouts",
+        "last-week": "76",
+        "peak-rank": "76",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "77",
+        "song": "Fool For You",
+        "artist": "The Impressions",
+        "last-week": "77",
+        "peak-rank": "77",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "78",
+        "song": "Don't Change Your Love",
+        "artist": "Five Stairsteps & Cubie",
+        "last-week": "78",
+        "peak-rank": "78",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "79",
+        "song": "Gentle On My Mind",
+        "artist": "Glen Campbell",
+        "last-week": "89",
+        "peak-rank": "62",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "80",
+        "song": "Naturally Stoned",
+        "artist": "The Avant-Garde",
+        "last-week": "81",
+        "peak-rank": "80",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "81",
+        "song": "For The Love Of Ivy",
+        "artist": "The Mamas & The Papas",
+        "last-week": "91",
+        "peak-rank": "81",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "82",
+        "song": "The Mule",
+        "artist": "The James Boys",
+        "last-week": "82",
+        "peak-rank": "82",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "83",
+        "song": "Do What You Gotta Do",
+        "artist": "Bobby Vee",
+        "last-week": "83",
+        "peak-rank": "83",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "84",
+        "song": "Then You Can Tell Me Goodbye",
+        "artist": "Eddy Arnold",
+        "last-week": "85",
+        "peak-rank": "84",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "85",
+        "song": "Shoot'em Up, Baby",
+        "artist": "Andy Kim",
+        "last-week": "86",
+        "peak-rank": "85",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "86",
+        "song": "Poor Baby",
+        "artist": "The Cowsills",
+        "last-week": "87",
+        "peak-rank": "86",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "87",
+        "song": "I Found A True Love",
+        "artist": "Wilson Pickett",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "88",
+        "song": "Horse Fever",
+        "artist": "Cliff Nobles & Co.",
+        "last-week": "99",
+        "peak-rank": "88",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "89",
+        "song": "Light My Fire",
+        "artist": "The Doors",
+        "last-week": "90",
+        "peak-rank": "1",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "90",
+        "song": "Hold Me Tight",
+        "artist": "Johnny Nash",
+        "last-week": "98",
+        "peak-rank": "90",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "91",
+        "song": "The Funky Judge",
+        "artist": "Bull & The Matadors",
+        "last-week": "92",
+        "peak-rank": "91",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "92",
+        "song": "The Biplane, Ever More",
+        "artist": "The Irish Rovers",
+        "last-week": "96",
+        "peak-rank": "92",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "93",
+        "song": "San Francisco Girls (Return of the Native)",
+        "artist": "Fever Tree",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "94",
+        "song": "There Was A Time",
+        "artist": "Gene Chandler",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "95",
+        "song": "Battle Of New Orleans",
+        "artist": "Harpers Bizarre",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "96",
+        "song": "The Choice",
+        "artist": "The O'Jays",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "97",
+        "song": "Elenore",
+        "artist": "The Turtles",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "98",
+        "song": "Tomboy",
+        "artist": "Ronnie Dove",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "99",
+        "song": "I Love You Madly",
+        "artist": "Fantastic Four",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1968-09-21",
+        "rank": "100",
+        "song": "Court Of Love",
+        "artist": "The Unifics",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

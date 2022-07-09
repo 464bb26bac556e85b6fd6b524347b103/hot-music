@@ -1,0 +1,902 @@
+[
+    {
+        "date": "2002-04-27",
+        "rank": "1",
+        "song": "Foolish",
+        "artist": "Ashanti",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "2",
+        "song": "What's Luv?",
+        "artist": "Fat Joe Featuring Ashanti",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "3",
+        "song": "Ain't It Funny",
+        "artist": "Jennifer Lopez Featuring Ja Rule",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "4",
+        "song": "U Don't Have To Call",
+        "artist": "Usher",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "5",
+        "song": "Girlfriend",
+        "artist": "'N Sync Featuring Nelly",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "6",
+        "song": "I Need A Girl (Part One)",
+        "artist": "P. Diddy Featuring Usher & Loon",
+        "last-week": "11",
+        "peak-rank": "6",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "7",
+        "song": "Blurry",
+        "artist": "Puddle Of Mudd",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "8",
+        "song": "Oops (Oh My)",
+        "artist": "Tweet",
+        "last-week": "8",
+        "peak-rank": "8",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "9",
+        "song": "In The End",
+        "artist": "Linkin Park",
+        "last-week": "7",
+        "peak-rank": "2",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "10",
+        "song": "A Thousand Miles",
+        "artist": "Vanessa Carlton",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "11",
+        "song": "Don't Let Me Get Me",
+        "artist": "P!nk",
+        "last-week": "12",
+        "peak-rank": "11",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "12",
+        "song": "Escape",
+        "artist": "Enrique Iglesias",
+        "last-week": "13",
+        "peak-rank": "12",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "13",
+        "song": "Wherever You Will Go",
+        "artist": "The Calling",
+        "last-week": "15",
+        "peak-rank": "5",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "14",
+        "song": "How You Remind Me",
+        "artist": "Nickelback",
+        "last-week": "9",
+        "peak-rank": "1",
+        "weeks-on-board": "34"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "15",
+        "song": "All You Wanted",
+        "artist": "Michelle Branch",
+        "last-week": "16",
+        "peak-rank": "15",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "16",
+        "song": "Pass The Courvoisier Part II",
+        "artist": "Busta Rhymes Featuring P. Diddy & Pharrell",
+        "last-week": "19",
+        "peak-rank": "16",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "17",
+        "song": "I Love You",
+        "artist": "Faith Evans",
+        "last-week": "18",
+        "peak-rank": "14",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "18",
+        "song": "Can't Get You Out Of My Head",
+        "artist": "Kylie Minogue",
+        "last-week": "14",
+        "peak-rank": "7",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "19",
+        "song": "Underneath Your Clothes",
+        "artist": "Shakira",
+        "last-week": "21",
+        "peak-rank": "19",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "20",
+        "song": "Here Is Gone",
+        "artist": "Goo Goo Dolls",
+        "last-week": "20",
+        "peak-rank": "20",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "21",
+        "song": "Always On Time",
+        "artist": "Ja Rule Featuring Ashanti",
+        "last-week": "17",
+        "peak-rank": "1",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "22",
+        "song": "Saturday (Oooh! Ooooh!)",
+        "artist": "Ludacris Featuring Sleepy Brown",
+        "last-week": "22",
+        "peak-rank": "22",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "23",
+        "song": "Wasting My Time",
+        "artist": "Default",
+        "last-week": "23",
+        "peak-rank": "23",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "24",
+        "song": "A New Day Has Come",
+        "artist": "Celine Dion",
+        "last-week": "27",
+        "peak-rank": "24",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "25",
+        "song": "Rainy Dayz",
+        "artist": "Mary J. Blige Featuring Ja Rule",
+        "last-week": "29",
+        "peak-rank": "25",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "26",
+        "song": "The Middle",
+        "artist": "Jimmy Eat World",
+        "last-week": "34",
+        "peak-rank": "26",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "27",
+        "song": "My List",
+        "artist": "Toby Keith",
+        "last-week": "32",
+        "peak-rank": "27",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "28",
+        "song": "Makin' Good Love",
+        "artist": "Avant",
+        "last-week": "46",
+        "peak-rank": "28",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "29",
+        "song": "Anything",
+        "artist": "Jaheim Featuring Next",
+        "last-week": "28",
+        "peak-rank": "28",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "30",
+        "song": "Can't Fight The Moonlight",
+        "artist": "LeAnn Rimes",
+        "last-week": "24",
+        "peak-rank": "11",
+        "weeks-on-board": "41"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "31",
+        "song": "My Sacrifice",
+        "artist": "Creed",
+        "last-week": "25",
+        "peak-rank": "4",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "32",
+        "song": "Youth Of The Nation",
+        "artist": "P.O.D.",
+        "last-week": "30",
+        "peak-rank": "28",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "33",
+        "song": "Drive (For Daddy Gene)",
+        "artist": "Alan Jackson",
+        "last-week": "43",
+        "peak-rank": "33",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "34",
+        "song": "More Than A Woman",
+        "artist": "Aaliyah",
+        "last-week": "26",
+        "peak-rank": "25",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "35",
+        "song": "Young",
+        "artist": "Kenny Chesney",
+        "last-week": "35",
+        "peak-rank": "35",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "36",
+        "song": "U Got It Bad",
+        "artist": "Usher",
+        "last-week": "36",
+        "peak-rank": "1",
+        "weeks-on-board": "32"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "37",
+        "song": "That's When I Love You",
+        "artist": "Phil Vassar",
+        "last-week": "41",
+        "peak-rank": "37",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "38",
+        "song": "Lights, Camera, Action!",
+        "artist": "Mr. Cheeks",
+        "last-week": "33",
+        "peak-rank": "14",
+        "weeks-on-board": "29"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "39",
+        "song": "Uh Huh",
+        "artist": "B2K",
+        "last-week": "39",
+        "peak-rank": "38",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "40",
+        "song": "Hella Good",
+        "artist": "No Doubt",
+        "last-week": "63",
+        "peak-rank": "40",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "41",
+        "song": "I'm Movin' On",
+        "artist": "Rascal Flatts",
+        "last-week": "44",
+        "peak-rank": "41",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "42",
+        "song": "The Whole World",
+        "artist": "OutKast Featuring Killer Mike",
+        "last-week": "31",
+        "peak-rank": "19",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "43",
+        "song": "halfcrazy",
+        "artist": "Musiq",
+        "last-week": "66",
+        "peak-rank": "43",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "44",
+        "song": "What If She's An Angel",
+        "artist": "Tommy Shane Steiner",
+        "last-week": "50",
+        "peak-rank": "44",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "45",
+        "song": "Superman (It's Not Easy)",
+        "artist": "Five For Fighting",
+        "last-week": "42",
+        "peak-rank": "14",
+        "weeks-on-board": "35"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "46",
+        "song": "Hands Clean",
+        "artist": "Alanis Morissette",
+        "last-week": "37",
+        "peak-rank": "23",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "47",
+        "song": "Family Affair",
+        "artist": "Mary J. Blige",
+        "last-week": "38",
+        "peak-rank": "1",
+        "weeks-on-board": "40"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "48",
+        "song": "Too Bad",
+        "artist": "Nickelback",
+        "last-week": "53",
+        "peak-rank": "48",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "49",
+        "song": "Hero",
+        "artist": "Enrique Iglesias",
+        "last-week": "45",
+        "peak-rank": "3",
+        "weeks-on-board": "31"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "50",
+        "song": "Welcome To Atlanta",
+        "artist": "Jermaine Dupri & Ludacris",
+        "last-week": "51",
+        "peak-rank": "35",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "51",
+        "song": "I Don't Have To Be Me ('til Monday)",
+        "artist": "Steve Azar",
+        "last-week": "62",
+        "peak-rank": "51",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "52",
+        "song": "Living And Living Well",
+        "artist": "George Strait",
+        "last-week": "59",
+        "peak-rank": "52",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "53",
+        "song": "Addictive",
+        "artist": "Truth Hurts Featuring Rakim",
+        "last-week": "71",
+        "peak-rank": "53",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "54",
+        "song": "Blessed",
+        "artist": "Martina McBride",
+        "last-week": "48",
+        "peak-rank": "31",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "55",
+        "song": "I Breathe In, I Breathe Out",
+        "artist": "Chris Cagle",
+        "last-week": "40",
+        "peak-rank": "35",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "56",
+        "song": "The Cowboy In Me",
+        "artist": "Tim McGraw",
+        "last-week": "52",
+        "peak-rank": "33",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "57",
+        "song": "Down A** Chick",
+        "artist": "Ja Rule Featuring Charli \"Chuck\" Baltimore",
+        "last-week": "75",
+        "peak-rank": "57",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "58",
+        "song": "Oh Boy",
+        "artist": "Cam'Ron Featuring Juelz Santana",
+        "last-week": "77",
+        "peak-rank": "58",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "59",
+        "song": "How Come You Don't Call Me",
+        "artist": "Alicia Keys",
+        "last-week": "64",
+        "peak-rank": "59",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "60",
+        "song": "Modern Day Bonnie And Clyde",
+        "artist": "Travis Tritt",
+        "last-week": "61",
+        "peak-rank": "60",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "61",
+        "song": "I Should Be Sleeping",
+        "artist": "Emerson Drive",
+        "last-week": "67",
+        "peak-rank": "61",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "62",
+        "song": "Nothing In This World",
+        "artist": "KeKe Wyatt Featuring Avant",
+        "last-week": "56",
+        "peak-rank": "27",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "63",
+        "song": "Roc The Mic",
+        "artist": "Beanie Sigel & Freeway",
+        "last-week": "55",
+        "peak-rank": "55",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "64",
+        "song": "Awnaw",
+        "artist": "Nappy Roots",
+        "last-week": "73",
+        "peak-rank": "64",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "65",
+        "song": "For You",
+        "artist": "Staind",
+        "last-week": "65",
+        "peak-rank": "65",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "66",
+        "song": "Soak Up The Sun",
+        "artist": "Sheryl Crow",
+        "last-week": "68",
+        "peak-rank": "66",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "67",
+        "song": "This Woman's Work",
+        "artist": "Maxwell",
+        "last-week": "58",
+        "peak-rank": "58",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "68",
+        "song": "What About Us?",
+        "artist": "Brandy",
+        "last-week": "47",
+        "peak-rank": "7",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "69",
+        "song": "I'm Gonna Be Alright",
+        "artist": "Jennifer Lopez Featuring Nas",
+        "last-week": "",
+        "peak-rank": "69",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "70",
+        "song": "One Mic",
+        "artist": "Nas",
+        "last-week": "79",
+        "peak-rank": "70",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "71",
+        "song": "Video",
+        "artist": "India.Arie",
+        "last-week": "74",
+        "peak-rank": "47",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "72",
+        "song": "Take Ya Home",
+        "artist": "Lil Bow Wow",
+        "last-week": "72",
+        "peak-rank": "72",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "73",
+        "song": "Gots Ta Be",
+        "artist": "B2K",
+        "last-week": "",
+        "peak-rank": "73",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "74",
+        "song": "Feels Good (Don't Worry Bout A Thing)",
+        "artist": "Naughty By Nature Featuring 3LW",
+        "last-week": "76",
+        "peak-rank": "74",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "75",
+        "song": "The Long Goodbye",
+        "artist": "Brooks & Dunn",
+        "last-week": "69",
+        "peak-rank": "39",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "76",
+        "song": "Crawling In The Dark",
+        "artist": "Hoobastank",
+        "last-week": "70",
+        "peak-rank": "68",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "77",
+        "song": "No More Drama",
+        "artist": "Mary J. Blige",
+        "last-week": "60",
+        "peak-rank": "15",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "78",
+        "song": "That's Just Jessie",
+        "artist": "Kevin Denney",
+        "last-week": "80",
+        "peak-rank": "76",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "79",
+        "song": "Wish I Didn't Miss You",
+        "artist": "Angie Stone",
+        "last-week": "82",
+        "peak-rank": "79",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "80",
+        "song": "Never",
+        "artist": "Amanda Perez",
+        "last-week": "83",
+        "peak-rank": "79",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "81",
+        "song": "Rapture (Tastes So Sweet)",
+        "artist": "iio",
+        "last-week": "78",
+        "peak-rank": "46",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "82",
+        "song": "Any Other Night",
+        "artist": "Sharissa",
+        "last-week": "84",
+        "peak-rank": "72",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "83",
+        "song": "You Know That I Love You",
+        "artist": "Donell Jones",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "84",
+        "song": "Still Fly",
+        "artist": "Big Tymers",
+        "last-week": "95",
+        "peak-rank": "84",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "85",
+        "song": "Take You Home With Me a.k.a. Body",
+        "artist": "R. Kelly & Jay-Z",
+        "last-week": "81",
+        "peak-rank": "81",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "86",
+        "song": "It's Goin' Down",
+        "artist": "X-Ecutioners",
+        "last-week": "85",
+        "peak-rank": "85",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "87",
+        "song": "Hey Luv (Anything)",
+        "artist": "Mobb Deep Featuring 112",
+        "last-week": "91",
+        "peak-rank": "58",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "88",
+        "song": "Give It To Her",
+        "artist": "Tanto Metro & Devonte",
+        "last-week": "96",
+        "peak-rank": "88",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "89",
+        "song": "Chop Suey",
+        "artist": "System Of A Down",
+        "last-week": "89",
+        "peak-rank": "76",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "90",
+        "song": "No Matta What (Party All Night)",
+        "artist": "Toya",
+        "last-week": "86",
+        "peak-rank": "86",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "91",
+        "song": "Tell Me What's It Gonna Be",
+        "artist": "Brian McKnight Featuring Jermaine Dupri",
+        "last-week": "97",
+        "peak-rank": "91",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "92",
+        "song": "Some Days You Gotta Dance",
+        "artist": "Dixie Chicks",
+        "last-week": "87",
+        "peak-rank": "55",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "93",
+        "song": "Overprotected",
+        "artist": "Britney Spears",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "94",
+        "song": "Take A Message",
+        "artist": "Remy Shand",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "95",
+        "song": "Song For The Lonely",
+        "artist": "Cher",
+        "last-week": "93",
+        "peak-rank": "85",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "96",
+        "song": "Bouncin' Back (Bumpin' Me Against The Wall)",
+        "artist": "Mystikal",
+        "last-week": "90",
+        "peak-rank": "37",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "97",
+        "song": "The World's Greatest",
+        "artist": "R. Kelly",
+        "last-week": "94",
+        "peak-rank": "34",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "98",
+        "song": "Closet Freak",
+        "artist": "Cee-Lo",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "99",
+        "song": "Be Here",
+        "artist": "Raphael Saadiq Featuring D'Angelo",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2002-04-27",
+        "rank": "100",
+        "song": "Take Away",
+        "artist": "Missy \"Misdemeanor\" Elliott Featuring Ginuwine & Tweet",
+        "last-week": "88",
+        "peak-rank": "45",
+        "weeks-on-board": "20"
+    }
+]

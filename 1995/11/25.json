@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1995-11-25",
+        "rank": "1",
+        "song": "Exhale (Shoop Shoop) (From \"Waiting To Exhale\")",
+        "artist": "Whitney Houston",
+        "last-week": "",
+        "peak-rank": "1",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "2",
+        "song": "Fantasy",
+        "artist": "Mariah Carey",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "3",
+        "song": "Gangsta's Paradise (From \"Dangerous Minds\")",
+        "artist": "Coolio Featuring L.V.",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "4",
+        "song": "You Remind Me Of Something",
+        "artist": "R. Kelly",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "5",
+        "song": "Hey Lover",
+        "artist": "LL Cool J",
+        "last-week": "30",
+        "peak-rank": "5",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "6",
+        "song": "Runaway",
+        "artist": "Janet Jackson",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "7",
+        "song": "Tell Me",
+        "artist": "Groove Theory",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "8",
+        "song": "Back For Good",
+        "artist": "Take That",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "9",
+        "song": "Name",
+        "artist": "Goo Goo Dolls",
+        "last-week": "10",
+        "peak-rank": "9",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "10",
+        "song": "Diggin' On You",
+        "artist": "TLC",
+        "last-week": "12",
+        "peak-rank": "10",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "11",
+        "song": "Kiss From A Rose",
+        "artist": "Seal",
+        "last-week": "6",
+        "peak-rank": "1",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "12",
+        "song": "Who Can I Run To",
+        "artist": "Xscape",
+        "last-week": "8",
+        "peak-rank": "8",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "13",
+        "song": "I'd Lie For You (And That's The Truth)",
+        "artist": "Meat Loaf",
+        "last-week": "13",
+        "peak-rank": "13",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "14",
+        "song": "As I Lay Me Down",
+        "artist": "Sophie B. Hawkins",
+        "last-week": "9",
+        "peak-rank": "6",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "15",
+        "song": "Only Wanna Be With You",
+        "artist": "Hootie & The Blowfish",
+        "last-week": "11",
+        "peak-rank": "6",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "16",
+        "song": "Before You Walk Out Of My Life/Like This And Like That",
+        "artist": "Monica",
+        "last-week": "16",
+        "peak-rank": "16",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "17",
+        "song": "Breakfast At Tiffany's",
+        "artist": "Deep Blue Something",
+        "last-week": "17",
+        "peak-rank": "17",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "18",
+        "song": "Roll To Me",
+        "artist": "Del Amitri",
+        "last-week": "15",
+        "peak-rank": "10",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "19",
+        "song": "Carnival",
+        "artist": "Natalie Merchant",
+        "last-week": "14",
+        "peak-rank": "10",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "20",
+        "song": "Beautiful Life",
+        "artist": "Ace Of Base",
+        "last-week": "22",
+        "peak-rank": "20",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "21",
+        "song": "Run-Around",
+        "artist": "Blues Traveler",
+        "last-week": "21",
+        "peak-rank": "8",
+        "weeks-on-board": "36"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "22",
+        "song": "Dreaming Of You",
+        "artist": "Selena",
+        "last-week": "23",
+        "peak-rank": "22",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "23",
+        "song": "Brokenhearted",
+        "artist": "Brandy",
+        "last-week": "18",
+        "peak-rank": "9",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "24",
+        "song": "I Can Love You Like That",
+        "artist": "All-4-One",
+        "last-week": "20",
+        "peak-rank": "5",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "25",
+        "song": "Do You Sleep?",
+        "artist": "Lisa Loeb & Nine Stories",
+        "last-week": "24",
+        "peak-rank": "18",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "26",
+        "song": "Bullet With Butterfly Wings",
+        "artist": "The Smashing Pumpkins",
+        "last-week": "28",
+        "peak-rank": "26",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "27",
+        "song": "Waterfalls",
+        "artist": "TLC",
+        "last-week": "29",
+        "peak-rank": "1",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "28",
+        "song": "You Are Not Alone",
+        "artist": "Michael Jackson",
+        "last-week": "19",
+        "peak-rank": "1",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "29",
+        "song": "December",
+        "artist": "Collective Soul",
+        "last-week": "26",
+        "peak-rank": "20",
+        "weeks-on-board": "29"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "30",
+        "song": "Pretty Girl",
+        "artist": "Jon B",
+        "last-week": "25",
+        "peak-rank": "25",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "31",
+        "song": "Sentimental",
+        "artist": "Deborah Cox",
+        "last-week": "27",
+        "peak-rank": "27",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "32",
+        "song": "Anything",
+        "artist": "3T",
+        "last-week": "33",
+        "peak-rank": "32",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "33",
+        "song": "Missing",
+        "artist": "Everything But The Girl",
+        "last-week": "34",
+        "peak-rank": "33",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "34",
+        "song": "Love U 4 Life",
+        "artist": "Jodeci",
+        "last-week": "38",
+        "peak-rank": "34",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "35",
+        "song": "Set U Free",
+        "artist": "Planet Soul",
+        "last-week": "40",
+        "peak-rank": "35",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "36",
+        "song": "I'll Be There For You/This House Is Not A Home",
+        "artist": "The Rembrandts",
+        "last-week": "31",
+        "peak-rank": "17",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "37",
+        "song": "Let Me Be The One",
+        "artist": "Blessid Union Of Souls",
+        "last-week": "35",
+        "peak-rank": "29",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "38",
+        "song": "Comedown",
+        "artist": "Bush",
+        "last-week": "37",
+        "peak-rank": "30",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "39",
+        "song": "Cell Therapy",
+        "artist": "Goodie Mob",
+        "last-week": "39",
+        "peak-rank": "39",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "40",
+        "song": "A Girl Like You (From \"Empire Records\")",
+        "artist": "Edwyn Collins",
+        "last-week": "41",
+        "peak-rank": "32",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "41",
+        "song": "I Got 5 On It",
+        "artist": "Luniz",
+        "last-week": "32",
+        "peak-rank": "8",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "42",
+        "song": "Boombastic/In The Summertime",
+        "artist": "Shaggy",
+        "last-week": "36",
+        "peak-rank": "3",
+        "weeks-on-board": "28"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "43",
+        "song": "Come With Me",
+        "artist": "Shai",
+        "last-week": "44",
+        "peak-rank": "43",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "44",
+        "song": "'Til You Do Me Right",
+        "artist": "After 7",
+        "last-week": "42",
+        "peak-rank": "31",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "45",
+        "song": "Be My Lover",
+        "artist": "La Bouche",
+        "last-week": "57",
+        "peak-rank": "45",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "46",
+        "song": "Danger",
+        "artist": "Blahzay Blahzay",
+        "last-week": "47",
+        "peak-rank": "46",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "47",
+        "song": "Time",
+        "artist": "Hootie & The Blowfish",
+        "last-week": "61",
+        "peak-rank": "47",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "48",
+        "song": "Blessed",
+        "artist": "Elton John",
+        "last-week": "56",
+        "peak-rank": "48",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "49",
+        "song": "Hook",
+        "artist": "Blues Traveler",
+        "last-week": "52",
+        "peak-rank": "49",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "50",
+        "song": "Colors Of The Wind (From \"Pocahontas\")",
+        "artist": "Vanessa Williams",
+        "last-week": "46",
+        "peak-rank": "4",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "51",
+        "song": "Ain't Nuthin' But A She Thing",
+        "artist": "Salt-N-Pepa",
+        "last-week": "45",
+        "peak-rank": "38",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "52",
+        "song": "I Wanna B With U",
+        "artist": "Fun Factory",
+        "last-week": "51",
+        "peak-rank": "45",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "53",
+        "song": "Where Ever You Are",
+        "artist": "Terry Ellis",
+        "last-week": "62",
+        "peak-rank": "53",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "54",
+        "song": "Hooked On You",
+        "artist": "Silk",
+        "last-week": "54",
+        "peak-rank": "54",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "55",
+        "song": "Macarena (Bayside Boys Mix)",
+        "artist": "Los Del Rio",
+        "last-week": "53",
+        "peak-rank": "45",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "56",
+        "song": "I Like It, I Love It",
+        "artist": "Tim McGraw",
+        "last-week": "60",
+        "peak-rank": "25",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "57",
+        "song": "Heaven",
+        "artist": "Solo",
+        "last-week": "50",
+        "peak-rank": "42",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "58",
+        "song": "Incarcerated Scarfaces/Ice Cream",
+        "artist": "Raekwon",
+        "last-week": "48",
+        "peak-rank": "37",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "59",
+        "song": "Runnin'",
+        "artist": "The Pharcyde",
+        "last-week": "64",
+        "peak-rank": "59",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "60",
+        "song": "Magic Carpet Ride",
+        "artist": "The Mighty Dub Katz",
+        "last-week": "70",
+        "peak-rank": "60",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "61",
+        "song": "Automatic Lover (Call For Love)",
+        "artist": "Real McCoy",
+        "last-week": "58",
+        "peak-rank": "52",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "62",
+        "song": "The World I Know",
+        "artist": "Collective Soul",
+        "last-week": "73",
+        "peak-rank": "62",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "63",
+        "song": "Cruisin'",
+        "artist": "D'Angelo",
+        "last-week": "80",
+        "peak-rank": "63",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "64",
+        "song": "Feel The Funk (From \"Dangerous Minds\")",
+        "artist": "Immature",
+        "last-week": "55",
+        "peak-rank": "46",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "65",
+        "song": "Sexual Healing",
+        "artist": "Max-A-Million",
+        "last-week": "71",
+        "peak-rank": "65",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "66",
+        "song": "1st Of Tha Month",
+        "artist": "Bone Thugs-N-Harmony",
+        "last-week": "65",
+        "peak-rank": "14",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "67",
+        "song": "Boom Boom Boom",
+        "artist": "The Outhere Brothers",
+        "last-week": "74",
+        "peak-rank": "67",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "68",
+        "song": "Sugar Hill",
+        "artist": "AZ",
+        "last-week": "59",
+        "peak-rank": "25",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "69",
+        "song": "Summertime In The LBC (From \"The Show\")",
+        "artist": "The Dove Shack",
+        "last-week": "67",
+        "peak-rank": "54",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "70",
+        "song": "Runaway",
+        "artist": "The Corrs",
+        "last-week": "72",
+        "peak-rank": "70",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "71",
+        "song": "A Mover La Colita",
+        "artist": "Artie The 1 Man Party",
+        "last-week": "81",
+        "peak-rank": "65",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "72",
+        "song": "We've Got It Goin' On",
+        "artist": "Backstreet Boys",
+        "last-week": "78",
+        "peak-rank": "72",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "73",
+        "song": "The Riddler (From \"Batman Forever\")",
+        "artist": "Method Man",
+        "last-week": "69",
+        "peak-rank": "56",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "74",
+        "song": "Solitude",
+        "artist": "Edwin McCain",
+        "last-week": "76",
+        "peak-rank": "74",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "75",
+        "song": "I Will Remember You (Live)",
+        "artist": "Sarah McLachlan",
+        "last-week": "84",
+        "peak-rank": "75",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "76",
+        "song": "Throw Your Set In The Air",
+        "artist": "Cypress Hill",
+        "last-week": "77",
+        "peak-rank": "45",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "77",
+        "song": "I Miss You (Come Back Home) (From \"New York Undercover\")",
+        "artist": "Monifah",
+        "last-week": "82",
+        "peak-rank": "74",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "78",
+        "song": "Hurricane",
+        "artist": "The Click",
+        "last-week": "63",
+        "peak-rank": "63",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "79",
+        "song": "Wings Of The Morning",
+        "artist": "Capleton",
+        "last-week": "79",
+        "peak-rank": "79",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "80",
+        "song": "Liquid Swords",
+        "artist": "Genius/GZA",
+        "last-week": "66",
+        "peak-rank": "48",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "81",
+        "song": "East Side Rendezvous",
+        "artist": "Frost",
+        "last-week": "83",
+        "peak-rank": "73",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "82",
+        "song": "Rock Steady",
+        "artist": "Bonnie Raitt With Bryan Adams",
+        "last-week": "",
+        "peak-rank": "82",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "83",
+        "song": "Already Missing You",
+        "artist": "Gerald Levert & Eddie Levert, Sr.",
+        "last-week": "75",
+        "peak-rank": "75",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "84",
+        "song": "Throw Your Hands Up",
+        "artist": "L.V.",
+        "last-week": "89",
+        "peak-rank": "84",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "85",
+        "song": "How High (From \"The Show\")",
+        "artist": "Redman/Method Man",
+        "last-week": "68",
+        "peak-rank": "13",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "86",
+        "song": "Ridin' Low",
+        "artist": "L.A.D.",
+        "last-week": "94",
+        "peak-rank": "86",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "87",
+        "song": "Vibin'",
+        "artist": "Boyz II Men",
+        "last-week": "87",
+        "peak-rank": "56",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "88",
+        "song": "Player's Anthem",
+        "artist": "Junior M.A.F.I.A.",
+        "last-week": "85",
+        "peak-rank": "13",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "89",
+        "song": "Lie To Me/Something For The Pain",
+        "artist": "Bon Jovi",
+        "last-week": "",
+        "peak-rank": "76",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "90",
+        "song": "Last Dayz",
+        "artist": "Onyx",
+        "last-week": "90",
+        "peak-rank": "90",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "91",
+        "song": "Can I Touch You...There?",
+        "artist": "Michael Bolton",
+        "last-week": "88",
+        "peak-rank": "27",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "92",
+        "song": "I Hate U",
+        "artist": "Prince",
+        "last-week": "86",
+        "peak-rank": "12",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "93",
+        "song": "Real Hip Hop",
+        "artist": "Das EFX",
+        "last-week": "92",
+        "peak-rank": "61",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "94",
+        "song": "Rosealia",
+        "artist": "Better Than Ezra",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "95",
+        "song": "Bomdigi",
+        "artist": "Erick Sermon",
+        "last-week": "93",
+        "peak-rank": "84",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "96",
+        "song": "Forever Tonight",
+        "artist": "Peter Cetera & Crystal Bernard",
+        "last-week": "91",
+        "peak-rank": "86",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "97",
+        "song": "(If You're Not In It For Love) I'm Outta Here!/The Woman In Me",
+        "artist": "Shania Twain",
+        "last-week": "96",
+        "peak-rank": "90",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "98",
+        "song": "Molly (Sixteen Candles)",
+        "artist": "Sponge",
+        "last-week": "97",
+        "peak-rank": "55",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "99",
+        "song": "Funny How Time Flies",
+        "artist": "Intro",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1995-11-25",
+        "rank": "100",
+        "song": "West Up!",
+        "artist": "WC & The Maad Circle",
+        "last-week": "95",
+        "peak-rank": "88",
+        "weeks-on-board": "9"
+    }
+]

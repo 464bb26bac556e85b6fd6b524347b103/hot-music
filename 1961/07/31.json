@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1961-07-31",
+        "rank": "1",
+        "song": "Tossin' And Turnin'",
+        "artist": "Bobby Lewis",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "2",
+        "song": "I Like It Like That, Part 1",
+        "artist": "Chris Kenner",
+        "last-week": "5",
+        "peak-rank": "2",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "3",
+        "song": "The Boll Weevil Song",
+        "artist": "Brook Benton",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "4",
+        "song": "Dum Dum",
+        "artist": "Brenda Lee",
+        "last-week": "8",
+        "peak-rank": "4",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "5",
+        "song": "Hats Off To Larry",
+        "artist": "Del Shannon",
+        "last-week": "6",
+        "peak-rank": "5",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "6",
+        "song": "Quarter To Three",
+        "artist": "U.S. Bonds",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "7",
+        "song": "Last Night",
+        "artist": "Mar-Keys",
+        "last-week": "12",
+        "peak-rank": "7",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "8",
+        "song": "Together",
+        "artist": "Connie Francis",
+        "last-week": "9",
+        "peak-rank": "8",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "9",
+        "song": "Let's Twist Again",
+        "artist": "Chubby Checker",
+        "last-week": "10",
+        "peak-rank": "9",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "10",
+        "song": "Yellow Bird",
+        "artist": "Arthur Lyman Group",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "11",
+        "song": "San Antonio Rose",
+        "artist": "Floyd Cramer",
+        "last-week": "11",
+        "peak-rank": "8",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "12",
+        "song": "Raindrops",
+        "artist": "Dee Clark",
+        "last-week": "7",
+        "peak-rank": "2",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "13",
+        "song": "Wooden Heart",
+        "artist": "Joe Dowell",
+        "last-week": "18",
+        "peak-rank": "13",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "14",
+        "song": "Never On Sunday",
+        "artist": "The Chordettes",
+        "last-week": "15",
+        "peak-rank": "14",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "15",
+        "song": "Please Stay",
+        "artist": "The Drifters",
+        "last-week": "14",
+        "peak-rank": "14",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "16",
+        "song": "Pretty Little Angel Eyes",
+        "artist": "Curtis Lee",
+        "last-week": "24",
+        "peak-rank": "16",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "17",
+        "song": "Cupid",
+        "artist": "Sam Cooke",
+        "last-week": "17",
+        "peak-rank": "17",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "18",
+        "song": "My Kind Of Girl",
+        "artist": "Matt Monro",
+        "last-week": "21",
+        "peak-rank": "18",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "19",
+        "song": "I'll Be There",
+        "artist": "Damita Jo",
+        "last-week": "28",
+        "peak-rank": "19",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "20",
+        "song": "Sacred",
+        "artist": "The Castells",
+        "last-week": "20",
+        "peak-rank": "20",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "21",
+        "song": "Every Beat Of My Heart",
+        "artist": "Pips",
+        "last-week": "13",
+        "peak-rank": "6",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "22",
+        "song": "Moody River",
+        "artist": "Pat Boone",
+        "last-week": "16",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "23",
+        "song": "Michael",
+        "artist": "The Highwaymen",
+        "last-week": "41",
+        "peak-rank": "23",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "24",
+        "song": "You Don't Know What You've Got (Until You Lose It)",
+        "artist": "Ral Donner",
+        "last-week": "35",
+        "peak-rank": "24",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "25",
+        "song": "The Fish",
+        "artist": "Bobby Rydell",
+        "last-week": "27",
+        "peak-rank": "25",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "26",
+        "song": "The Switch-A-Roo",
+        "artist": "Hank Ballard And The Midnighters",
+        "last-week": "26",
+        "peak-rank": "26",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "27",
+        "song": "Travelin' Man",
+        "artist": "Ricky Nelson",
+        "last-week": "19",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "28",
+        "song": "School Is Out",
+        "artist": "Gary U.S. Bonds",
+        "last-week": "52",
+        "peak-rank": "28",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "29",
+        "song": "That's What Girls Are Made For",
+        "artist": "The Spinners",
+        "last-week": "31",
+        "peak-rank": "29",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "30",
+        "song": "Don't Bet Money Honey",
+        "artist": "Linda Scott",
+        "last-week": "36",
+        "peak-rank": "30",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "31",
+        "song": "I'm Gonna Knock On Your Door",
+        "artist": "Eddie Hodges",
+        "last-week": "38",
+        "peak-rank": "31",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "32",
+        "song": "Hello Mary Lou",
+        "artist": "Ricky Nelson",
+        "last-week": "23",
+        "peak-rank": "9",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "33",
+        "song": "I Fall To Pieces",
+        "artist": "Patsy Cline",
+        "last-week": "37",
+        "peak-rank": "33",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "34",
+        "song": "Sea Of Heartbreak",
+        "artist": "Don Gibson",
+        "last-week": "33",
+        "peak-rank": "33",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "35",
+        "song": "Hurt",
+        "artist": "Timi Yuro",
+        "last-week": "66",
+        "peak-rank": "35",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "36",
+        "song": "Let The Four Winds Blow",
+        "artist": "Fats Domino",
+        "last-week": "56",
+        "peak-rank": "36",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "37",
+        "song": "Runaround",
+        "artist": "The Regents",
+        "last-week": "47",
+        "peak-rank": "37",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "38",
+        "song": "Stand By Me",
+        "artist": "Ben E. King",
+        "last-week": "29",
+        "peak-rank": "4",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "39",
+        "song": "Heart And Soul",
+        "artist": "Jan & Dean",
+        "last-week": "25",
+        "peak-rank": "25",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "40",
+        "song": "Running Scared",
+        "artist": "Roy Orbison",
+        "last-week": "30",
+        "peak-rank": "1",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "41",
+        "song": "No, No, No",
+        "artist": "The Chanters",
+        "last-week": "45",
+        "peak-rank": "41",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "42",
+        "song": "Ready For Your Love",
+        "artist": "Shep And The Limelites",
+        "last-week": "50",
+        "peak-rank": "42",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "43",
+        "song": "A Tear",
+        "artist": "Gene McDaniels",
+        "last-week": "51",
+        "peak-rank": "43",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "44",
+        "song": "Tell Me Why",
+        "artist": "The Belmonts",
+        "last-week": "22",
+        "peak-rank": "18",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "45",
+        "song": "Quite A Party",
+        "artist": "The Fireballs",
+        "last-week": "49",
+        "peak-rank": "45",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "46",
+        "song": "My True Story",
+        "artist": "The Jive Five With Joe Rene And Orchestra",
+        "last-week": "54",
+        "peak-rank": "46",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "47",
+        "song": "Should I",
+        "artist": "The String-A-Longs",
+        "last-week": "48",
+        "peak-rank": "42",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "48",
+        "song": "You Can't Sit Down Part 2",
+        "artist": "Philip Upchurch Combo",
+        "last-week": "44",
+        "peak-rank": "29",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "49",
+        "song": "I'm Comin' On On Back To You",
+        "artist": "Jackie Wilson",
+        "last-week": "32",
+        "peak-rank": "19",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "50",
+        "song": "Better Tell Him No",
+        "artist": "The Starlets",
+        "last-week": "53",
+        "peak-rank": "38",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "51",
+        "song": "The Charleston",
+        "artist": "Ernie Fields",
+        "last-week": "55",
+        "peak-rank": "51",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "52",
+        "song": "Princess",
+        "artist": "Frank Gari",
+        "last-week": "62",
+        "peak-rank": "52",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "53",
+        "song": "One Summer Night",
+        "artist": "The Diamonds",
+        "last-week": "61",
+        "peak-rank": "53",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "54",
+        "song": "What A Sweet Thing That Was",
+        "artist": "The Shirelles",
+        "last-week": "60",
+        "peak-rank": "54",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "55",
+        "song": "Right Or Wrong",
+        "artist": "Wanda Jackson",
+        "last-week": "74",
+        "peak-rank": "55",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "56",
+        "song": "I Dreamed Of A Hill-Billy Heaven",
+        "artist": "Tex Ritter",
+        "last-week": "57",
+        "peak-rank": "56",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "57",
+        "song": "Time Was",
+        "artist": "The Flamingos",
+        "last-week": "59",
+        "peak-rank": "57",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "58",
+        "song": "A Thing Of The Past",
+        "artist": "The Shirelles",
+        "last-week": "64",
+        "peak-rank": "58",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "59",
+        "song": "As If I Didn't Know",
+        "artist": "Adam Wade",
+        "last-week": "78",
+        "peak-rank": "59",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "60",
+        "song": "I Don't Want To Take A Chance",
+        "artist": "Mary Wells",
+        "last-week": "75",
+        "peak-rank": "60",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "61",
+        "song": "I'm A Telling You",
+        "artist": "Jerry Butler",
+        "last-week": "73",
+        "peak-rank": "61",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "62",
+        "song": "Mighty Good Lovin'",
+        "artist": "The Miracles",
+        "last-week": "68",
+        "peak-rank": "62",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "63",
+        "song": "Nag",
+        "artist": "The Halos",
+        "last-week": "70",
+        "peak-rank": "63",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "64",
+        "song": "The Girl's A Devil",
+        "artist": "The Dukays",
+        "last-week": "65",
+        "peak-rank": "64",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "65",
+        "song": "Bobby",
+        "artist": "Neil Scott",
+        "last-week": "58",
+        "peak-rank": "58",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "66",
+        "song": "You'll Answer To Me",
+        "artist": "Patti Page",
+        "last-week": "46",
+        "peak-rank": "46",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "67",
+        "song": "Peanuts",
+        "artist": "Rick And The Keens",
+        "last-week": "69",
+        "peak-rank": "67",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "68",
+        "song": "I Never Knew",
+        "artist": "Clyde McPhatter",
+        "last-week": "90",
+        "peak-rank": "68",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "69",
+        "song": "My Claire De Lune",
+        "artist": "Steve Lawrence",
+        "last-week": "95",
+        "peak-rank": "69",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "70",
+        "song": "Dance On Little Girl",
+        "artist": "Paul Anka",
+        "last-week": "34",
+        "peak-rank": "10",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "71",
+        "song": "Take A Fool's Advice",
+        "artist": "Nat King Cole",
+        "last-week": "77",
+        "peak-rank": "71",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "72",
+        "song": "Amor",
+        "artist": "Ben E. King",
+        "last-week": "",
+        "peak-rank": "72",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "73",
+        "song": "Water Boy",
+        "artist": "Don Shirley Trio",
+        "last-week": "80",
+        "peak-rank": "73",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "74",
+        "song": "Mr. Happiness",
+        "artist": "Johnny Maestro with The Coeds",
+        "last-week": "98",
+        "peak-rank": "74",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "75",
+        "song": "What Would You Do?",
+        "artist": "Jim Reeves",
+        "last-week": "86",
+        "peak-rank": "75",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "76",
+        "song": "It's Gonna Work Out Fine",
+        "artist": "Ike & Tina Turner",
+        "last-week": "",
+        "peak-rank": "76",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "77",
+        "song": "Tears On My Pillow",
+        "artist": "The McGuire Sisters",
+        "last-week": "92",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "78",
+        "song": "I Just Don't Understand",
+        "artist": "Ann-Margret",
+        "last-week": "97",
+        "peak-rank": "78",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "79",
+        "song": "My Memories Of You",
+        "artist": "Donnie and The Dreamers",
+        "last-week": "79",
+        "peak-rank": "79",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "80",
+        "song": "The Guns Of Navarone",
+        "artist": "Joe Reisman Orch. & Chorus",
+        "last-week": "91",
+        "peak-rank": "80",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "81",
+        "song": "La Dolce Vita (The Sweet Life)",
+        "artist": "Ray Ellis And His Orchestra",
+        "last-week": "85",
+        "peak-rank": "81",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "82",
+        "song": "Black Land Farmer",
+        "artist": "Frankie Miller",
+        "last-week": "83",
+        "peak-rank": "82",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "83",
+        "song": "Big River, Big Man",
+        "artist": "Claude King",
+        "last-week": "93",
+        "peak-rank": "83",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "84",
+        "song": "If",
+        "artist": "The Paragons",
+        "last-week": "89",
+        "peak-rank": "84",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "85",
+        "song": "Missing You",
+        "artist": "Ray Peterson",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "86",
+        "song": "Teardrops In My Heart",
+        "artist": "Joe Barry",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "87",
+        "song": "I'll Never Smile Again",
+        "artist": "The Platters",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "88",
+        "song": "Here In My Heart",
+        "artist": "Al Martino",
+        "last-week": "99",
+        "peak-rank": "88",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "89",
+        "song": "A Little Bit Of Soap",
+        "artist": "The Jarmels",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "90",
+        "song": "The Mountain's High",
+        "artist": "Dick and DeeDee",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "91",
+        "song": "Dedicated (To The Songs I Love)",
+        "artist": "The 3 Friends",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "92",
+        "song": "Run, Run, Run",
+        "artist": "Ronny Douglas",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "93",
+        "song": "Now You Know",
+        "artist": "Little Willie John",
+        "last-week": "96",
+        "peak-rank": "93",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "94",
+        "song": "Now And Forever",
+        "artist": "Bert Kaempfert And His Orchestra",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "95",
+        "song": "Transistor Sister",
+        "artist": "Freddy Cannon",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "96",
+        "song": "All I Have To Do Is Dream",
+        "artist": "The Everly Brothers",
+        "last-week": "100",
+        "peak-rank": "49",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "97",
+        "song": "When We Get Married",
+        "artist": "The Dreamlovers",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "98",
+        "song": "Don't Forget I Love You",
+        "artist": "The Butanes",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "99",
+        "song": "Summer Souvenirs",
+        "artist": "Karl Hammel, Jr.",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-07-31",
+        "rank": "100",
+        "song": "The Bells Are Ringing",
+        "artist": "The Van Dykes",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1969-08-30",
+        "rank": "1",
+        "song": "Honky Tonk Women",
+        "artist": "The Rolling Stones",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "2",
+        "song": "A Boy Named Sue",
+        "artist": "Johnny Cash",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "3",
+        "song": "Sugar, Sugar",
+        "artist": "The Archies",
+        "last-week": "14",
+        "peak-rank": "3",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "4",
+        "song": "Put A Little Love In Your Heart",
+        "artist": "Jackie DeShannon",
+        "last-week": "6",
+        "peak-rank": "4",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "5",
+        "song": "Sweet Caroline (Good Times Never Seemed So Good)",
+        "artist": "Neil Diamond",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "6",
+        "song": "Get Together",
+        "artist": "The Youngbloods",
+        "last-week": "9",
+        "peak-rank": "6",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "7",
+        "song": "Green River",
+        "artist": "Creedence Clearwater Revival",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "8",
+        "song": "In The Year 2525",
+        "artist": "Zager & Evans",
+        "last-week": "5",
+        "peak-rank": "1",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "9",
+        "song": "Lay Lady Lay",
+        "artist": "Bob Dylan",
+        "last-week": "12",
+        "peak-rank": "9",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "10",
+        "song": "Crystal Blue Persuasion",
+        "artist": "Tommy James And The Shondells",
+        "last-week": "3",
+        "peak-rank": "2",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "11",
+        "song": "Polk Salad Annie",
+        "artist": "Tony Joe White",
+        "last-week": "8",
+        "peak-rank": "8",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "12",
+        "song": "Laughing",
+        "artist": "The Guess Who",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "13",
+        "song": "Easy To Be Hard",
+        "artist": "Three Dog Night",
+        "last-week": "18",
+        "peak-rank": "13",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "14",
+        "song": "I'll Never Fall In Love Again",
+        "artist": "Tom Jones",
+        "last-week": "19",
+        "peak-rank": "14",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "15",
+        "song": "Give Peace A Chance",
+        "artist": "Plastic Ono Band",
+        "last-week": "15",
+        "peak-rank": "15",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "16",
+        "song": "Baby, I Love You",
+        "artist": "Andy Kim",
+        "last-week": "13",
+        "peak-rank": "9",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "17",
+        "song": "I'd Wait A Million Years",
+        "artist": "The Grass Roots",
+        "last-week": "26",
+        "peak-rank": "17",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "18",
+        "song": "Soul Deep",
+        "artist": "The Box Tops",
+        "last-week": "24",
+        "peak-rank": "18",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "19",
+        "song": "Hurt So Bad",
+        "artist": "The Lettermen",
+        "last-week": "29",
+        "peak-rank": "19",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "20",
+        "song": "Workin' On A Groovy Thing",
+        "artist": "The 5th Dimension",
+        "last-week": "20",
+        "peak-rank": "20",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "21",
+        "song": "My Cherie Amour",
+        "artist": "Stevie Wonder",
+        "last-week": "16",
+        "peak-rank": "4",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "22",
+        "song": "Ruby, Don't Take Your Love To Town",
+        "artist": "Kenny Rogers & The First Edition",
+        "last-week": "11",
+        "peak-rank": "6",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "23",
+        "song": "Share Your Love With Me",
+        "artist": "Aretha Franklin",
+        "last-week": "31",
+        "peak-rank": "23",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "24",
+        "song": "The Nitty Gritty",
+        "artist": "Gladys Knight And The Pips",
+        "last-week": "30",
+        "peak-rank": "24",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "25",
+        "song": "Choice Of Colors",
+        "artist": "The Impressions",
+        "last-week": "21",
+        "peak-rank": "21",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "26",
+        "song": "What Does It Take (To Win Your Love)",
+        "artist": "Jr. Walker & The All Stars",
+        "last-week": "17",
+        "peak-rank": "4",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "27",
+        "song": "Birthday",
+        "artist": "Underground Sunshine",
+        "last-week": "27",
+        "peak-rank": "27",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "28",
+        "song": "Keem-O-Sabe",
+        "artist": "The Electric Indian",
+        "last-week": "39",
+        "peak-rank": "28",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "29",
+        "song": "Oh, What A Night",
+        "artist": "The Dells",
+        "last-week": "40",
+        "peak-rank": "29",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "30",
+        "song": "I Can't Get Next To You",
+        "artist": "The Temptations",
+        "last-week": "48",
+        "peak-rank": "30",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "31",
+        "song": "Your Good Thing (Is About To End)",
+        "artist": "Lou Rawls",
+        "last-week": "43",
+        "peak-rank": "31",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "32",
+        "song": "Marrakesh Express",
+        "artist": "Crosby, Stills & Nash",
+        "last-week": "28",
+        "peak-rank": "28",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "33",
+        "song": "Jean",
+        "artist": "Oliver",
+        "last-week": "44",
+        "peak-rank": "33",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "34",
+        "song": "Did You See Her Eyes",
+        "artist": "The Illusion",
+        "last-week": "36",
+        "peak-rank": "34",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "35",
+        "song": "Commotion",
+        "artist": "Creedence Clearwater Revival",
+        "last-week": "32",
+        "peak-rank": "32",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "36",
+        "song": "Hot Fun In The Summertime",
+        "artist": "Sly & The Family Stone",
+        "last-week": "42",
+        "peak-rank": "36",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "37",
+        "song": "I'm Free",
+        "artist": "The Who",
+        "last-week": "37",
+        "peak-rank": "37",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "38",
+        "song": "True Grit",
+        "artist": "Glen Campbell",
+        "last-week": "35",
+        "peak-rank": "35",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "39",
+        "song": "Goo Goo Barabajagal (Love Is Hot)",
+        "artist": "Donovan/Jeff Beck Group",
+        "last-week": "45",
+        "peak-rank": "39",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "40",
+        "song": "It's Getting Better",
+        "artist": "Mama Cass",
+        "last-week": "34",
+        "peak-rank": "30",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "41",
+        "song": "Mother Popcorn (You Got To Have A Mother For Me) Part 1",
+        "artist": "James Brown",
+        "last-week": "23",
+        "peak-rank": "11",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "42",
+        "song": "Move Over",
+        "artist": "Steppenwolf",
+        "last-week": "58",
+        "peak-rank": "42",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "43",
+        "song": "This Girl Is A Woman Now",
+        "artist": "Gary Puckett And The Union Gap",
+        "last-week": "67",
+        "peak-rank": "43",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "44",
+        "song": "Everybody's Talkin'",
+        "artist": "Nilsson",
+        "last-week": "49",
+        "peak-rank": "44",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "45",
+        "song": "Nobody But You Babe",
+        "artist": "Clarence Reid",
+        "last-week": "46",
+        "peak-rank": "45",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "46",
+        "song": "Your Husband - My Wife",
+        "artist": "Brooklyn Bridge",
+        "last-week": "50",
+        "peak-rank": "46",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "47",
+        "song": "When I Die",
+        "artist": "Motherlode",
+        "last-week": "55",
+        "peak-rank": "47",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "48",
+        "song": "Odds And Ends",
+        "artist": "Dionne Warwick",
+        "last-week": "53",
+        "peak-rank": "48",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "49",
+        "song": "That's The Way Love Is",
+        "artist": "Marvin Gaye",
+        "last-week": "75",
+        "peak-rank": "49",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "50",
+        "song": "Simple Song Of Freedom",
+        "artist": "Tim Hardin",
+        "last-week": "57",
+        "peak-rank": "50",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "51",
+        "song": "Change Of Heart",
+        "artist": "Dennis Yost And The Classics IV",
+        "last-week": "51",
+        "peak-rank": "51",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "52",
+        "song": "Muddy River",
+        "artist": "Johnny Rivers",
+        "last-week": "41",
+        "peak-rank": "41",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "53",
+        "song": "Out Of Sight, Out Of Mind",
+        "artist": "Little Anthony And The Imperials",
+        "last-week": "56",
+        "peak-rank": "53",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "54",
+        "song": "Abergavenny",
+        "artist": "Shannon",
+        "last-week": "47",
+        "peak-rank": "47",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "55",
+        "song": "What Kind Of Fool Do You Think I Am",
+        "artist": "Bill Deal & The Rhondels",
+        "last-week": "65",
+        "peak-rank": "55",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "56",
+        "song": "I Could Never Be President",
+        "artist": "Johnnie Taylor",
+        "last-week": "59",
+        "peak-rank": "56",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "57",
+        "song": "In A Moment",
+        "artist": "The Intrigues",
+        "last-week": "63",
+        "peak-rank": "57",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "58",
+        "song": "I'm A Better Man",
+        "artist": "Engelbert Humperdinck",
+        "last-week": "60",
+        "peak-rank": "58",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "59",
+        "song": "I'm Gonna Make You Mine",
+        "artist": "Lou Christie",
+        "last-week": "66",
+        "peak-rank": "59",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "60",
+        "song": "Lowdown Popcorn",
+        "artist": "James Brown",
+        "last-week": "74",
+        "peak-rank": "60",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "61",
+        "song": "Everybody Knows Matilda",
+        "artist": "Duke Baxter",
+        "last-week": "52",
+        "peak-rank": "52",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "62",
+        "song": "Jack And Jill",
+        "artist": "Tommy Roe",
+        "last-week": "54",
+        "peak-rank": "54",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "63",
+        "song": "Maybe The Rain Will Fall",
+        "artist": "The Cascades",
+        "last-week": "79",
+        "peak-rank": "63",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "64",
+        "song": "What's The Use Of Breaking Up",
+        "artist": "Jerry Butler",
+        "last-week": "",
+        "peak-rank": "64",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "65",
+        "song": "That's The Way God Planned It",
+        "artist": "Billy Preston",
+        "last-week": "62",
+        "peak-rank": "62",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "66",
+        "song": "Little Woman",
+        "artist": "Bobby Sherman",
+        "last-week": "73",
+        "peak-rank": "66",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "67",
+        "song": "I Do",
+        "artist": "The Moments",
+        "last-week": "68",
+        "peak-rank": "67",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "68",
+        "song": "Muddy Mississippi Line",
+        "artist": "Bobby Goldsboro",
+        "last-week": "70",
+        "peak-rank": "68",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "69",
+        "song": "One Night Affair",
+        "artist": "The O'Jays",
+        "last-week": "72",
+        "peak-rank": "69",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "70",
+        "song": "Ease Back",
+        "artist": "The Meters",
+        "last-week": "61",
+        "peak-rank": "61",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "71",
+        "song": "Here I Go Again",
+        "artist": "Smokey Robinson & The Miracles",
+        "last-week": "88",
+        "peak-rank": "71",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "72",
+        "song": "The Young Folks",
+        "artist": "Diana Ross & The Supremes",
+        "last-week": "69",
+        "peak-rank": "69",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "73",
+        "song": "Going In Circles",
+        "artist": "The Friends Of Distinction",
+        "last-week": "90",
+        "peak-rank": "73",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "74",
+        "song": "Let Me Be The One",
+        "artist": "Peaches & Herb",
+        "last-week": "80",
+        "peak-rank": "74",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "75",
+        "song": "I Take A Lot Of Pride In What I Am",
+        "artist": "Dean Martin",
+        "last-week": "76",
+        "peak-rank": "75",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "76",
+        "song": "You Got Yours And I'll Get Mine",
+        "artist": "The Delfonics",
+        "last-week": "97",
+        "peak-rank": "76",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "77",
+        "song": "Rain",
+        "artist": "Jose Feliciano",
+        "last-week": "77",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "78",
+        "song": "Sugar On Sunday",
+        "artist": "The Clique",
+        "last-week": "",
+        "peak-rank": "78",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "79",
+        "song": "Lodi",
+        "artist": "Al Wilson",
+        "last-week": "83",
+        "peak-rank": "79",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "80",
+        "song": "You, I",
+        "artist": "The Rugbys",
+        "last-week": "81",
+        "peak-rank": "80",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "81",
+        "song": "The Train",
+        "artist": "1910 Fruitgum Co.",
+        "last-week": "82",
+        "peak-rank": "81",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "82",
+        "song": "Don't It Make You Want To Go Home",
+        "artist": "Joe South and The Believers",
+        "last-week": "84",
+        "peak-rank": "82",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "83",
+        "song": "Daddy's Little Man",
+        "artist": "O.C. Smith",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "84",
+        "song": "The Colour Of My Love",
+        "artist": "Jefferson",
+        "last-week": "85",
+        "peak-rank": "84",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "85",
+        "song": "Hook And Sling-Part I",
+        "artist": "Eddie Bo",
+        "last-week": "86",
+        "peak-rank": "85",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "86",
+        "song": "Farewell Love Scene",
+        "artist": "Romeo & Juliet Soundtrack",
+        "last-week": "87",
+        "peak-rank": "86",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "87",
+        "song": "Chelsea Morning",
+        "artist": "Judy Collins",
+        "last-week": "78",
+        "peak-rank": "78",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "88",
+        "song": "By The Time I Get To Phoenix",
+        "artist": "Isaac Hayes",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "89",
+        "song": "No One For Me To Turn To",
+        "artist": "Spiral Starecase",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "90",
+        "song": "I Want You To Know",
+        "artist": "The New Colony Six",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "91",
+        "song": "Sad Girl",
+        "artist": "The Intruders",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "92",
+        "song": "Any Way That You Want Me",
+        "artist": "Evie Sands",
+        "last-week": "96",
+        "peak-rank": "92",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "93",
+        "song": "Can't Find The Time",
+        "artist": "Orpheus",
+        "last-week": "93",
+        "peak-rank": "93",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "94",
+        "song": "Walk On By",
+        "artist": "Isaac Hayes",
+        "last-week": "94",
+        "peak-rank": "94",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "95",
+        "song": "Goodbye Columbus",
+        "artist": "The Association",
+        "last-week": "95",
+        "peak-rank": "80",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "96",
+        "song": "The Ways To Love A Man",
+        "artist": "Tammy Wynette",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "97",
+        "song": "All I Have To Offer You (Is Me)",
+        "artist": "Charley Pride",
+        "last-week": "99",
+        "peak-rank": "97",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "98",
+        "song": "Green Fields",
+        "artist": "The Vogues",
+        "last-week": "98",
+        "peak-rank": "98",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "99",
+        "song": "Black Berries - Pt 1",
+        "artist": "The Isley Brothers",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1969-08-30",
+        "rank": "100",
+        "song": "Get Off My Back Woman",
+        "artist": "B.B. King",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

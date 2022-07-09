@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1971-04-17",
+        "rank": "1",
+        "song": "Joy To The World",
+        "artist": "Three Dog Night",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "2",
+        "song": "What's Going On",
+        "artist": "Marvin Gaye",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "3",
+        "song": "Just My Imagination (Running Away With Me)",
+        "artist": "The Temptations",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "4",
+        "song": "She's A Lady",
+        "artist": "Tom Jones",
+        "last-week": "4",
+        "peak-rank": "2",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "5",
+        "song": "Another Day/Oh Woman Oh Why",
+        "artist": "Paul McCartney",
+        "last-week": "8",
+        "peak-rank": "5",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "6",
+        "song": "Put Your Hand In The Hand",
+        "artist": "Ocean",
+        "last-week": "16",
+        "peak-rank": "6",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "7",
+        "song": "Me And Bobby McGee",
+        "artist": "Janis Joplin",
+        "last-week": "6",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "8",
+        "song": "Doesn't Somebody Want To Be Wanted",
+        "artist": "The Partridge Family Starring Shirley Jones Featuring David Cassidy",
+        "last-week": "7",
+        "peak-rank": "6",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "9",
+        "song": "For All We Know",
+        "artist": "Carpenters",
+        "last-week": "5",
+        "peak-rank": "3",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "10",
+        "song": "One Toke Over The Line",
+        "artist": "Brewer And Shipley",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "11",
+        "song": "Proud Mary",
+        "artist": "Ike & Tina Turner",
+        "last-week": "9",
+        "peak-rank": "4",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "12",
+        "song": "I Am...I Said/Done Too Soon",
+        "artist": "Neil Diamond",
+        "last-week": "19",
+        "peak-rank": "12",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "13",
+        "song": "Never Can Say Goodbye",
+        "artist": "Jackson 5",
+        "last-week": "15",
+        "peak-rank": "13",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "14",
+        "song": "Wild World",
+        "artist": "Cat Stevens",
+        "last-week": "11",
+        "peak-rank": "11",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "15",
+        "song": "Help Me Make It Through The Night",
+        "artist": "Sammi Smith",
+        "last-week": "12",
+        "peak-rank": "8",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "16",
+        "song": "No Love At All",
+        "artist": "B.J. Thomas",
+        "last-week": "17",
+        "peak-rank": "16",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "17",
+        "song": "(Where Do I Begin) Love Story",
+        "artist": "Andy Williams",
+        "last-week": "13",
+        "peak-rank": "9",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "18",
+        "song": "What Is Life",
+        "artist": "George Harrison",
+        "last-week": "14",
+        "peak-rank": "10",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "19",
+        "song": "Love's Lines, Angles And Rhymes",
+        "artist": "The 5th Dimension",
+        "last-week": "21",
+        "peak-rank": "19",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "20",
+        "song": "If",
+        "artist": "Bread",
+        "last-week": "28",
+        "peak-rank": "20",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "21",
+        "song": "Stay Awhile",
+        "artist": "The Bells",
+        "last-week": "25",
+        "peak-rank": "21",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "22",
+        "song": "Eighteen",
+        "artist": "Alice Cooper",
+        "last-week": "22",
+        "peak-rank": "22",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "23",
+        "song": "We Can Work It Out",
+        "artist": "Stevie Wonder",
+        "last-week": "24",
+        "peak-rank": "23",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "24",
+        "song": "Temptation Eyes",
+        "artist": "The Grass Roots",
+        "last-week": "20",
+        "peak-rank": "15",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "25",
+        "song": "Chick-A-Boom (Don't Ya Jes' Love It)",
+        "artist": "Daddy Dewdrop",
+        "last-week": "39",
+        "peak-rank": "25",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "26",
+        "song": "I Play And Sing",
+        "artist": "Dawn",
+        "last-week": "30",
+        "peak-rank": "26",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "27",
+        "song": "Heavy Makes You Happy (Sha-Na-Boom Boom)",
+        "artist": "The Staple Singers",
+        "last-week": "27",
+        "peak-rank": "27",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "28",
+        "song": "Power To The People",
+        "artist": "John Lennon/Plastic Ono Band Yoko Ono/Plastic Ono Band",
+        "last-week": "40",
+        "peak-rank": "28",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "29",
+        "song": "Oye Como Va",
+        "artist": "Santana",
+        "last-week": "18",
+        "peak-rank": "13",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "30",
+        "song": "Blue Money",
+        "artist": "Van Morrison",
+        "last-week": "23",
+        "peak-rank": "23",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "31",
+        "song": "Dream Baby (How Long Must I Dream)",
+        "artist": "Glen Campbell",
+        "last-week": "32",
+        "peak-rank": "31",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "32",
+        "song": "Timothy",
+        "artist": "The Buoys",
+        "last-week": "41",
+        "peak-rank": "32",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "33",
+        "song": "Baby Let Me Kiss You",
+        "artist": "King Floyd",
+        "last-week": "35",
+        "peak-rank": "33",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "34",
+        "song": "You're All I Need To Get By",
+        "artist": "Aretha Franklin",
+        "last-week": "26",
+        "peak-rank": "19",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "35",
+        "song": "Soul Power (Pt. 1)",
+        "artist": "James Brown",
+        "last-week": "29",
+        "peak-rank": "29",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "36",
+        "song": "Friends",
+        "artist": "Elton John",
+        "last-week": "38",
+        "peak-rank": "36",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "37",
+        "song": "I Don't Blame You At All",
+        "artist": "Smokey Robinson & The Miracles",
+        "last-week": "44",
+        "peak-rank": "37",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "38",
+        "song": "Don't Change On Me",
+        "artist": "Ray Charles",
+        "last-week": "42",
+        "peak-rank": "38",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "39",
+        "song": "I Love You For All Seasons",
+        "artist": "The Fuzz",
+        "last-week": "43",
+        "peak-rank": "39",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "40",
+        "song": "Where Did They Go, Lord/Rags To Riches",
+        "artist": "Elvis Presley",
+        "last-week": "33",
+        "peak-rank": "33",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "41",
+        "song": "Free",
+        "artist": "Chicago",
+        "last-week": "37",
+        "peak-rank": "20",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "42",
+        "song": "Woodstock",
+        "artist": "Matthews' Southern Comfort",
+        "last-week": "47",
+        "peak-rank": "42",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "43",
+        "song": "Do Me Right",
+        "artist": "Detroit Emeralds",
+        "last-week": "46",
+        "peak-rank": "43",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "44",
+        "song": "I Won't Mention It Again",
+        "artist": "Ray Price",
+        "last-week": "50",
+        "peak-rank": "44",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "45",
+        "song": "Love Her Madly",
+        "artist": "The Doors",
+        "last-week": "74",
+        "peak-rank": "45",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "46",
+        "song": "Here Comes The Sun",
+        "artist": "Richie Havens",
+        "last-week": "66",
+        "peak-rank": "46",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "47",
+        "song": "Me And You And A Dog Named Boo",
+        "artist": "Lobo",
+        "last-week": "64",
+        "peak-rank": "47",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "48",
+        "song": "Right On The Tip Of My Tongue",
+        "artist": "Brenda & The Tabulations",
+        "last-week": "73",
+        "peak-rank": "48",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "49",
+        "song": "Pushbike Song",
+        "artist": "The Mixtures",
+        "last-week": "51",
+        "peak-rank": "49",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "50",
+        "song": "Lucky Man",
+        "artist": "Emerson, Lake & Palmer",
+        "last-week": "56",
+        "peak-rank": "50",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "51",
+        "song": "Time And Love",
+        "artist": "Barbra Streisand",
+        "last-week": "52",
+        "peak-rank": "51",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "52",
+        "song": "Someone Who Cares",
+        "artist": "Kenny Rogers & The First Edition",
+        "last-week": "53",
+        "peak-rank": "52",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "53",
+        "song": "I Think Of You",
+        "artist": "Perry Como",
+        "last-week": "59",
+        "peak-rank": "53",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "54",
+        "song": "Hot Pants",
+        "artist": "Salvage",
+        "last-week": "54",
+        "peak-rank": "54",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "55",
+        "song": "Tongue In Cheek",
+        "artist": "Sugarloaf",
+        "last-week": "55",
+        "peak-rank": "55",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "56",
+        "song": "Me And My Arrow",
+        "artist": "Nilsson",
+        "last-week": "67",
+        "peak-rank": "56",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "57",
+        "song": "Bridge Over Troubled Water/Brand New Me",
+        "artist": "Aretha Franklin",
+        "last-week": "",
+        "peak-rank": "57",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "58",
+        "song": "Man In Black",
+        "artist": "Johnny Cash",
+        "last-week": "58",
+        "peak-rank": "58",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "59",
+        "song": "Layla",
+        "artist": "Derek & The Dominos",
+        "last-week": "77",
+        "peak-rank": "59",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "60",
+        "song": "Could I Forget You",
+        "artist": "Tyrone Davis",
+        "last-week": "61",
+        "peak-rank": "60",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "61",
+        "song": "I Don't Know How To Love Him",
+        "artist": "Helen Reddy",
+        "last-week": "62",
+        "peak-rank": "61",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "62",
+        "song": "Sweet And Innocent",
+        "artist": "Donny Osmond of The Osmonds",
+        "last-week": "65",
+        "peak-rank": "62",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "63",
+        "song": "I Wish I Were",
+        "artist": "Andy Kim",
+        "last-week": "63",
+        "peak-rank": "63",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "64",
+        "song": "Toast And Marmalade For Tea",
+        "artist": "Tin Tin",
+        "last-week": "69",
+        "peak-rank": "64",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "65",
+        "song": "Cool Aid",
+        "artist": "Paul Humphrey & His Cool Aid Chemists",
+        "last-week": "68",
+        "peak-rank": "65",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "66",
+        "song": "Booty Butt",
+        "artist": "The Ray Charles Orchestra",
+        "last-week": "70",
+        "peak-rank": "66",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "67",
+        "song": "13 Questions",
+        "artist": "Seatrain",
+        "last-week": "71",
+        "peak-rank": "67",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "68",
+        "song": "Ask Me No Questions",
+        "artist": "B.B. King",
+        "last-week": "49",
+        "peak-rank": "40",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "69",
+        "song": "(For God's Sake) Give More Power To The People",
+        "artist": "The Chi-lites",
+        "last-week": "76",
+        "peak-rank": "69",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "70",
+        "song": "When There's No You",
+        "artist": "Engelbert Humperdinck",
+        "last-week": "45",
+        "peak-rank": "45",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "71",
+        "song": "Freedom",
+        "artist": "Jimi Hendrix",
+        "last-week": "75",
+        "peak-rank": "71",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "72",
+        "song": "Bad Water",
+        "artist": "The Raeletts",
+        "last-week": "72",
+        "peak-rank": "72",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "73",
+        "song": "Want Ads",
+        "artist": "The Honey Cone",
+        "last-week": "79",
+        "peak-rank": "73",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "74",
+        "song": "Superstar",
+        "artist": "Murray Head With The Trinidad Singers",
+        "last-week": "86",
+        "peak-rank": "60",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "75",
+        "song": "C'mon",
+        "artist": "Poco",
+        "last-week": "78",
+        "peak-rank": "75",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "76",
+        "song": "Sit Yourself Down",
+        "artist": "Stephen Stills",
+        "last-week": "48",
+        "peak-rank": "37",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "77",
+        "song": "Melting Pot",
+        "artist": "Booker T. & The MG's",
+        "last-week": "82",
+        "peak-rank": "77",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "78",
+        "song": "Who Gets The Guy",
+        "artist": "Dionne Warwick",
+        "last-week": "57",
+        "peak-rank": "57",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "79",
+        "song": "Snow Blind Friend",
+        "artist": "Steppenwolf",
+        "last-week": "60",
+        "peak-rank": "60",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "80",
+        "song": "L.A. Goodbye",
+        "artist": "The Ides Of March",
+        "last-week": "80",
+        "peak-rank": "80",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "81",
+        "song": "Nickel Song",
+        "artist": "The New Seekers featuring Eve Graham",
+        "last-week": "81",
+        "peak-rank": "81",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "82",
+        "song": "Oh, Singer",
+        "artist": "Jeannie C. Riley",
+        "last-week": "85",
+        "peak-rank": "82",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "83",
+        "song": "Love Makes The World Go Round",
+        "artist": "Odds & Ends",
+        "last-week": "83",
+        "peak-rank": "83",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "84",
+        "song": "The Animal Trainer And The Toad",
+        "artist": "Mountain",
+        "last-week": "84",
+        "peak-rank": "84",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "85",
+        "song": "Albert Flasher/Broken",
+        "artist": "The Guess Who",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "86",
+        "song": "Gotta See Jane",
+        "artist": "R. Dean Taylor",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "87",
+        "song": "Treat Her Like A Lady",
+        "artist": "Cornelius Brothers & Sister Rose",
+        "last-week": "90",
+        "peak-rank": "87",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "88",
+        "song": "1927 Kansas City",
+        "artist": "Mike Reilly",
+        "last-week": "89",
+        "peak-rank": "88",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "89",
+        "song": "We Were Always Sweethearts",
+        "artist": "Boz Scaggs",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "90",
+        "song": "Indian Reservation (The Lament Of The Cherokee Reservation Indian)",
+        "artist": "The Raiders",
+        "last-week": "94",
+        "peak-rank": "90",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "91",
+        "song": "You And Your Folks, Me And My Folks",
+        "artist": "Funkadelic",
+        "last-week": "91",
+        "peak-rank": "91",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "92",
+        "song": "Chirpy Chirpy, Cheep Cheep",
+        "artist": "Lally Stott",
+        "last-week": "92",
+        "peak-rank": "92",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "93",
+        "song": "If It's Real What I Feel",
+        "artist": "Jerry Butler Featuring Brenda Lee Eager",
+        "last-week": "96",
+        "peak-rank": "69",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "94",
+        "song": "Nevada Fighter",
+        "artist": "Michael Nesmith & The First National Band",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "95",
+        "song": "Empty Arms",
+        "artist": "Sonny James",
+        "last-week": "95",
+        "peak-rank": "95",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "96",
+        "song": "Stop! In The Name Of Love",
+        "artist": "Margie Joseph",
+        "last-week": "97",
+        "peak-rank": "96",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "97",
+        "song": "Can't Find The Time",
+        "artist": "Rose Colored Glass",
+        "last-week": "98",
+        "peak-rank": "97",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "98",
+        "song": "That's The Way I've Always Heard It Should Be",
+        "artist": "Carly Simon",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "99",
+        "song": "L.A. International Airport",
+        "artist": "Susan Raye",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1971-04-17",
+        "rank": "100",
+        "song": "I'll Erase Away Your Pain",
+        "artist": "Whatnauts",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

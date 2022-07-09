@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1988-04-02",
+        "rank": "1",
+        "song": "Man In The Mirror",
+        "artist": "Michael Jackson",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "2",
+        "song": "Endless Summer Nights",
+        "artist": "Richard Marx",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "3",
+        "song": "Get Outta My Dreams, Get Into My Car",
+        "artist": "Billy Ocean",
+        "last-week": "5",
+        "peak-rank": "3",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "4",
+        "song": "Out Of The Blue",
+        "artist": "Debbie Gibson",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "5",
+        "song": "I Want Her",
+        "artist": "Keith Sweat",
+        "last-week": "7",
+        "peak-rank": "5",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "6",
+        "song": "Rocket 2 U",
+        "artist": "The Jets",
+        "last-week": "9",
+        "peak-rank": "6",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "7",
+        "song": "Devil Inside",
+        "artist": "INXS",
+        "last-week": "12",
+        "peak-rank": "7",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "8",
+        "song": "Never Gonna Give You Up",
+        "artist": "Rick Astley",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "9",
+        "song": "Girlfriend",
+        "artist": "Pebbles",
+        "last-week": "13",
+        "peak-rank": "9",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "10",
+        "song": "Where Do Broken Hearts Go",
+        "artist": "Whitney Houston",
+        "last-week": "16",
+        "peak-rank": "10",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "11",
+        "song": "(Sittin' On) The Dock Of The Bay",
+        "artist": "Michael Bolton",
+        "last-week": "11",
+        "peak-rank": "11",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "12",
+        "song": "Wishing Well",
+        "artist": "Terence Trent D'Arby",
+        "last-week": "17",
+        "peak-rank": "12",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "13",
+        "song": "Hysteria",
+        "artist": "Def Leppard",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "14",
+        "song": "Some Kind Of Lover",
+        "artist": "Jody Watley",
+        "last-week": "18",
+        "peak-rank": "14",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "15",
+        "song": "I Get Weak",
+        "artist": "Belinda Carlisle",
+        "last-week": "6",
+        "peak-rank": "2",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "16",
+        "song": "Angel",
+        "artist": "Aerosmith",
+        "last-week": "20",
+        "peak-rank": "16",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "17",
+        "song": "I Saw Him Standing There",
+        "artist": "Tiffany",
+        "last-week": "21",
+        "peak-rank": "17",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "18",
+        "song": "Check It Out",
+        "artist": "John Mellencamp",
+        "last-week": "19",
+        "peak-rank": "18",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "19",
+        "song": "Father Figure",
+        "artist": "George Michael",
+        "last-week": "8",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "20",
+        "song": "Prove Your Love",
+        "artist": "Taylor Dayne",
+        "last-week": "25",
+        "peak-rank": "20",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "21",
+        "song": "She's Like The Wind",
+        "artist": "Patrick Swayze (Featuring Wendy Fraser)",
+        "last-week": "15",
+        "peak-rank": "3",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "22",
+        "song": "Rock Of Life",
+        "artist": "Rick Springfield",
+        "last-week": "24",
+        "peak-rank": "22",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "23",
+        "song": "Pink Cadillac",
+        "artist": "Natalie Cole",
+        "last-week": "27",
+        "peak-rank": "23",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "24",
+        "song": "Just Like Paradise",
+        "artist": "David Lee Roth",
+        "last-week": "14",
+        "peak-rank": "6",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "25",
+        "song": "One Step Up",
+        "artist": "Bruce Springsteen",
+        "last-week": "28",
+        "peak-rank": "25",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "26",
+        "song": "Electric Blue",
+        "artist": "Icehouse",
+        "last-week": "31",
+        "peak-rank": "26",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "27",
+        "song": "You Don't Know",
+        "artist": "Scarlett & Black",
+        "last-week": "30",
+        "peak-rank": "27",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "28",
+        "song": "Never Knew Love Like This",
+        "artist": "Alexander O'Neal Featuring Cherrelle",
+        "last-week": "29",
+        "peak-rank": "28",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "29",
+        "song": "Anything For You",
+        "artist": "Gloria Estefan & Miami Sound Machine",
+        "last-week": "34",
+        "peak-rank": "29",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "30",
+        "song": "Fishnet",
+        "artist": "Morris Day",
+        "last-week": "38",
+        "peak-rank": "30",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "31",
+        "song": "Going Back To Cali (From \"Less Than Zero\")",
+        "artist": "LL Cool J",
+        "last-week": "35",
+        "peak-rank": "31",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "32",
+        "song": "What A Wonderful World",
+        "artist": "Louis Armstrong",
+        "last-week": "33",
+        "peak-rank": "32",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "33",
+        "song": "When We Was Fab",
+        "artist": "George Harrison",
+        "last-week": "23",
+        "peak-rank": "23",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "34",
+        "song": "Pamela",
+        "artist": "Toto",
+        "last-week": "40",
+        "peak-rank": "34",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "35",
+        "song": "I Wish I Had A Girl",
+        "artist": "Henry Lee Summer",
+        "last-week": "41",
+        "peak-rank": "35",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "36",
+        "song": "Naughty Girls (Need Love Too)",
+        "artist": "Samantha Fox",
+        "last-week": "43",
+        "peak-rank": "36",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "37",
+        "song": "I Found Someone",
+        "artist": "Cher",
+        "last-week": "26",
+        "peak-rank": "10",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "38",
+        "song": "Two Occasions",
+        "artist": "The Deele",
+        "last-week": "45",
+        "peak-rank": "38",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "39",
+        "song": "Shattered Dreams",
+        "artist": "Johnny Hates Jazz",
+        "last-week": "50",
+        "peak-rank": "39",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "40",
+        "song": "Piano In The Dark",
+        "artist": "Brenda Russell Featuring Joe Esposito",
+        "last-week": "47",
+        "peak-rank": "40",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "41",
+        "song": "Wait",
+        "artist": "White Lion",
+        "last-week": "48",
+        "peak-rank": "41",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "42",
+        "song": "I Don't Want To Live Without You",
+        "artist": "Foreigner",
+        "last-week": "52",
+        "peak-rank": "42",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "43",
+        "song": "Are You Sure",
+        "artist": "So",
+        "last-week": "46",
+        "peak-rank": "43",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "44",
+        "song": "Always On My Mind",
+        "artist": "Pet Shop Boys",
+        "last-week": "61",
+        "peak-rank": "44",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "45",
+        "song": "Kiss And Tell (From \"Bright Lights, Big City\")",
+        "artist": "Bryan Ferry",
+        "last-week": "54",
+        "peak-rank": "45",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "46",
+        "song": "Can't Stay Away From You",
+        "artist": "Gloria Estefan & Miami Sound Machine",
+        "last-week": "32",
+        "peak-rank": "6",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "47",
+        "song": "Pump Up The Volume",
+        "artist": "M/A/R/R/S",
+        "last-week": "37",
+        "peak-rank": "13",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "48",
+        "song": "Be Still My Beating Heart",
+        "artist": "Sting",
+        "last-week": "22",
+        "peak-rank": "15",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "49",
+        "song": "Dreaming",
+        "artist": "Orchestral Manoeuvres In The Dark",
+        "last-week": "59",
+        "peak-rank": "49",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "50",
+        "song": "Say It Again",
+        "artist": "Jermaine Stewart",
+        "last-week": "60",
+        "peak-rank": "50",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "51",
+        "song": "Hungry Eyes (From \"Dirty Dancing\")",
+        "artist": "Eric Carmen",
+        "last-week": "39",
+        "peak-rank": "4",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "52",
+        "song": "Push It",
+        "artist": "Salt-N-Pepa",
+        "last-week": "42",
+        "peak-rank": "19",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "53",
+        "song": "Strange But True",
+        "artist": "Times Two",
+        "last-week": "65",
+        "peak-rank": "53",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "54",
+        "song": "Savin' Myself",
+        "artist": "Eria Fachin",
+        "last-week": "64",
+        "peak-rank": "54",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "55",
+        "song": "Love Overboard",
+        "artist": "Gladys Knight And The Pips",
+        "last-week": "36",
+        "peak-rank": "13",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "56",
+        "song": "One Good Reason",
+        "artist": "Paul Carrack",
+        "last-week": "69",
+        "peak-rank": "56",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "57",
+        "song": "Give Me All Your Love",
+        "artist": "Whitesnake",
+        "last-week": "51",
+        "peak-rank": "48",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "58",
+        "song": "I Want You So Bad",
+        "artist": "Heart",
+        "last-week": "49",
+        "peak-rank": "49",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "59",
+        "song": "My Girl",
+        "artist": "Suave",
+        "last-week": "73",
+        "peak-rank": "59",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "60",
+        "song": "Ritual",
+        "artist": "Dan Reed Network",
+        "last-week": "70",
+        "peak-rank": "60",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "61",
+        "song": "Yes (From The Motion Picture \"Dirty Dancing\")",
+        "artist": "Merry Clayton",
+        "last-week": "71",
+        "peak-rank": "61",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "62",
+        "song": "Because Of You",
+        "artist": "The Cover Girls",
+        "last-week": "53",
+        "peak-rank": "27",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "63",
+        "song": "What Have I Done To Deserve This?",
+        "artist": "Pet Shop Boys & Dusty Springfield",
+        "last-week": "44",
+        "peak-rank": "2",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "64",
+        "song": "Love In The First Degree",
+        "artist": "Bananarama",
+        "last-week": "74",
+        "peak-rank": "64",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "65",
+        "song": "Talking Back To The Night",
+        "artist": "Steve Winwood",
+        "last-week": "63",
+        "peak-rank": "57",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "66",
+        "song": "Don't Shed A Tear",
+        "artist": "Paul Carrack",
+        "last-week": "58",
+        "peak-rank": "9",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "67",
+        "song": "Say You Will",
+        "artist": "Foreigner",
+        "last-week": "55",
+        "peak-rank": "6",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "68",
+        "song": "Hot Hot Hot!!!",
+        "artist": "The Cure",
+        "last-week": "72",
+        "peak-rank": "68",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "69",
+        "song": "Could've Been",
+        "artist": "Tiffany",
+        "last-week": "57",
+        "peak-rank": "1",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "70",
+        "song": "Don't Make A Fool Of Yourself",
+        "artist": "Stacey Q",
+        "last-week": "68",
+        "peak-rank": "66",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "71",
+        "song": "I Want To Be Your Property",
+        "artist": "Blue Mercedes",
+        "last-week": "66",
+        "peak-rank": "66",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "72",
+        "song": "Need You Tonight",
+        "artist": "INXS",
+        "last-week": "62",
+        "peak-rank": "1",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "73",
+        "song": "Samantha (What You Gonna Do?)",
+        "artist": "Cellarful Of Noise",
+        "last-week": "78",
+        "peak-rank": "73",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "74",
+        "song": "Seasons Change",
+        "artist": "Expose",
+        "last-week": "56",
+        "peak-rank": "1",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "75",
+        "song": "Play That Funky Music",
+        "artist": "Roxanne",
+        "last-week": "77",
+        "peak-rank": "75",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "76",
+        "song": "Never Thought (That I Could Love)",
+        "artist": "Dan Hill",
+        "last-week": "67",
+        "peak-rank": "43",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "77",
+        "song": "Promise Me",
+        "artist": "The Cover Girls",
+        "last-week": "82",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "78",
+        "song": "Breakaway",
+        "artist": "Big Pig",
+        "last-week": "81",
+        "peak-rank": "78",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "79",
+        "song": "Nightime",
+        "artist": "Pretty Poison",
+        "last-week": "",
+        "peak-rank": "79",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "80",
+        "song": "I Still Believe",
+        "artist": "Brenda K. Starr",
+        "last-week": "",
+        "peak-rank": "80",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "81",
+        "song": "Save Your Love",
+        "artist": "Great White",
+        "last-week": "75",
+        "peak-rank": "57",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "82",
+        "song": "Magic Carpet Ride",
+        "artist": "Bardeux",
+        "last-week": "86",
+        "peak-rank": "81",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "83",
+        "song": "I Live For Your Love",
+        "artist": "Natalie Cole",
+        "last-week": "76",
+        "peak-rank": "13",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "84",
+        "song": "Ever Since The World Began",
+        "artist": "Tommy Shaw",
+        "last-week": "79",
+        "peak-rank": "75",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "85",
+        "song": "Presence Of Love",
+        "artist": "The Alarm",
+        "last-week": "90",
+        "peak-rank": "85",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "86",
+        "song": "Beds Are Burning",
+        "artist": "Midnight Oil",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "87",
+        "song": "Ooo La La La",
+        "artist": "Teena Marie",
+        "last-week": "85",
+        "peak-rank": "85",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "88",
+        "song": "Never Die Young",
+        "artist": "James Taylor",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "89",
+        "song": "She's Only 20",
+        "artist": "Tami Show",
+        "last-week": "88",
+        "peak-rank": "88",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "90",
+        "song": "Kiss Me Deadly",
+        "artist": "Lita Ford",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "91",
+        "song": "Turn Off The Lights",
+        "artist": "Lonzo And World Class Wreckin Kru",
+        "last-week": "93",
+        "peak-rank": "91",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "92",
+        "song": "Century's End (From \"Bright Lights, Big City\")",
+        "artist": "Donald Fagen",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "93",
+        "song": "Get It On",
+        "artist": "Kingdom Come",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "94",
+        "song": "Jack The Lad",
+        "artist": "3 Man Island",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "95",
+        "song": "Family Man",
+        "artist": "Fleetwood Mac",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "96",
+        "song": "Sweet Lies",
+        "artist": "Robert Palmer",
+        "last-week": "94",
+        "peak-rank": "94",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "97",
+        "song": "Hot Thing",
+        "artist": "Prince",
+        "last-week": "84",
+        "peak-rank": "63",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "98",
+        "song": "Thinking Of You",
+        "artist": "Earth, Wind & Fire",
+        "last-week": "87",
+        "peak-rank": "67",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "99",
+        "song": "I Want To Be Your Man",
+        "artist": "Roger",
+        "last-week": "80",
+        "peak-rank": "3",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1988-04-02",
+        "rank": "100",
+        "song": "Hazy Shade Of Winter",
+        "artist": "The Bangles",
+        "last-week": "83",
+        "peak-rank": "2",
+        "weeks-on-board": "21"
+    }
+]

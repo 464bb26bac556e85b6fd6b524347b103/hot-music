@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1960-09-19",
+        "rank": "1",
+        "song": "The Twist",
+        "artist": "Chubby Checker",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "2",
+        "song": "My Heart Has A Mind Of Its Own",
+        "artist": "Connie Francis",
+        "last-week": "3",
+        "peak-rank": "2",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "3",
+        "song": "It's Now Or Never",
+        "artist": "Elvis Presley With The Jordanaires",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "4",
+        "song": "Mr. Custer",
+        "artist": "Larry Verne",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "5",
+        "song": "Chain Gang",
+        "artist": "Sam Cooke",
+        "last-week": "6",
+        "peak-rank": "5",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "6",
+        "song": "Walk -- Don't Run",
+        "artist": "The Ventures",
+        "last-week": "5",
+        "peak-rank": "2",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "7",
+        "song": "Kiddio",
+        "artist": "Brook Benton",
+        "last-week": "8",
+        "peak-rank": "7",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "8",
+        "song": "Yogi",
+        "artist": "The Ivy Three",
+        "last-week": "9",
+        "peak-rank": "8",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "9",
+        "song": "Volare",
+        "artist": "Bobby Rydell",
+        "last-week": "7",
+        "peak-rank": "4",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "10",
+        "song": "A Million To One",
+        "artist": "Jimmy Charles and The Revelletts",
+        "last-week": "13",
+        "peak-rank": "10",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "11",
+        "song": "So Sad (To Watch Good Love Go Bad)",
+        "artist": "The Everly Brothers",
+        "last-week": "17",
+        "peak-rank": "11",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "12",
+        "song": "Theme From The Apartment",
+        "artist": "Ferrante & Teicher",
+        "last-week": "12",
+        "peak-rank": "10",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "13",
+        "song": "Dreamin'",
+        "artist": "Johnny Burnette",
+        "last-week": "11",
+        "peak-rank": "11",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "14",
+        "song": "Mission Bell",
+        "artist": "Donnie Brooks",
+        "last-week": "10",
+        "peak-rank": "7",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "15",
+        "song": "Devil Or Angel",
+        "artist": "Bobby Vee",
+        "last-week": "26",
+        "peak-rank": "15",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "16",
+        "song": "The Same One",
+        "artist": "Brook Benton",
+        "last-week": "19",
+        "peak-rank": "16",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "17",
+        "song": "Pineapple Princess",
+        "artist": "Annette With The Afterbeats",
+        "last-week": "28",
+        "peak-rank": "17",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "18",
+        "song": "Save The Last Dance For Me",
+        "artist": "The Drifters",
+        "last-week": "44",
+        "peak-rank": "18",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "19",
+        "song": "Finger Poppin' Time",
+        "artist": "Hank Ballard And The Midnighters",
+        "last-week": "15",
+        "peak-rank": "7",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "20",
+        "song": "In My Little Corner Of The World",
+        "artist": "Anita Bryant",
+        "last-week": "16",
+        "peak-rank": "10",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "21",
+        "song": "Over The Rainbow",
+        "artist": "The Demensions",
+        "last-week": "18",
+        "peak-rank": "16",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "22",
+        "song": "Three Nights A Week",
+        "artist": "Fats Domino",
+        "last-week": "35",
+        "peak-rank": "22",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "23",
+        "song": "You Mean Everything To Me",
+        "artist": "Neil Sedaka",
+        "last-week": "22",
+        "peak-rank": "22",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "24",
+        "song": "I'm Sorry",
+        "artist": "Brenda Lee",
+        "last-week": "20",
+        "peak-rank": "1",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "25",
+        "song": "Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini",
+        "artist": "Brian Hyland",
+        "last-week": "14",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "26",
+        "song": "Hot Rod Lincoln",
+        "artist": "Johnny Bond",
+        "last-week": "38",
+        "peak-rank": "26",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "27",
+        "song": "Lucille",
+        "artist": "The Everly Brothers",
+        "last-week": "33",
+        "peak-rank": "27",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "28",
+        "song": "The Twist",
+        "artist": "Hank Ballard And The Midnighters",
+        "last-week": "29",
+        "peak-rank": "28",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "29",
+        "song": "(You Were Made For) All My Love",
+        "artist": "Jackie Wilson",
+        "last-week": "27",
+        "peak-rank": "12",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "30",
+        "song": "Only The Lonely (Know How I Feel)",
+        "artist": "Roy Orbison",
+        "last-week": "25",
+        "peak-rank": "2",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "31",
+        "song": "Never On Sunday",
+        "artist": "Don Costa And His Orchestra And Chorus",
+        "last-week": "37",
+        "peak-rank": "26",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "32",
+        "song": "Hello Young Lovers",
+        "artist": "Paul Anka",
+        "last-week": "24",
+        "peak-rank": "23",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "33",
+        "song": "I Want To Be Wanted",
+        "artist": "Brenda Lee",
+        "last-week": "67",
+        "peak-rank": "33",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "34",
+        "song": "Anymore",
+        "artist": "Teresa Brewer",
+        "last-week": "34",
+        "peak-rank": "34",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "35",
+        "song": "Image Of A Girl",
+        "artist": "Safaris with The Phantom's Band",
+        "last-week": "30",
+        "peak-rank": "6",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "36",
+        "song": "Ta Ta",
+        "artist": "Clyde McPhatter",
+        "last-week": "23",
+        "peak-rank": "23",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "37",
+        "song": "A Woman, A Lover, A Friend",
+        "artist": "Jackie Wilson",
+        "last-week": "31",
+        "peak-rank": "15",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "38",
+        "song": "I'm Not Afraid",
+        "artist": "Ricky Nelson",
+        "last-week": "63",
+        "peak-rank": "38",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "39",
+        "song": "Honest I Do",
+        "artist": "The Innocents",
+        "last-week": "59",
+        "peak-rank": "39",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "40",
+        "song": "Please Help Me, I'm Falling",
+        "artist": "Hank Locklin",
+        "last-week": "21",
+        "peak-rank": "8",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "41",
+        "song": "It Only Happened Yesterday",
+        "artist": "Jack Scott",
+        "last-week": "39",
+        "peak-rank": "38",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "42",
+        "song": "(I Can't Help You) I'm Falling Too",
+        "artist": "Skeeter Davis",
+        "last-week": "41",
+        "peak-rank": "39",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "43",
+        "song": "Yes Sir, That's My Baby",
+        "artist": "Ricky Nelson",
+        "last-week": "80",
+        "peak-rank": "43",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "44",
+        "song": "Walking To New Orleans",
+        "artist": "Fats Domino",
+        "last-week": "32",
+        "peak-rank": "6",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "45",
+        "song": "Hot Rod Lincoln",
+        "artist": "Charlie Ryan and the Timberline Riders",
+        "last-week": "36",
+        "peak-rank": "33",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "46",
+        "song": "I Love You In The Same Old Way",
+        "artist": "Paul Anka",
+        "last-week": "40",
+        "peak-rank": "40",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "47",
+        "song": "(I Do The) Shimmy Shimmy",
+        "artist": "Bobby Freeman",
+        "last-week": "46",
+        "peak-rank": "46",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "48",
+        "song": "Run Samson Run",
+        "artist": "Neil Sedaka",
+        "last-week": "74",
+        "peak-rank": "48",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "49",
+        "song": "A Fool In Love",
+        "artist": "Ike & Tina Turner",
+        "last-week": "47",
+        "peak-rank": "47",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "50",
+        "song": "You're Looking Good",
+        "artist": "Dee Clark",
+        "last-week": "55",
+        "peak-rank": "50",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "51",
+        "song": "Let's Have A Party",
+        "artist": "Wanda Jackson",
+        "last-week": "51",
+        "peak-rank": "51",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "52",
+        "song": "If I Can't Have You",
+        "artist": "Etta & Harvey",
+        "last-week": "54",
+        "peak-rank": "52",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "53",
+        "song": "Big Boy Pete",
+        "artist": "The Olympics",
+        "last-week": "50",
+        "peak-rank": "50",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "54",
+        "song": "Let The Good Times Roll",
+        "artist": "Shirley & Lee",
+        "last-week": "48",
+        "peak-rank": "48",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "55",
+        "song": "Malague\u00c3\u00b1a",
+        "artist": "Connie Francis",
+        "last-week": "69",
+        "peak-rank": "55",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "56",
+        "song": "Let's Think About Living",
+        "artist": "Bob Luman",
+        "last-week": "71",
+        "peak-rank": "56",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "57",
+        "song": "My Shoes Keep Walking Back To You",
+        "artist": "Guy Mitchell",
+        "last-week": "45",
+        "peak-rank": "45",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "58",
+        "song": "Put Your Arms Around Me Honey",
+        "artist": "Fats Domino",
+        "last-week": "78",
+        "peak-rank": "58",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "59",
+        "song": "A Mess Of Blues",
+        "artist": "Elvis Presley With The Jordanaires",
+        "last-week": "52",
+        "peak-rank": "32",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "60",
+        "song": "Diamonds And Pearls",
+        "artist": "The Paradons",
+        "last-week": "61",
+        "peak-rank": "60",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "61",
+        "song": "A Kookie Little Paradise",
+        "artist": "Jo Ann Campbell",
+        "last-week": "70",
+        "peak-rank": "61",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "62",
+        "song": "Mule Skinner Blues",
+        "artist": "The Fendermen",
+        "last-week": "43",
+        "peak-rank": "5",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "63",
+        "song": "My Love For You",
+        "artist": "Johnny Mathis",
+        "last-week": "65",
+        "peak-rank": "63",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "64",
+        "song": "Lisa",
+        "artist": "Jeanne Black",
+        "last-week": "49",
+        "peak-rank": "43",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "65",
+        "song": "Sleep",
+        "artist": "Little Willie John",
+        "last-week": "75",
+        "peak-rank": "65",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "66",
+        "song": "(You've Got To) Move Two Mountains",
+        "artist": "Marv Johnson",
+        "last-week": "77",
+        "peak-rank": "66",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "67",
+        "song": "Nice 'N' Easy",
+        "artist": "Frank Sinatra",
+        "last-week": "60",
+        "peak-rank": "60",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "68",
+        "song": "I Walk The Line",
+        "artist": "Jaye P. Morgan",
+        "last-week": "66",
+        "peak-rank": "66",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "69",
+        "song": "Feel So Fine",
+        "artist": "Johnny Preston",
+        "last-week": "42",
+        "peak-rank": "14",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "70",
+        "song": "Shimmy Like Kate",
+        "artist": "The Olympics",
+        "last-week": "98",
+        "peak-rank": "70",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "71",
+        "song": "The Wreck Of The \"John B\"",
+        "artist": "Jimmie Rodgers",
+        "last-week": "64",
+        "peak-rank": "64",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "72",
+        "song": "And Now",
+        "artist": "Della Reese",
+        "last-week": "72",
+        "peak-rank": "72",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "73",
+        "song": "Rocking Goose",
+        "artist": "Johnny And The Hurricanes",
+        "last-week": "82",
+        "peak-rank": "73",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "74",
+        "song": "Come Back",
+        "artist": "Jimmy Clanton",
+        "last-week": "87",
+        "peak-rank": "74",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "75",
+        "song": "Brontosaurus Stomp",
+        "artist": "The Piltdown Men",
+        "last-week": "83",
+        "peak-rank": "75",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "76",
+        "song": "Don't Be Cruel",
+        "artist": "Bill Black's Combo",
+        "last-week": "96",
+        "peak-rank": "76",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "77",
+        "song": "Five Brothers",
+        "artist": "Marty Robbins",
+        "last-week": "95",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "78",
+        "song": "Tonight's The Night",
+        "artist": "The Chiffons",
+        "last-week": "89",
+        "peak-rank": "78",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "79",
+        "song": "My Love",
+        "artist": "Nat King Cole-Stan Kenton",
+        "last-week": "62",
+        "peak-rank": "47",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "80",
+        "song": "No",
+        "artist": "Dodie Stevens",
+        "last-week": "73",
+        "peak-rank": "73",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "81",
+        "song": "Journey Of Love",
+        "artist": "The Crests featuring Johnny Mastro",
+        "last-week": "85",
+        "peak-rank": "81",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "82",
+        "song": "Shortnin' Bread",
+        "artist": "Paul Chaplain and his Emeralds",
+        "last-week": "88",
+        "peak-rank": "82",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "83",
+        "song": "Kommotion",
+        "artist": "Duane Eddy",
+        "last-week": "86",
+        "peak-rank": "78",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "84",
+        "song": "Red Sails In The Sunset",
+        "artist": "The Platters Featuring Tony Williams",
+        "last-week": "58",
+        "peak-rank": "36",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "85",
+        "song": "This Old Heart",
+        "artist": "James Brown And The Famous Flames",
+        "last-week": "79",
+        "peak-rank": "79",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "86",
+        "song": "We Go Together",
+        "artist": "Jan & Dean",
+        "last-week": "53",
+        "peak-rank": "53",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "87",
+        "song": "Let's Go, Let's Go, Let's Go",
+        "artist": "Hank Ballard And The Midnighters",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "88",
+        "song": "The Lovin' Touch",
+        "artist": "Mark Dinning",
+        "last-week": "91",
+        "peak-rank": "88",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "89",
+        "song": "Kookie Little Paradise",
+        "artist": "The Tree Swingers",
+        "last-week": "90",
+        "peak-rank": "73",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "90",
+        "song": "Tonights The Night",
+        "artist": "The Shirelles",
+        "last-week": "97",
+        "peak-rank": "90",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "91",
+        "song": "You Talk Too Much",
+        "artist": "Joe Jones",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "92",
+        "song": "Just Call Me (And I'll Understand)",
+        "artist": "Lloyd Price and His Orchestra",
+        "last-week": "99",
+        "peak-rank": "92",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "93",
+        "song": "North To Alaska",
+        "artist": "Johnny Horton",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "94",
+        "song": "Is You Is Or Is You Ain't My Baby",
+        "artist": "Buster Brown",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "95",
+        "song": "Time Machine",
+        "artist": "Dante and the Evergreens",
+        "last-week": "100",
+        "peak-rank": "95",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "96",
+        "song": "Blue Angel",
+        "artist": "Roy Orbison",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "97",
+        "song": "This Bitter Earth",
+        "artist": "Dinah Washington",
+        "last-week": "68",
+        "peak-rank": "24",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "98",
+        "song": "Twistin' U.S.A.",
+        "artist": "Danny & The Juniors",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "99",
+        "song": "My Dearest Darling",
+        "artist": "Etta James",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-09-19",
+        "rank": "100",
+        "song": "Togetherness",
+        "artist": "Frankie Avalon",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

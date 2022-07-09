@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1978-02-04",
+        "rank": "1",
+        "song": "Stayin' Alive",
+        "artist": "Bee Gees",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "2",
+        "song": "Short People",
+        "artist": "Randy Newman",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "3",
+        "song": "Baby Come Back",
+        "artist": "Player",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "4",
+        "song": "We Are The Champions",
+        "artist": "Queen",
+        "last-week": "6",
+        "peak-rank": "4",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "5",
+        "song": "(Love Is) Thicker Than Water",
+        "artist": "Andy Gibb",
+        "last-week": "10",
+        "peak-rank": "5",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "6",
+        "song": "Just The Way You Are",
+        "artist": "Billy Joel",
+        "last-week": "9",
+        "peak-rank": "6",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "7",
+        "song": "How Deep Is Your Love",
+        "artist": "Bee Gees",
+        "last-week": "7",
+        "peak-rank": "1",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "8",
+        "song": "Sometimes When We Touch",
+        "artist": "Dan Hill",
+        "last-week": "11",
+        "peak-rank": "8",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "9",
+        "song": "You're In My Heart (The Final Acclaim)",
+        "artist": "Rod Stewart",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "10",
+        "song": "Emotion",
+        "artist": "Samantha Sang",
+        "last-week": "17",
+        "peak-rank": "10",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "11",
+        "song": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
+        "artist": "Chic",
+        "last-week": "15",
+        "peak-rank": "11",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "12",
+        "song": "Hey Deanie",
+        "artist": "Shaun Cassidy",
+        "last-week": "12",
+        "peak-rank": "7",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "13",
+        "song": "Turn To Stone",
+        "artist": "Electric Light Orchestra",
+        "last-week": "14",
+        "peak-rank": "13",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "14",
+        "song": "Serpentine Fire",
+        "artist": "Earth, Wind & Fire",
+        "last-week": "16",
+        "peak-rank": "14",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "15",
+        "song": "Slip Slidin' Away",
+        "artist": "Paul Simon",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "16",
+        "song": "I Go Crazy",
+        "artist": "Paul Davis",
+        "last-week": "18",
+        "peak-rank": "16",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "17",
+        "song": "Desiree",
+        "artist": "Neil Diamond",
+        "last-week": "19",
+        "peak-rank": "17",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "18",
+        "song": "Come Sail Away",
+        "artist": "Styx",
+        "last-week": "8",
+        "peak-rank": "8",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "19",
+        "song": "Don't Let Me Be Misunderstood",
+        "artist": "Santa Esmeralda Starring Leroy Gomez",
+        "last-week": "21",
+        "peak-rank": "19",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "20",
+        "song": "Peg",
+        "artist": "Steely Dan",
+        "last-week": "28",
+        "peak-rank": "20",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "21",
+        "song": "What's Your Name",
+        "artist": "Lynyrd Skynyrd",
+        "last-week": "23",
+        "peak-rank": "21",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "22",
+        "song": "Theme From \"Close Encounters Of The Third Kind\"",
+        "artist": "John Williams",
+        "last-week": "24",
+        "peak-rank": "22",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "23",
+        "song": "Long, Long Way From Home",
+        "artist": "Foreigner",
+        "last-week": "27",
+        "peak-rank": "23",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "24",
+        "song": "Native New Yorker",
+        "artist": "Odyssey",
+        "last-week": "26",
+        "peak-rank": "24",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "25",
+        "song": "Here You Come Again",
+        "artist": "Dolly Parton",
+        "last-week": "13",
+        "peak-rank": "3",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "26",
+        "song": "Too Hot Ta Trot",
+        "artist": "Commodores",
+        "last-week": "29",
+        "peak-rank": "26",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "27",
+        "song": "Ffun",
+        "artist": "ConFunkShun",
+        "last-week": "30",
+        "peak-rank": "27",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "28",
+        "song": "Lay Down Sally",
+        "artist": "Eric Clapton",
+        "last-week": "45",
+        "peak-rank": "28",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "29",
+        "song": "Theme From Close Encounters",
+        "artist": "Meco",
+        "last-week": "33",
+        "peak-rank": "29",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "30",
+        "song": "Lovely Day",
+        "artist": "Bill Withers",
+        "last-week": "32",
+        "peak-rank": "30",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "31",
+        "song": "Happy Anniversary",
+        "artist": "Little River Band",
+        "last-week": "34",
+        "peak-rank": "31",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "32",
+        "song": "You Light Up My Life",
+        "artist": "Debby Boone",
+        "last-week": "22",
+        "peak-rank": "1",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "33",
+        "song": "Thunder Island",
+        "artist": "Jay Ferguson",
+        "last-week": "37",
+        "peak-rank": "33",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "34",
+        "song": "Street Corner Serenade",
+        "artist": "Wet Willie",
+        "last-week": "38",
+        "peak-rank": "34",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "35",
+        "song": "The Name Of The Game",
+        "artist": "ABBA",
+        "last-week": "39",
+        "peak-rank": "35",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "36",
+        "song": "Easy To Love",
+        "artist": "Leo Sayer",
+        "last-week": "36",
+        "peak-rank": "36",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "37",
+        "song": "I Love You",
+        "artist": "Donna Summer",
+        "last-week": "40",
+        "peak-rank": "37",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "38",
+        "song": "The Way You Do The Things You Do",
+        "artist": "Rita Coolidge",
+        "last-week": "58",
+        "peak-rank": "38",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "39",
+        "song": "Falling",
+        "artist": "LeBlanc & Carr",
+        "last-week": "42",
+        "peak-rank": "39",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "40",
+        "song": "Always And Forever",
+        "artist": "Heatwave",
+        "last-week": "43",
+        "peak-rank": "40",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "41",
+        "song": "(Every Time I Turn Around) Back In Love Again",
+        "artist": "LTD",
+        "last-week": "20",
+        "peak-rank": "4",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "42",
+        "song": "Curious Mind (Um, Um, Um, Um, Um, Um)",
+        "artist": "Johnny Rivers",
+        "last-week": "46",
+        "peak-rank": "42",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "43",
+        "song": "Galaxy",
+        "artist": "War",
+        "last-week": "47",
+        "peak-rank": "43",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "44",
+        "song": "Breakdown",
+        "artist": "Tom Petty And The Heartbreakers",
+        "last-week": "48",
+        "peak-rank": "44",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "45",
+        "song": "Runaround Sue",
+        "artist": "Leif Garrett",
+        "last-week": "25",
+        "peak-rank": "13",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "46",
+        "song": "Cocomotion",
+        "artist": "El Coco",
+        "last-week": "50",
+        "peak-rank": "46",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "47",
+        "song": "Sentimental Lady",
+        "artist": "Bob Welch",
+        "last-week": "31",
+        "peak-rank": "8",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "48",
+        "song": "Jack And Jill",
+        "artist": "Raydio",
+        "last-week": "52",
+        "peak-rank": "48",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "49",
+        "song": "Goodbye Girl",
+        "artist": "David Gates",
+        "last-week": "53",
+        "peak-rank": "49",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "50",
+        "song": "So Long",
+        "artist": "Firefall",
+        "last-week": "60",
+        "peak-rank": "50",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "51",
+        "song": "Our Love",
+        "artist": "Natalie Cole",
+        "last-week": "62",
+        "peak-rank": "51",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "52",
+        "song": "Mind Bender",
+        "artist": "Stillwater",
+        "last-week": "54",
+        "peak-rank": "52",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "53",
+        "song": "(What A)  Wonderful World",
+        "artist": "Art Garfunkel With James Taylor & Paul Simon",
+        "last-week": "68",
+        "peak-rank": "53",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "54",
+        "song": "Reach For It",
+        "artist": "George Duke",
+        "last-week": "56",
+        "peak-rank": "54",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "55",
+        "song": "You Can't Turn Me Off (In The Middle Of Turning Me On)",
+        "artist": "High Inergy",
+        "last-week": "35",
+        "peak-rank": "12",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "56",
+        "song": "Blue Bayou",
+        "artist": "Linda Ronstadt",
+        "last-week": "41",
+        "peak-rank": "3",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "57",
+        "song": "Point Of Know Return",
+        "artist": "Kansas",
+        "last-week": "49",
+        "peak-rank": "28",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "58",
+        "song": "Sweet Music Man",
+        "artist": "Kenny Rogers",
+        "last-week": "44",
+        "peak-rank": "44",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "58",
+        "song": "Shout It Out Loud",
+        "artist": "KISS",
+        "last-week": "69",
+        "peak-rank": "31",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "60",
+        "song": "Lady Love",
+        "artist": "Lou Rawls",
+        "last-week": "71",
+        "peak-rank": "60",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "61",
+        "song": "Take Me To The Kaptin",
+        "artist": "Prism",
+        "last-week": "65",
+        "peak-rank": "61",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "62",
+        "song": "Crazy On You",
+        "artist": "Heart",
+        "last-week": "64",
+        "peak-rank": "35",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "63",
+        "song": "Can't Smile Without You",
+        "artist": "Barry Manilow",
+        "last-week": "",
+        "peak-rank": "63",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "64",
+        "song": "Dust In The Wind",
+        "artist": "Kansas",
+        "last-week": "81",
+        "peak-rank": "64",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "65",
+        "song": "Poor Poor Pitiful Me",
+        "artist": "Linda Ronstadt",
+        "last-week": "78",
+        "peak-rank": "65",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "66",
+        "song": "Rockaway Beach",
+        "artist": "Ramones",
+        "last-week": "66",
+        "peak-rank": "66",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "67",
+        "song": "What's Your Name, What's Your Number",
+        "artist": "Andrea True Connection",
+        "last-week": "76",
+        "peak-rank": "67",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "68",
+        "song": "Le Spank",
+        "artist": "Le Pamplemousse",
+        "last-week": "74",
+        "peak-rank": "68",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "69",
+        "song": "Let It Go, Let It Flow",
+        "artist": "Dave Mason",
+        "last-week": "73",
+        "peak-rank": "69",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "70",
+        "song": "The Next Hundred Years",
+        "artist": "Al Martino",
+        "last-week": "70",
+        "peak-rank": "49",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "71",
+        "song": "God Only Knows",
+        "artist": "Marilyn Scott",
+        "last-week": "61",
+        "peak-rank": "61",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "72",
+        "song": "Everybody Loves A Rain Song",
+        "artist": "B.J. Thomas",
+        "last-week": "82",
+        "peak-rank": "72",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "73",
+        "song": "Touch And Gone",
+        "artist": "Gary Wright",
+        "last-week": "80",
+        "peak-rank": "73",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "74",
+        "song": "Supernature",
+        "artist": "Cerrone",
+        "last-week": "79",
+        "peak-rank": "74",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "75",
+        "song": "As",
+        "artist": "Stevie Wonder",
+        "last-week": "55",
+        "peak-rank": "36",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "76",
+        "song": "Night Fever",
+        "artist": "Bee Gees",
+        "last-week": "",
+        "peak-rank": "76",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "77",
+        "song": "Ebony Eyes",
+        "artist": "Bob Welch",
+        "last-week": "88",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "78",
+        "song": "If I Can't Have You",
+        "artist": "Yvonne Elliman",
+        "last-week": "89",
+        "peak-rank": "78",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "79",
+        "song": "Home Bound",
+        "artist": "Ted Nugent",
+        "last-week": "",
+        "peak-rank": "79",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "80",
+        "song": "You Really Got Me",
+        "artist": "Van Halen",
+        "last-week": "91",
+        "peak-rank": "80",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "81",
+        "song": "It's You That I Need",
+        "artist": "Enchantment",
+        "last-week": "",
+        "peak-rank": "81",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "82",
+        "song": "Until Now",
+        "artist": "Bobby Arvon",
+        "last-week": "84",
+        "peak-rank": "82",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "83",
+        "song": "Storybook Children (Daybreak)",
+        "artist": "Bette Midler",
+        "last-week": "85",
+        "peak-rank": "83",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "84",
+        "song": "Theme Song From \"Which Way Is Up\"",
+        "artist": "Stargard",
+        "last-week": "97",
+        "peak-rank": "84",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "85",
+        "song": "Silver Dreams",
+        "artist": "The Babys",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "86",
+        "song": "Before My Heart Finds Out",
+        "artist": "Gene Cotton",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "87",
+        "song": "Hollywood",
+        "artist": "Boz Scaggs",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "88",
+        "song": "Come Go With Me",
+        "artist": "Pockets",
+        "last-week": "90",
+        "peak-rank": "88",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "89",
+        "song": "Sweet, Sweet Smile",
+        "artist": "Carpenters",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "90",
+        "song": "You Brought The Woman Out Of Me",
+        "artist": "Hot",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "91",
+        "song": "Love Me Right",
+        "artist": "Denise LaSalle",
+        "last-week": "92",
+        "peak-rank": "91",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "92",
+        "song": "1,000 Laughs",
+        "artist": "Eloise Laws",
+        "last-week": "93",
+        "peak-rank": "92",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "93",
+        "song": "Ain't Gonna' Hurt Nobody",
+        "artist": "Brick",
+        "last-week": "96",
+        "peak-rank": "93",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "94",
+        "song": "Never Had A Love",
+        "artist": "Pablo Cruise",
+        "last-week": "94",
+        "peak-rank": "94",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "95",
+        "song": "Don't It Make My Brown Eyes Blue",
+        "artist": "Crystal Gayle",
+        "last-week": "51",
+        "peak-rank": "2",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "96",
+        "song": "The Way I Feel Tonight",
+        "artist": "Bay City Rollers",
+        "last-week": "57",
+        "peak-rank": "24",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "97",
+        "song": "It's So Easy",
+        "artist": "Linda Ronstadt",
+        "last-week": "59",
+        "peak-rank": "5",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "98",
+        "song": "Ooh Boy",
+        "artist": "Rose Royce",
+        "last-week": "72",
+        "peak-rank": "72",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "99",
+        "song": "If It Don't Fit, Don't Force It",
+        "artist": "Kellee Patterson",
+        "last-week": "75",
+        "peak-rank": "75",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1978-02-04",
+        "rank": "100",
+        "song": "Belle",
+        "artist": "Al Green",
+        "last-week": "83",
+        "peak-rank": "83",
+        "weeks-on-board": "5"
+    }
+]

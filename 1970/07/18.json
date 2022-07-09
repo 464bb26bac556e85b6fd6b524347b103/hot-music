@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1970-07-18",
+        "rank": "1",
+        "song": "Mama Told Me (Not To Come)",
+        "artist": "Three Dog Night",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "2",
+        "song": "The Love You Save/I Found That Girl",
+        "artist": "Jackson 5",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "3",
+        "song": "(They Long To Be) Close To You",
+        "artist": "Carpenters",
+        "last-week": "7",
+        "peak-rank": "3",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "4",
+        "song": "Band Of Gold",
+        "artist": "Freda Payne",
+        "last-week": "5",
+        "peak-rank": "4",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "5",
+        "song": "Ball Of Confusion (That's What The World Is Today)",
+        "artist": "The Temptations",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "6",
+        "song": "Ride Captain Ride",
+        "artist": "Blues Image",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "7",
+        "song": "Lay Down (Candles In The Rain)",
+        "artist": "Melanie with The Edwin Hawkins Singers",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "8",
+        "song": "O-o-h Child/Dear Prudence",
+        "artist": "The 5 Stairsteps",
+        "last-week": "12",
+        "peak-rank": "8",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "9",
+        "song": "Gimme Dat Ding",
+        "artist": "The Pipkins",
+        "last-week": "11",
+        "peak-rank": "9",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "10",
+        "song": "Make It With You",
+        "artist": "Bread",
+        "last-week": "20",
+        "peak-rank": "10",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "11",
+        "song": "Hitchin' A Ride",
+        "artist": "Vanity Fare",
+        "last-week": "10",
+        "peak-rank": "5",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "12",
+        "song": "Tighter, Tighter",
+        "artist": "Alive & Kicking",
+        "last-week": "17",
+        "peak-rank": "12",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "13",
+        "song": "The Wonder Of You/Mama Liked The Roses",
+        "artist": "Elvis Presley",
+        "last-week": "9",
+        "peak-rank": "9",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "14",
+        "song": "A Song Of Joy (Himno A La Alegria)",
+        "artist": "Miguel Rios",
+        "last-week": "15",
+        "peak-rank": "14",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "15",
+        "song": "Are You Ready?",
+        "artist": "Pacific Gas And Electric",
+        "last-week": "19",
+        "peak-rank": "15",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "16",
+        "song": "Love Land",
+        "artist": "Charles Wright And The Watts 103rd Street Rhythm Band",
+        "last-week": "18",
+        "peak-rank": "16",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "17",
+        "song": "Get Ready",
+        "artist": "Rare Earth",
+        "last-week": "13",
+        "peak-rank": "4",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "18",
+        "song": "Signed, Sealed, Delivered I'm Yours",
+        "artist": "Stevie Wonder",
+        "last-week": "26",
+        "peak-rank": "18",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "19",
+        "song": "My Baby Loves Lovin'",
+        "artist": "White Plains",
+        "last-week": "16",
+        "peak-rank": "13",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "20",
+        "song": "The Long And Winding Road/For You Blue",
+        "artist": "The Beatles",
+        "last-week": "8",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "21",
+        "song": "United We Stand",
+        "artist": "The Brotherhood Of Man",
+        "last-week": "14",
+        "peak-rank": "13",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "22",
+        "song": "Teach Your Children",
+        "artist": "Crosby, Stills, Nash & Young",
+        "last-week": "24",
+        "peak-rank": "22",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "23",
+        "song": "Love On A Two-Way Street",
+        "artist": "The Moments",
+        "last-week": "22",
+        "peak-rank": "3",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "24",
+        "song": "Spill The Wine",
+        "artist": "Eric Burdon And War",
+        "last-week": "38",
+        "peak-rank": "24",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "25",
+        "song": "Mississippi Queen",
+        "artist": "Mountain",
+        "last-week": "21",
+        "peak-rank": "21",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "26",
+        "song": "Ohio",
+        "artist": "Crosby, Stills, Nash & Young",
+        "last-week": "30",
+        "peak-rank": "26",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "27",
+        "song": "Save The Country",
+        "artist": "The 5th Dimension",
+        "last-week": "31",
+        "peak-rank": "27",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "28",
+        "song": "Check Out Your Mind",
+        "artist": "The Impressions",
+        "last-week": "28",
+        "peak-rank": "28",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "29",
+        "song": "Silver Bird",
+        "artist": "Mark Lindsay",
+        "last-week": "39",
+        "peak-rank": "29",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "30",
+        "song": "I Just Can't Help Believing",
+        "artist": "B.J. Thomas",
+        "last-week": "36",
+        "peak-rank": "30",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "31",
+        "song": "Westbound #9",
+        "artist": "The Flaming Ember",
+        "last-week": "33",
+        "peak-rank": "31",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "32",
+        "song": "Mississippi",
+        "artist": "John Phillips",
+        "last-week": "34",
+        "peak-rank": "32",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "33",
+        "song": "Which Way You Goin' Billy?",
+        "artist": "The Poppy Family (Featuring Susan Jacks)",
+        "last-week": "23",
+        "peak-rank": "2",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "34",
+        "song": "Question",
+        "artist": "The Moody Blues",
+        "last-week": "27",
+        "peak-rank": "21",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "35",
+        "song": "It's All In The Game",
+        "artist": "Four Tops",
+        "last-week": "32",
+        "peak-rank": "24",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "36",
+        "song": "Go Back",
+        "artist": "Crabby Appleton",
+        "last-week": "37",
+        "peak-rank": "36",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "37",
+        "song": "Lay A Little Lovin' On Me",
+        "artist": "Robin McNamara",
+        "last-week": "48",
+        "peak-rank": "37",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "38",
+        "song": "Steal Away",
+        "artist": "Johnnie Taylor",
+        "last-week": "43",
+        "peak-rank": "38",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "39",
+        "song": "Sugar Sugar/Cole, Cooke & Redding",
+        "artist": "Wilson Pickett",
+        "last-week": "25",
+        "peak-rank": "25",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "40",
+        "song": "The End Of Our Road",
+        "artist": "Marvin Gaye",
+        "last-week": "40",
+        "peak-rank": "40",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "41",
+        "song": "(If You Let Me Make Love To You Then) Why Can't I Touch You?",
+        "artist": "Ronnie Dyson",
+        "last-week": "49",
+        "peak-rank": "41",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "42",
+        "song": "Trying To Make A Fool Of Me",
+        "artist": "The Delfonics",
+        "last-week": "42",
+        "peak-rank": "42",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "43",
+        "song": "Maybe",
+        "artist": "The Three Degrees",
+        "last-week": "44",
+        "peak-rank": "43",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "44",
+        "song": "War",
+        "artist": "Edwin Starr",
+        "last-week": "72",
+        "peak-rank": "44",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "45",
+        "song": "The Sly, Slick, And The Wicked",
+        "artist": "The Lost Generation",
+        "last-week": "56",
+        "peak-rank": "45",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "46",
+        "song": "When We Get Married",
+        "artist": "The Intruders",
+        "last-week": "55",
+        "peak-rank": "46",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "47",
+        "song": "My Marie",
+        "artist": "Engelbert Humperdinck",
+        "last-week": "57",
+        "peak-rank": "47",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "48",
+        "song": "(How Bout A Little Hand For) The Boys In The Band",
+        "artist": "The Boys In The Band",
+        "last-week": "54",
+        "peak-rank": "48",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "49",
+        "song": "I Want To Take You Higher",
+        "artist": "Sly & The Family Stone",
+        "last-week": "45",
+        "peak-rank": "38",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "50",
+        "song": "Ain't That Loving You (For More Reasons Than One)",
+        "artist": "Luther Ingram",
+        "last-week": "50",
+        "peak-rank": "45",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "51",
+        "song": "So Much Love",
+        "artist": "Faith, Hope And Charity",
+        "last-week": "51",
+        "peak-rank": "51",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "52",
+        "song": "A Little Bit Of Soap",
+        "artist": "Paul Davis",
+        "last-week": "52",
+        "peak-rank": "52",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "53",
+        "song": "I Want To Take You Higher",
+        "artist": "Ike & Tina Turner & The Ikettes",
+        "last-week": "53",
+        "peak-rank": "53",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "54",
+        "song": "I'll Be Right Here",
+        "artist": "Tyrone Davis",
+        "last-week": "62",
+        "peak-rank": "54",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "55",
+        "song": "Freedom Blues",
+        "artist": "Little Richard",
+        "last-week": "47",
+        "peak-rank": "47",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "56",
+        "song": "Big Yellow Taxi",
+        "artist": "The Neighborhood",
+        "last-week": "60",
+        "peak-rank": "56",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "57",
+        "song": "Cinnamon Girl",
+        "artist": "Neil Young & Crazy Horse",
+        "last-week": "59",
+        "peak-rank": "57",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "58",
+        "song": "Pearl",
+        "artist": "Tommy Roe",
+        "last-week": "61",
+        "peak-rank": "58",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "59",
+        "song": "Tell It All Brother",
+        "artist": "Kenny Rogers & The First Edition",
+        "last-week": "65",
+        "peak-rank": "59",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "60",
+        "song": "Canned Ham",
+        "artist": "Norman Greenbaum",
+        "last-week": "46",
+        "peak-rank": "46",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "61",
+        "song": "Overture From Tommy (A Rock Opera)",
+        "artist": "The Assembled Multitude",
+        "last-week": "63",
+        "peak-rank": "61",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "62",
+        "song": "Cottage Cheese",
+        "artist": "CROW",
+        "last-week": "64",
+        "peak-rank": "62",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "63",
+        "song": "Sunshine",
+        "artist": "The Archies",
+        "last-week": "67",
+        "peak-rank": "63",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "64",
+        "song": "Superman",
+        "artist": "The Ides Of March",
+        "last-week": "66",
+        "peak-rank": "64",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "65",
+        "song": "Paper Mache",
+        "artist": "Dionne Warwick",
+        "last-week": "84",
+        "peak-rank": "65",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "66",
+        "song": "Do You See My Love (For You Growing)",
+        "artist": "Jr. Walker & The All Stars",
+        "last-week": "87",
+        "peak-rank": "66",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "67",
+        "song": "That Same Old Feeling",
+        "artist": "Pickettywitch",
+        "last-week": "68",
+        "peak-rank": "67",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "68",
+        "song": "In The Summertime",
+        "artist": "Mungo Jerry",
+        "last-week": "74",
+        "peak-rank": "68",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "69",
+        "song": "Summertime Blues",
+        "artist": "The Who",
+        "last-week": "80",
+        "peak-rank": "69",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "70",
+        "song": "Everything A Man Could Ever Need",
+        "artist": "Glen Campbell",
+        "last-week": "78",
+        "peak-rank": "70",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "71",
+        "song": "Song From M*A*S*H",
+        "artist": "Al DeLory",
+        "last-week": "71",
+        "peak-rank": "71",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "72",
+        "song": "Get Up (I Feel Like Being Like A) Sex Machine (Part 1)",
+        "artist": "James Brown",
+        "last-week": "",
+        "peak-rank": "72",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "73",
+        "song": "Gimme Shelter",
+        "artist": "Merry Clayton",
+        "last-week": "76",
+        "peak-rank": "73",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "74",
+        "song": "Everybody's Got The Right To Love",
+        "artist": "The Supremes",
+        "last-week": "",
+        "peak-rank": "74",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "75",
+        "song": "You've Been My Inspiration",
+        "artist": "The Main Ingredient",
+        "last-week": "79",
+        "peak-rank": "75",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "76",
+        "song": "Stealing In The Name Of The Lord",
+        "artist": "Paul Kelly",
+        "last-week": "89",
+        "peak-rank": "76",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "77",
+        "song": "Groovy Situation",
+        "artist": "Gene Chandler",
+        "last-week": "86",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "78",
+        "song": "Hello Darlin'",
+        "artist": "Conway Twitty",
+        "last-week": "82",
+        "peak-rank": "78",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "79",
+        "song": "Let The Music Take Your Mind",
+        "artist": "Kool & The Gang",
+        "last-week": "95",
+        "peak-rank": "79",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "80",
+        "song": "Solitary Man",
+        "artist": "Neil Diamond",
+        "last-week": "90",
+        "peak-rank": "55",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "81",
+        "song": "The Witch",
+        "artist": "The Rattles",
+        "last-week": "81",
+        "peak-rank": "81",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "82",
+        "song": "Drop By My Place",
+        "artist": "Little Carl Carlton",
+        "last-week": "96",
+        "peak-rank": "82",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "83",
+        "song": "Apartment 21",
+        "artist": "Bobbie Gentry",
+        "last-week": "85",
+        "peak-rank": "83",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "84",
+        "song": "One Day Of Your Life",
+        "artist": "Andy Williams",
+        "last-week": "77",
+        "peak-rank": "77",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "85",
+        "song": "Humphrey The Camel",
+        "artist": "Jack Blanchard & Misty Morgan",
+        "last-week": "92",
+        "peak-rank": "85",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "86",
+        "song": "Snowbird",
+        "artist": "Anne Murray",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "87",
+        "song": "Wonder Could I Live There Anymore",
+        "artist": "Charley Pride",
+        "last-week": "88",
+        "peak-rank": "87",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "88",
+        "song": "She Cried",
+        "artist": "The Lettermen",
+        "last-week": "73",
+        "peak-rank": "73",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "89",
+        "song": "Hand Me Down World",
+        "artist": "The Guess Who",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "90",
+        "song": "Patches",
+        "artist": "Clarence Carter",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "91",
+        "song": "Down By The River",
+        "artist": "The Brooklyn Bridge",
+        "last-week": "91",
+        "peak-rank": "91",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "92",
+        "song": "Hand Clapping Song",
+        "artist": "The Meters",
+        "last-week": "93",
+        "peak-rank": "92",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "93",
+        "song": "Baby, Is There Something On Your Mind",
+        "artist": "McKinley Travis",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "94",
+        "song": "Down By The River",
+        "artist": "Buddy Miles",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "95",
+        "song": "Que Sera, Sera (Whatever Will Be, Will Be)",
+        "artist": "Mary Hopkin",
+        "last-week": "98",
+        "peak-rank": "95",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "96",
+        "song": "No Arms Can Ever Hold You",
+        "artist": "Bobby Vinton",
+        "last-week": "100",
+        "peak-rank": "96",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "97",
+        "song": "The Lights Of Tucson",
+        "artist": "Jim Campbell",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "98",
+        "song": "Yellow River",
+        "artist": "Christie",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "99",
+        "song": "I Can't Be You (You Can't Be Me)",
+        "artist": "The Glass House",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1970-07-18",
+        "rank": "100",
+        "song": "Long Lonely Nights",
+        "artist": "The Dells",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

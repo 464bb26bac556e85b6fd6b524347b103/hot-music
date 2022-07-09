@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1974-11-16",
+        "rank": "1",
+        "song": "Whatever Gets You Thru The Night",
+        "artist": "John Lennon With The Plastic Ono Nuclear Band",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "2",
+        "song": "Do It ('til You're Satisfied)",
+        "artist": "B.T. Express",
+        "last-week": "7",
+        "peak-rank": "2",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "3",
+        "song": "My Melody Of Love",
+        "artist": "Bobby Vinton",
+        "last-week": "6",
+        "peak-rank": "3",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "4",
+        "song": "Tin Man",
+        "artist": "America",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "5",
+        "song": "Back Home Again",
+        "artist": "John Denver",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "6",
+        "song": "I Can Help",
+        "artist": "Billy Swan",
+        "last-week": "15",
+        "peak-rank": "6",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "7",
+        "song": "Longfellow Serenade",
+        "artist": "Neil Diamond",
+        "last-week": "13",
+        "peak-rank": "7",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "8",
+        "song": "Life Is A Rock (But The Radio Rolled Me)",
+        "artist": "Reunion",
+        "last-week": "9",
+        "peak-rank": "8",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "9",
+        "song": "Everlasting Love",
+        "artist": "Carl Carlton",
+        "last-week": "11",
+        "peak-rank": "9",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "10",
+        "song": "Carefree Highway",
+        "artist": "Gordon Lightfoot",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "11",
+        "song": "Jazzman",
+        "artist": "Carole King",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "12",
+        "song": "You Ain't Seen Nothing Yet/Free Wheelin'",
+        "artist": "Bachman-Turner Overdrive",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "13",
+        "song": "The Need To Be",
+        "artist": "Jim Weatherly",
+        "last-week": "14",
+        "peak-rank": "13",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "14",
+        "song": "The Bitch Is Back",
+        "artist": "Elton John",
+        "last-week": "8",
+        "peak-rank": "4",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "15",
+        "song": "Love Don't Love Nobody - Pt. I",
+        "artist": "The Spinners",
+        "last-week": "17",
+        "peak-rank": "15",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "16",
+        "song": "When Will I See You Again",
+        "artist": "The Three Degrees",
+        "last-week": "20",
+        "peak-rank": "16",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "17",
+        "song": "I've Got The Music In Me",
+        "artist": "The Kiki Dee Band",
+        "last-week": "19",
+        "peak-rank": "17",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "18",
+        "song": "Rockin' Soul",
+        "artist": "The Hues Corporation",
+        "last-week": "22",
+        "peak-rank": "18",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "19",
+        "song": "Wishing You Were Here",
+        "artist": "Chicago",
+        "last-week": "25",
+        "peak-rank": "19",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "20",
+        "song": "Angie Baby",
+        "artist": "Helen Reddy",
+        "last-week": "26",
+        "peak-rank": "20",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "21",
+        "song": "Sha-La-La (Make Me Happy)",
+        "artist": "Al Green",
+        "last-week": "27",
+        "peak-rank": "21",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "22",
+        "song": "Cat's In The Cradle",
+        "artist": "Harry Chapin",
+        "last-week": "29",
+        "peak-rank": "22",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "23",
+        "song": "So You Are A Star",
+        "artist": "The Hudson Brothers",
+        "last-week": "23",
+        "peak-rank": "23",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "24",
+        "song": "People Gotta Move",
+        "artist": "Gino Vannelli",
+        "last-week": "24",
+        "peak-rank": "24",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "25",
+        "song": "After The Goldrush",
+        "artist": "Prelude",
+        "last-week": "30",
+        "peak-rank": "25",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "26",
+        "song": "You Got The Love",
+        "artist": "Rufus Featuring Chaka Khan",
+        "last-week": "32",
+        "peak-rank": "26",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "27",
+        "song": "Kung Fu Fighting",
+        "artist": "Carl Douglas",
+        "last-week": "33",
+        "peak-rank": "27",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "28",
+        "song": "You Haven't Done Nothin",
+        "artist": "Stevie Wonder",
+        "last-week": "12",
+        "peak-rank": "1",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "29",
+        "song": "Promised Land",
+        "artist": "Elvis Presley",
+        "last-week": "37",
+        "peak-rank": "29",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "30",
+        "song": "La La Peace Song",
+        "artist": "Al Wilson",
+        "last-week": "38",
+        "peak-rank": "30",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "31",
+        "song": "Touch Me",
+        "artist": "Fancy",
+        "last-week": "42",
+        "peak-rank": "31",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "32",
+        "song": "Fairytale",
+        "artist": "The Pointer Sisters",
+        "last-week": "40",
+        "peak-rank": "32",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "33",
+        "song": "Play Something Sweet (Brickyard Blues)",
+        "artist": "Three Dog Night",
+        "last-week": "34",
+        "peak-rank": "33",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "34",
+        "song": "You Can Have Her",
+        "artist": "Sam Neely",
+        "last-week": "36",
+        "peak-rank": "34",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "35",
+        "song": "Doraville",
+        "artist": "Atlanta Rhythm Section",
+        "last-week": "35",
+        "peak-rank": "35",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "36",
+        "song": "You're The First, The Last, My Everything",
+        "artist": "Barry White",
+        "last-week": "46",
+        "peak-rank": "36",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "37",
+        "song": "I Feel A Song (In My Heart)/Don't Burn Down The Bridge",
+        "artist": "Gladys Knight And The Pips",
+        "last-week": "47",
+        "peak-rank": "37",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "38",
+        "song": "Overnight Sensation (Hit Record)",
+        "artist": "Raspberries",
+        "last-week": "18",
+        "peak-rank": "18",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "39",
+        "song": "Laughter In The Rain",
+        "artist": "Neil Sedaka",
+        "last-week": "50",
+        "peak-rank": "39",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "40",
+        "song": "Ain't Too Proud To Beg",
+        "artist": "The Rolling Stones",
+        "last-week": "64",
+        "peak-rank": "40",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "41",
+        "song": "The Black-Eyed Boys",
+        "artist": "Paper Lace",
+        "last-week": "41",
+        "peak-rank": "41",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "42",
+        "song": "Heavy Fallin' Out",
+        "artist": "The Stylistics",
+        "last-week": "51",
+        "peak-rank": "42",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "43",
+        "song": "Junior's Farm/Sally G",
+        "artist": "Paul McCartney And Wings",
+        "last-week": "59",
+        "peak-rank": "43",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "44",
+        "song": "Three Ring Circus",
+        "artist": "Blue Magic",
+        "last-week": "55",
+        "peak-rank": "44",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "45",
+        "song": "Woman To Woman",
+        "artist": "Shirley Brown",
+        "last-week": "56",
+        "peak-rank": "45",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "46",
+        "song": "In The Bottle",
+        "artist": "Brother To Brother",
+        "last-week": "52",
+        "peak-rank": "46",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "47",
+        "song": "Let's Straighten It Out",
+        "artist": "Latimore",
+        "last-week": "58",
+        "peak-rank": "47",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "48",
+        "song": "Willie And The Hand Jive",
+        "artist": "Eric Clapton",
+        "last-week": "66",
+        "peak-rank": "48",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "49",
+        "song": "Ride 'em Cowboy",
+        "artist": "Paul Davis",
+        "last-week": "60",
+        "peak-rank": "49",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "50",
+        "song": "Sugar Pie Guy Pt. 1",
+        "artist": "The Joneses",
+        "last-week": "53",
+        "peak-rank": "50",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "51",
+        "song": "Must Of Got Lost",
+        "artist": "The J. Geils Band",
+        "last-week": "61",
+        "peak-rank": "51",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "52",
+        "song": "Ask Me",
+        "artist": "Ecstasy, Passion & Pain",
+        "last-week": "62",
+        "peak-rank": "52",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "53",
+        "song": "Do It Baby",
+        "artist": "The Miracles",
+        "last-week": "21",
+        "peak-rank": "13",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "54",
+        "song": "Fire, Baby I'm On Fire",
+        "artist": "Andy Kim",
+        "last-week": "65",
+        "peak-rank": "54",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "55",
+        "song": "Distant Lover",
+        "artist": "Marvin Gaye",
+        "last-week": "28",
+        "peak-rank": "28",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "56",
+        "song": "Stop And Smell The Roses",
+        "artist": "Mac Davis",
+        "last-week": "31",
+        "peak-rank": "9",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "57",
+        "song": "Whatever You Got, I Want",
+        "artist": "Jackson 5",
+        "last-week": "68",
+        "peak-rank": "57",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "58",
+        "song": "Nobody",
+        "artist": "The Doobie Brothers",
+        "last-week": "69",
+        "peak-rank": "58",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "59",
+        "song": "Can't Get Enough",
+        "artist": "Bad Company",
+        "last-week": "16",
+        "peak-rank": "5",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "60",
+        "song": "Bungle In The Jungle",
+        "artist": "Jethro Tull",
+        "last-week": "71",
+        "peak-rank": "60",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "61",
+        "song": "One Man Woman/One Woman Man",
+        "artist": "Paul Anka with Odia Coates",
+        "last-week": "79",
+        "peak-rank": "61",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "62",
+        "song": "Boogie On Reggae Woman",
+        "artist": "Stevie Wonder",
+        "last-week": "",
+        "peak-rank": "62",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "63",
+        "song": "Only You",
+        "artist": "Ringo Starr",
+        "last-week": "",
+        "peak-rank": "63",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "64",
+        "song": "Dream On",
+        "artist": "The Righteous Brothers",
+        "last-week": "75",
+        "peak-rank": "64",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "65",
+        "song": "The Heartbreak Kid",
+        "artist": "Bo Donaldson And The Heywoods",
+        "last-week": "",
+        "peak-rank": "65",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "66",
+        "song": "Country Side Of Life",
+        "artist": "Wet Willie",
+        "last-week": "70",
+        "peak-rank": "66",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "67",
+        "song": "Mandy",
+        "artist": "Barry Manilow",
+        "last-week": "",
+        "peak-rank": "67",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "68",
+        "song": "You And I",
+        "artist": "Johnny Bristol",
+        "last-week": "",
+        "peak-rank": "68",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "69",
+        "song": "Never Can Say Goodbye",
+        "artist": "Gloria Gaynor",
+        "last-week": "80",
+        "peak-rank": "69",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "70",
+        "song": "Early Morning Love",
+        "artist": "Sammy Johns",
+        "last-week": "76",
+        "peak-rank": "69",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "71",
+        "song": "Someday",
+        "artist": "Dave Loggins",
+        "last-week": "",
+        "peak-rank": "71",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "72",
+        "song": "She's Gone",
+        "artist": "Tavares",
+        "last-week": "74",
+        "peak-rank": "72",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "73",
+        "song": "Give Me A Reason To Be Gone",
+        "artist": "Maureen McGovern",
+        "last-week": "77",
+        "peak-rank": "73",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "74",
+        "song": "Morning Side Of The Mountain",
+        "artist": "Donny & Marie Osmond",
+        "last-week": "",
+        "peak-rank": "74",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "75",
+        "song": "Mississippi Cotton Picking Delta Town",
+        "artist": "Charley Pride",
+        "last-week": "",
+        "peak-rank": "75",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "76",
+        "song": "Evil Boll-weevil",
+        "artist": "Grand Canyon",
+        "last-week": "82",
+        "peak-rank": "76",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "77",
+        "song": "Without Love",
+        "artist": "Aretha Franklin",
+        "last-week": "",
+        "peak-rank": "77",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "78",
+        "song": "Black Lassie (Featuring Johnny Stash)",
+        "artist": "Cheech & Chong",
+        "last-week": "89",
+        "peak-rank": "78",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "79",
+        "song": "Then Came You",
+        "artist": "Dionne Warwicke & Spinners",
+        "last-week": "39",
+        "peak-rank": "1",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "80",
+        "song": "Sexy Ida (Part 1)",
+        "artist": "Ike & Tina Turner",
+        "last-week": "85",
+        "peak-rank": "80",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "81",
+        "song": "Shoe Shoe Shine",
+        "artist": "Dynamic Superiors",
+        "last-week": "88",
+        "peak-rank": "81",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "82",
+        "song": "California My Way",
+        "artist": "The Main Ingredient",
+        "last-week": "",
+        "peak-rank": "82",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "83",
+        "song": "Funky President (People It's Bad)/Coldblooded",
+        "artist": "James Brown",
+        "last-week": "94",
+        "peak-rank": "83",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "84",
+        "song": "I Feel Sanctified",
+        "artist": "Commodores",
+        "last-week": "",
+        "peak-rank": "84",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "85",
+        "song": "Where Are All My Friends",
+        "artist": "Harold Melvin And The Blue Notes",
+        "last-week": "96",
+        "peak-rank": "85",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "86",
+        "song": "Just One Look",
+        "artist": "Anne Murray",
+        "last-week": "90",
+        "peak-rank": "86",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "87",
+        "song": "Steppin' Out (Gonna Boogie Tonight)",
+        "artist": "Tony Orlando & Dawn",
+        "last-week": "48",
+        "peak-rank": "7",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "88",
+        "song": "Feel Like Making Love",
+        "artist": "Bob James",
+        "last-week": "95",
+        "peak-rank": "88",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "89",
+        "song": "Love Me For A Reason",
+        "artist": "The Osmonds",
+        "last-week": "43",
+        "peak-rank": "10",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "90",
+        "song": "U.S. Of A",
+        "artist": "Donna Fargo",
+        "last-week": "93",
+        "peak-rank": "90",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "91",
+        "song": "Ride The Tiger",
+        "artist": "Jefferson Starship",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "92",
+        "song": "Sunshine Roses",
+        "artist": "Gene Cotton",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "93",
+        "song": "Sweet Home Alabama",
+        "artist": "Lynyrd Skynyrd",
+        "last-week": "44",
+        "peak-rank": "8",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "94",
+        "song": "Let This Be A Lesson To You",
+        "artist": "The Independents",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "95",
+        "song": "Honey, Honey",
+        "artist": "ABBA",
+        "last-week": "45",
+        "peak-rank": "27",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "96",
+        "song": "I'll Be Your Everything",
+        "artist": "Percy Sledge",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "97",
+        "song": "Easy Street",
+        "artist": "Edgar Winter Group",
+        "last-week": "83",
+        "peak-rank": "83",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "98",
+        "song": "I Can't Leave You Alone",
+        "artist": "George McCrae",
+        "last-week": "54",
+        "peak-rank": "50",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "99",
+        "song": "Skin Tight",
+        "artist": "Ohio Players",
+        "last-week": "78",
+        "peak-rank": "13",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1974-11-16",
+        "rank": "100",
+        "song": "I Honestly Love You",
+        "artist": "Olivia Newton-John",
+        "last-week": "86",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    }
+]

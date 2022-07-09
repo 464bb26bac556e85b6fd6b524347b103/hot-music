@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1990-11-10",
+        "rank": "1",
+        "song": "Love Takes Time",
+        "artist": "Mariah Carey",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "2",
+        "song": "Pray",
+        "artist": "M.C. Hammer",
+        "last-week": "6",
+        "peak-rank": "2",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "3",
+        "song": "Ice Ice Baby",
+        "artist": "Vanilla Ice",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "4",
+        "song": "Giving You The Benefit",
+        "artist": "Pebbles",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "5",
+        "song": "I Don't Have The Heart",
+        "artist": "James Ingram",
+        "last-week": "5",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "6",
+        "song": "More Than Words Can Say",
+        "artist": "Alias",
+        "last-week": "8",
+        "peak-rank": "6",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "7",
+        "song": "Black Cat",
+        "artist": "Janet Jackson",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "8",
+        "song": "Groove Is In The Heart",
+        "artist": "Deee-Lite",
+        "last-week": "12",
+        "peak-rank": "8",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "9",
+        "song": "Knockin' Boots",
+        "artist": "Candyman",
+        "last-week": "11",
+        "peak-rank": "9",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "10",
+        "song": "Something To Believe In",
+        "artist": "Poison",
+        "last-week": "16",
+        "peak-rank": "10",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "11",
+        "song": "Cherry Pie",
+        "artist": "Warrant",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "12",
+        "song": "Feels Good",
+        "artist": "Tony Toni Tone",
+        "last-week": "15",
+        "peak-rank": "12",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "13",
+        "song": "I'm Your Baby Tonight",
+        "artist": "Whitney Houston",
+        "last-week": "18",
+        "peak-rank": "13",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "14",
+        "song": "Can't Stop",
+        "artist": "After 7",
+        "last-week": "7",
+        "peak-rank": "6",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "15",
+        "song": "Because I Love You (The Postman Song)",
+        "artist": "Stevie B",
+        "last-week": "27",
+        "peak-rank": "15",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "16",
+        "song": "From A Distance",
+        "artist": "Bette Midler",
+        "last-week": "24",
+        "peak-rank": "16",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "17",
+        "song": "Close To You",
+        "artist": "Maxi Priest",
+        "last-week": "13",
+        "peak-rank": "1",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "18",
+        "song": "So Close",
+        "artist": "Daryl Hall John Oates",
+        "last-week": "22",
+        "peak-rank": "18",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "19",
+        "song": "Joey",
+        "artist": "Concrete Blonde",
+        "last-week": "21",
+        "peak-rank": "19",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "20",
+        "song": "Hippychick",
+        "artist": "Soho",
+        "last-week": "26",
+        "peak-rank": "20",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "21",
+        "song": "Suicide Blonde",
+        "artist": "INXS",
+        "last-week": "9",
+        "peak-rank": "9",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "22",
+        "song": "Unchained Melody",
+        "artist": "The Righteous Brothers",
+        "last-week": "19",
+        "peak-rank": "19",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "23",
+        "song": "Stranded",
+        "artist": "Heart",
+        "last-week": "28",
+        "peak-rank": "23",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "24",
+        "song": "The Way You Do The Things You Do",
+        "artist": "UB40",
+        "last-week": "30",
+        "peak-rank": "24",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "25",
+        "song": "Unchained Melody",
+        "artist": "The Righteous Brothers",
+        "last-week": "17",
+        "peak-rank": "4",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "26",
+        "song": "Everybody Everybody",
+        "artist": "Black Box",
+        "last-week": "14",
+        "peak-rank": "8",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "27",
+        "song": "Impulsive",
+        "artist": "Wilson Phillips",
+        "last-week": "31",
+        "peak-rank": "27",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "28",
+        "song": "High Enough",
+        "artist": "Damn Yankees",
+        "last-week": "35",
+        "peak-rank": "28",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "29",
+        "song": "Lyin' To Myself",
+        "artist": "David Cassidy",
+        "last-week": "34",
+        "peak-rank": "29",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "30",
+        "song": "Wiggle It",
+        "artist": "2 In A Room",
+        "last-week": "46",
+        "peak-rank": "30",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "31",
+        "song": "Tom's Diner",
+        "artist": "DNA Featuring Suzanne Vega",
+        "last-week": "38",
+        "peak-rank": "31",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "32",
+        "song": "Heart Like A Wheel",
+        "artist": "The Human League",
+        "last-week": "37",
+        "peak-rank": "32",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "33",
+        "song": "Freedom",
+        "artist": "George Michael",
+        "last-week": "39",
+        "peak-rank": "33",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "34",
+        "song": "(Can't Live Without Your) Love And Affection",
+        "artist": "Nelson",
+        "last-week": "25",
+        "peak-rank": "1",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "35",
+        "song": "Miracle (From \"Young Guns II\")",
+        "artist": "Jon Bon Jovi",
+        "last-week": "41",
+        "peak-rank": "35",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "36",
+        "song": "Praying For Time",
+        "artist": "George Michael",
+        "last-week": "20",
+        "peak-rank": "1",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "37",
+        "song": "B.B.D. (I Thought It Was Me)?",
+        "artist": "Bell Biv DeVoe",
+        "last-week": "43",
+        "peak-rank": "37",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "38",
+        "song": "My Love Is A Fire",
+        "artist": "Donny Osmond",
+        "last-week": "40",
+        "peak-rank": "38",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "39",
+        "song": "Fly To the Angels",
+        "artist": "Slaughter",
+        "last-week": "29",
+        "peak-rank": "19",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "40",
+        "song": "Think",
+        "artist": "Information Society",
+        "last-week": "42",
+        "peak-rank": "40",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "41",
+        "song": "Romeo",
+        "artist": "Dino",
+        "last-week": "23",
+        "peak-rank": "6",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "42",
+        "song": "Something Happened On The Way To Heaven",
+        "artist": "Phil Collins",
+        "last-week": "33",
+        "peak-rank": "4",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "43",
+        "song": "Miles Away",
+        "artist": "Winger",
+        "last-week": "49",
+        "peak-rank": "43",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "44",
+        "song": "One And Only Man",
+        "artist": "Steve Winwood",
+        "last-week": "55",
+        "peak-rank": "44",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "45",
+        "song": "Say A Prayer",
+        "artist": "Breathe",
+        "last-week": "32",
+        "peak-rank": "21",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "46",
+        "song": "Do Me!",
+        "artist": "Bell Biv DeVoe",
+        "last-week": "36",
+        "peak-rank": "3",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "47",
+        "song": "Missunderstanding",
+        "artist": "Al B. Sure!",
+        "last-week": "50",
+        "peak-rank": "47",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "48",
+        "song": "Sensitivity",
+        "artist": "Ralph Tresvant",
+        "last-week": "64",
+        "peak-rank": "48",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "49",
+        "song": "On The Way Up",
+        "artist": "Elisa Fiorillo",
+        "last-week": "51",
+        "peak-rank": "49",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "50",
+        "song": "Blaze Of Glory (From \"Young Guns II\")",
+        "artist": "Jon Bon Jovi",
+        "last-week": "44",
+        "peak-rank": "1",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "51",
+        "song": "And So It Goes",
+        "artist": "Billy Joel",
+        "last-week": "60",
+        "peak-rank": "51",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "52",
+        "song": "Fairweather Friend",
+        "artist": "Johnny Gill",
+        "last-week": "61",
+        "peak-rank": "52",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "53",
+        "song": "Livin' In The Light",
+        "artist": "Caron Wheeler",
+        "last-week": "56",
+        "peak-rank": "53",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "54",
+        "song": "Oh Girl",
+        "artist": "Paul Young",
+        "last-week": "45",
+        "peak-rank": "8",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "55",
+        "song": "Tic-Tac-Toe",
+        "artist": "Kyper",
+        "last-week": "48",
+        "peak-rank": "14",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "56",
+        "song": "After The Rain",
+        "artist": "Nelson",
+        "last-week": "75",
+        "peak-rank": "56",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "57",
+        "song": "For You",
+        "artist": "The Outfield",
+        "last-week": "68",
+        "peak-rank": "57",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "58",
+        "song": "Let's Try It Again",
+        "artist": "New Kids On The Block",
+        "last-week": "53",
+        "peak-rank": "53",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "59",
+        "song": "Each And Every Time",
+        "artist": "Sweet Sensation",
+        "last-week": "62",
+        "peak-rank": "59",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "60",
+        "song": "Just Another Dream",
+        "artist": "Cathy Dennis",
+        "last-week": "71",
+        "peak-rank": "60",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "61",
+        "song": "Wherever Would I Be",
+        "artist": "Cheap Trick",
+        "last-week": "69",
+        "peak-rank": "61",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "62",
+        "song": "Policy Of Truth",
+        "artist": "Depeche Mode",
+        "last-week": "47",
+        "peak-rank": "15",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "63",
+        "song": "The First Time",
+        "artist": "Surface",
+        "last-week": "82",
+        "peak-rank": "63",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "64",
+        "song": "The Boomin' System",
+        "artist": "LL Cool J",
+        "last-week": "54",
+        "peak-rank": "48",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "65",
+        "song": "Release Me",
+        "artist": "Wilson Phillips",
+        "last-week": "52",
+        "peak-rank": "1",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "66",
+        "song": "Dream Boy/Dream Girl",
+        "artist": "Cynthia & Johnny O",
+        "last-week": "63",
+        "peak-rank": "53",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "67",
+        "song": "New Power Generation",
+        "artist": "Prince",
+        "last-week": "70",
+        "peak-rank": "67",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "68",
+        "song": "Crazy",
+        "artist": "The Boys",
+        "last-week": "59",
+        "peak-rank": "29",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "69",
+        "song": "Hang In Long Enough",
+        "artist": "Phil Collins",
+        "last-week": "",
+        "peak-rank": "69",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "70",
+        "song": "Tick Tock",
+        "artist": "Vaughan Brothers",
+        "last-week": "78",
+        "peak-rank": "70",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "71",
+        "song": "Love Is A Rock",
+        "artist": "REO Speedwagon",
+        "last-week": "65",
+        "peak-rank": "65",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "72",
+        "song": "So Hard",
+        "artist": "Pet Shop Boys",
+        "last-week": "77",
+        "peak-rank": "72",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "73",
+        "song": "I Wanna Get With U",
+        "artist": "Guy",
+        "last-week": "",
+        "peak-rank": "73",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "74",
+        "song": "Dirty Cash (Money Talks)",
+        "artist": "The Adventures Of Stevie V",
+        "last-week": "66",
+        "peak-rank": "25",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "75",
+        "song": "Hard To Handle",
+        "artist": "The Black Crowes",
+        "last-week": "83",
+        "peak-rank": "75",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "76",
+        "song": "My, My, My",
+        "artist": "Johnny Gill",
+        "last-week": "57",
+        "peak-rank": "10",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "77",
+        "song": "Never Enough",
+        "artist": "The Cure",
+        "last-week": "79",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "78",
+        "song": "Heart Of Stone",
+        "artist": "Taylor Dayne",
+        "last-week": "67",
+        "peak-rank": "12",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "79",
+        "song": "Ooops Up",
+        "artist": "Snap!",
+        "last-week": "58",
+        "peak-rank": "35",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "80",
+        "song": "Love Is The Ritual",
+        "artist": "Styx",
+        "last-week": "80",
+        "peak-rank": "80",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "81",
+        "song": "Gentle",
+        "artist": "Dino",
+        "last-week": "",
+        "peak-rank": "81",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "82",
+        "song": "New York Minute",
+        "artist": "Don Henley",
+        "last-week": "",
+        "peak-rank": "82",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "83",
+        "song": "Me-U=Blue",
+        "artist": "Glenn Medeiros (Featuring The Stylistics)",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "84",
+        "song": "Love Is A Killer",
+        "artist": "Vixen",
+        "last-week": "",
+        "peak-rank": "84",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "85",
+        "song": "I Found Love",
+        "artist": "The Party",
+        "last-week": "94",
+        "peak-rank": "85",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "86",
+        "song": "Don't You Wanna Be Mine",
+        "artist": "Denise Lopez",
+        "last-week": "92",
+        "peak-rank": "86",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "87",
+        "song": "Time For Letting Go",
+        "artist": "Jude Cole",
+        "last-week": "74",
+        "peak-rank": "32",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "88",
+        "song": "If You Needed Somebody",
+        "artist": "Bad Company",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "89",
+        "song": "I Don't Love You Anymore",
+        "artist": "The London Quireboys",
+        "last-week": "88",
+        "peak-rank": "76",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "90",
+        "song": "Doin' The Do",
+        "artist": "Betty Boo",
+        "last-week": "93",
+        "peak-rank": "90",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "91",
+        "song": "Epic",
+        "artist": "Faith No More",
+        "last-week": "81",
+        "peak-rank": "9",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "92",
+        "song": "Falling To Pieces",
+        "artist": "Faith No More",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "93",
+        "song": "Biscuit's In The House",
+        "artist": "Biscuit",
+        "last-week": "86",
+        "peak-rank": "85",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "94",
+        "song": "Days Like These",
+        "artist": "Asia",
+        "last-week": "73",
+        "peak-rank": "64",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "95",
+        "song": "Have You Seen Her",
+        "artist": "M.C. Hammer",
+        "last-week": "85",
+        "peak-rank": "4",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "96",
+        "song": "Look Into My Eyes",
+        "artist": "George LaMond",
+        "last-week": "89",
+        "peak-rank": "63",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "97",
+        "song": "All I'm Missing Is You",
+        "artist": "Glenn Medeiros Featuring Ray Parker, Jr.",
+        "last-week": "87",
+        "peak-rank": "32",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "98",
+        "song": "Lost Soul",
+        "artist": "Bruce Hornsby & The Range With Shawn Colvin",
+        "last-week": "84",
+        "peak-rank": "84",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "99",
+        "song": "This Is The Right Time",
+        "artist": "Lisa Stansfield",
+        "last-week": "76",
+        "peak-rank": "21",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1990-11-10",
+        "rank": "100",
+        "song": "Unskinny Bop",
+        "artist": "Poison",
+        "last-week": "72",
+        "peak-rank": "3",
+        "weeks-on-board": "19"
+    }
+]

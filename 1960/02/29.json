@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1960-02-29",
+        "rank": "1",
+        "song": "The Theme From \"A Summer Place\"",
+        "artist": "Percy Faith And His Orchestra",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "2",
+        "song": "Handy Man",
+        "artist": "Jimmy Jones",
+        "last-week": "3",
+        "peak-rank": "2",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "3",
+        "song": "He'll Have To Go",
+        "artist": "Jim Reeves",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "4",
+        "song": "Teen Angel",
+        "artist": "Mark Dinning",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "5",
+        "song": "What In The World's Come Over You",
+        "artist": "Jack Scott",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "6",
+        "song": "Beyond The Sea",
+        "artist": "Bobby Darin",
+        "last-week": "8",
+        "peak-rank": "6",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "7",
+        "song": "Running Bear",
+        "artist": "Johnny Preston",
+        "last-week": "6",
+        "peak-rank": "1",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "8",
+        "song": "Let It Be Me",
+        "artist": "The Everly Brothers",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "9",
+        "song": "Baby (You've Got What It Takes)",
+        "artist": "Dinah Washington & Brook Benton",
+        "last-week": "12",
+        "peak-rank": "9",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "10",
+        "song": "Wild One",
+        "artist": "Bobby Rydell",
+        "last-week": "11",
+        "peak-rank": "10",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "11",
+        "song": "Where Or When",
+        "artist": "Dion & The Belmonts",
+        "last-week": "10",
+        "peak-rank": "3",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "12",
+        "song": "Lonely Blue Boy",
+        "artist": "Conway Twitty",
+        "last-week": "9",
+        "peak-rank": "6",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "13",
+        "song": "Forever",
+        "artist": "The Little Dippers",
+        "last-week": "17",
+        "peak-rank": "13",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "14",
+        "song": "Down By The Station",
+        "artist": "The Four Preps",
+        "last-week": "14",
+        "peak-rank": "13",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "15",
+        "song": "Harbor Lights",
+        "artist": "The Platters",
+        "last-week": "21",
+        "peak-rank": "15",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "16",
+        "song": "Sweet Nothin's",
+        "artist": "Brenda Lee",
+        "last-week": "26",
+        "peak-rank": "16",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "17",
+        "song": "Tracy's Theme",
+        "artist": "Spencer Ross",
+        "last-week": "13",
+        "peak-rank": "13",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "18",
+        "song": "Midnite Special",
+        "artist": "Paul Evans",
+        "last-week": "19",
+        "peak-rank": "18",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "19",
+        "song": "Lady Luck",
+        "artist": "Lloyd Price and His Orchestra",
+        "last-week": "20",
+        "peak-rank": "19",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "20",
+        "song": "You Got What It Takes",
+        "artist": "Marv Johnson",
+        "last-week": "15",
+        "peak-rank": "10",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "21",
+        "song": "Pretty Blue Eyes",
+        "artist": "Steve Lawrence",
+        "last-week": "18",
+        "peak-rank": "9",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "22",
+        "song": "Rockin' Little Angel",
+        "artist": "Ray Smith",
+        "last-week": "22",
+        "peak-rank": "22",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "23",
+        "song": "Delaware",
+        "artist": "Perry Como",
+        "last-week": "34",
+        "peak-rank": "23",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "24",
+        "song": "Bulldog",
+        "artist": "The Fireballs",
+        "last-week": "25",
+        "peak-rank": "24",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "25",
+        "song": "Country Boy",
+        "artist": "Fats Domino",
+        "last-week": "29",
+        "peak-rank": "25",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "26",
+        "song": "T.L.C. Tender Love And Care",
+        "artist": "Jimmie Rodgers",
+        "last-week": "24",
+        "peak-rank": "24",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "27",
+        "song": "Beatnik Fly",
+        "artist": "Johnny And The Hurricanes",
+        "last-week": "36",
+        "peak-rank": "27",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "28",
+        "song": "Little Bitty Girl",
+        "artist": "Bobby Rydell",
+        "last-week": "27",
+        "peak-rank": "27",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "29",
+        "song": "El Paso",
+        "artist": "Marty Robbins",
+        "last-week": "16",
+        "peak-rank": "1",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "30",
+        "song": "Too Much Tequila",
+        "artist": "The Champs",
+        "last-week": "32",
+        "peak-rank": "30",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "31",
+        "song": "Lucky Devil",
+        "artist": "Carl Dobkins, Jr.",
+        "last-week": "31",
+        "peak-rank": "25",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "32",
+        "song": "Go, Jimmy, Go",
+        "artist": "Jimmy Clanton",
+        "last-week": "23",
+        "peak-rank": "5",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "33",
+        "song": "Shimmy, Shimmy, Ko-Ko-Bop",
+        "artist": "Little Anthony And The Imperials",
+        "last-week": "33",
+        "peak-rank": "24",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "34",
+        "song": "(There Was A) Tall Oak Tree",
+        "artist": "Dorsey Burnette",
+        "last-week": "35",
+        "peak-rank": "34",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "35",
+        "song": "Time And The River",
+        "artist": "Nat King Cole",
+        "last-week": "30",
+        "peak-rank": "30",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "36",
+        "song": "Crazy Arms",
+        "artist": "Bob Beckham",
+        "last-week": "43",
+        "peak-rank": "36",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "37",
+        "song": "Baby What You Want Me To Do",
+        "artist": "Jimmy Reed",
+        "last-week": "50",
+        "peak-rank": "37",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "38",
+        "song": "China Doll",
+        "artist": "The Ames Brothers",
+        "last-week": "40",
+        "peak-rank": "38",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "39",
+        "song": "Am I That Easy To Forget",
+        "artist": "Debbie Reynolds",
+        "last-week": "39",
+        "peak-rank": "39",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "40",
+        "song": "Outside My Window",
+        "artist": "The Fleetwoods",
+        "last-week": "48",
+        "peak-rank": "40",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "41",
+        "song": "Puppy Love",
+        "artist": "Paul Anka",
+        "last-week": "62",
+        "peak-rank": "41",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "42",
+        "song": "Too Pooped To Pop (\"Casey\")",
+        "artist": "Chuck Berry",
+        "last-week": "51",
+        "peak-rank": "42",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "43",
+        "song": "Money (That's what I want)",
+        "artist": "Barrett Strong",
+        "last-week": "49",
+        "peak-rank": "43",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "44",
+        "song": "Why",
+        "artist": "Frankie Avalon",
+        "last-week": "28",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "45",
+        "song": "The Big Hurt",
+        "artist": "Miss Toni Fisher",
+        "last-week": "37",
+        "peak-rank": "3",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "46",
+        "song": "Eternally",
+        "artist": "Sarah Vaughan",
+        "last-week": "41",
+        "peak-rank": "41",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "47",
+        "song": "This Magic Moment",
+        "artist": "The Drifters",
+        "last-week": "67",
+        "peak-rank": "47",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "48",
+        "song": "On The Beach",
+        "artist": "Frank Chacksfield And His Orch.",
+        "last-week": "47",
+        "peak-rank": "47",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "49",
+        "song": "Bad Boy",
+        "artist": "Marty Wilde",
+        "last-week": "45",
+        "peak-rank": "45",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "50",
+        "song": "(Welcome) New Lovers",
+        "artist": "Pat Boone",
+        "last-week": "60",
+        "peak-rank": "50",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "51",
+        "song": "Fannie Mae",
+        "artist": "Buster Brown",
+        "last-week": "52",
+        "peak-rank": "51",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "52",
+        "song": "Chattanooga Shoe Shine Boy",
+        "artist": "Freddy Cannon",
+        "last-week": "70",
+        "peak-rank": "52",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "53",
+        "song": "About This Thing Called Love",
+        "artist": "Fabian",
+        "last-week": "",
+        "peak-rank": "53",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "54",
+        "song": "Why Do I Love You So",
+        "artist": "Johnny Tillotson",
+        "last-week": "42",
+        "peak-rank": "42",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "55",
+        "song": "Sixteen Reasons",
+        "artist": "Connie Stevens",
+        "last-week": "58",
+        "peak-rank": "55",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "56",
+        "song": "Harlem Nocturne",
+        "artist": "The Viscounts",
+        "last-week": "56",
+        "peak-rank": "52",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "57",
+        "song": "Darling Lorraine",
+        "artist": "The Knockouts",
+        "last-week": "46",
+        "peak-rank": "46",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "58",
+        "song": "Waltzing Matilda",
+        "artist": "Jimmie Rodgers",
+        "last-week": "65",
+        "peak-rank": "41",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "59",
+        "song": "The Village Of St. Bernadette",
+        "artist": "Andy Williams",
+        "last-week": "38",
+        "peak-rank": "7",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "60",
+        "song": "String Along",
+        "artist": "Fabian",
+        "last-week": "61",
+        "peak-rank": "60",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "61",
+        "song": "O Dio Mio",
+        "artist": "Annette",
+        "last-week": "68",
+        "peak-rank": "61",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "62",
+        "song": "Mama",
+        "artist": "Connie Francis",
+        "last-week": "63",
+        "peak-rank": "62",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "63",
+        "song": "Lawdy Miss Clawdy",
+        "artist": "Gary Stites",
+        "last-week": "88",
+        "peak-rank": "63",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "64",
+        "song": "Just A Little Bit",
+        "artist": "Rosco Gordon",
+        "last-week": "81",
+        "peak-rank": "64",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "65",
+        "song": "Sleepy Lagoon",
+        "artist": "The Platters",
+        "last-week": "93",
+        "peak-rank": "65",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "66",
+        "song": "Paradise",
+        "artist": "Sammy Turner",
+        "last-week": "84",
+        "peak-rank": "66",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "67",
+        "song": "Clementine",
+        "artist": "Jan & Dean",
+        "last-week": "83",
+        "peak-rank": "67",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "68",
+        "song": "Angela Jones",
+        "artist": "Johnny Ferguson",
+        "last-week": "92",
+        "peak-rank": "68",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "69",
+        "song": "Little Coco Palm",
+        "artist": "Jerry Wallace",
+        "last-week": "53",
+        "peak-rank": "36",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "70",
+        "song": "El Matador",
+        "artist": "The Kingston Trio",
+        "last-week": "99",
+        "peak-rank": "70",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "71",
+        "song": "Alvin's Orchestra",
+        "artist": "David Seville And The Chipmunks",
+        "last-week": "98",
+        "peak-rank": "71",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "72",
+        "song": "Anyway The Wind Blows",
+        "artist": "Doris Day",
+        "last-week": "91",
+        "peak-rank": "72",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "73",
+        "song": "Teensville",
+        "artist": "Chet Atkins",
+        "last-week": "74",
+        "peak-rank": "73",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "74",
+        "song": "I Was Such A Fool (To Fall In Love With You)",
+        "artist": "The Flamingos",
+        "last-week": "76",
+        "peak-rank": "71",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "75",
+        "song": "Don't Fence Me In",
+        "artist": "Tommy Edwards",
+        "last-week": "86",
+        "peak-rank": "75",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "76",
+        "song": "Let It Rock",
+        "artist": "Chuck Berry",
+        "last-week": "64",
+        "peak-rank": "64",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "77",
+        "song": "Teddy",
+        "artist": "Connie Francis",
+        "last-week": "",
+        "peak-rank": "77",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "78",
+        "song": "Way Down Yonder In New Orleans",
+        "artist": "Freddie Cannon",
+        "last-week": "44",
+        "peak-rank": "3",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "79",
+        "song": "Sandy",
+        "artist": "Larry Hall",
+        "last-week": "54",
+        "peak-rank": "15",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "80",
+        "song": "Greenfields",
+        "artist": "The Brothers Four",
+        "last-week": "95",
+        "peak-rank": "80",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "81",
+        "song": "Time After Time",
+        "artist": "Frankie Ford",
+        "last-week": "75",
+        "peak-rank": "75",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "82",
+        "song": "Summer Set",
+        "artist": "Monty Kelly And His Orchestra",
+        "last-week": "",
+        "peak-rank": "82",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "83",
+        "song": "Werewolf",
+        "artist": "The Frantics",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "84",
+        "song": "Starbright",
+        "artist": "Johnny Mathis",
+        "last-week": "",
+        "peak-rank": "84",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "85",
+        "song": "Chattanooga Choo Choo",
+        "artist": "Ernie Fields & Orch.",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "86",
+        "song": "(Baby) Hully Gully",
+        "artist": "The Olympics",
+        "last-week": "72",
+        "peak-rank": "72",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "87",
+        "song": "That Old Feeling",
+        "artist": "Kitty Kallen",
+        "last-week": "55",
+        "peak-rank": "55",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "88",
+        "song": "It's Time To Cry",
+        "artist": "Paul Anka",
+        "last-week": "57",
+        "peak-rank": "4",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "89",
+        "song": "The Same Old Me",
+        "artist": "Guy Mitchell",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "90",
+        "song": "Step By Step",
+        "artist": "The Crests",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "91",
+        "song": "Secret Of Love",
+        "artist": "Elton Anderson With Sid Lawrence Combo",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "92",
+        "song": "(Do The) Mashed Potatoes (Part 1)",
+        "artist": "Nat Kendrick And The Swans",
+        "last-week": "",
+        "peak-rank": "84",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "93",
+        "song": "Let The Little Girl Dance",
+        "artist": "Billy Bland",
+        "last-week": "96",
+        "peak-rank": "93",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "94",
+        "song": "Up Town",
+        "artist": "Roy Orbison",
+        "last-week": "",
+        "peak-rank": "72",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "95",
+        "song": "You Don't Know Me",
+        "artist": "Lenny Welch",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "96",
+        "song": "Mountain Of Love",
+        "artist": "Harold Dorman",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "97",
+        "song": "Road Runner",
+        "artist": "Bo Diddley",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "98",
+        "song": "Among My Souvenirs",
+        "artist": "Connie Francis",
+        "last-week": "59",
+        "peak-rank": "7",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "99",
+        "song": "The Old Payola Roll Blues (Side I)",
+        "artist": "Stan Freberg",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-02-29",
+        "rank": "100",
+        "song": "Just Give Me A Ring",
+        "artist": "Clyde McPhatter",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

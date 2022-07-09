@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1984-06-23",
+        "rank": "1",
+        "song": "The Reflex",
+        "artist": "Duran Duran",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "2",
+        "song": "Time After Time",
+        "artist": "Cyndi Lauper",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "3",
+        "song": "Let's Hear It For The Boy",
+        "artist": "Deniece Williams",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "4",
+        "song": "Dancing In The Dark",
+        "artist": "Bruce Springsteen",
+        "last-week": "9",
+        "peak-rank": "4",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "5",
+        "song": "Self Control",
+        "artist": "Laura Branigan",
+        "last-week": "7",
+        "peak-rank": "5",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "6",
+        "song": "The Heart Of Rock & Roll",
+        "artist": "Huey Lewis & The News",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "7",
+        "song": "Jump (for My Love)",
+        "artist": "The Pointer Sisters",
+        "last-week": "8",
+        "peak-rank": "7",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "8",
+        "song": "When Doves Cry",
+        "artist": "Prince",
+        "last-week": "17",
+        "peak-rank": "8",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "9",
+        "song": "Oh, Sherrie",
+        "artist": "Steve Perry",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "10",
+        "song": "Eyes Without A Face",
+        "artist": "Billy Idol",
+        "last-week": "11",
+        "peak-rank": "10",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "11",
+        "song": "Borderline",
+        "artist": "Madonna",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "12",
+        "song": "Almost Paradise...Love Theme From Footloose",
+        "artist": "Mike Reno And Ann Wilson",
+        "last-week": "14",
+        "peak-rank": "12",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "13",
+        "song": "It's A Miracle",
+        "artist": "Culture Club",
+        "last-week": "13",
+        "peak-rank": "13",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "14",
+        "song": "Sister Christian",
+        "artist": "Night Ranger",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "15",
+        "song": "You Can't Get What You Want",
+        "artist": "Joe Jackson",
+        "last-week": "16",
+        "peak-rank": "15",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "16",
+        "song": "Stay The Night",
+        "artist": "Chicago",
+        "last-week": "19",
+        "peak-rank": "16",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "17",
+        "song": "Breakdance",
+        "artist": "Irene Cara",
+        "last-week": "12",
+        "peak-rank": "8",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "18",
+        "song": "Hello",
+        "artist": "Lionel Richie",
+        "last-week": "15",
+        "peak-rank": "1",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "19",
+        "song": "Legs",
+        "artist": "ZZ Top",
+        "last-week": "23",
+        "peak-rank": "19",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "20",
+        "song": "Magic",
+        "artist": "The Cars",
+        "last-week": "24",
+        "peak-rank": "20",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "21",
+        "song": "Who's That Girl",
+        "artist": "Eurythmics",
+        "last-week": "22",
+        "peak-rank": "21",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "22",
+        "song": "Doctor! Doctor!",
+        "artist": "Thompson Twins",
+        "last-week": "26",
+        "peak-rank": "22",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "23",
+        "song": "Infatuation",
+        "artist": "Rod Stewart",
+        "last-week": "27",
+        "peak-rank": "23",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "24",
+        "song": "Modern Day Delilah",
+        "artist": "Van Stephenson",
+        "last-week": "25",
+        "peak-rank": "24",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "25",
+        "song": "Dance Hall Days",
+        "artist": "Wang Chung",
+        "last-week": "28",
+        "peak-rank": "25",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "26",
+        "song": "Sad Songs (say So Much)",
+        "artist": "Elton John",
+        "last-week": "32",
+        "peak-rank": "26",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "27",
+        "song": "Run, Runaway",
+        "artist": "Slade",
+        "last-week": "20",
+        "peak-rank": "20",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "28",
+        "song": "No Way Out",
+        "artist": "Jefferson Starship",
+        "last-week": "31",
+        "peak-rank": "28",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "29",
+        "song": "Don't Walk Away",
+        "artist": "Rick Springfield",
+        "last-week": "34",
+        "peak-rank": "29",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "30",
+        "song": "Breakin'...there's No Stopping Us",
+        "artist": "Ollie And Jerry",
+        "last-week": "40",
+        "peak-rank": "30",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "31",
+        "song": "I Can Dream About You",
+        "artist": "Dan Hartman",
+        "last-week": "35",
+        "peak-rank": "31",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "32",
+        "song": "I'll Wait",
+        "artist": "Van Halen",
+        "last-week": "18",
+        "peak-rank": "13",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "33",
+        "song": "What Is Love",
+        "artist": "Howard Jones",
+        "last-week": "33",
+        "peak-rank": "33",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "34",
+        "song": "Against All Odds (Take A Look At Me Now)",
+        "artist": "Phil Collins",
+        "last-week": "21",
+        "peak-rank": "1",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "35",
+        "song": "What's Love Got To Do With It",
+        "artist": "Tina Turner",
+        "last-week": "45",
+        "peak-rank": "35",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "36",
+        "song": "Sunglasses At Night",
+        "artist": "Corey Hart",
+        "last-week": "44",
+        "peak-rank": "36",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "37",
+        "song": "I'm Free (Heaven Helps The Man)",
+        "artist": "Kenny Loggins",
+        "last-week": "50",
+        "peak-rank": "37",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "38",
+        "song": "Prime Time",
+        "artist": "The Alan Parsons Project",
+        "last-week": "42",
+        "peak-rank": "38",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "39",
+        "song": "Obscene Phone Caller",
+        "artist": "Rockwell",
+        "last-week": "41",
+        "peak-rank": "39",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "40",
+        "song": "Farewell My Summer Love",
+        "artist": "Michael Jackson",
+        "last-week": "43",
+        "peak-rank": "40",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "41",
+        "song": "Romancing The Stone",
+        "artist": "Eddy Grant",
+        "last-week": "48",
+        "peak-rank": "41",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "42",
+        "song": "If Ever You're In My Arms Again",
+        "artist": "Peabo Bryson",
+        "last-week": "46",
+        "peak-rank": "42",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "43",
+        "song": "To All The Girls I've Loved Before",
+        "artist": "Julio Iglesias And Willie Nelson",
+        "last-week": "29",
+        "peak-rank": "5",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "44",
+        "song": "Dancing In The Sheets",
+        "artist": "Shalamar",
+        "last-week": "30",
+        "peak-rank": "17",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "45",
+        "song": "Alibis",
+        "artist": "Sergio Mendes",
+        "last-week": "49",
+        "peak-rank": "45",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "46",
+        "song": "Ghostbusters",
+        "artist": "Ray Parker Jr.",
+        "last-week": "68",
+        "peak-rank": "46",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "47",
+        "song": "Love Of The Common People",
+        "artist": "Paul Young",
+        "last-week": "53",
+        "peak-rank": "47",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "48",
+        "song": "Boys Do Fall In Love",
+        "artist": "Robin Gibb",
+        "last-week": "54",
+        "peak-rank": "48",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "49",
+        "song": "A Little Love",
+        "artist": "Juice Newton",
+        "last-week": "57",
+        "peak-rank": "49",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "50",
+        "song": "Whisper To A Scream (Birds Fly)",
+        "artist": "Icicle Works",
+        "last-week": "37",
+        "peak-rank": "37",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "51",
+        "song": "The Longest Time",
+        "artist": "Billy Joel",
+        "last-week": "36",
+        "peak-rank": "14",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "52",
+        "song": "Panama",
+        "artist": "Van Halen",
+        "last-week": "",
+        "peak-rank": "52",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "53",
+        "song": "The First Day Of Summer",
+        "artist": "Tony Carey",
+        "last-week": "62",
+        "peak-rank": "53",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "54",
+        "song": "She Don't Know Me",
+        "artist": "Bon Jovi",
+        "last-week": "59",
+        "peak-rank": "54",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "55",
+        "song": "10-9-8",
+        "artist": "Face To Face",
+        "last-week": "60",
+        "peak-rank": "55",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "56",
+        "song": "Strangers In A Strange World",
+        "artist": "Jenny Burton & Patrick Jude",
+        "last-week": "65",
+        "peak-rank": "56",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "57",
+        "song": "My Ever Changing Moods",
+        "artist": "The Style Council",
+        "last-week": "38",
+        "peak-rank": "29",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "58",
+        "song": "Turn To You",
+        "artist": "Go-Go's",
+        "last-week": "77",
+        "peak-rank": "58",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "59",
+        "song": "The Ghost In You",
+        "artist": "Psychedelic Furs",
+        "last-week": "61",
+        "peak-rank": "59",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "60",
+        "song": "Rock You Like A Hurricane",
+        "artist": "Scorpions",
+        "last-week": "47",
+        "peak-rank": "25",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "61",
+        "song": "Love Will Show Us How",
+        "artist": "Christine McVie",
+        "last-week": "39",
+        "peak-rank": "30",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "62",
+        "song": "So You Ran",
+        "artist": "Orion The Hunter",
+        "last-week": "67",
+        "peak-rank": "62",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "63",
+        "song": "Head Over Heels",
+        "artist": "Go-Go's",
+        "last-week": "52",
+        "peak-rank": "11",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "64",
+        "song": "The Lebanon",
+        "artist": "The Human League",
+        "last-week": "70",
+        "peak-rank": "64",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "65",
+        "song": "Bringin' On The Heartbreak",
+        "artist": "Def Leppard",
+        "last-week": "71",
+        "peak-rank": "65",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "66",
+        "song": "You Might Think",
+        "artist": "The Cars",
+        "last-week": "51",
+        "peak-rank": "7",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "67",
+        "song": "Hold Me",
+        "artist": "Teddy Pendergrass And Whitney Houston",
+        "last-week": "75",
+        "peak-rank": "67",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "68",
+        "song": "Round And Round",
+        "artist": "Ratt",
+        "last-week": "88",
+        "peak-rank": "68",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "69",
+        "song": "Taking It All Too Hard",
+        "artist": "Genesis",
+        "last-week": "82",
+        "peak-rank": "69",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "70",
+        "song": "The Moment Of Truth",
+        "artist": "Survivor",
+        "last-week": "79",
+        "peak-rank": "70",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "71",
+        "song": "Don't Waste Your Time",
+        "artist": "Yarbrough & Peoples",
+        "last-week": "55",
+        "peak-rank": "48",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "72",
+        "song": "Stuck On You",
+        "artist": "Lionel Richie",
+        "last-week": "",
+        "peak-rank": "72",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "73",
+        "song": "Break-A-Way",
+        "artist": "Tracey Ullman",
+        "last-week": "84",
+        "peak-rank": "73",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "74",
+        "song": "Jam On It",
+        "artist": "Newcleus",
+        "last-week": "87",
+        "peak-rank": "74",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "75",
+        "song": "Music Time",
+        "artist": "Styx",
+        "last-week": "56",
+        "peak-rank": "40",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "76",
+        "song": "The Glamorous Life",
+        "artist": "Sheila E.",
+        "last-week": "86",
+        "peak-rank": "76",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "77",
+        "song": "Somebody Else's Guy",
+        "artist": "Jocelyn Brown",
+        "last-week": "89",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "78",
+        "song": "Hold Me Now",
+        "artist": "Thompson Twins",
+        "last-week": "58",
+        "peak-rank": "3",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "79",
+        "song": "Young Thing, Wild Dreams (Rock Me)",
+        "artist": "Red Rider",
+        "last-week": "94",
+        "peak-rank": "79",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "80",
+        "song": "Tonight Is What It Means To Be Young",
+        "artist": "Fire Inc.",
+        "last-week": "80",
+        "peak-rank": "80",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "81",
+        "song": "A Chance For Heaven",
+        "artist": "Christopher Cross",
+        "last-week": "91",
+        "peak-rank": "81",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "82",
+        "song": "Footloose",
+        "artist": "Kenny Loggins",
+        "last-week": "63",
+        "peak-rank": "1",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "83",
+        "song": "Freakshow On The Dance Floor",
+        "artist": "Bar-Kays",
+        "last-week": "73",
+        "peak-rank": "73",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "84",
+        "song": "No More Words",
+        "artist": "Berlin",
+        "last-week": "74",
+        "peak-rank": "23",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "85",
+        "song": "It Can Happen",
+        "artist": "Yes",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "86",
+        "song": "When We Make Love",
+        "artist": "Alabama",
+        "last-week": "72",
+        "peak-rank": "72",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "87",
+        "song": "Heart Don't Lie",
+        "artist": "LaToya Jackson",
+        "last-week": "64",
+        "peak-rank": "56",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "88",
+        "song": "Simple",
+        "artist": "Johnny Mathis",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "89",
+        "song": "Missing You",
+        "artist": "John Waite",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "90",
+        "song": "Too Young To Fall In Love",
+        "artist": "Motley Crue",
+        "last-week": "90",
+        "peak-rank": "90",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "91",
+        "song": "Tonight",
+        "artist": "Kool & The Gang",
+        "last-week": "78",
+        "peak-rank": "13",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "92",
+        "song": "Believe In Me",
+        "artist": "Dan Fogelberg",
+        "last-week": "85",
+        "peak-rank": "48",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "93",
+        "song": "Love Somebody",
+        "artist": "Rick Springfield",
+        "last-week": "66",
+        "peak-rank": "5",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "94",
+        "song": "It's My Life",
+        "artist": "Talk Talk",
+        "last-week": "76",
+        "peak-rank": "31",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "95",
+        "song": "South Central Rain (I'm Sorry)",
+        "artist": "R.E.M.",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "96",
+        "song": "The Authority Song",
+        "artist": "John Cougar Mellencamp",
+        "last-week": "69",
+        "peak-rank": "15",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "97",
+        "song": "Give Me Tonight",
+        "artist": "Shannon",
+        "last-week": "92",
+        "peak-rank": "46",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "98",
+        "song": "White Horse",
+        "artist": "Laid Back",
+        "last-week": "93",
+        "peak-rank": "26",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "99",
+        "song": "Wouldn't It Be Good",
+        "artist": "Nik Kershaw",
+        "last-week": "83",
+        "peak-rank": "46",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1984-06-23",
+        "rank": "100",
+        "song": "Little Lady",
+        "artist": "Duke Jupiter",
+        "last-week": "81",
+        "peak-rank": "68",
+        "weeks-on-board": "7"
+    }
+]

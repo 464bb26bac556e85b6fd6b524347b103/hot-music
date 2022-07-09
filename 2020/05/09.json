@@ -1,0 +1,902 @@
+[
+    {
+        "date": "2020-05-09",
+        "rank": "1",
+        "song": "The Scotts",
+        "artist": "THE SCOTTS, Travis Scott & Kid Cudi",
+        "last-week": "",
+        "peak-rank": "1",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "2",
+        "song": "Blinding Lights",
+        "artist": "The Weeknd",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "3",
+        "song": "Toosie Slide",
+        "artist": "Drake",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "4",
+        "song": "Savage",
+        "artist": "Megan Thee Stallion",
+        "last-week": "14",
+        "peak-rank": "4",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "5",
+        "song": "The Box",
+        "artist": "Roddy Ricch",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "6",
+        "song": "Say So",
+        "artist": "Doja Cat Featuring Nicki Minaj",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "7",
+        "song": "Don't Start Now",
+        "artist": "Dua Lipa",
+        "last-week": "4",
+        "peak-rank": "2",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "8",
+        "song": "Circles",
+        "artist": "Post Malone",
+        "last-week": "6",
+        "peak-rank": "1",
+        "weeks-on-board": "35"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "9",
+        "song": "Intentions",
+        "artist": "Justin Bieber Featuring Quavo",
+        "last-week": "8",
+        "peak-rank": "8",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "10",
+        "song": "Adore You",
+        "artist": "Harry Styles",
+        "last-week": "7",
+        "peak-rank": "6",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "11",
+        "song": "Righteous",
+        "artist": "Juice WRLD",
+        "last-week": "",
+        "peak-rank": "11",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "12",
+        "song": "Life Is Good",
+        "artist": "Future Featuring Drake",
+        "last-week": "10",
+        "peak-rank": "2",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "13",
+        "song": "My Oh My",
+        "artist": "Camila Cabello Featuring DaBaby",
+        "last-week": "12",
+        "peak-rank": "12",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "14",
+        "song": "Rockstar",
+        "artist": "DaBaby Featuring Roddy Ricch",
+        "last-week": "9",
+        "peak-rank": "9",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "15",
+        "song": "The Bones",
+        "artist": "Maren Morris",
+        "last-week": "13",
+        "peak-rank": "12",
+        "weeks-on-board": "32"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "16",
+        "song": "Everything I Wanted",
+        "artist": "Billie Eilish",
+        "last-week": "11",
+        "peak-rank": "8",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "17",
+        "song": "Someone You Loved",
+        "artist": "Lewis Capaldi",
+        "last-week": "15",
+        "peak-rank": "1",
+        "weeks-on-board": "51"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "18",
+        "song": "Nobody But You",
+        "artist": "Blake Shelton Duet With Gwen Stefani",
+        "last-week": "20",
+        "peak-rank": "18",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "19",
+        "song": "I Hope",
+        "artist": "Gabby Barrett Featuring Charlie Puth",
+        "last-week": "16",
+        "peak-rank": "16",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "20",
+        "song": "Blueberry Faygo",
+        "artist": "Lil Mosey",
+        "last-week": "19",
+        "peak-rank": "16",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "21",
+        "song": "Memories",
+        "artist": "Maroon 5",
+        "last-week": "18",
+        "peak-rank": "2",
+        "weeks-on-board": "32"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "22",
+        "song": "Chasin' You",
+        "artist": "Morgan Wallen",
+        "last-week": "21",
+        "peak-rank": "21",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "23",
+        "song": "Roses",
+        "artist": "SAINt JHN",
+        "last-week": "22",
+        "peak-rank": "22",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "24",
+        "song": "Falling",
+        "artist": "Trevor Daniel",
+        "last-week": "23",
+        "peak-rank": "22",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "25",
+        "song": "High Fashion",
+        "artist": "Roddy Ricch Featuring Mustard",
+        "last-week": "25",
+        "peak-rank": "20",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "26",
+        "song": "Death Bed",
+        "artist": "Powfu Featuring beabadoobee",
+        "last-week": "27",
+        "peak-rank": "26",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "27",
+        "song": "Hot Girl Bummer",
+        "artist": "blackbear",
+        "last-week": "24",
+        "peak-rank": "11",
+        "weeks-on-board": "33"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "28",
+        "song": "Sunday Best",
+        "artist": "Surfaces",
+        "last-week": "38",
+        "peak-rank": "28",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "29",
+        "song": "RITMO (Bad Boys For Life)",
+        "artist": "Black Eyed Peas X J Balvin",
+        "last-week": "34",
+        "peak-rank": "26",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "30",
+        "song": "Does To Me",
+        "artist": "Luke Combs Featuring Eric Church",
+        "last-week": "40",
+        "peak-rank": "30",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "31",
+        "song": "Heart On Ice",
+        "artist": "Rod Wave",
+        "last-week": "29",
+        "peak-rank": "25",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "32",
+        "song": "Ballin'",
+        "artist": "Mustard & Roddy Ricch",
+        "last-week": "32",
+        "peak-rank": "11",
+        "weeks-on-board": "41"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "33",
+        "song": "Roxanne",
+        "artist": "Arizona Zervas",
+        "last-week": "26",
+        "peak-rank": "4",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "34",
+        "song": "Dance Monkey",
+        "artist": "Tones And I",
+        "last-week": "31",
+        "peak-rank": "4",
+        "weeks-on-board": "30"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "35",
+        "song": "Whats Poppin",
+        "artist": "Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",
+        "last-week": "37",
+        "peak-rank": "35",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "36",
+        "song": "Break My Heart",
+        "artist": "Dua Lipa",
+        "last-week": "39",
+        "peak-rank": "21",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "37",
+        "song": "Heartless",
+        "artist": "The Weeknd",
+        "last-week": "28",
+        "peak-rank": "1",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "38",
+        "song": "HIGHEST IN THE ROOM",
+        "artist": "Travis Scott",
+        "last-week": "",
+        "peak-rank": "1",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "39",
+        "song": "I Hope You're Happy Now",
+        "artist": "Carly Pearce & Lee Brice",
+        "last-week": "47",
+        "peak-rank": "39",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "40",
+        "song": "Beer Can't Fix",
+        "artist": "Thomas Rhett Featuring Jon Pardi",
+        "last-week": "51",
+        "peak-rank": "40",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "41",
+        "song": "Level Of Concern",
+        "artist": "twenty one pilots",
+        "last-week": "45",
+        "peak-rank": "23",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "42",
+        "song": "I Love Me",
+        "artist": "Demi Lovato",
+        "last-week": "42",
+        "peak-rank": "18",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "43",
+        "song": "More Hearts Than Mine",
+        "artist": "Ingrid Andress",
+        "last-week": "30",
+        "peak-rank": "30",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "44",
+        "song": "After A Few",
+        "artist": "Travis Denning",
+        "last-week": "56",
+        "peak-rank": "44",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "45",
+        "song": "All In",
+        "artist": "Lil Baby",
+        "last-week": "",
+        "peak-rank": "45",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "46",
+        "song": "10,000 Hours",
+        "artist": "Dan + Shay & Justin Bieber",
+        "last-week": "41",
+        "peak-rank": "4",
+        "weeks-on-board": "30"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "47",
+        "song": "Hard To Forget",
+        "artist": "Sam Hunt",
+        "last-week": "49",
+        "peak-rank": "40",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "48",
+        "song": "Supalonely",
+        "artist": "BENEE Featuring Gus Dapperton",
+        "last-week": "59",
+        "peak-rank": "48",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "49",
+        "song": "Goosebumps",
+        "artist": "Travis Scott",
+        "last-week": "",
+        "peak-rank": "32",
+        "weeks-on-board": "35"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "50",
+        "song": "Before You Go",
+        "artist": "Lewis Capaldi",
+        "last-week": "57",
+        "peak-rank": "50",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "51",
+        "song": "In Your Eyes",
+        "artist": "The Weeknd",
+        "last-week": "55",
+        "peak-rank": "16",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "52",
+        "song": "Dior",
+        "artist": "Pop Smoke",
+        "last-week": "54",
+        "peak-rank": "30",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "53",
+        "song": "Sum 2 Prove",
+        "artist": "Lil Baby",
+        "last-week": "60",
+        "peak-rank": "16",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "54",
+        "song": "Slide",
+        "artist": "H.E.R. Featuring YG",
+        "last-week": "58",
+        "peak-rank": "43",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "55",
+        "song": "Catch",
+        "artist": "Brett Young",
+        "last-week": "52",
+        "peak-rank": "29",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "56",
+        "song": "Walk Em Down",
+        "artist": "NLE Choppa Featuring Roddy Ricch",
+        "last-week": "65",
+        "peak-rank": "56",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "57",
+        "song": "Heartless",
+        "artist": "Diplo Presents Thomas Wesley Featuring Morgan Wallen",
+        "last-week": "67",
+        "peak-rank": "57",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "58",
+        "song": "Jump",
+        "artist": "DaBaby Featuring YoungBoy Never Broke Again",
+        "last-week": "17",
+        "peak-rank": "17",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "59",
+        "song": "If The World Was Ending",
+        "artist": "JP Saxe Featuring Julia Michaels",
+        "last-week": "77",
+        "peak-rank": "59",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "60",
+        "song": "Out West",
+        "artist": "JACKBOYS Featuring Young Thug",
+        "last-week": "72",
+        "peak-rank": "38",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "61",
+        "song": "Stupid Love",
+        "artist": "Lady Gaga",
+        "last-week": "46",
+        "peak-rank": "5",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "62",
+        "song": "Yo Perreo Sola",
+        "artist": "Bad Bunny",
+        "last-week": "68",
+        "peak-rank": "53",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "63",
+        "song": "I'm Ready",
+        "artist": "Sam Smith & Demi Lovato",
+        "last-week": "36",
+        "peak-rank": "36",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "64",
+        "song": "P*$$y Fairy (OTW)",
+        "artist": "Jhene Aiko",
+        "last-week": "76",
+        "peak-rank": "40",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "65",
+        "song": "Sasuke",
+        "artist": "Lil Uzi Vert",
+        "last-week": "",
+        "peak-rank": "65",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "66",
+        "song": "Godzilla",
+        "artist": "Eminem Featuring Juice WRLD",
+        "last-week": "66",
+        "peak-rank": "3",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "67",
+        "song": "Find My Way",
+        "artist": "DaBaby",
+        "last-week": "33",
+        "peak-rank": "22",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "68",
+        "song": "Cool Again",
+        "artist": "Kane Brown",
+        "last-week": "",
+        "peak-rank": "68",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "69",
+        "song": "Believe It",
+        "artist": "PARTYNEXTDOOR & Rihanna",
+        "last-week": "75",
+        "peak-rank": "23",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "70",
+        "song": "Bluebird",
+        "artist": "Miranda Lambert",
+        "last-week": "82",
+        "peak-rank": "70",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "71",
+        "song": "Emotionally Scarred",
+        "artist": "Lil Baby",
+        "last-week": "84",
+        "peak-rank": "31",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "72",
+        "song": "You Should Be Sad",
+        "artist": "Halsey",
+        "last-week": "80",
+        "peak-rank": "26",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "73",
+        "song": "Here And Now",
+        "artist": "Kenny Chesney",
+        "last-week": "87",
+        "peak-rank": "73",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "74",
+        "song": "Turks",
+        "artist": "NAV, Gunna & Travis Scott",
+        "last-week": "78",
+        "peak-rank": "17",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "75",
+        "song": "Be A Light",
+        "artist": "Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban",
+        "last-week": "83",
+        "peak-rank": "71",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "76",
+        "song": "Slow Dance In A Parking Lot",
+        "artist": "Jordan Davis",
+        "last-week": "73",
+        "peak-rank": "37",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "77",
+        "song": "Come Thru",
+        "artist": "Summer Walker & Usher",
+        "last-week": "79",
+        "peak-rank": "42",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "78",
+        "song": "After Party",
+        "artist": "Don Toliver",
+        "last-week": "92",
+        "peak-rank": "78",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "79",
+        "song": "Homemade",
+        "artist": "Jake Owen",
+        "last-week": "81",
+        "peak-rank": "39",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "80",
+        "song": "Ride It.",
+        "artist": "Regard",
+        "last-week": "95",
+        "peak-rank": "80",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "81",
+        "song": "God Whispered Your Name",
+        "artist": "Keith Urban",
+        "last-week": "97",
+        "peak-rank": "81",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "82",
+        "song": "In Between",
+        "artist": "Scotty McCreery",
+        "last-week": "89",
+        "peak-rank": "82",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "83",
+        "song": "Ain't Easy",
+        "artist": "YoungBoy Never Broke Again",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "84",
+        "song": "Party Girl",
+        "artist": "StaySolidRocky",
+        "last-week": "",
+        "peak-rank": "84",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "85",
+        "song": "Die From A Broken Heart",
+        "artist": "Maddie & Tae",
+        "last-week": "94",
+        "peak-rank": "80",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "86",
+        "song": "Diamonds",
+        "artist": "YoungBoy Never Broke Again",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "87",
+        "song": "Myron",
+        "artist": "Lil Uzi Vert",
+        "last-week": "88",
+        "peak-rank": "13",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "88",
+        "song": "July",
+        "artist": "Noah Cyrus & Leon Bridges",
+        "last-week": "93",
+        "peak-rank": "85",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "89",
+        "song": "Captain Hook",
+        "artist": "Megan Thee Stallion",
+        "last-week": "96",
+        "peak-rank": "74",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "90",
+        "song": "Bout My Business",
+        "artist": "YoungBoy Never Broke Again Featuring Sherhonda Gaulden",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "91",
+        "song": "That Way",
+        "artist": "Lil Uzi Vert",
+        "last-week": "91",
+        "peak-rank": "20",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "92",
+        "song": "Rough Ryder",
+        "artist": "YoungBoy Never Broke Again",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "93",
+        "song": "B.S.",
+        "artist": "Jhene Aiko Featuring H.E.R.",
+        "last-week": "",
+        "peak-rank": "24",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "94",
+        "song": "Underdog",
+        "artist": "Alicia Keys",
+        "last-week": "",
+        "peak-rank": "69",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "95",
+        "song": "I Love My Country",
+        "artist": "Florida Georgia Line",
+        "last-week": "",
+        "peak-rank": "81",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "96",
+        "song": "NASTY",
+        "artist": "DaBaby Featuring Ashanti & Megan Thee Stallion",
+        "last-week": "50",
+        "peak-rank": "50",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "97",
+        "song": "Drinking Alone",
+        "artist": "Carrie Underwood",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "98",
+        "song": "PTSD",
+        "artist": "G Herbo Featuring Chance The Rapper, Juice WRLD & Lil Uzi Vert",
+        "last-week": "98",
+        "peak-rank": "38",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "99",
+        "song": "Thug Of Spades",
+        "artist": "YoungBoy Never Broke Again Featuring DaBaby",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2020-05-09",
+        "rank": "100",
+        "song": "Safaera",
+        "artist": "Bad Bunny, Jowell & Randy & Nengo Flow",
+        "last-week": "99",
+        "peak-rank": "81",
+        "weeks-on-board": "7"
+    }
+]

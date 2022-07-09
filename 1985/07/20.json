@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1985-07-20",
+        "rank": "1",
+        "song": "A View To A Kill",
+        "artist": "Duran Duran",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "2",
+        "song": "Raspberry Beret",
+        "artist": "Prince And The Revolution",
+        "last-week": "3",
+        "peak-rank": "2",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "3",
+        "song": "Everytime You Go Away",
+        "artist": "Paul Young",
+        "last-week": "6",
+        "peak-rank": "3",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "4",
+        "song": "You Give Good Love",
+        "artist": "Whitney Houston",
+        "last-week": "7",
+        "peak-rank": "4",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "5",
+        "song": "Sussudio",
+        "artist": "Phil Collins",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "6",
+        "song": "The Search Is Over",
+        "artist": "Survivor",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "7",
+        "song": "If You Love Somebody Set Them Free",
+        "artist": "Sting",
+        "last-week": "11",
+        "peak-rank": "7",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "8",
+        "song": "Glory Days",
+        "artist": "Bruce Springsteen",
+        "last-week": "9",
+        "peak-rank": "8",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "9",
+        "song": "Shout",
+        "artist": "Tears For Fears",
+        "last-week": "14",
+        "peak-rank": "9",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "10",
+        "song": "Would I Lie To You?",
+        "artist": "Eurythmics",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "11",
+        "song": "Voices Carry",
+        "artist": "'Til Tuesday",
+        "last-week": "8",
+        "peak-rank": "8",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "12",
+        "song": "Sentimental Street",
+        "artist": "Night Ranger",
+        "last-week": "13",
+        "peak-rank": "12",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "13",
+        "song": "Never Surrender",
+        "artist": "Corey Hart",
+        "last-week": "20",
+        "peak-rank": "13",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "14",
+        "song": "Get It On (Bang A Gong)",
+        "artist": "The Power Station",
+        "last-week": "18",
+        "peak-rank": "14",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "15",
+        "song": "19",
+        "artist": "Paul Hardcastle",
+        "last-week": "16",
+        "peak-rank": "15",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "16",
+        "song": "The Goonies `R' Good Enough",
+        "artist": "Cyndi Lauper",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "17",
+        "song": "Who's Holding Donna Now",
+        "artist": "Debarge",
+        "last-week": "21",
+        "peak-rank": "17",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "18",
+        "song": "People Are People",
+        "artist": "Depeche Mode",
+        "last-week": "22",
+        "peak-rank": "18",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "19",
+        "song": "Just As I Am",
+        "artist": "Air Supply",
+        "last-week": "19",
+        "peak-rank": "19",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "20",
+        "song": "Heaven",
+        "artist": "Bryan Adams",
+        "last-week": "12",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "21",
+        "song": "The Power Of Love",
+        "artist": "Huey Lewis & The News",
+        "last-week": "29",
+        "peak-rank": "21",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "22",
+        "song": "You Spin Me Round (Like A Record)",
+        "artist": "Dead Or Alive",
+        "last-week": "26",
+        "peak-rank": "22",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "23",
+        "song": "Crazy In The Night (Barking At Airplanes)",
+        "artist": "Kim Carnes",
+        "last-week": "15",
+        "peak-rank": "15",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "24",
+        "song": "Freeway Of Love",
+        "artist": "Aretha Franklin",
+        "last-week": "30",
+        "peak-rank": "24",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "25",
+        "song": "What About Love?",
+        "artist": "Heart",
+        "last-week": "31",
+        "peak-rank": "25",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "26",
+        "song": "Angel",
+        "artist": "Madonna",
+        "last-week": "17",
+        "peak-rank": "5",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "27",
+        "song": "Rock Me Tonight",
+        "artist": "Freddie Jackson",
+        "last-week": "35",
+        "peak-rank": "27",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "28",
+        "song": "Summer Of '69",
+        "artist": "Bryan Adams",
+        "last-week": "38",
+        "peak-rank": "28",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "29",
+        "song": "Tough All Over",
+        "artist": "John Cafferty & The Beaver Brown Band",
+        "last-week": "23",
+        "peak-rank": "22",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "30",
+        "song": "St. Elmo's Fire (Man In Motion)",
+        "artist": "John Parr",
+        "last-week": "42",
+        "peak-rank": "30",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "31",
+        "song": "Find A Way",
+        "artist": "Amy Grant",
+        "last-week": "36",
+        "peak-rank": "31",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "32",
+        "song": "We Don't Need Another Hero (Thunderdome)",
+        "artist": "Tina Turner",
+        "last-week": "41",
+        "peak-rank": "32",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "33",
+        "song": "Cannonball",
+        "artist": "Supertramp",
+        "last-week": "28",
+        "peak-rank": "28",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "34",
+        "song": "Getcha Back",
+        "artist": "The Beach Boys",
+        "last-week": "27",
+        "peak-rank": "26",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "35",
+        "song": "Not Enough Love In The World",
+        "artist": "Don Henley",
+        "last-week": "39",
+        "peak-rank": "35",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "36",
+        "song": "State Of the Heart",
+        "artist": "Rick Springfield",
+        "last-week": "40",
+        "peak-rank": "36",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "37",
+        "song": "Possession Obsession",
+        "artist": "Daryl Hall John Oates",
+        "last-week": "33",
+        "peak-rank": "30",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "38",
+        "song": "Things Can Only Get Better",
+        "artist": "Howard Jones",
+        "last-week": "24",
+        "peak-rank": "5",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "39",
+        "song": "You're Only Human (Second Wind)",
+        "artist": "Billy Joel",
+        "last-week": "50",
+        "peak-rank": "39",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "40",
+        "song": "Forever",
+        "artist": "Kenny Loggins",
+        "last-week": "44",
+        "peak-rank": "40",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "41",
+        "song": "Let Him Go",
+        "artist": "Animotion",
+        "last-week": "45",
+        "peak-rank": "41",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "42",
+        "song": "Mystery Lady",
+        "artist": "Billy Ocean",
+        "last-week": "52",
+        "peak-rank": "42",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "43",
+        "song": "Everybody Wants To Rule The World",
+        "artist": "Tears For Fears",
+        "last-week": "25",
+        "peak-rank": "1",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "44",
+        "song": "Invincible (Theme From The Legend Of Billie Jean)",
+        "artist": "Pat Benatar",
+        "last-week": "57",
+        "peak-rank": "44",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "45",
+        "song": "Dare Me",
+        "artist": "The Pointer Sisters",
+        "last-week": "62",
+        "peak-rank": "45",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "46",
+        "song": "Don't Lose My Number",
+        "artist": "Phil Collins",
+        "last-week": "",
+        "peak-rank": "46",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "47",
+        "song": "Cherish",
+        "artist": "Kool & The Gang",
+        "last-week": "59",
+        "peak-rank": "47",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "48",
+        "song": "People Get Ready",
+        "artist": "Jeff Beck & Rod Stewart",
+        "last-week": "53",
+        "peak-rank": "48",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "49",
+        "song": "I Wonder If I Take You Home",
+        "artist": "Lisa Lisa And Clult Jam With Full Force",
+        "last-week": "54",
+        "peak-rank": "49",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "50",
+        "song": "Life In One Day",
+        "artist": "Howard Jones",
+        "last-week": "60",
+        "peak-rank": "50",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "51",
+        "song": "Stir It Up",
+        "artist": "Patti LaBelle",
+        "last-week": "58",
+        "peak-rank": "51",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "52",
+        "song": "Like A Surgeon",
+        "artist": "\"Weird Al\" Yankovic",
+        "last-week": "47",
+        "peak-rank": "47",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "53",
+        "song": "In My House",
+        "artist": "Mary Jane Girls",
+        "last-week": "37",
+        "peak-rank": "7",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "54",
+        "song": "Call Me",
+        "artist": "Go West",
+        "last-week": "55",
+        "peak-rank": "54",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "55",
+        "song": "Your Love Is King",
+        "artist": "Sade",
+        "last-week": "56",
+        "peak-rank": "55",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "56",
+        "song": "Smuggler's Blues",
+        "artist": "Glenn Frey",
+        "last-week": "32",
+        "peak-rank": "12",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "57",
+        "song": "Walking On Sunshine",
+        "artist": "Katrina And The Waves",
+        "last-week": "34",
+        "peak-rank": "9",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "58",
+        "song": "Live Every Moment",
+        "artist": "REO Speedwagon",
+        "last-week": "78",
+        "peak-rank": "58",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "59",
+        "song": "When Your Heart Is Weak",
+        "artist": "Cock Robin",
+        "last-week": "64",
+        "peak-rank": "59",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "60",
+        "song": "Little By Little",
+        "artist": "Robert Plant",
+        "last-week": "43",
+        "peak-rank": "36",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "61",
+        "song": "Smokin' In The Boys Room",
+        "artist": "Motley Crue",
+        "last-week": "77",
+        "peak-rank": "61",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "62",
+        "song": "Lay It Down",
+        "artist": "Ratt",
+        "last-week": "71",
+        "peak-rank": "62",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "63",
+        "song": "Willie & The Hand Jive",
+        "artist": "George Thorogood & The Destroyers",
+        "last-week": "63",
+        "peak-rank": "63",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "64",
+        "song": "Black Cars",
+        "artist": "Gino Vannelli",
+        "last-week": "51",
+        "peak-rank": "42",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "65",
+        "song": "Shame",
+        "artist": "The Motels",
+        "last-week": "",
+        "peak-rank": "65",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "66",
+        "song": "Centerfield",
+        "artist": "John Fogerty",
+        "last-week": "49",
+        "peak-rank": "44",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "67",
+        "song": "Everything She Wants",
+        "artist": "Wham!",
+        "last-week": "48",
+        "peak-rank": "1",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "68",
+        "song": "Suddenly",
+        "artist": "Billy Ocean",
+        "last-week": "46",
+        "peak-rank": "4",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "69",
+        "song": "Make It Better (Forget About Me)",
+        "artist": "Tom Petty And The Heartbreakers",
+        "last-week": "65",
+        "peak-rank": "54",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "70",
+        "song": "Tired Of Being Blonde",
+        "artist": "Carly Simon",
+        "last-week": "72",
+        "peak-rank": "70",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "71",
+        "song": "Wild And Crazy Love",
+        "artist": "Mary Jane Girls",
+        "last-week": "",
+        "peak-rank": "71",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "72",
+        "song": "Fresh",
+        "artist": "Kool & The Gang",
+        "last-week": "66",
+        "peak-rank": "9",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "73",
+        "song": "Burning Flame",
+        "artist": "Vitamin Z",
+        "last-week": "74",
+        "peak-rank": "73",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "74",
+        "song": "Money For Nothing",
+        "artist": "Dire Straits",
+        "last-week": "87",
+        "peak-rank": "74",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "75",
+        "song": "Through the Fire",
+        "artist": "Chaka Khan",
+        "last-week": "70",
+        "peak-rank": "60",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "76",
+        "song": "Axel F",
+        "artist": "Harold Faltermeyer",
+        "last-week": "61",
+        "peak-rank": "3",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "77",
+        "song": "Hangin' On A String",
+        "artist": "Loose Ends",
+        "last-week": "",
+        "peak-rank": "77",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "78",
+        "song": "Take No Prisoners (In The Game Of Love)",
+        "artist": "Peabo Bryson",
+        "last-week": "80",
+        "peak-rank": "78",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "79",
+        "song": "Bit By Bit (Theme From Fletch)",
+        "artist": "Stephanie Mills",
+        "last-week": "82",
+        "peak-rank": "79",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "80",
+        "song": "All You Zombies",
+        "artist": "Hooters",
+        "last-week": "73",
+        "peak-rank": "58",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "81",
+        "song": "Frankie",
+        "artist": "Sister Sledge",
+        "last-week": "75",
+        "peak-rank": "75",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "82",
+        "song": "The NeverEnding Story",
+        "artist": "Limahl",
+        "last-week": "67",
+        "peak-rank": "17",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "83",
+        "song": "Summertime Girls",
+        "artist": "Y&T",
+        "last-week": "90",
+        "peak-rank": "83",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "84",
+        "song": "Only For Love",
+        "artist": "Limahl",
+        "last-week": "",
+        "peak-rank": "84",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "85",
+        "song": "Reaction To Action",
+        "artist": "Foreigner",
+        "last-week": "68",
+        "peak-rank": "54",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "86",
+        "song": "Take On Me",
+        "artist": "a-ha",
+        "last-week": "91",
+        "peak-rank": "86",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "87",
+        "song": "Love And Pride",
+        "artist": "King",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "88",
+        "song": "I Want My Girl",
+        "artist": "Jesse Johnson's Revue",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "89",
+        "song": "Love Resurrection",
+        "artist": "Alison Moyet",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "90",
+        "song": "Cry",
+        "artist": "Godley & Creme",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "91",
+        "song": "Crazy For You",
+        "artist": "Madonna",
+        "last-week": "84",
+        "peak-rank": "1",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "92",
+        "song": "My Toot Toot",
+        "artist": "Jean Knight",
+        "last-week": "88",
+        "peak-rank": "50",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "93",
+        "song": "Everything I Need",
+        "artist": "Men At Work",
+        "last-week": "69",
+        "peak-rank": "47",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "94",
+        "song": "Hold Me",
+        "artist": "Menudo",
+        "last-week": "83",
+        "peak-rank": "62",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "95",
+        "song": "(Closest Thing To) Perfect",
+        "artist": "Jermaine Jackson",
+        "last-week": "81",
+        "peak-rank": "67",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "96",
+        "song": "Animal Instinct",
+        "artist": "Commodores",
+        "last-week": "76",
+        "peak-rank": "43",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "97",
+        "song": "Wake Up (Next To You)",
+        "artist": "Graham Parker & The Shot",
+        "last-week": "85",
+        "peak-rank": "39",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "98",
+        "song": "Don't You (Forget About Me)",
+        "artist": "Simple Minds",
+        "last-week": "79",
+        "peak-rank": "1",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "99",
+        "song": "Meeting In The Ladies Room",
+        "artist": "Klymaxx",
+        "last-week": "86",
+        "peak-rank": "59",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1985-07-20",
+        "rank": "100",
+        "song": "We Are The World",
+        "artist": "USA For Africa",
+        "last-week": "92",
+        "peak-rank": "1",
+        "weeks-on-board": "18"
+    }
+]

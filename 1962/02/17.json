@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1962-02-17",
+        "rank": "1",
+        "song": "Duke Of Earl",
+        "artist": "Gene Chandler",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "2",
+        "song": "Peppermint Twist - Part I",
+        "artist": "Joey Dee & the Starliters",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "3",
+        "song": "The Twist",
+        "artist": "Chubby Checker",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "32"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "4",
+        "song": "Norman",
+        "artist": "Sue Thompson",
+        "last-week": "6",
+        "peak-rank": "4",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "5",
+        "song": "The Wanderer",
+        "artist": "Dion",
+        "last-week": "7",
+        "peak-rank": "5",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "6",
+        "song": "Break It To Me Gently",
+        "artist": "Brenda Lee",
+        "last-week": "8",
+        "peak-rank": "6",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "7",
+        "song": "I Know (You Don't Love Me No More)",
+        "artist": "Barbara George",
+        "last-week": "5",
+        "peak-rank": "3",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "8",
+        "song": "Can't Help Falling In Love",
+        "artist": "Elvis Presley With The Jordanaires",
+        "last-week": "4",
+        "peak-rank": "2",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "9",
+        "song": "Crying In The Rain",
+        "artist": "The Everly Brothers",
+        "last-week": "14",
+        "peak-rank": "9",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "10",
+        "song": "Dear Lady Twist",
+        "artist": "Gary U.S. Bonds",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "11",
+        "song": "A Little Bitty Tear",
+        "artist": "Burl Ives",
+        "last-week": "9",
+        "peak-rank": "9",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "12",
+        "song": "Baby It's You",
+        "artist": "The Shirelles",
+        "last-week": "11",
+        "peak-rank": "8",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "13",
+        "song": "Hey! Baby",
+        "artist": "Bruce Channel",
+        "last-week": "21",
+        "peak-rank": "13",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "14",
+        "song": "Cotton Fields",
+        "artist": "The Highwaymen",
+        "last-week": "13",
+        "peak-rank": "13",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "15",
+        "song": "Chip Chip",
+        "artist": "Gene McDaniels",
+        "last-week": "24",
+        "peak-rank": "15",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "16",
+        "song": "The Lion Sleeps Tonight",
+        "artist": "The Tokens",
+        "last-week": "12",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "17",
+        "song": "Irresistible You",
+        "artist": "Bobby Darin",
+        "last-week": "15",
+        "peak-rank": "15",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "18",
+        "song": "She's Everything (I Wanted You To Be)",
+        "artist": "Ral Donner",
+        "last-week": "20",
+        "peak-rank": "18",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "19",
+        "song": "Shadrack",
+        "artist": "Brook Benton",
+        "last-week": "22",
+        "peak-rank": "19",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "20",
+        "song": "I'm Blue (The Gong-Gong Song)",
+        "artist": "The Ikettes",
+        "last-week": "28",
+        "peak-rank": "20",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "21",
+        "song": "Letter Full Of Tears",
+        "artist": "Gladys Knight And The Pips",
+        "last-week": "19",
+        "peak-rank": "19",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "22",
+        "song": "Run To Him",
+        "artist": "Bobby Vee",
+        "last-week": "18",
+        "peak-rank": "2",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "23",
+        "song": "Town Without Pity",
+        "artist": "Gene Pitney",
+        "last-week": "17",
+        "peak-rank": "13",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "24",
+        "song": "When I Fall In Love",
+        "artist": "The Lettermen",
+        "last-week": "16",
+        "peak-rank": "7",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "25",
+        "song": "The Cajun Queen",
+        "artist": "Jimmy Dean",
+        "last-week": "34",
+        "peak-rank": "25",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "26",
+        "song": "Tuff",
+        "artist": "Ace Cannon",
+        "last-week": "26",
+        "peak-rank": "26",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "27",
+        "song": "Let Me In",
+        "artist": "The Sensations",
+        "last-week": "35",
+        "peak-rank": "27",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "28",
+        "song": "Smoky Places",
+        "artist": "The Corsairs Featuring Jay \"Bird\" Uzzell",
+        "last-week": "25",
+        "peak-rank": "25",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "29",
+        "song": "Midnight In Moscow",
+        "artist": "Kenny Ball and his Jazzmen",
+        "last-week": "47",
+        "peak-rank": "29",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "30",
+        "song": "Multiplication",
+        "artist": "Bobby Darin",
+        "last-week": "32",
+        "peak-rank": "30",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "31",
+        "song": "Her Royal Majesty",
+        "artist": "James Darren",
+        "last-week": "50",
+        "peak-rank": "31",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "32",
+        "song": "Surfer's Stomp",
+        "artist": "The Marketts",
+        "last-week": "41",
+        "peak-rank": "32",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "33",
+        "song": "Percolator (Twist)",
+        "artist": "Billy Joe & The Checkmates",
+        "last-week": "45",
+        "peak-rank": "33",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "34",
+        "song": "The Greatest Hurt",
+        "artist": "Jackie Wilson",
+        "last-week": "37",
+        "peak-rank": "34",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "35",
+        "song": "To A Sleeping Beauty",
+        "artist": "Jimmy Dean",
+        "last-week": "40",
+        "peak-rank": "35",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "36",
+        "song": "Moon River",
+        "artist": "Henry Mancini And His Orchestra",
+        "last-week": "30",
+        "peak-rank": "11",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "37",
+        "song": "My Boomerang Won't Come Back",
+        "artist": "Charlie Drake",
+        "last-week": "42",
+        "peak-rank": "37",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "38",
+        "song": "Twistin' The Night Away",
+        "artist": "Sam Cooke",
+        "last-week": "49",
+        "peak-rank": "38",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "39",
+        "song": "Do-Re-Mi",
+        "artist": "Lee Dorsey",
+        "last-week": "31",
+        "peak-rank": "27",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "40",
+        "song": "What's So Good About Good-by",
+        "artist": "The Miracles",
+        "last-week": "44",
+        "peak-rank": "40",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "41",
+        "song": "Twist-Her",
+        "artist": "Bill Black's Combo",
+        "last-week": "29",
+        "peak-rank": "26",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "42",
+        "song": "She's Got You",
+        "artist": "Patsy Cline",
+        "last-week": "60",
+        "peak-rank": "42",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "43",
+        "song": "Chattanooga Choo Choo",
+        "artist": "Floyd Cramer",
+        "last-week": "48",
+        "peak-rank": "43",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "44",
+        "song": "If You Gotta Make A Fool Of Somebody",
+        "artist": "James Ray",
+        "last-week": "27",
+        "peak-rank": "22",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "45",
+        "song": "I'll See You In My Dreams",
+        "artist": "Pat Boone",
+        "last-week": "51",
+        "peak-rank": "45",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "46",
+        "song": "Don't Break The Heart That Loves You",
+        "artist": "Connie Francis",
+        "last-week": "66",
+        "peak-rank": "46",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "47",
+        "song": "What's Your Name",
+        "artist": "Don & Juan",
+        "last-week": "72",
+        "peak-rank": "47",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "48",
+        "song": "Twistin' Postman",
+        "artist": "The Marvelettes",
+        "last-week": "56",
+        "peak-rank": "48",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "49",
+        "song": "Lost Someone",
+        "artist": "James Brown And The Famous Flames",
+        "last-week": "59",
+        "peak-rank": "49",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "50",
+        "song": "Afrikaan Beat",
+        "artist": "Bert Kaempfert And His Orchestra",
+        "last-week": "54",
+        "peak-rank": "50",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "51",
+        "song": "Where Have All The Flowers Gone",
+        "artist": "The Kingston Trio",
+        "last-week": "64",
+        "peak-rank": "51",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "52",
+        "song": "Let There Be Drums",
+        "artist": "Sandy Nelson",
+        "last-week": "33",
+        "peak-rank": "7",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "53",
+        "song": "He Knows I Love Him Too Much",
+        "artist": "The Paris Sisters",
+        "last-week": "68",
+        "peak-rank": "53",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "54",
+        "song": "Walk On By",
+        "artist": "Leroy Van Dyke",
+        "last-week": "23",
+        "peak-rank": "5",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "55",
+        "song": "Drums Are My Beat",
+        "artist": "Sandy Nelson",
+        "last-week": "77",
+        "peak-rank": "55",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "56",
+        "song": "Happy Birthday, Sweet Sixteen",
+        "artist": "Neil Sedaka",
+        "last-week": "38",
+        "peak-rank": "6",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "57",
+        "song": "Unchain My Heart",
+        "artist": "Ray Charles and his Orchestra",
+        "last-week": "36",
+        "peak-rank": "9",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "58",
+        "song": "(Do The New) Continental",
+        "artist": "The Dovells",
+        "last-week": "74",
+        "peak-rank": "58",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "59",
+        "song": "Happy Jose (Ching-Ching)",
+        "artist": "Jack Ross",
+        "last-week": "57",
+        "peak-rank": "57",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "60",
+        "song": "Cry To Me",
+        "artist": "Solomon Burke",
+        "last-week": "63",
+        "peak-rank": "60",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "61",
+        "song": "Jamie",
+        "artist": "Eddie Holland",
+        "last-week": "81",
+        "peak-rank": "61",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "62",
+        "song": "Dear Ivan",
+        "artist": "Jimmy Dean",
+        "last-week": "43",
+        "peak-rank": "24",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "63",
+        "song": "Dreamy Eyes",
+        "artist": "Johnny Tillotson",
+        "last-week": "71",
+        "peak-rank": "35",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "64",
+        "song": "Hey, Let's Twist",
+        "artist": "Joey Dee & the Starliters",
+        "last-week": "",
+        "peak-rank": "64",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "65",
+        "song": "That's My Pa",
+        "artist": "Sheb Wooley",
+        "last-week": "75",
+        "peak-rank": "65",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "66",
+        "song": "Go On Home",
+        "artist": "Patti Page",
+        "last-week": "46",
+        "peak-rank": "42",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "67",
+        "song": "My Melancholy Baby",
+        "artist": "The Marcels",
+        "last-week": "70",
+        "peak-rank": "67",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "68",
+        "song": "B'wa Nina (Pretty Girl)",
+        "artist": "The Tokens",
+        "last-week": "80",
+        "peak-rank": "68",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "69",
+        "song": "Funny How Time Slips Away",
+        "artist": "Jimmy Elledge",
+        "last-week": "39",
+        "peak-rank": "22",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "70",
+        "song": "Ecstasy",
+        "artist": "Ben E. King",
+        "last-week": "76",
+        "peak-rank": "70",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "71",
+        "song": "Lizzie Borden",
+        "artist": "The Chad Mitchell Trio",
+        "last-week": "82",
+        "peak-rank": "71",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "72",
+        "song": "The Majestic",
+        "artist": "Dion",
+        "last-week": "79",
+        "peak-rank": "36",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "73",
+        "song": "Come Back Silly Girl",
+        "artist": "The Lettermen",
+        "last-week": "",
+        "peak-rank": "73",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "74",
+        "song": "Our Anniversary",
+        "artist": "Shep And The Limelites",
+        "last-week": "",
+        "peak-rank": "74",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "75",
+        "song": "Nite Owl",
+        "artist": "Dukays",
+        "last-week": "73",
+        "peak-rank": "73",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "76",
+        "song": "Oliver Twist",
+        "artist": "Rod McKuen",
+        "last-week": "78",
+        "peak-rank": "76",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "77",
+        "song": "Dream Baby (How Long Must I Dream)",
+        "artist": "Roy Orbison",
+        "last-week": "",
+        "peak-rank": "77",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "78",
+        "song": "Let Me Call You Sweetheart",
+        "artist": "Timi Yuro",
+        "last-week": "84",
+        "peak-rank": "78",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "79",
+        "song": "What's The Reason",
+        "artist": "Bobby Edwards",
+        "last-week": "83",
+        "peak-rank": "71",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "80",
+        "song": "Midnight",
+        "artist": "Johnny Gibson",
+        "last-week": "89",
+        "peak-rank": "80",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "81",
+        "song": "Walk On The Wild Side",
+        "artist": "Brook Benton",
+        "last-week": "",
+        "peak-rank": "81",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "82",
+        "song": "Bandit Of My Dreams",
+        "artist": "Eddie Hodges",
+        "last-week": "88",
+        "peak-rank": "82",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "83",
+        "song": "(I've Got) Bonnie",
+        "artist": "Bobby Rydell",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "84",
+        "song": "Blue Water Line",
+        "artist": "The Brothers Four",
+        "last-week": "85",
+        "peak-rank": "84",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "85",
+        "song": "Bermuda",
+        "artist": "Linda Scott",
+        "last-week": "92",
+        "peak-rank": "85",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "86",
+        "song": "Tears And Laughter",
+        "artist": "Dinah Washington",
+        "last-week": "86",
+        "peak-rank": "86",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "87",
+        "song": "Yessiree",
+        "artist": "Linda Scott",
+        "last-week": "96",
+        "peak-rank": "87",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "88",
+        "song": "Cry Baby Cry",
+        "artist": "The Angels",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "89",
+        "song": "Pop-Eye",
+        "artist": "Huey Smith",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "90",
+        "song": "Lose Her",
+        "artist": "Bobby Rydell",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "91",
+        "song": "Do You Know How To Twist",
+        "artist": "Hank Ballard",
+        "last-week": "91",
+        "peak-rank": "91",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "92",
+        "song": "Love Is The Sweetest Thing",
+        "artist": "Saverio Saridis",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "93",
+        "song": "Surfin",
+        "artist": "The Beach Boys",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "94",
+        "song": "It's Magic",
+        "artist": "The Platters",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "95",
+        "song": "Shimmy, Shimmy Walk, Part 1",
+        "artist": "The Megatons",
+        "last-week": "95",
+        "peak-rank": "93",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "96",
+        "song": "I Surrender, Dear",
+        "artist": "Aretha Franklin",
+        "last-week": "97",
+        "peak-rank": "96",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "97",
+        "song": "Strange",
+        "artist": "Patsy Cline",
+        "last-week": "100",
+        "peak-rank": "97",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "98",
+        "song": "Joey Baby",
+        "artist": "Anita & Th' So-And-So's",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "99",
+        "song": "Grow Closer Together",
+        "artist": "The Impressions",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1962-02-17",
+        "rank": "100",
+        "song": "Soul Twist",
+        "artist": "King Curtis And The Noble Knights",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

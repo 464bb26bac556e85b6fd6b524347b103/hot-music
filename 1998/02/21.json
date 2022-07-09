@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1998-02-21",
+        "rank": "1",
+        "song": "Nice & Slow",
+        "artist": "Usher",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "2",
+        "song": "Together Again",
+        "artist": "Janet",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "3",
+        "song": "Truly Madly Deeply",
+        "artist": "Savage Garden",
+        "last-week": "4",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "4",
+        "song": "How Do I Live",
+        "artist": "LeAnn Rimes",
+        "last-week": "3",
+        "peak-rank": "2",
+        "weeks-on-board": "36"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "5",
+        "song": "Been Around The World",
+        "artist": "Puff Daddy & The Family (Feat. The Notorious B.I.G. & Mase)",
+        "last-week": "5",
+        "peak-rank": "2",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "6",
+        "song": "I Don't Ever Want To See You Again",
+        "artist": "Uncle Sam",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "7",
+        "song": "A Song For Mama",
+        "artist": "Boyz II Men",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "8",
+        "song": "No, No, No",
+        "artist": "Destiny's Child",
+        "last-week": "8",
+        "peak-rank": "8",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "9",
+        "song": "Too Much",
+        "artist": "Spice Girls",
+        "last-week": "22",
+        "peak-rank": "9",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "10",
+        "song": "What You Want",
+        "artist": "Mase Featuring Total",
+        "last-week": "16",
+        "peak-rank": "10",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "11",
+        "song": "How's It Going To Be",
+        "artist": "Third Eye Blind",
+        "last-week": "9",
+        "peak-rank": "9",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "12",
+        "song": "You Make Me Wanna...",
+        "artist": "Usher",
+        "last-week": "12",
+        "peak-rank": "2",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "13",
+        "song": "Dangerous",
+        "artist": "Busta Rhymes",
+        "last-week": "10",
+        "peak-rank": "9",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "14",
+        "song": "I Don't Want To Wait",
+        "artist": "Paula Cole",
+        "last-week": "13",
+        "peak-rank": "11",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "15",
+        "song": "Kiss The Rain",
+        "artist": "Billie Myers",
+        "last-week": "18",
+        "peak-rank": "15",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "16",
+        "song": "Swing My Way",
+        "artist": "K.P. & Envyi",
+        "last-week": "23",
+        "peak-rank": "16",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "17",
+        "song": "Gone Till November",
+        "artist": "Wyclef Jean",
+        "last-week": "15",
+        "peak-rank": "15",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "18",
+        "song": "Father",
+        "artist": "LL Cool J",
+        "last-week": "19",
+        "peak-rank": "18",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "19",
+        "song": "Tubthumping",
+        "artist": "Chumbawamba",
+        "last-week": "11",
+        "peak-rank": "6",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "20",
+        "song": "Show Me Love",
+        "artist": "Robyn",
+        "last-week": "14",
+        "peak-rank": "7",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "21",
+        "song": "We're Not Making Love No More",
+        "artist": "Dru Hill",
+        "last-week": "21",
+        "peak-rank": "13",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "22",
+        "song": "Candle In The Wind 1997/Something About The Way You Look Tonight",
+        "artist": "Elton John",
+        "last-week": "17",
+        "peak-rank": "1",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "23",
+        "song": "Deja Vu [Uptown Baby]",
+        "artist": "Lord Tariq & Peter Gunz",
+        "last-week": "30",
+        "peak-rank": "23",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "24",
+        "song": "My Body",
+        "artist": "LSG",
+        "last-week": "20",
+        "peak-rank": "4",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "25",
+        "song": "Love You Down",
+        "artist": "INOJ/LATHUN",
+        "last-week": "26",
+        "peak-rank": "25",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "26",
+        "song": "Are You Jimmy Ray?",
+        "artist": "Jimmy Ray",
+        "last-week": "",
+        "peak-rank": "26",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "27",
+        "song": "I Do",
+        "artist": "Lisa Loeb",
+        "last-week": "24",
+        "peak-rank": "17",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "28",
+        "song": "All My Love",
+        "artist": "Queen Pen Featuring Eric Williams",
+        "last-week": "34",
+        "peak-rank": "28",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "29",
+        "song": "Too Close",
+        "artist": "Next",
+        "last-week": "45",
+        "peak-rank": "29",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "30",
+        "song": "If You Think I'm Jiggy",
+        "artist": "The Lox",
+        "last-week": "36",
+        "peak-rank": "30",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "31",
+        "song": "Am I Dreaming",
+        "artist": "Ol Skool [Featuring Keith Sweat & Xscape]",
+        "last-week": "32",
+        "peak-rank": "31",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "32",
+        "song": "Feel So Good",
+        "artist": "Mase",
+        "last-week": "25",
+        "peak-rank": "5",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "33",
+        "song": "Make Em' Say Uhh!",
+        "artist": "Master P Feat. Fiend, Silkk The Shocker, Mia X & Mystikal",
+        "last-week": "38",
+        "peak-rank": "33",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "34",
+        "song": "Sweet Surrender",
+        "artist": "Sarah McLachlan",
+        "last-week": "28",
+        "peak-rank": "28",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "35",
+        "song": "Heaven",
+        "artist": "Nu Flavor",
+        "last-week": "27",
+        "peak-rank": "27",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "36",
+        "song": "Semi-Charmed Life",
+        "artist": "Third Eye Blind",
+        "last-week": "31",
+        "peak-rank": "4",
+        "weeks-on-board": "34"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "37",
+        "song": "They Don't Know",
+        "artist": "Jon B",
+        "last-week": "29",
+        "peak-rank": "29",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "38",
+        "song": "Quit Playing Games (With My Heart)",
+        "artist": "Backstreet Boys",
+        "last-week": "33",
+        "peak-rank": "2",
+        "weeks-on-board": "35"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "39",
+        "song": "You're Still The One",
+        "artist": "Shania Twain",
+        "last-week": "51",
+        "peak-rank": "39",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "40",
+        "song": "All For You",
+        "artist": "Sister Hazel",
+        "last-week": "35",
+        "peak-rank": "11",
+        "weeks-on-board": "33"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "41",
+        "song": "Body Bumpin' Yippie-Yi-Yo",
+        "artist": "Public Announcement",
+        "last-week": "",
+        "peak-rank": "41",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "42",
+        "song": "I Know Where It's At",
+        "artist": "All Saints",
+        "last-week": "44",
+        "peak-rank": "42",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "43",
+        "song": "Spice Up Your Life",
+        "artist": "Spice Girls",
+        "last-week": "37",
+        "peak-rank": "18",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "44",
+        "song": "Mo Money Mo Problems",
+        "artist": "The Notorious B.I.G. Featuring Puff Daddy & Mase",
+        "last-week": "41",
+        "peak-rank": "1",
+        "weeks-on-board": "30"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "45",
+        "song": "I Will Come To You",
+        "artist": "Hanson",
+        "last-week": "39",
+        "peak-rank": "9",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "46",
+        "song": "Given To Fly",
+        "artist": "Pearl Jam",
+        "last-week": "43",
+        "peak-rank": "21",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "47",
+        "song": "Foolish Games/You Were Meant For Me",
+        "artist": "Jewel",
+        "last-week": "42",
+        "peak-rank": "2",
+        "weeks-on-board": "65"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "48",
+        "song": "Light In Your Eyes",
+        "artist": "Blessid Union Of Souls",
+        "last-week": "48",
+        "peak-rank": "48",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "49",
+        "song": "My Love Is The Shhh!",
+        "artist": "Somethin' For The People Featuring Trina & Tamara",
+        "last-week": "40",
+        "peak-rank": "4",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "50",
+        "song": "No Tengo Dinero",
+        "artist": "Los Umbrellos",
+        "last-week": "49",
+        "peak-rank": "42",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "51",
+        "song": "32 Flavors",
+        "artist": "Alana Davis",
+        "last-week": "46",
+        "peak-rank": "37",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "52",
+        "song": "Burn",
+        "artist": "Militia",
+        "last-week": "54",
+        "peak-rank": "52",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "53",
+        "song": "Going Back To Cali",
+        "artist": "The Notorious B.I.G.",
+        "last-week": "55",
+        "peak-rank": "26",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "54",
+        "song": "Breaking All The Rules",
+        "artist": "She Moves",
+        "last-week": "52",
+        "peak-rank": "32",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "55",
+        "song": "Sock It 2 Me",
+        "artist": "Missy \"Misdemeanor\" Elliott Featuring Da Brat",
+        "last-week": "53",
+        "peak-rank": "12",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "56",
+        "song": "All I Do",
+        "artist": "Somethin' For The People",
+        "last-week": "",
+        "peak-rank": "56",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "57",
+        "song": "At The Beginning",
+        "artist": "Richard Marx & Donna Lewis",
+        "last-week": "56",
+        "peak-rank": "45",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "58",
+        "song": "One More Night",
+        "artist": "Amber",
+        "last-week": "62",
+        "peak-rank": "58",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "59",
+        "song": "Say You'll Stay",
+        "artist": "KAI",
+        "last-week": "59",
+        "peak-rank": "59",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "60",
+        "song": "If I Could Teach The World",
+        "artist": "Bone Thugs-N-Harmony",
+        "last-week": "61",
+        "peak-rank": "27",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "61",
+        "song": "The Memory Remains",
+        "artist": "Metallica",
+        "last-week": "63",
+        "peak-rank": "28",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "62",
+        "song": "Just Clownin'",
+        "artist": "WC From Westside Connection",
+        "last-week": "60",
+        "peak-rank": "56",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "63",
+        "song": "Ain't That Just The Way",
+        "artist": "Lutricia McNeal",
+        "last-week": "71",
+        "peak-rank": "63",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "64",
+        "song": "Don't Be Stupid (You Know I Love You)",
+        "artist": "Shania Twain",
+        "last-week": "64",
+        "peak-rank": "40",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "65",
+        "song": "What If I Said",
+        "artist": "Anita Cochran (Duet With Steve Wariner)",
+        "last-week": "65",
+        "peak-rank": "65",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "66",
+        "song": "Romeo And Juliet",
+        "artist": "Sylk-E. Fyne Featuring Chill",
+        "last-week": "87",
+        "peak-rank": "66",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "67",
+        "song": "I'm Not A Player",
+        "artist": "Big Punisher",
+        "last-week": "67",
+        "peak-rank": "57",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "68",
+        "song": "Brian Wilson",
+        "artist": "Barenaked Ladies",
+        "last-week": "68",
+        "peak-rank": "68",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "69",
+        "song": "So Help Me Girl",
+        "artist": "Gary Barlow",
+        "last-week": "66",
+        "peak-rank": "44",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "70",
+        "song": "Nothin' Move But The Money",
+        "artist": "Mic Geronimo Featuring DMX & Black Rob",
+        "last-week": "",
+        "peak-rank": "70",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "71",
+        "song": "Lollipop (Candyman)",
+        "artist": "Aqua",
+        "last-week": "69",
+        "peak-rank": "23",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "72",
+        "song": "They Like It Slow",
+        "artist": "H-Town",
+        "last-week": "72",
+        "peak-rank": "35",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "73",
+        "song": "So Good",
+        "artist": "Davina",
+        "last-week": "74",
+        "peak-rank": "60",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "74",
+        "song": "What If",
+        "artist": "Reba McEntire",
+        "last-week": "70",
+        "peak-rank": "50",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "75",
+        "song": "Roxanne `97 - Puff Daddy Remix",
+        "artist": "Sting & The Police",
+        "last-week": "73",
+        "peak-rank": "59",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "76",
+        "song": "Send My Love/Send One Your Love",
+        "artist": "Born Jamericans",
+        "last-week": "76",
+        "peak-rank": "76",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "77",
+        "song": "Strawberries",
+        "artist": "Smooth",
+        "last-week": "",
+        "peak-rank": "77",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "78",
+        "song": "If I Never Stop Loving You",
+        "artist": "David Kersh",
+        "last-week": "82",
+        "peak-rank": "78",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "79",
+        "song": "4, 3, 2, 1",
+        "artist": "LL Cool J Featuring Method Man, Redman, DMX, Canibus And Master P",
+        "last-week": "81",
+        "peak-rank": "75",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "80",
+        "song": "Tuck Me In",
+        "artist": "Kimberly Scott",
+        "last-week": "80",
+        "peak-rank": "58",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "81",
+        "song": "Life In Mono",
+        "artist": "Mono",
+        "last-week": "92",
+        "peak-rank": "81",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "82",
+        "song": "I Can Love You Better",
+        "artist": "Dixie Chicks",
+        "last-week": "77",
+        "peak-rank": "77",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "83",
+        "song": "Off The Hook",
+        "artist": "Jody Watley",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "84",
+        "song": "You're Not Alone",
+        "artist": "Olive",
+        "last-week": "75",
+        "peak-rank": "56",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "85",
+        "song": "In A Dream",
+        "artist": "Rockell",
+        "last-week": "89",
+        "peak-rank": "85",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "86",
+        "song": "The City Is Mine",
+        "artist": "Jay-Z Featuring BLACKstreet",
+        "last-week": "88",
+        "peak-rank": "80",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "87",
+        "song": "I'm Afraid Of Americans",
+        "artist": "David Bowie",
+        "last-week": "83",
+        "peak-rank": "66",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "88",
+        "song": "Young, Sad And Blue",
+        "artist": "Lysette",
+        "last-week": "85",
+        "peak-rank": "75",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "89",
+        "song": "Tic Tic Tac",
+        "artist": "Fruit De La Passion",
+        "last-week": "84",
+        "peak-rank": "84",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "90",
+        "song": "The Day That She Left Tulsa (In A Chevy)",
+        "artist": "Wade Hayes",
+        "last-week": "91",
+        "peak-rank": "90",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "91",
+        "song": "You Know My Steez",
+        "artist": "Gang Starr",
+        "last-week": "86",
+        "peak-rank": "76",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "92",
+        "song": "Then What?",
+        "artist": "Clay Walker",
+        "last-week": "95",
+        "peak-rank": "92",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "93",
+        "song": "So Long (Well, Well, Well)",
+        "artist": "Phajja",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "94",
+        "song": "I Wonder If Heaven Got A Ghetto",
+        "artist": "2Pac",
+        "last-week": "79",
+        "peak-rank": "67",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "95",
+        "song": "L-L-Lies",
+        "artist": "Diana King",
+        "last-week": "93",
+        "peak-rank": "71",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "96",
+        "song": "Jealousy",
+        "artist": "Kim Sanders",
+        "last-week": "96",
+        "peak-rank": "89",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "97",
+        "song": "Tha Hop",
+        "artist": "Kinsu",
+        "last-week": "99",
+        "peak-rank": "88",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "98",
+        "song": "Tubthumping",
+        "artist": "Chucklebutt",
+        "last-week": "97",
+        "peak-rank": "87",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "99",
+        "song": "Don't Stop The Music",
+        "artist": "Playa",
+        "last-week": "98",
+        "peak-rank": "73",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1998-02-21",
+        "rank": "100",
+        "song": "Love Gets Me Every Time",
+        "artist": "Shania Twain",
+        "last-week": "100",
+        "peak-rank": "25",
+        "weeks-on-board": "20"
+    }
+]

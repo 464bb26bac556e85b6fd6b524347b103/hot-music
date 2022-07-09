@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1960-07-25",
+        "rank": "1",
+        "song": "I'm Sorry",
+        "artist": "Brenda Lee",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "2",
+        "song": "Only The Lonely (Know How I Feel)",
+        "artist": "Roy Orbison",
+        "last-week": "4",
+        "peak-rank": "2",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "3",
+        "song": "Alley-Oop",
+        "artist": "Hollywood Argyles",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "4",
+        "song": "Everybody's Somebody's Fool",
+        "artist": "Connie Francis",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "5",
+        "song": "Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini",
+        "artist": "Brian Hyland",
+        "last-week": "10",
+        "peak-rank": "5",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "6",
+        "song": "Mule Skinner Blues",
+        "artist": "The Fendermen",
+        "last-week": "7",
+        "peak-rank": "5",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "7",
+        "song": "Image Of A Girl",
+        "artist": "Safaris with The Phantom's Band",
+        "last-week": "14",
+        "peak-rank": "7",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "8",
+        "song": "Tell Laura I Love Her",
+        "artist": "Ray Peterson",
+        "last-week": "9",
+        "peak-rank": "8",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "9",
+        "song": "Please Help Me, I'm Falling",
+        "artist": "Hank Locklin",
+        "last-week": "15",
+        "peak-rank": "9",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "10",
+        "song": "That's All You Gotta Do",
+        "artist": "Brenda Lee",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "11",
+        "song": "When Will I Be Loved",
+        "artist": "The Everly Brothers",
+        "last-week": "8",
+        "peak-rank": "8",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "12",
+        "song": "Because They're Young",
+        "artist": "Duane Eddy And The Rebels",
+        "last-week": "5",
+        "peak-rank": "4",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "13",
+        "song": "Walking To New Orleans",
+        "artist": "Fats Domino",
+        "last-week": "13",
+        "peak-rank": "13",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "14",
+        "song": "It's Now Or Never",
+        "artist": "Elvis Presley With The Jordanaires",
+        "last-week": "44",
+        "peak-rank": "14",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "15",
+        "song": "A Rockin' Good Way (To Mess Around And Fall In Love)",
+        "artist": "Dinah Washington & Brook Benton",
+        "last-week": "11",
+        "peak-rank": "7",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "16",
+        "song": "My Home Town",
+        "artist": "Paul Anka",
+        "last-week": "12",
+        "peak-rank": "8",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "17",
+        "song": "Finger Poppin' Time",
+        "artist": "Hank Ballard And The Midnighters",
+        "last-week": "28",
+        "peak-rank": "17",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "18",
+        "song": "Look For A Star",
+        "artist": "Garry Miles",
+        "last-week": "22",
+        "peak-rank": "18",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "19",
+        "song": "Josephine",
+        "artist": "Bill Black's Combo",
+        "last-week": "18",
+        "peak-rank": "18",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "20",
+        "song": "Mission Bell",
+        "artist": "Donnie Brooks",
+        "last-week": "25",
+        "peak-rank": "20",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "21",
+        "song": "Trouble In Paradise",
+        "artist": "The Crests",
+        "last-week": "26",
+        "peak-rank": "21",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "22",
+        "song": "Don't Come Knockin'",
+        "artist": "Fats Domino",
+        "last-week": "38",
+        "peak-rank": "22",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "23",
+        "song": "Question",
+        "artist": "Lloyd Price and His Orchestra",
+        "last-week": "36",
+        "peak-rank": "23",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "24",
+        "song": "Look For A Star",
+        "artist": "Billy Vaughn And His Orchestra",
+        "last-week": "39",
+        "peak-rank": "24",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "25",
+        "song": "Feel So Fine",
+        "artist": "Johnny Preston",
+        "last-week": "41",
+        "peak-rank": "25",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "26",
+        "song": "Look For A Star - Part I",
+        "artist": "Garry Mills",
+        "last-week": "40",
+        "peak-rank": "26",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "27",
+        "song": "This Bitter Earth",
+        "artist": "Dinah Washington",
+        "last-week": "37",
+        "peak-rank": "27",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "28",
+        "song": "Alley-Oop",
+        "artist": "Dante and the Evergreens",
+        "last-week": "20",
+        "peak-rank": "15",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "29",
+        "song": "Look For A Star",
+        "artist": "Deane Hawley",
+        "last-week": "30",
+        "peak-rank": "29",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "30",
+        "song": "Wonderful World",
+        "artist": "Sam Cooke",
+        "last-week": "17",
+        "peak-rank": "12",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "31",
+        "song": "Cathy's Clown",
+        "artist": "The Everly Brothers",
+        "last-week": "16",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "32",
+        "song": "Pennies From Heaven",
+        "artist": "The Skyliners",
+        "last-week": "24",
+        "peak-rank": "24",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "33",
+        "song": "Burning Bridges",
+        "artist": "Jack Scott",
+        "last-week": "19",
+        "peak-rank": "3",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "34",
+        "song": "I Really Don't Want To Know",
+        "artist": "Tommy Edwards",
+        "last-week": "45",
+        "peak-rank": "18",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "35",
+        "song": "One Of Us (Will Weep Tonight)",
+        "artist": "Patti Page",
+        "last-week": "48",
+        "peak-rank": "31",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "36",
+        "song": "Jealous Of You (Tango Della Gelosia)",
+        "artist": "Connie Francis",
+        "last-week": "27",
+        "peak-rank": "19",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "37",
+        "song": "Is A Blue Bird Blue",
+        "artist": "Conway Twitty",
+        "last-week": "35",
+        "peak-rank": "35",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "38",
+        "song": "Heartbreak (It's Hurtin' Me)",
+        "artist": "Little Willie John",
+        "last-week": "75",
+        "peak-rank": "38",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "39",
+        "song": "Walk -- Don't Run",
+        "artist": "The Ventures",
+        "last-week": "88",
+        "peak-rank": "39",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "40",
+        "song": "There's Something On Your Mind (Part 2)",
+        "artist": "Bobby Marchan",
+        "last-week": "31",
+        "peak-rank": "31",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "41",
+        "song": "Is There Any Chance",
+        "artist": "Marty Robbins",
+        "last-week": "66",
+        "peak-rank": "41",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "42",
+        "song": "Love You So",
+        "artist": "Ron Holden with The Thunderbirds",
+        "last-week": "21",
+        "peak-rank": "7",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "43",
+        "song": "I'm Gettin' Better",
+        "artist": "Jim Reeves",
+        "last-week": "42",
+        "peak-rank": "37",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "44",
+        "song": "Paper Roses",
+        "artist": "Anita Bryant",
+        "last-week": "23",
+        "peak-rank": "5",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "45",
+        "song": "Where Are You",
+        "artist": "Frankie Avalon",
+        "last-week": "51",
+        "peak-rank": "45",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "46",
+        "song": "Runaround",
+        "artist": "The Fleetwoods",
+        "last-week": "33",
+        "peak-rank": "23",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "47",
+        "song": "Happy-Go-Lucky-Me",
+        "artist": "Paul Evans",
+        "last-week": "29",
+        "peak-rank": "10",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "48",
+        "song": "Volare",
+        "artist": "Bobby Rydell",
+        "last-week": "60",
+        "peak-rank": "48",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "49",
+        "song": "(You Were Made For) All My Love",
+        "artist": "Jackie Wilson",
+        "last-week": "62",
+        "peak-rank": "49",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "50",
+        "song": "In My Little Corner Of The World",
+        "artist": "Anita Bryant",
+        "last-week": "61",
+        "peak-rank": "50",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "51",
+        "song": "Wake Me, Shake Me",
+        "artist": "The Coasters",
+        "last-week": "59",
+        "peak-rank": "51",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "52",
+        "song": "All I Could Do Was Cry",
+        "artist": "Etta James",
+        "last-week": "55",
+        "peak-rank": "33",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "53",
+        "song": "A Mess Of Blues",
+        "artist": "Elvis Presley With The Jordanaires",
+        "last-week": "",
+        "peak-rank": "53",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "54",
+        "song": "Won't You Come Home Bill Bailey",
+        "artist": "Bobby Darin",
+        "last-week": "32",
+        "peak-rank": "19",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "55",
+        "song": "Hot Rod Lincoln",
+        "artist": "Charlie Ryan and the Timberline Riders",
+        "last-week": "83",
+        "peak-rank": "55",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "56",
+        "song": "Hey Little One",
+        "artist": "Dorsey Burnette",
+        "last-week": "50",
+        "peak-rank": "50",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "57",
+        "song": "I Shot Mr. Lee",
+        "artist": "The Bobbettes",
+        "last-week": "73",
+        "peak-rank": "57",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "58",
+        "song": "Sticks And Stones",
+        "artist": "Ray Charles and his Orchestra",
+        "last-week": "43",
+        "peak-rank": "43",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "59",
+        "song": "Clap Your Hands",
+        "artist": "The Beau-Marks",
+        "last-week": "49",
+        "peak-rank": "45",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "60",
+        "song": "Heartbreak (It's Hurtin' Me)",
+        "artist": "Jon Thomas and Orchestra",
+        "last-week": "70",
+        "peak-rank": "60",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "61",
+        "song": "The Twist",
+        "artist": "Hank Ballard And The Midnighters",
+        "last-week": "87",
+        "peak-rank": "61",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "62",
+        "song": "Bad Man Blunder",
+        "artist": "The Kingston Trio",
+        "last-week": "65",
+        "peak-rank": "62",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "63",
+        "song": "Ta Ta",
+        "artist": "Clyde McPhatter",
+        "last-week": "90",
+        "peak-rank": "63",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "64",
+        "song": "There's A Star Spangled Banner Waving #2 (The Ballad Of Francis Powers)",
+        "artist": "Red River Dave",
+        "last-week": "68",
+        "peak-rank": "64",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "65",
+        "song": "Over The Rainbow",
+        "artist": "The Demensions",
+        "last-week": "78",
+        "peak-rank": "65",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "66",
+        "song": "Please Help Me, I'm Falling",
+        "artist": "Rusty Draper",
+        "last-week": "82",
+        "peak-rank": "66",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "67",
+        "song": "Mack The Knife",
+        "artist": "Ella Fitzgerald",
+        "last-week": "52",
+        "peak-rank": "27",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "68",
+        "song": "Something Happened",
+        "artist": "Paul Anka",
+        "last-week": "47",
+        "peak-rank": "41",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "69",
+        "song": "My Tani",
+        "artist": "The Brothers Four",
+        "last-week": "72",
+        "peak-rank": "69",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "70",
+        "song": "Do You Mind?",
+        "artist": "Andy Williams",
+        "last-week": "71",
+        "peak-rank": "70",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "71",
+        "song": "Too Young To Go Steady",
+        "artist": "Connie Stevens",
+        "last-week": "81",
+        "peak-rank": "71",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "72",
+        "song": "I Can't Help It",
+        "artist": "Adam Wade",
+        "last-week": "64",
+        "peak-rank": "64",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "73",
+        "song": "Lonely Weekends",
+        "artist": "Charlie Rich",
+        "last-week": "57",
+        "peak-rank": "22",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "74",
+        "song": "Good Timin'",
+        "artist": "Jimmy Jones",
+        "last-week": "53",
+        "peak-rank": "3",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "75",
+        "song": "One Boy",
+        "artist": "Joanie Sommers",
+        "last-week": "79",
+        "peak-rank": "75",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "76",
+        "song": "Swingin' School",
+        "artist": "Bobby Rydell",
+        "last-week": "46",
+        "peak-rank": "5",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "77",
+        "song": "Johnny Freedom",
+        "artist": "Johnny Horton",
+        "last-week": "69",
+        "peak-rank": "69",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "78",
+        "song": "In The Still Of The Night",
+        "artist": "Dion & The Belmonts",
+        "last-week": "95",
+        "peak-rank": "78",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "79",
+        "song": "Second Honeymoon",
+        "artist": "Johnny Cash",
+        "last-week": "85",
+        "peak-rank": "79",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "80",
+        "song": "A Woman, A Lover, A Friend",
+        "artist": "Jackie Wilson",
+        "last-week": "89",
+        "peak-rank": "80",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "81",
+        "song": "Be Bop A-Lula",
+        "artist": "The Everly Brothers",
+        "last-week": "74",
+        "peak-rank": "74",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "82",
+        "song": "I Know One",
+        "artist": "Jim Reeves",
+        "last-week": "",
+        "peak-rank": "82",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "83",
+        "song": "Train Of Love",
+        "artist": "Annette With The Afterbeats",
+        "last-week": "54",
+        "peak-rank": "36",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "84",
+        "song": "Down Yonder",
+        "artist": "Johnny And The Hurricanes",
+        "last-week": "76",
+        "peak-rank": "48",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "85",
+        "song": "Down The Street To 301",
+        "artist": "Johnny Cash And The Tennessee Two",
+        "last-week": "86",
+        "peak-rank": "85",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "86",
+        "song": "Dreamin'",
+        "artist": "Johnny Burnette",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "87",
+        "song": "That's When I Cried",
+        "artist": "Jimmy Jones",
+        "last-week": "91",
+        "peak-rank": "87",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "88",
+        "song": "My Shoes Keep Walking Back To You",
+        "artist": "Guy Mitchell",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "89",
+        "song": "Lisa",
+        "artist": "Jeanne Black",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "90",
+        "song": "Theme From \"The Unforgiven\" (The Need For Love)",
+        "artist": "Don Costa And His Orchestra And Chorus",
+        "last-week": "34",
+        "peak-rank": "27",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "91",
+        "song": "Whip It On Me",
+        "artist": "Jessie Hill",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "92",
+        "song": "Honky-Tonk Girl",
+        "artist": "Johnny Cash",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "93",
+        "song": "Big Boy Pete",
+        "artist": "The Olympics",
+        "last-week": "97",
+        "peak-rank": "92",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "94",
+        "song": "Mio Amore",
+        "artist": "The Flamingos",
+        "last-week": "98",
+        "peak-rank": "94",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "95",
+        "song": "Happy Shades Of Blue",
+        "artist": "Freddie Cannon",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "96",
+        "song": "Theme From The Apartment",
+        "artist": "Ferrante & Teicher",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "97",
+        "song": "I've Been Loved Before",
+        "artist": "Shirley and Lee",
+        "last-week": "94",
+        "peak-rank": "94",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "98",
+        "song": "Night Train",
+        "artist": "The Viscounts",
+        "last-week": "100",
+        "peak-rank": "98",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "99",
+        "song": "She's Just A Whole Lot Like You",
+        "artist": "Hank Thompson",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1960-07-25",
+        "rank": "100",
+        "song": "Cool Water",
+        "artist": "Jack Scott",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

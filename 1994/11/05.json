@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1994-11-05",
+        "rank": "1",
+        "song": "I'll Make Love To You",
+        "artist": "Boyz II Men",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "2",
+        "song": "All I Wanna Do",
+        "artist": "Sheryl Crow",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "3",
+        "song": "Secret",
+        "artist": "Madonna",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "4",
+        "song": "Another Night",
+        "artist": "Real McCoy",
+        "last-week": "5",
+        "peak-rank": "4",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "5",
+        "song": "Here Comes The Hotstepper (From \"Ready To Wear\")",
+        "artist": "Ini Kamoze",
+        "last-week": "10",
+        "peak-rank": "5",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "6",
+        "song": "Always",
+        "artist": "Bon Jovi",
+        "last-week": "9",
+        "peak-rank": "6",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "7",
+        "song": "Never Lie",
+        "artist": "Immature",
+        "last-week": "7",
+        "peak-rank": "5",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "8",
+        "song": "I Wanna Be Down",
+        "artist": "Brandy",
+        "last-week": "11",
+        "peak-rank": "8",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "9",
+        "song": "Endless Love",
+        "artist": "Luther Vandross & Mariah Carey",
+        "last-week": "3",
+        "peak-rank": "2",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "10",
+        "song": "At Your Best (You Are Love)",
+        "artist": "Aaliyah",
+        "last-week": "8",
+        "peak-rank": "6",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "11",
+        "song": "When Can I See You",
+        "artist": "Babyface",
+        "last-week": "6",
+        "peak-rank": "4",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "12",
+        "song": "100% Pure Love",
+        "artist": "Crystal Waters",
+        "last-week": "12",
+        "peak-rank": "11",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "13",
+        "song": "You Want This/70's Love Groove",
+        "artist": "Janet Jackson",
+        "last-week": "20",
+        "peak-rank": "13",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "14",
+        "song": "Stroke You Up",
+        "artist": "Changing Faces",
+        "last-week": "13",
+        "peak-rank": "3",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "15",
+        "song": "December 1963 (Oh, What A Night)",
+        "artist": "The 4 Seasons",
+        "last-week": "15",
+        "peak-rank": "14",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "16",
+        "song": "I'm The Only One",
+        "artist": "Melissa Etheridge",
+        "last-week": "16",
+        "peak-rank": "16",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "17",
+        "song": "Wild Night",
+        "artist": "John Mellencamp With Me'Shell Ndegeocello",
+        "last-week": "14",
+        "peak-rank": "3",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "18",
+        "song": "Turn The Beat Around (From \"The Specialist\")",
+        "artist": "Gloria Estefan",
+        "last-week": "18",
+        "peak-rank": "18",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "19",
+        "song": "Tootsee Roll",
+        "artist": "69 Boyz",
+        "last-week": "17",
+        "peak-rank": "13",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "20",
+        "song": "I'll Stand By You",
+        "artist": "Pretenders",
+        "last-week": "22",
+        "peak-rank": "20",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "21",
+        "song": "What's The Frequency, Kenneth?",
+        "artist": "R.E.M.",
+        "last-week": "25",
+        "peak-rank": "21",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "22",
+        "song": "Thuggish Ruggish Bone",
+        "artist": "Bone Thugs-N-Harmony",
+        "last-week": "24",
+        "peak-rank": "22",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "23",
+        "song": "Flava In Ya Ear",
+        "artist": "Craig Mack",
+        "last-week": "19",
+        "peak-rank": "16",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "24",
+        "song": "Far Behind",
+        "artist": "Candlebox",
+        "last-week": "26",
+        "peak-rank": "18",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "25",
+        "song": "Circle Of Life (From \"The Lion King\")",
+        "artist": "Elton John",
+        "last-week": "21",
+        "peak-rank": "18",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "26",
+        "song": "Stay (I Missed You) (From \"Reality Bites\")",
+        "artist": "Lisa Loeb & Nine Stories",
+        "last-week": "23",
+        "peak-rank": "1",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "27",
+        "song": "Juicy/Unbelievable",
+        "artist": "The Notorious B.I.G.",
+        "last-week": "29",
+        "peak-rank": "27",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "28",
+        "song": "Living In Danger",
+        "artist": "Ace Of Base",
+        "last-week": "38",
+        "peak-rank": "28",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "29",
+        "song": "Lucas With The Lid Off",
+        "artist": "Lucas",
+        "last-week": "36",
+        "peak-rank": "29",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "30",
+        "song": "Practice What You Preach",
+        "artist": "Barry White",
+        "last-week": "44",
+        "peak-rank": "30",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "31",
+        "song": "Lucky One",
+        "artist": "Amy Grant",
+        "last-week": "28",
+        "peak-rank": "18",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "32",
+        "song": "Don't Turn Around",
+        "artist": "Ace Of Base",
+        "last-week": "27",
+        "peak-rank": "4",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "33",
+        "song": "Fantastic Voyage",
+        "artist": "Coolio",
+        "last-week": "30",
+        "peak-rank": "3",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "34",
+        "song": "U Will Know (From \"Jason's Lyric\")",
+        "artist": "B.M.U. (Black Men United)",
+        "last-week": "43",
+        "peak-rank": "34",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "35",
+        "song": "If You Go",
+        "artist": "Jon Secada",
+        "last-week": "35",
+        "peak-rank": "10",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "36",
+        "song": "Shine",
+        "artist": "Collective Soul",
+        "last-week": "32",
+        "peak-rank": "11",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "37",
+        "song": "Bop Gun (One Nation)",
+        "artist": "Ice Cube Featuring George Clinton",
+        "last-week": "31",
+        "peak-rank": "23",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "38",
+        "song": "None Of Your Business",
+        "artist": "Salt-N-Pepa",
+        "last-week": "39",
+        "peak-rank": "38",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "39",
+        "song": "Can You Feel The Love Tonight (From \"The Lion King\")",
+        "artist": "Elton John",
+        "last-week": "34",
+        "peak-rank": "4",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "40",
+        "song": "New Age Girl (From \"Dumb And Dumber\")",
+        "artist": "Deadeye Dick",
+        "last-week": "48",
+        "peak-rank": "40",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "41",
+        "song": "I Belong To You/How Many Ways",
+        "artist": "Toni Braxton",
+        "last-week": "46",
+        "peak-rank": "41",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "42",
+        "song": "Playaz Club",
+        "artist": "Rappin' 4-Tay",
+        "last-week": "42",
+        "peak-rank": "42",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "43",
+        "song": "Get Over It",
+        "artist": "Eagles",
+        "last-week": "61",
+        "peak-rank": "43",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "44",
+        "song": "This D.J.",
+        "artist": "Warren G",
+        "last-week": "33",
+        "peak-rank": "9",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "45",
+        "song": "Come To My Window",
+        "artist": "Melissa Etheridge",
+        "last-week": "37",
+        "peak-rank": "25",
+        "weeks-on-board": "37"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "46",
+        "song": "Sukiyaki",
+        "artist": "4PM",
+        "last-week": "52",
+        "peak-rank": "46",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "47",
+        "song": "I Swear",
+        "artist": "All-4-One",
+        "last-week": "41",
+        "peak-rank": "1",
+        "weeks-on-board": "29"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "48",
+        "song": "Fa All Y'all",
+        "artist": "Da Brat",
+        "last-week": "49",
+        "peak-rank": "48",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "49",
+        "song": "Something's Always Wrong",
+        "artist": "Toad The Wet Sprocket",
+        "last-week": "50",
+        "peak-rank": "49",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "50",
+        "song": "Closer",
+        "artist": "Nine Inch Nails",
+        "last-week": "45",
+        "peak-rank": "41",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "51",
+        "song": "Fade Into You",
+        "artist": "Mazzy Star",
+        "last-week": "55",
+        "peak-rank": "51",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "52",
+        "song": "Body & Soul",
+        "artist": "Anita Baker",
+        "last-week": "40",
+        "peak-rank": "36",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "53",
+        "song": "You Gotta Be",
+        "artist": "Des'ree",
+        "last-week": "53",
+        "peak-rank": "53",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "54",
+        "song": "Do You Wanna Get Funky",
+        "artist": "C+C Music Factory",
+        "last-week": "51",
+        "peak-rank": "40",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "55",
+        "song": "Short Dick Man",
+        "artist": "20 Fingers Featuring Gillette",
+        "last-week": "64",
+        "peak-rank": "55",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "56",
+        "song": "Love Is All Around",
+        "artist": "Wet Wet Wet",
+        "last-week": "54",
+        "peak-rank": "41",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "57",
+        "song": "Undone - The Sweater Song",
+        "artist": "Weezer",
+        "last-week": "57",
+        "peak-rank": "57",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "58",
+        "song": "The Most Beautifullest Thing In This World",
+        "artist": "Keith Murray",
+        "last-week": "66",
+        "peak-rank": "58",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "59",
+        "song": "But It's Alright",
+        "artist": "Huey Lewis & The News",
+        "last-week": "59",
+        "peak-rank": "54",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "60",
+        "song": "Action",
+        "artist": "Terror Fabulous Featuring Nadine Sutherland",
+        "last-week": "56",
+        "peak-rank": "43",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "61",
+        "song": "Can U Get Wit It",
+        "artist": "Usher",
+        "last-week": "62",
+        "peak-rank": "61",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "62",
+        "song": "I'd Give Anything",
+        "artist": "Gerald Levert",
+        "last-week": "60",
+        "peak-rank": "28",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "63",
+        "song": "When We Dance",
+        "artist": "Sting",
+        "last-week": "81",
+        "peak-rank": "63",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "64",
+        "song": "Before I Let You Go",
+        "artist": "BLACKstreet",
+        "last-week": "68",
+        "peak-rank": "64",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "65",
+        "song": "I'll Take Her",
+        "artist": "Ill Al Skratch Featuring Brian McKnight",
+        "last-week": "63",
+        "peak-rank": "63",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "66",
+        "song": "Out Of Tears",
+        "artist": "The Rolling Stones",
+        "last-week": "75",
+        "peak-rank": "66",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "67",
+        "song": "Hold My Hand",
+        "artist": "Hootie & The Blowfish",
+        "last-week": "71",
+        "peak-rank": "67",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "68",
+        "song": "Letitgo",
+        "artist": "Prince",
+        "last-week": "58",
+        "peak-rank": "31",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "69",
+        "song": "Get Up On It",
+        "artist": "Keith Sweat (Featuring Kut Klose)",
+        "last-week": "70",
+        "peak-rank": "69",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "70",
+        "song": "Black Coffee",
+        "artist": "Heavy D & The Boyz",
+        "last-week": "",
+        "peak-rank": "70",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "71",
+        "song": "Nuttin' But Love",
+        "artist": "Heavy D & The Boyz",
+        "last-week": "65",
+        "peak-rank": "40",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "72",
+        "song": "Breakdown",
+        "artist": "Fu-Schnickens",
+        "last-week": "67",
+        "peak-rank": "67",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "73",
+        "song": "Hip Hop Ride",
+        "artist": "Da Youngsta's",
+        "last-week": "69",
+        "peak-rank": "68",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "74",
+        "song": "(I Could Only) Whisper Your Name",
+        "artist": "Harry Connick, Jr.",
+        "last-week": "78",
+        "peak-rank": "74",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "75",
+        "song": "Dance Naked",
+        "artist": "John Mellencamp",
+        "last-week": "89",
+        "peak-rank": "75",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "76",
+        "song": "5-4-3-2 (Yo! Time Is Up)",
+        "artist": "Jade",
+        "last-week": "72",
+        "peak-rank": "72",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "77",
+        "song": "Good Enough",
+        "artist": "Sarah McLachlan",
+        "last-week": "82",
+        "peak-rank": "77",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "78",
+        "song": "Romantic Call",
+        "artist": "Patra Featuring Yo-Yo",
+        "last-week": "74",
+        "peak-rank": "55",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "79",
+        "song": "Right Beside You",
+        "artist": "Sophie B. Hawkins",
+        "last-week": "73",
+        "peak-rank": "56",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "80",
+        "song": "The Way She Loves Me",
+        "artist": "Richard Marx",
+        "last-week": "77",
+        "peak-rank": "20",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "81",
+        "song": "Watermelon Crawl",
+        "artist": "Tracy Byrd",
+        "last-week": "85",
+        "peak-rank": "81",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "82",
+        "song": "Be Happy",
+        "artist": "Mary J. Blige",
+        "last-week": "",
+        "peak-rank": "82",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "83",
+        "song": "Always In My Heart",
+        "artist": "Tevin Campbell",
+        "last-week": "79",
+        "peak-rank": "20",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "84",
+        "song": "9th Wonder (Slicker This Year)",
+        "artist": "Digable Planets",
+        "last-week": "80",
+        "peak-rank": "80",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "85",
+        "song": "Get Ready For This",
+        "artist": "2 Unlimited",
+        "last-week": "",
+        "peak-rank": "76",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "86",
+        "song": "Take It Easy",
+        "artist": "Mad Lion",
+        "last-week": "87",
+        "peak-rank": "69",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "87",
+        "song": "Supernova",
+        "artist": "Liz Phair",
+        "last-week": "96",
+        "peak-rank": "87",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "88",
+        "song": "Booti Call",
+        "artist": "BLACKstreet",
+        "last-week": "84",
+        "peak-rank": "34",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "89",
+        "song": "Tic Toc",
+        "artist": "Lords Of The Underground",
+        "last-week": "92",
+        "peak-rank": "89",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "90",
+        "song": "Shut Up And Kiss Me",
+        "artist": "Mary Chapin Carpenter",
+        "last-week": "93",
+        "peak-rank": "90",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "91",
+        "song": "The Lion Sleeps Tonight (Wimoweh)",
+        "artist": "The Tokens",
+        "last-week": "83",
+        "peak-rank": "51",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "92",
+        "song": "I See It Now",
+        "artist": "Tracy Lawrence",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "93",
+        "song": "You Don't Know Nothin'",
+        "artist": "For Real",
+        "last-week": "88",
+        "peak-rank": "88",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "94",
+        "song": "Whipped",
+        "artist": "Jon Secada",
+        "last-week": "76",
+        "peak-rank": "65",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "95",
+        "song": "Hit By Love",
+        "artist": "CeCe Peniston",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "96",
+        "song": "Am I Wrong",
+        "artist": "Love Spit Love",
+        "last-week": "98",
+        "peak-rank": "83",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "97",
+        "song": "Through The Rain",
+        "artist": "Tanya Blount",
+        "last-week": "95",
+        "peak-rank": "90",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "98",
+        "song": "Hungah",
+        "artist": "Karyn White",
+        "last-week": "91",
+        "peak-rank": "78",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "99",
+        "song": "Third Rock From The Sun",
+        "artist": "Joe Diffie",
+        "last-week": "90",
+        "peak-rank": "84",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1994-11-05",
+        "rank": "100",
+        "song": "Word Is Bond",
+        "artist": "Brand Nubian",
+        "last-week": "94",
+        "peak-rank": "94",
+        "weeks-on-board": "2"
+    }
+]

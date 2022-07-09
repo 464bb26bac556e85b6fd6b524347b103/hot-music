@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1996-09-14",
+        "rank": "1",
+        "song": "Macarena (Bayside Boys Mix)",
+        "artist": "Los Del Rio",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "39"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "2",
+        "song": "I Love You Always Forever",
+        "artist": "Donna Lewis",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "3",
+        "song": "Twisted",
+        "artist": "Keith Sweat",
+        "last-week": "3",
+        "peak-rank": "2",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "4",
+        "song": "Loungin",
+        "artist": "LL Cool J",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "5",
+        "song": "Change The World",
+        "artist": "Eric Clapton",
+        "last-week": "6",
+        "peak-rank": "5",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "6",
+        "song": "C'mon N' Ride It (The Train)",
+        "artist": "Quad City DJ's",
+        "last-week": "5",
+        "peak-rank": "3",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "7",
+        "song": "It's All Coming Back To Me Now",
+        "artist": "Celine Dion",
+        "last-week": "12",
+        "peak-rank": "7",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "8",
+        "song": "You're Makin' Me High/Let It Flow",
+        "artist": "Toni Braxton",
+        "last-week": "8",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "9",
+        "song": "I Can't Sleep Baby (If I)",
+        "artist": "R. Kelly",
+        "last-week": "9",
+        "peak-rank": "5",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "10",
+        "song": "You Learn/You Oughta Know",
+        "artist": "Alanis Morissette",
+        "last-week": "10",
+        "peak-rank": "6",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "11",
+        "song": "Give Me One Reason",
+        "artist": "Tracy Chapman",
+        "last-week": "11",
+        "peak-rank": "3",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "12",
+        "song": "Hit Me Off",
+        "artist": "New Edition",
+        "last-week": "7",
+        "peak-rank": "3",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "13",
+        "song": "Where Do You Go",
+        "artist": "No Mercy",
+        "last-week": "16",
+        "peak-rank": "13",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "14",
+        "song": "Only You",
+        "artist": "112 Featuring The Notorious B.I.G.",
+        "last-week": "15",
+        "peak-rank": "14",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "15",
+        "song": "Who Will Save Your Soul",
+        "artist": "Jewel",
+        "last-week": "13",
+        "peak-rank": "11",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "16",
+        "song": "Counting Blue Cars",
+        "artist": "Dishwalla",
+        "last-week": "18",
+        "peak-rank": "15",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "17",
+        "song": "How Do U Want It/California Love",
+        "artist": "2Pac Featuring K-Ci And JoJo",
+        "last-week": "14",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "18",
+        "song": "Elevators (Me & You)",
+        "artist": "OutKast",
+        "last-week": "17",
+        "peak-rank": "12",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "19",
+        "song": "If Your Girl Only Knew",
+        "artist": "Aaliyah",
+        "last-week": "20",
+        "peak-rank": "19",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "20",
+        "song": "Last Night (From \"The Nutty Professor\")",
+        "artist": "Az Yet",
+        "last-week": "31",
+        "peak-rank": "20",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "21",
+        "song": "Insensitive (From \"Bed Of Roses\")",
+        "artist": "Jann Arden",
+        "last-week": "19",
+        "peak-rank": "12",
+        "weeks-on-board": "32"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "22",
+        "song": "That Girl",
+        "artist": "Maxi Priest Featuring Shaggy",
+        "last-week": "21",
+        "peak-rank": "20",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "23",
+        "song": "Key West Intermezzo (I Saw You First)",
+        "artist": "John Mellencamp",
+        "last-week": "33",
+        "peak-rank": "23",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "24",
+        "song": "Use Your Heart",
+        "artist": "SWV",
+        "last-week": "24",
+        "peak-rank": "24",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "25",
+        "song": "Po Pimp",
+        "artist": "Do Or Die (Featuring Twista)",
+        "last-week": "39",
+        "peak-rank": "25",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "26",
+        "song": "Sweet Dreams",
+        "artist": "La Bouche",
+        "last-week": "28",
+        "peak-rank": "13",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "27",
+        "song": "Stupid Girl",
+        "artist": "Garbage",
+        "last-week": "27",
+        "peak-rank": "27",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "28",
+        "song": "Jealousy",
+        "artist": "Natalie Merchant",
+        "last-week": "23",
+        "peak-rank": "23",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "29",
+        "song": "Because You Loved Me (From \"Up Close & Personal\")",
+        "artist": "Celine Dion",
+        "last-week": "25",
+        "peak-rank": "1",
+        "weeks-on-board": "28"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "30",
+        "song": "Why Does It Hurt So Bad (From \"Waiting To Exhale\")",
+        "artist": "Whitney Houston",
+        "last-week": "29",
+        "peak-rank": "26",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "31",
+        "song": "Always Be My Baby",
+        "artist": "Mariah Carey",
+        "last-week": "26",
+        "peak-rank": "1",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "32",
+        "song": "Why I Love You So Much/Ain't Nobody",
+        "artist": "Monica",
+        "last-week": "22",
+        "peak-rank": "9",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "33",
+        "song": "Nobody Knows",
+        "artist": "The Tony Rich Project",
+        "last-week": "32",
+        "peak-rank": "2",
+        "weeks-on-board": "40"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "34",
+        "song": "Missing You (From \"Set It Off\")",
+        "artist": "Brandy, Tamia, Gladys Knight & Chaka Khan",
+        "last-week": "44",
+        "peak-rank": "34",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "35",
+        "song": "Kissin' You",
+        "artist": "Total",
+        "last-week": "30",
+        "peak-rank": "12",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "36",
+        "song": "Macarena",
+        "artist": "Los Del Rio",
+        "last-week": "36",
+        "peak-rank": "36",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "37",
+        "song": "Ironic",
+        "artist": "Alanis Morissette",
+        "last-week": "35",
+        "peak-rank": "4",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "38",
+        "song": "The Earth, The Sun, The Rain",
+        "artist": "Color Me Badd",
+        "last-week": "40",
+        "peak-rank": "21",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "39",
+        "song": "Follow You Down/Til I Hear It From You",
+        "artist": "Gin Blossoms",
+        "last-week": "37",
+        "peak-rank": "9",
+        "weeks-on-board": "32"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "40",
+        "song": "Tucker's Town",
+        "artist": "Hootie & The Blowfish",
+        "last-week": "38",
+        "peak-rank": "38",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "41",
+        "song": "The Things That You Do",
+        "artist": "Gina Thompson",
+        "last-week": "43",
+        "peak-rank": "41",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "42",
+        "song": "My Boo",
+        "artist": "Ghost Town DJ's",
+        "last-week": "42",
+        "peak-rank": "42",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "43",
+        "song": "This Is Your Night",
+        "artist": "Amber",
+        "last-week": "45",
+        "peak-rank": "43",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "44",
+        "song": "Children",
+        "artist": "Robert Miles",
+        "last-week": "34",
+        "peak-rank": "21",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "45",
+        "song": "Let's Make A Night To Remember",
+        "artist": "Bryan Adams",
+        "last-week": "52",
+        "peak-rank": "45",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "46",
+        "song": "Ascension (Don't Ever Wonder)",
+        "artist": "Maxwell",
+        "last-week": "48",
+        "peak-rank": "46",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "47",
+        "song": "Touch Myself (From \"Fled\")",
+        "artist": "T-Boz",
+        "last-week": "47",
+        "peak-rank": "40",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "48",
+        "song": "Like A Woman",
+        "artist": "The Tony Rich Project",
+        "last-week": "46",
+        "peak-rank": "41",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "49",
+        "song": "E-Bow The Letter",
+        "artist": "R.E.M.",
+        "last-week": "54",
+        "peak-rank": "49",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "50",
+        "song": "Tell Me (I'll Be Around)",
+        "artist": "Shades",
+        "last-week": "59",
+        "peak-rank": "50",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "51",
+        "song": "Touch Me Tease Me (From \"The Nutty Professor\")",
+        "artist": "Case Featuring Foxxy Brown",
+        "last-week": "50",
+        "peak-rank": "14",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "52",
+        "song": "Tell Me (From \"Eddie\")",
+        "artist": "Dru Hill",
+        "last-week": "69",
+        "peak-rank": "52",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "53",
+        "song": "Blackberry Molasses",
+        "artist": "Mista",
+        "last-week": "53",
+        "peak-rank": "53",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "54",
+        "song": "I Like (From \"The Nutty Professor\")",
+        "artist": "Montell Jordan Featuring Slick Rick",
+        "last-week": "49",
+        "peak-rank": "28",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "55",
+        "song": "Don't Look Back In Anger",
+        "artist": "Oasis",
+        "last-week": "55",
+        "peak-rank": "55",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "56",
+        "song": "Who You Are",
+        "artist": "Pearl Jam",
+        "last-week": "41",
+        "peak-rank": "31",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "57",
+        "song": "Tha Crossroads",
+        "artist": "Bone Thugs-N-Harmony",
+        "last-week": "51",
+        "peak-rank": "1",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "58",
+        "song": "If I Ruled The World",
+        "artist": "Nas",
+        "last-week": "56",
+        "peak-rank": "53",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "59",
+        "song": "Mouth",
+        "artist": "Merril Bainbridge",
+        "last-week": "67",
+        "peak-rank": "59",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "60",
+        "song": "Wu-Wear: The Garment Renaissance (From \"High School High\")",
+        "artist": "RZA Feat. Method Man & Cappadonna",
+        "last-week": "60",
+        "peak-rank": "60",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "61",
+        "song": "Do You Miss Me",
+        "artist": "Jocelyn Enriquez",
+        "last-week": "61",
+        "peak-rank": "61",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "62",
+        "song": "Someday (From \"The Hunchback Of Notre Dame\")",
+        "artist": "All-4-One",
+        "last-week": "57",
+        "peak-rank": "30",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "63",
+        "song": "Pony",
+        "artist": "Ginuwine",
+        "last-week": "73",
+        "peak-rank": "63",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "64",
+        "song": "Blue",
+        "artist": "LeAnn Rimes",
+        "last-week": "63",
+        "peak-rank": "26",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "65",
+        "song": "Baby Luv",
+        "artist": "Groove Theory",
+        "last-week": "65",
+        "peak-rank": "65",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "66",
+        "song": "All I See",
+        "artist": "A+",
+        "last-week": "74",
+        "peak-rank": "66",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "67",
+        "song": "Tonight, Tonight",
+        "artist": "The Smashing Pumpkins",
+        "last-week": "58",
+        "peak-rank": "36",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "68",
+        "song": "Where Do We Go From Here",
+        "artist": "Deborah Cox",
+        "last-week": "66",
+        "peak-rank": "48",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "69",
+        "song": "It's A Party",
+        "artist": "Busta Rhymes Featuring Zhane",
+        "last-week": "64",
+        "peak-rank": "52",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "70",
+        "song": "Until It Sleeps",
+        "artist": "Metallica",
+        "last-week": "62",
+        "peak-rank": "10",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "71",
+        "song": "What Kind Of Man Would I Be",
+        "artist": "Mint Condition",
+        "last-week": "89",
+        "peak-rank": "71",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "72",
+        "song": "Shake A Lil' Somethin'...",
+        "artist": "The 2 Live Crew",
+        "last-week": "72",
+        "peak-rank": "72",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "73",
+        "song": "Ready To Go",
+        "artist": "Republica",
+        "last-week": "79",
+        "peak-rank": "73",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "74",
+        "song": "Steelo",
+        "artist": "702",
+        "last-week": "",
+        "peak-rank": "74",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "75",
+        "song": "As Long As It Matters",
+        "artist": "Gin Blossoms",
+        "last-week": "76",
+        "peak-rank": "75",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "76",
+        "song": "All Along",
+        "artist": "Blessid Union Of Souls",
+        "last-week": "70",
+        "peak-rank": "70",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "77",
+        "song": "Guys Do It All The Time",
+        "artist": "Mindy McCready",
+        "last-week": "94",
+        "peak-rank": "77",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "78",
+        "song": "Gettin' It",
+        "artist": "Too Short Featuring Parliament Funkadelic",
+        "last-week": "68",
+        "peak-rank": "68",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "79",
+        "song": "Where It's At",
+        "artist": "Beck",
+        "last-week": "75",
+        "peak-rank": "61",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "80",
+        "song": "Where Do We Go From Here (From \"Eraser\")",
+        "artist": "Vanessa Williams",
+        "last-week": "85",
+        "peak-rank": "71",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "81",
+        "song": "Macarena",
+        "artist": "Los Del Mar",
+        "last-week": "71",
+        "peak-rank": "71",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "82",
+        "song": "You'll Be Mine (Party Time)",
+        "artist": "Gloria Estefan",
+        "last-week": "84",
+        "peak-rank": "82",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "83",
+        "song": "Movin' On",
+        "artist": "CeCe Peniston",
+        "last-week": "90",
+        "peak-rank": "83",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "84",
+        "song": "Jellyhead",
+        "artist": "Crush",
+        "last-week": "86",
+        "peak-rank": "84",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "85",
+        "song": "Flood",
+        "artist": "Jars Of Clay",
+        "last-week": "82",
+        "peak-rank": "37",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "86",
+        "song": "Just Because I Love You",
+        "artist": "Lina Santiago",
+        "last-week": "78",
+        "peak-rank": "78",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "87",
+        "song": "It's All The Way Live (Now) (From \"Eddie\")",
+        "artist": "Coolio",
+        "last-week": "77",
+        "peak-rank": "29",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "88",
+        "song": "Hay",
+        "artist": "Crucial Conflict",
+        "last-week": "80",
+        "peak-rank": "18",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "89",
+        "song": "Theme From Mission: Impossible (From \"Mission: Impossible\")",
+        "artist": "Adam Clayton & Larry Mullen",
+        "last-week": "81",
+        "peak-rank": "7",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "90",
+        "song": "Angeline Is Coming Home",
+        "artist": "The Badlees",
+        "last-week": "83",
+        "peak-rank": "67",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "91",
+        "song": "Get On Up",
+        "artist": "Jodeci",
+        "last-week": "88",
+        "peak-rank": "22",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "92",
+        "song": "Can You Feel Me",
+        "artist": "Dru Down",
+        "last-week": "92",
+        "peak-rank": "92",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "93",
+        "song": "Maria",
+        "artist": "Ricky Martin",
+        "last-week": "95",
+        "peak-rank": "90",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "94",
+        "song": "Can't Knock The Hustle",
+        "artist": "JAY-Z",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "95",
+        "song": "One By One",
+        "artist": "Cher",
+        "last-week": "91",
+        "peak-rank": "52",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "96",
+        "song": "You",
+        "artist": "Monifah",
+        "last-week": "96",
+        "peak-rank": "32",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "97",
+        "song": "Jump On It",
+        "artist": "Sir Mix-A-Lot",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "98",
+        "song": "Dirty South",
+        "artist": "Goodie Mob",
+        "last-week": "98",
+        "peak-rank": "92",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "99",
+        "song": "DJ Girl",
+        "artist": "Katalina",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1996-09-14",
+        "rank": "100",
+        "song": "Fastlove",
+        "artist": "George Michael",
+        "last-week": "87",
+        "peak-rank": "8",
+        "weeks-on-board": "19"
+    }
+]

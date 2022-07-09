@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1974-01-19",
+        "rank": "1",
+        "song": "Show And Tell",
+        "artist": "Al Wilson",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "2",
+        "song": "The Joker",
+        "artist": "The Steve Miller Band",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "3",
+        "song": "Smokin' In The Boy's Room",
+        "artist": "Brownsville Station",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "4",
+        "song": "I've Got To Use My Imagination",
+        "artist": "Gladys Knight And The Pips",
+        "last-week": "5",
+        "peak-rank": "4",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "5",
+        "song": "You're Sixteen",
+        "artist": "Ringo Starr",
+        "last-week": "6",
+        "peak-rank": "5",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "6",
+        "song": "Time In A Bottle",
+        "artist": "Jim Croce",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "7",
+        "song": "The Way We Were",
+        "artist": "Barbra Streisand",
+        "last-week": "11",
+        "peak-rank": "7",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "8",
+        "song": "Living For The City",
+        "artist": "Stevie Wonder",
+        "last-week": "8",
+        "peak-rank": "8",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "9",
+        "song": "Let Me Be There",
+        "artist": "Olivia Newton-John",
+        "last-week": "9",
+        "peak-rank": "9",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "10",
+        "song": "Love's Theme",
+        "artist": "Love Unlimited Orchestra",
+        "last-week": "13",
+        "peak-rank": "10",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "11",
+        "song": "Never, Never Gonna Give Ya Up",
+        "artist": "Barry White",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "12",
+        "song": "Helen Wheels",
+        "artist": "Paul McCartney And Wings",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "13",
+        "song": "Until You Come Back To Me (That's What I'm Gonna Do)",
+        "artist": "Aretha Franklin",
+        "last-week": "17",
+        "peak-rank": "13",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "14",
+        "song": "When I Fall In Love/Are You Lonesome Tonight",
+        "artist": "Donny Osmond",
+        "last-week": "15",
+        "peak-rank": "14",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "15",
+        "song": "Me And Baby Brother",
+        "artist": "War",
+        "last-week": "16",
+        "peak-rank": "15",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "16",
+        "song": "The Most Beautiful Girl",
+        "artist": "Charlie Rich",
+        "last-week": "12",
+        "peak-rank": "1",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "17",
+        "song": "Americans",
+        "artist": "Byron MacGregor",
+        "last-week": "33",
+        "peak-rank": "17",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "18",
+        "song": "Spiders & Snakes",
+        "artist": "Jim Stafford",
+        "last-week": "22",
+        "peak-rank": "18",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "19",
+        "song": "Livin' For You",
+        "artist": "Al Green",
+        "last-week": "21",
+        "peak-rank": "19",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "20",
+        "song": "Walk Like A Man",
+        "artist": "Grand Funk",
+        "last-week": "23",
+        "peak-rank": "20",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "21",
+        "song": "Leave Me Alone (ruby Red Dress)",
+        "artist": "Helen Reddy",
+        "last-week": "14",
+        "peak-rank": "3",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "22",
+        "song": "Jungle Boogie",
+        "artist": "Kool & The Gang",
+        "last-week": "28",
+        "peak-rank": "22",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "23",
+        "song": "Goodbye Yellow Brick Road",
+        "artist": "Elton John",
+        "last-week": "18",
+        "peak-rank": "2",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "24",
+        "song": "Sister Mary Elephant (Shudd-Up!)",
+        "artist": "Cheech & Chong",
+        "last-week": "25",
+        "peak-rank": "24",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "25",
+        "song": "Top Of The World",
+        "artist": "Carpenters",
+        "last-week": "19",
+        "peak-rank": "1",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "26",
+        "song": "Hello It's Me",
+        "artist": "Todd Rundgren",
+        "last-week": "20",
+        "peak-rank": "5",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "27",
+        "song": "If You're Ready (Come Go With Me)",
+        "artist": "The Staple Singers",
+        "last-week": "24",
+        "peak-rank": "9",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "28",
+        "song": "If We Make It Through December",
+        "artist": "Merle Haggard",
+        "last-week": "32",
+        "peak-rank": "28",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "29",
+        "song": "Put Your Hands Together",
+        "artist": "The O'Jays",
+        "last-week": "39",
+        "peak-rank": "29",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "30",
+        "song": "Let Your Hair Down",
+        "artist": "The Temptations",
+        "last-week": "38",
+        "peak-rank": "30",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "31",
+        "song": "Rockin' Roll Baby",
+        "artist": "The Stylistics",
+        "last-week": "27",
+        "peak-rank": "14",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "32",
+        "song": "Rock On",
+        "artist": "David Essex",
+        "last-week": "40",
+        "peak-rank": "32",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "33",
+        "song": "\"Joy\" Pt. I",
+        "artist": "Isaac Hayes",
+        "last-week": "36",
+        "peak-rank": "33",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "34",
+        "song": "MIND GAMES",
+        "artist": "John Lennon",
+        "last-week": "29",
+        "peak-rank": "18",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "35",
+        "song": "Just You 'n' Me",
+        "artist": "Chicago",
+        "last-week": "26",
+        "peak-rank": "4",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "36",
+        "song": "Midnight Rider",
+        "artist": "Gregg Allman",
+        "last-week": "44",
+        "peak-rank": "36",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "37",
+        "song": "American Tune",
+        "artist": "Paul Simon",
+        "last-week": "35",
+        "peak-rank": "35",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "38",
+        "song": "I Love",
+        "artist": "Tom T. Hall",
+        "last-week": "41",
+        "peak-rank": "38",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "39",
+        "song": "Baby Come Close",
+        "artist": "Smokey Robinson",
+        "last-week": "48",
+        "peak-rank": "39",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "40",
+        "song": "Love Song",
+        "artist": "Anne Murray",
+        "last-week": "50",
+        "peak-rank": "40",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "41",
+        "song": "Last Time I Saw Him",
+        "artist": "Diana Ross",
+        "last-week": "56",
+        "peak-rank": "41",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "42",
+        "song": "Jim Dandy",
+        "artist": "Black Oak Arkansas",
+        "last-week": "46",
+        "peak-rank": "42",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "43",
+        "song": "D'yer Mak'er",
+        "artist": "Led Zeppelin",
+        "last-week": "30",
+        "peak-rank": "20",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "44",
+        "song": "My Music",
+        "artist": "Loggins & Messina",
+        "last-week": "31",
+        "peak-rank": "16",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "45",
+        "song": "Painted Ladies",
+        "artist": "Ian Thomas",
+        "last-week": "34",
+        "peak-rank": "34",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "46",
+        "song": "Boogie Down",
+        "artist": "Eddie Kendricks",
+        "last-week": "62",
+        "peak-rank": "46",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "47",
+        "song": "This Time I'm Gone For Good",
+        "artist": "Bobby \"Blue\" Bland",
+        "last-week": "42",
+        "peak-rank": "42",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "48",
+        "song": "I Like To Live The Love",
+        "artist": "B.B. King",
+        "last-week": "58",
+        "peak-rank": "48",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "49",
+        "song": "Abra-Ca-Dabra",
+        "artist": "The De Franco Family",
+        "last-week": "70",
+        "peak-rank": "49",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "50",
+        "song": "Who's In The Strawberry Patch With Sally",
+        "artist": "Tony Orlando & Dawn",
+        "last-week": "37",
+        "peak-rank": "27",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "51",
+        "song": "The Love I Lost (Part 1)",
+        "artist": "Harold Melvin And The Blue Notes",
+        "last-week": "43",
+        "peak-rank": "7",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "52",
+        "song": "Can This Be Real",
+        "artist": "Natural Four",
+        "last-week": "68",
+        "peak-rank": "52",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "53",
+        "song": "Keep Your Head To The Sky",
+        "artist": "Earth, Wind & Fire",
+        "last-week": "53",
+        "peak-rank": "52",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "54",
+        "song": "Teenage Lament '74",
+        "artist": "Alice Cooper",
+        "last-week": "64",
+        "peak-rank": "54",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "55",
+        "song": "A Fool Such As I",
+        "artist": "Bob Dylan",
+        "last-week": "55",
+        "peak-rank": "55",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "56",
+        "song": "Showdown",
+        "artist": "Electric Light Orchestra",
+        "last-week": "57",
+        "peak-rank": "56",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "57",
+        "song": "I Shall Sing",
+        "artist": "Garfunkel",
+        "last-week": "67",
+        "peak-rank": "57",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "58",
+        "song": "Stoned To The Bone - Part 1",
+        "artist": "James Brown",
+        "last-week": "61",
+        "peak-rank": "58",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "59",
+        "song": "Love Has No Pride",
+        "artist": "Linda Ronstadt",
+        "last-week": "51",
+        "peak-rank": "51",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "60",
+        "song": "Last Kiss",
+        "artist": "Wednesday",
+        "last-week": "63",
+        "peak-rank": "60",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "61",
+        "song": "Doo Doo Doo Doo Doo (heartbreaker)",
+        "artist": "The Rolling Stones",
+        "last-week": "83",
+        "peak-rank": "61",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "62",
+        "song": "The Americans (A Canadian's Opinion)",
+        "artist": "Gordon Sinclair",
+        "last-week": "98",
+        "peak-rank": "62",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "63",
+        "song": "I Got A Name",
+        "artist": "Jim Croce",
+        "last-week": "52",
+        "peak-rank": "10",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "64",
+        "song": "It Doesn't Have To Be That Way",
+        "artist": "Jim Croce",
+        "last-week": "66",
+        "peak-rank": "64",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "65",
+        "song": "Come Get To This",
+        "artist": "Marvin Gaye",
+        "last-week": "49",
+        "peak-rank": "21",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "66",
+        "song": "Trying To Hold On To My Woman",
+        "artist": "Lamont Dozier",
+        "last-week": "84",
+        "peak-rank": "66",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "67",
+        "song": "Wang Dang Doodle",
+        "artist": "The Pointer Sisters",
+        "last-week": "77",
+        "peak-rank": "67",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "68",
+        "song": "You're So Unique",
+        "artist": "Billy Preston",
+        "last-week": "74",
+        "peak-rank": "68",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "69",
+        "song": "Daddy What If",
+        "artist": "Bobby Bare",
+        "last-week": "80",
+        "peak-rank": "69",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "70",
+        "song": "My Sweet Lady",
+        "artist": "Cliff DeYoung",
+        "last-week": "76",
+        "peak-rank": "70",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "71",
+        "song": "Raised On Robbery",
+        "artist": "Joni Mitchell",
+        "last-week": "75",
+        "peak-rank": "71",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "72",
+        "song": "I Can't Stand The Rain",
+        "artist": "Ann Peebles",
+        "last-week": "47",
+        "peak-rank": "38",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "73",
+        "song": "Come And Get Your Love",
+        "artist": "Redbone",
+        "last-week": "85",
+        "peak-rank": "73",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "74",
+        "song": "Photograph",
+        "artist": "Ringo Starr",
+        "last-week": "45",
+        "peak-rank": "1",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "75",
+        "song": "Sexy Mama",
+        "artist": "Moments",
+        "last-week": "100",
+        "peak-rank": "75",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "76",
+        "song": "Hangin' Around",
+        "artist": "Edgar Winter Group",
+        "last-week": "65",
+        "peak-rank": "65",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "77",
+        "song": "One Tin Soldier, The Legend of Billy Jack",
+        "artist": "Coven",
+        "last-week": "81",
+        "peak-rank": "26",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "78",
+        "song": "What It Comes Down To",
+        "artist": "The Isley Brothers",
+        "last-week": "88",
+        "peak-rank": "78",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "79",
+        "song": "Tell Her She's Lovely",
+        "artist": "El Chicano",
+        "last-week": "54",
+        "peak-rank": "40",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "80",
+        "song": "I Wanna Know Your Name",
+        "artist": "The Intruders",
+        "last-week": "72",
+        "peak-rank": "60",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "81",
+        "song": "Star",
+        "artist": "Stealers Wheel",
+        "last-week": "87",
+        "peak-rank": "81",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "82",
+        "song": "Dark Lady",
+        "artist": "Cher",
+        "last-week": "",
+        "peak-rank": "82",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "83",
+        "song": "Life Is A Song Worth Singing",
+        "artist": "Johnny Mathis",
+        "last-week": "89",
+        "peak-rank": "83",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "84",
+        "song": "Eres Tu (Touch The Wind)",
+        "artist": "Mocedades",
+        "last-week": "90",
+        "peak-rank": "84",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "85",
+        "song": "Flashback",
+        "artist": "The 5th Dimension",
+        "last-week": "86",
+        "peak-rank": "85",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "86",
+        "song": "Seasons In The Sun",
+        "artist": "Terry Jacks",
+        "last-week": "99",
+        "peak-rank": "86",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "87",
+        "song": "WOLD",
+        "artist": "Harry Chapin",
+        "last-week": "91",
+        "peak-rank": "87",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "88",
+        "song": "Can't Say Nothin'",
+        "artist": "Curtis Mayfield",
+        "last-week": "93",
+        "peak-rank": "88",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "89",
+        "song": "Let Me Get To Know You",
+        "artist": "Paul Anka",
+        "last-week": "94",
+        "peak-rank": "89",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "90",
+        "song": "Jessica",
+        "artist": "The Allman Brothers Band",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "91",
+        "song": "I Miss You",
+        "artist": "The Dells",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "92",
+        "song": "This Is Your Song",
+        "artist": "Don Goodwin",
+        "last-week": "95",
+        "peak-rank": "86",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "93",
+        "song": "A Song I'd Like To Sing",
+        "artist": "Kris Kristofferson & Rita Coolidge",
+        "last-week": "71",
+        "peak-rank": "49",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "94",
+        "song": "(I'd Know You) Anywhere",
+        "artist": "Ashford & Simpson",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "95",
+        "song": "Space Race",
+        "artist": "Billy Preston",
+        "last-week": "59",
+        "peak-rank": "4",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "96",
+        "song": "Meadows",
+        "artist": "Joe Walsh",
+        "last-week": "97",
+        "peak-rank": "96",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "97",
+        "song": "Last Kiss",
+        "artist": "J. Frank Wilson and The Cavaliers",
+        "last-week": "92",
+        "peak-rank": "92",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "98",
+        "song": "I Found Sunshine",
+        "artist": "The Chi-lites",
+        "last-week": "79",
+        "peak-rank": "47",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "99",
+        "song": "Please, Daddy",
+        "artist": "John Denver",
+        "last-week": "69",
+        "peak-rank": "69",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1974-01-19",
+        "rank": "100",
+        "song": "Rock And Roll, Hoochie Koo",
+        "artist": "Rick Derringer",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

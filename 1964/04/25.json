@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1964-04-25",
+        "rank": "1",
+        "song": "Can't Buy Me Love",
+        "artist": "The Beatles",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "2",
+        "song": "Twist And Shout",
+        "artist": "The Beatles",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "3",
+        "song": "Do You Want To Know A Secret",
+        "artist": "The Beatles",
+        "last-week": "5",
+        "peak-rank": "3",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "4",
+        "song": "Hello, Dolly!",
+        "artist": "Louis Armstrong And The All Stars",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "5",
+        "song": "Suspicion",
+        "artist": "Terry Stafford",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "6",
+        "song": "Glad All Over",
+        "artist": "The Dave Clark Five",
+        "last-week": "7",
+        "peak-rank": "6",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "7",
+        "song": "Bits And Pieces",
+        "artist": "The Dave Clark Five",
+        "last-week": "11",
+        "peak-rank": "7",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "8",
+        "song": "Don't Let The Rain Come Down (Crooked Little Man)",
+        "artist": "The Serendipity Singers",
+        "last-week": "9",
+        "peak-rank": "8",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "9",
+        "song": "My Guy",
+        "artist": "Mary Wells",
+        "last-week": "14",
+        "peak-rank": "9",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "10",
+        "song": "Dead Man's Curve",
+        "artist": "Jan & Dean",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "11",
+        "song": "The Shoop Shoop Song (It's In His Kiss)",
+        "artist": "Betty Everett",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "12",
+        "song": "That's The Way Boys Are",
+        "artist": "Lesley Gore",
+        "last-week": "17",
+        "peak-rank": "12",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "13",
+        "song": "Needles And Pins",
+        "artist": "The Searchers",
+        "last-week": "13",
+        "peak-rank": "13",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "14",
+        "song": "The Way You Do The Things You Do",
+        "artist": "The Temptations",
+        "last-week": "12",
+        "peak-rank": "11",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "15",
+        "song": "You're A Wonderful One",
+        "artist": "Marvin Gaye",
+        "last-week": "15",
+        "peak-rank": "15",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "16",
+        "song": "White On White",
+        "artist": "Danny Williams",
+        "last-week": "21",
+        "peak-rank": "16",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "17",
+        "song": "Ronnie",
+        "artist": "The 4 Seasons Featuring the \"Sound of Frankie Valli\"",
+        "last-week": "29",
+        "peak-rank": "17",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "18",
+        "song": "Money",
+        "artist": "The Kingsmen",
+        "last-week": "18",
+        "peak-rank": "18",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "19",
+        "song": "She Loves You",
+        "artist": "The Beatles",
+        "last-week": "8",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "20",
+        "song": "Shangri-La",
+        "artist": "Robert Maxwell His Harp And Orchestra",
+        "last-week": "30",
+        "peak-rank": "20",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "21",
+        "song": "The Matador",
+        "artist": "Major Lance",
+        "last-week": "23",
+        "peak-rank": "21",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "22",
+        "song": "Ain't Nothing You Can Do",
+        "artist": "Bobby Bland",
+        "last-week": "20",
+        "peak-rank": "20",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "23",
+        "song": "Hey, Bobba Needle",
+        "artist": "Chubby Checker",
+        "last-week": "26",
+        "peak-rank": "23",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "24",
+        "song": "I Want To Hold Your Hand",
+        "artist": "The Beatles",
+        "last-week": "19",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "25",
+        "song": "Forever",
+        "artist": "Pete Drake And His Talking Steel Guitar",
+        "last-week": "27",
+        "peak-rank": "25",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "26",
+        "song": "Nadine (Is It You?)",
+        "artist": "Chuck Berry",
+        "last-week": "28",
+        "peak-rank": "26",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "27",
+        "song": "Ebb Tide",
+        "artist": "Lenny Welch",
+        "last-week": "31",
+        "peak-rank": "27",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "28",
+        "song": "It's Over",
+        "artist": "Roy Orbison",
+        "last-week": "60",
+        "peak-rank": "28",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "29",
+        "song": "Please Please Me",
+        "artist": "The Beatles",
+        "last-week": "16",
+        "peak-rank": "3",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "30",
+        "song": "My Heart Belongs To Only You",
+        "artist": "Bobby Vinton",
+        "last-week": "22",
+        "peak-rank": "9",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "31",
+        "song": "Think",
+        "artist": "Brenda Lee",
+        "last-week": "25",
+        "peak-rank": "25",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "32",
+        "song": "Wish Someone Would Care",
+        "artist": "Irma Thomas",
+        "last-week": "42",
+        "peak-rank": "32",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "33",
+        "song": "I'm So Proud",
+        "artist": "The Impressions",
+        "last-week": "37",
+        "peak-rank": "33",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "34",
+        "song": "Kiss Me Sailor",
+        "artist": "Diane Renay",
+        "last-week": "44",
+        "peak-rank": "34",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "35",
+        "song": "My Girl Sloopy",
+        "artist": "The Vibrations",
+        "last-week": "41",
+        "peak-rank": "35",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "36",
+        "song": "Stay",
+        "artist": "The 4 Seasons",
+        "last-week": "24",
+        "peak-rank": "16",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "37",
+        "song": "Thank You Girl",
+        "artist": "The Beatles",
+        "last-week": "49",
+        "peak-rank": "37",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "38",
+        "song": "The New Girl In School",
+        "artist": "Jan & Dean",
+        "last-week": "40",
+        "peak-rank": "37",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "39",
+        "song": "Hippy Hippy Shake",
+        "artist": "The Swinging Blue Jeans",
+        "last-week": "32",
+        "peak-rank": "24",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "40",
+        "song": "Shangri-La",
+        "artist": "Vic Dana",
+        "last-week": "47",
+        "peak-rank": "40",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "41",
+        "song": "Cotton Candy",
+        "artist": "Al Hirt",
+        "last-week": "67",
+        "peak-rank": "41",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "42",
+        "song": "Can You Do It",
+        "artist": "The Contours",
+        "last-week": "61",
+        "peak-rank": "42",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "43",
+        "song": "Make Me Forget",
+        "artist": "Bobby Rydell",
+        "last-week": "50",
+        "peak-rank": "43",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "44",
+        "song": "Stay Awhile",
+        "artist": "Dusty Springfield",
+        "last-week": "51",
+        "peak-rank": "44",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "45",
+        "song": "All My Loving",
+        "artist": "The Beatles",
+        "last-week": "48",
+        "peak-rank": "45",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "46",
+        "song": "Charade",
+        "artist": "Sammy Kaye And His Orchestra",
+        "last-week": "56",
+        "peak-rank": "46",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "47",
+        "song": "Fun, Fun, Fun",
+        "artist": "The Beach Boys",
+        "last-week": "33",
+        "peak-rank": "5",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "48",
+        "song": "The Pink Panther Theme",
+        "artist": "Henry Mancini And His Orchestra",
+        "last-week": "54",
+        "peak-rank": "48",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "49",
+        "song": "Dawn (Go Away)",
+        "artist": "The 4 Seasons",
+        "last-week": "35",
+        "peak-rank": "3",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "50",
+        "song": "(Just Like) Romeo & Juliet",
+        "artist": "The Reflections",
+        "last-week": "75",
+        "peak-rank": "50",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "51",
+        "song": "I Can't Stand It",
+        "artist": "Soul Sisters",
+        "last-week": "46",
+        "peak-rank": "46",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "52",
+        "song": "In My Lonely Room",
+        "artist": "Martha & The Vandellas",
+        "last-week": "63",
+        "peak-rank": "52",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "53",
+        "song": "Look Homeward Angel",
+        "artist": "The Monarchs",
+        "last-week": "58",
+        "peak-rank": "53",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "54",
+        "song": "Baby Baby Baby",
+        "artist": "Anna King-Bobby Byrd",
+        "last-week": "57",
+        "peak-rank": "54",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "55",
+        "song": "Slip-In Mules (No High Heel Sneakers)",
+        "artist": "Sugar Pie DeSanto",
+        "last-week": "66",
+        "peak-rank": "55",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "56",
+        "song": "Giving Up On Love",
+        "artist": "Jerry Butler",
+        "last-week": "59",
+        "peak-rank": "56",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "57",
+        "song": "(The Best Part Of) Breakin' Up",
+        "artist": "The Ronettes",
+        "last-week": "71",
+        "peak-rank": "57",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "58",
+        "song": "Ain't Gonna Tell Anybody",
+        "artist": "Jimmy Gilmer And The Fireballs",
+        "last-week": "53",
+        "peak-rank": "53",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "59",
+        "song": "Wrong For Each Other",
+        "artist": "Andy Williams",
+        "last-week": "72",
+        "peak-rank": "59",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "60",
+        "song": "You Can't Do That",
+        "artist": "The Beatles",
+        "last-week": "55",
+        "peak-rank": "48",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "61",
+        "song": "Little Children",
+        "artist": "Billy J. Kramer With The Dakotas",
+        "last-week": "87",
+        "peak-rank": "61",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "62",
+        "song": "Love Me With All Your Heart (Cuando Calienta El Sol)",
+        "artist": "The Ray Charles Singers",
+        "last-week": "93",
+        "peak-rank": "62",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "63",
+        "song": "Diane",
+        "artist": "The Bachelors",
+        "last-week": "74",
+        "peak-rank": "63",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "64",
+        "song": "I Should Care",
+        "artist": "Gloria Lynne",
+        "last-week": "69",
+        "peak-rank": "64",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "65",
+        "song": "T'ain't Nothin' To Me",
+        "artist": "The Coasters",
+        "last-week": "65",
+        "peak-rank": "65",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "66",
+        "song": "Castles In The Sand",
+        "artist": "Little Stevie Wonder",
+        "last-week": "52",
+        "peak-rank": "52",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "67",
+        "song": "Love Me Do",
+        "artist": "The Beatles",
+        "last-week": "73",
+        "peak-rank": "67",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "68",
+        "song": "Book Of Love",
+        "artist": "The Raindrops",
+        "last-week": "62",
+        "peak-rank": "62",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "69",
+        "song": "Today",
+        "artist": "The New Christy Minstrels",
+        "last-week": "84",
+        "peak-rank": "69",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "70",
+        "song": "Whenever He Holds You",
+        "artist": "Bobby Goldsboro",
+        "last-week": "80",
+        "peak-rank": "70",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "71",
+        "song": "Our Everlasting Love",
+        "artist": "Ruby And The Romantics",
+        "last-week": "64",
+        "peak-rank": "64",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "72",
+        "song": "That's When It Hurts",
+        "artist": "Ben E. King",
+        "last-week": "76",
+        "peak-rank": "72",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "73",
+        "song": "Soul Serenade",
+        "artist": "King Curtis",
+        "last-week": "68",
+        "peak-rank": "68",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "74",
+        "song": "Tall Cool One",
+        "artist": "The Wailers",
+        "last-week": "85",
+        "peak-rank": "36",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "75",
+        "song": "Goodbye Baby (Baby Goodbye)",
+        "artist": "Solomon Burke",
+        "last-week": "78",
+        "peak-rank": "75",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "76",
+        "song": "Loving You More Every Day",
+        "artist": "Etta James",
+        "last-week": "81",
+        "peak-rank": "76",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "77",
+        "song": "The Wonder Of You",
+        "artist": "Ray Peterson",
+        "last-week": "",
+        "peak-rank": "25",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "78",
+        "song": "The Very Thought Of You",
+        "artist": "Rick Nelson",
+        "last-week": "",
+        "peak-rank": "78",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "79",
+        "song": "Come To Me",
+        "artist": "Otis Redding",
+        "last-week": "83",
+        "peak-rank": "79",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "80",
+        "song": "Ain't That Just Like Me",
+        "artist": "The Searchers",
+        "last-week": "95",
+        "peak-rank": "80",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "81",
+        "song": "I Don't Want To Be Hurt Anymore",
+        "artist": "Nat King Cole",
+        "last-week": "",
+        "peak-rank": "81",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "82",
+        "song": "Mexican Drummer Man",
+        "artist": "Herb Alpert's Tijuana Brass",
+        "last-week": "77",
+        "peak-rank": "77",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "83",
+        "song": "Little Boxes",
+        "artist": "The Womenfolk",
+        "last-week": "100",
+        "peak-rank": "83",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "84",
+        "song": "People",
+        "artist": "Barbra Streisand",
+        "last-week": "99",
+        "peak-rank": "84",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "85",
+        "song": "Walk On By",
+        "artist": "Dionne Warwick",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "86",
+        "song": "Hey, Mr. Sax Man",
+        "artist": "Boots Randolph",
+        "last-week": "98",
+        "peak-rank": "86",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "87",
+        "song": "Gee",
+        "artist": "The Pixies Three",
+        "last-week": "94",
+        "peak-rank": "87",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "88",
+        "song": "Be Anything (But Be Mine)",
+        "artist": "Gloria Lynne",
+        "last-week": "89",
+        "peak-rank": "88",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "89",
+        "song": "Donnie",
+        "artist": "The Bermudas",
+        "last-week": "97",
+        "peak-rank": "89",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "90",
+        "song": "I Knew It All The Time",
+        "artist": "The Dave Clark Five",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "91",
+        "song": "Gonna' Get Along Without You Now",
+        "artist": "Tracey Dey",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "92",
+        "song": "Three Window Coupe",
+        "artist": "The Rip Chords",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "93",
+        "song": "Who's Afraid Of Virginia Woolf? (Part I)",
+        "artist": "Jimmy Smith",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "94",
+        "song": "When Joanna Loved Me",
+        "artist": "Tony Bennett",
+        "last-week": "96",
+        "peak-rank": "94",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "95",
+        "song": "From Russia With Love",
+        "artist": "The Village Stompers",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "96",
+        "song": "Carol",
+        "artist": "Tommy Roe",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "97",
+        "song": "I'm The Lonely One",
+        "artist": "Cliff Richard",
+        "last-week": "92",
+        "peak-rank": "92",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "98",
+        "song": "Winkin', Blinkin' And Nod",
+        "artist": "The Simon Sisters",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "99",
+        "song": "I'm Confessin' (That I Love You)",
+        "artist": "Nino Tempo & April Stevens",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1964-04-25",
+        "rank": "100",
+        "song": "Hurt By Love",
+        "artist": "Inez Foxx",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

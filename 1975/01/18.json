@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1975-01-18",
+        "rank": "1",
+        "song": "Mandy",
+        "artist": "Barry Manilow",
+        "last-week": "5",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "2",
+        "song": "Please Mr. Postman",
+        "artist": "Carpenters",
+        "last-week": "8",
+        "peak-rank": "2",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "3",
+        "song": "Laughter In The Rain",
+        "artist": "Neil Sedaka",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "4",
+        "song": "You're The First, The Last, My Everything",
+        "artist": "Barry White",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "5",
+        "song": "Lucy In The Sky With Diamonds",
+        "artist": "Elton John",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "6",
+        "song": "Boogie On Reggae Woman",
+        "artist": "Stevie Wonder",
+        "last-week": "7",
+        "peak-rank": "6",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "7",
+        "song": "Junior's Farm/Sally G",
+        "artist": "Paul McCartney And Wings",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "8",
+        "song": "One Man Woman/One Woman Man",
+        "artist": "Paul Anka with Odia Coates",
+        "last-week": "10",
+        "peak-rank": "8",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "9",
+        "song": "Morning Side Of The Mountain",
+        "artist": "Donny & Marie Osmond",
+        "last-week": "11",
+        "peak-rank": "9",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "10",
+        "song": "Never Can Say Goodbye",
+        "artist": "Gloria Gaynor",
+        "last-week": "14",
+        "peak-rank": "10",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "11",
+        "song": "Fire",
+        "artist": "Ohio Players",
+        "last-week": "16",
+        "peak-rank": "11",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "12",
+        "song": "Only You",
+        "artist": "Ringo Starr",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "13",
+        "song": "Doctor's Orders",
+        "artist": "Carol Douglas",
+        "last-week": "17",
+        "peak-rank": "13",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "14",
+        "song": "Pick Up The Pieces",
+        "artist": "AWB",
+        "last-week": "18",
+        "peak-rank": "14",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "15",
+        "song": "Some Kind Of Wonderful",
+        "artist": "Grand Funk",
+        "last-week": "19",
+        "peak-rank": "15",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "16",
+        "song": "Rock N' Roll (I Gave You The Best Years Of My Life)",
+        "artist": "Mac Davis",
+        "last-week": "20",
+        "peak-rank": "16",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "17",
+        "song": "Get Dancin'",
+        "artist": "Disco Tex & The Sex-O-Lettes Featuring Sir Monti Rock III",
+        "last-week": "21",
+        "peak-rank": "17",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "18",
+        "song": "Bungle In The Jungle",
+        "artist": "Jethro Tull",
+        "last-week": "12",
+        "peak-rank": "12",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "19",
+        "song": "Best Of My Love",
+        "artist": "Eagles",
+        "last-week": "26",
+        "peak-rank": "19",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "20",
+        "song": "Kung Fu Fighting",
+        "artist": "Carl Douglas",
+        "last-week": "9",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "21",
+        "song": "You're No Good",
+        "artist": "Linda Ronstadt",
+        "last-week": "29",
+        "peak-rank": "21",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "22",
+        "song": "Angie Baby",
+        "artist": "Helen Reddy",
+        "last-week": "13",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "23",
+        "song": "Ride 'em Cowboy",
+        "artist": "Paul Davis",
+        "last-week": "24",
+        "peak-rank": "23",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "24",
+        "song": "Black Water",
+        "artist": "The Doobie Brothers",
+        "last-week": "38",
+        "peak-rank": "24",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "25",
+        "song": "Free Bird",
+        "artist": "Lynyrd Skynyrd",
+        "last-week": "27",
+        "peak-rank": "25",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "26",
+        "song": "Struttin'",
+        "artist": "Billy Preston",
+        "last-week": "32",
+        "peak-rank": "26",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "27",
+        "song": "Look In My Eyes Pretty Woman",
+        "artist": "Tony Orlando & Dawn",
+        "last-week": "33",
+        "peak-rank": "27",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "28",
+        "song": "From His Woman To You",
+        "artist": "Barbara Mason",
+        "last-week": "30",
+        "peak-rank": "28",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "29",
+        "song": "#9 Dream",
+        "artist": "John Lennon",
+        "last-week": "35",
+        "peak-rank": "29",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "30",
+        "song": "Sweet Surrender",
+        "artist": "John Denver",
+        "last-week": "37",
+        "peak-rank": "30",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "31",
+        "song": "I Belong To You",
+        "artist": "Love Unlimited",
+        "last-week": "31",
+        "peak-rank": "31",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "32",
+        "song": "Ready",
+        "artist": "Cat Stevens",
+        "last-week": "36",
+        "peak-rank": "32",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "33",
+        "song": "Dark Horse",
+        "artist": "George Harrison",
+        "last-week": "15",
+        "peak-rank": "15",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "34",
+        "song": "The Entertainer",
+        "artist": "Billy Joel",
+        "last-week": "34",
+        "peak-rank": "34",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "35",
+        "song": "Cat's In The Cradle",
+        "artist": "Harry Chapin",
+        "last-week": "22",
+        "peak-rank": "1",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "36",
+        "song": "Nightingale",
+        "artist": "Carole King",
+        "last-week": "55",
+        "peak-rank": "36",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "37",
+        "song": "Lonely People",
+        "artist": "America",
+        "last-week": "50",
+        "peak-rank": "37",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "38",
+        "song": "Your Bulldog Drinks Champagne",
+        "artist": "Jim Stafford",
+        "last-week": "46",
+        "peak-rank": "38",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "39",
+        "song": "Lady",
+        "artist": "Styx",
+        "last-week": "51",
+        "peak-rank": "39",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "40",
+        "song": "My Eyes Adored You",
+        "artist": "Frankie Valli",
+        "last-week": "48",
+        "peak-rank": "40",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "41",
+        "song": "Can't Get It Out Of My Head",
+        "artist": "Electric Light Orchestra",
+        "last-week": "52",
+        "peak-rank": "41",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "42",
+        "song": "You Got The Love",
+        "artist": "Rufus Featuring Chaka Khan",
+        "last-week": "25",
+        "peak-rank": "11",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "43",
+        "song": "Happy People",
+        "artist": "The Temptations",
+        "last-week": "53",
+        "peak-rank": "43",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "44",
+        "song": "Ruby, Baby",
+        "artist": "Billy \"Crash\" Craddock",
+        "last-week": "41",
+        "peak-rank": "33",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "45",
+        "song": "Changes",
+        "artist": "David Bowie",
+        "last-week": "42",
+        "peak-rank": "42",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "46",
+        "song": "Sha-La-La (Make Me Happy)",
+        "artist": "Al Green",
+        "last-week": "23",
+        "peak-rank": "7",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "47",
+        "song": "I Feel A Song (In My Heart)/Don't Burn Down The Bridge",
+        "artist": "Gladys Knight And The Pips",
+        "last-week": "39",
+        "peak-rank": "21",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "48",
+        "song": "Sunshine Part II",
+        "artist": "The O'Jays",
+        "last-week": "54",
+        "peak-rank": "48",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "49",
+        "song": "Sugar Pie Guy Pt. 1",
+        "artist": "The Joneses",
+        "last-week": "47",
+        "peak-rank": "47",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "50",
+        "song": "Baby, Hang Up The Phone",
+        "artist": "Carl Graves",
+        "last-week": "56",
+        "peak-rank": "50",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "51",
+        "song": "Big Yellow Taxi",
+        "artist": "Joni Mitchell",
+        "last-week": "63",
+        "peak-rank": "51",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "52",
+        "song": "As Long As He Takes Care Of Home",
+        "artist": "Candi Staton",
+        "last-week": "65",
+        "peak-rank": "52",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "53",
+        "song": "Must Of Got Lost",
+        "artist": "The J. Geils Band",
+        "last-week": "44",
+        "peak-rank": "12",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "54",
+        "song": "When Will I See You Again",
+        "artist": "The Three Degrees",
+        "last-week": "28",
+        "peak-rank": "2",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "55",
+        "song": "I'm A Woman",
+        "artist": "Maria Muldaur",
+        "last-week": "66",
+        "peak-rank": "55",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "56",
+        "song": "Dancin' Fool",
+        "artist": "The Guess Who",
+        "last-week": "43",
+        "peak-rank": "28",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "57",
+        "song": "Do It ('til You're Satisfied)",
+        "artist": "B.T. Express",
+        "last-week": "45",
+        "peak-rank": "2",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "58",
+        "song": "Don't Call Us, We'll Call You",
+        "artist": "Sugarloaf/Jerry Corbetta",
+        "last-week": "70",
+        "peak-rank": "58",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "59",
+        "song": "Ding Dong; Ding Dong",
+        "artist": "George Harrison",
+        "last-week": "81",
+        "peak-rank": "59",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "60",
+        "song": "When A Child Is Born",
+        "artist": "Michael Holm",
+        "last-week": "68",
+        "peak-rank": "60",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "61",
+        "song": "I Can Help",
+        "artist": "Billy Swan",
+        "last-week": "40",
+        "peak-rank": "1",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "62",
+        "song": "Woman To Woman",
+        "artist": "Shirley Brown",
+        "last-week": "58",
+        "peak-rank": "22",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "63",
+        "song": "Day Tripper",
+        "artist": "Anne Murray",
+        "last-week": "69",
+        "peak-rank": "63",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "64",
+        "song": "Promised Land",
+        "artist": "Elvis Presley",
+        "last-week": "49",
+        "peak-rank": "14",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "65",
+        "song": "I Am I Am",
+        "artist": "Smokey Robinson",
+        "last-week": "74",
+        "peak-rank": "65",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "66",
+        "song": "I've Got The Music In Me",
+        "artist": "The Kiki Dee Band",
+        "last-week": "61",
+        "peak-rank": "12",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "67",
+        "song": "Roll On Down The Highway",
+        "artist": "Bachman-Turner Overdrive",
+        "last-week": "",
+        "peak-rank": "67",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "68",
+        "song": "Hoppy, Gene And Me",
+        "artist": "Roy Rogers",
+        "last-week": "72",
+        "peak-rank": "68",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "69",
+        "song": "To The Door Of The Sun (Alle Porte Del Sole)",
+        "artist": "Al Martino",
+        "last-week": "75",
+        "peak-rank": "69",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "70",
+        "song": "Movin' On",
+        "artist": "Bad Company",
+        "last-week": "",
+        "peak-rank": "70",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "71",
+        "song": "Wishing You Were Here",
+        "artist": "Chicago",
+        "last-week": "59",
+        "peak-rank": "11",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "72",
+        "song": "Poetry Man",
+        "artist": "Phoebe Snow",
+        "last-week": "87",
+        "peak-rank": "72",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "73",
+        "song": "Fairytale",
+        "artist": "The Pointer Sisters",
+        "last-week": "71",
+        "peak-rank": "13",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "74",
+        "song": "You Are So Beautiful/It's A Sin When You Love Somebody",
+        "artist": "Joe Cocker",
+        "last-week": "85",
+        "peak-rank": "74",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "75",
+        "song": "Ain't That Peculiar",
+        "artist": "Diamond Reo",
+        "last-week": "86",
+        "peak-rank": "75",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "76",
+        "song": "Don't Take Your Love",
+        "artist": "The Manhattans",
+        "last-week": "88",
+        "peak-rank": "76",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "77",
+        "song": "Midnight Sky (Part 1)",
+        "artist": "The Isley Brothers",
+        "last-week": "80",
+        "peak-rank": "77",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "78",
+        "song": "Sad Sweet Dreamer",
+        "artist": "Sweet Sensation",
+        "last-week": "90",
+        "peak-rank": "78",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "79",
+        "song": "Rhyme Tyme People",
+        "artist": "Kool & The Gang",
+        "last-week": "84",
+        "peak-rank": "79",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "80",
+        "song": "Lovin' You",
+        "artist": "Minnie Riperton",
+        "last-week": "",
+        "peak-rank": "80",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "81",
+        "song": "Gee Baby",
+        "artist": "Peter Shelley",
+        "last-week": "82",
+        "peak-rank": "81",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "82",
+        "song": "Costafine Town",
+        "artist": "Splinter",
+        "last-week": "83",
+        "peak-rank": "82",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "83",
+        "song": "Future Shock",
+        "artist": "Hello People",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "84",
+        "song": "Lady Marmalade",
+        "artist": "Labelle",
+        "last-week": "96",
+        "peak-rank": "84",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "85",
+        "song": "One Tear",
+        "artist": "Eddie Kendricks",
+        "last-week": "77",
+        "peak-rank": "71",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "86",
+        "song": "Up In A Puff Of Smoke",
+        "artist": "Polly Brown",
+        "last-week": "97",
+        "peak-rank": "86",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "87",
+        "song": "I Am Love (Parts I & II)",
+        "artist": "Jackson 5",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "88",
+        "song": "Shame, Shame, Shame",
+        "artist": "Shirley And Company",
+        "last-week": "98",
+        "peak-rank": "88",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "89",
+        "song": "Star On A TV Show",
+        "artist": "The Stylistics",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "90",
+        "song": "Hot Dawgit",
+        "artist": "Ramsey Lewis And Earth, Wind & Fire",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "91",
+        "song": "Let Me Start Tonite",
+        "artist": "Lamont Dozier",
+        "last-week": "91",
+        "peak-rank": "91",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "92",
+        "song": "Love Don't You Go Through No Changes On Me",
+        "artist": "Sister Sledge",
+        "last-week": "92",
+        "peak-rank": "92",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "93",
+        "song": "Heartbreak Road",
+        "artist": "Bill Withers",
+        "last-week": "89",
+        "peak-rank": "89",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "94",
+        "song": "Never Let Her Go",
+        "artist": "David Gates",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "95",
+        "song": "What A Man, My Man Is",
+        "artist": "Lynn Anderson",
+        "last-week": "93",
+        "peak-rank": "93",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "96",
+        "song": "I Won't Last A Day Without You/Let Me Be The One",
+        "artist": "Al Wilson",
+        "last-week": "99",
+        "peak-rank": "96",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "97",
+        "song": "Thanks For The Smiles",
+        "artist": "Charlie Ross",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "98",
+        "song": "Crazy Talk",
+        "artist": "Chilliwack",
+        "last-week": "100",
+        "peak-rank": "98",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "99",
+        "song": "She's Gone",
+        "artist": "Tavares",
+        "last-week": "73",
+        "peak-rank": "50",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1975-01-18",
+        "rank": "100",
+        "song": "It's All Right",
+        "artist": "Jim Capaldi",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

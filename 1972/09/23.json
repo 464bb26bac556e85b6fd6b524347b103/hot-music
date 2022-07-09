@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1972-09-23",
+        "rank": "1",
+        "song": "Baby Don't Get Hooked On Me",
+        "artist": "Mac Davis",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "2",
+        "song": "Black & White",
+        "artist": "Three Dog Night",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "3",
+        "song": "Saturday In The Park",
+        "artist": "Chicago",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "4",
+        "song": "Back Stabbers",
+        "artist": "The O'Jays",
+        "last-week": "5",
+        "peak-rank": "4",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "5",
+        "song": "Alone Again (Naturally)",
+        "artist": "Gilbert O'Sullivan",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "6",
+        "song": "Ben",
+        "artist": "Michael Jackson",
+        "last-week": "13",
+        "peak-rank": "6",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "7",
+        "song": "Everybody Plays The Fool",
+        "artist": "The Main Ingredient",
+        "last-week": "16",
+        "peak-rank": "7",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "8",
+        "song": "Honky Cat",
+        "artist": "Elton John",
+        "last-week": "9",
+        "peak-rank": "8",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "9",
+        "song": "Go All The Way",
+        "artist": "Raspberries",
+        "last-week": "12",
+        "peak-rank": "9",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "10",
+        "song": "Rock And Roll Part 2",
+        "artist": "Gary Glitter",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "11",
+        "song": "Power Of Love",
+        "artist": "Joe Simon",
+        "last-week": "14",
+        "peak-rank": "11",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "12",
+        "song": "Play Me",
+        "artist": "Neil Diamond",
+        "last-week": "17",
+        "peak-rank": "12",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "13",
+        "song": "Use Me",
+        "artist": "Bill Withers",
+        "last-week": "25",
+        "peak-rank": "13",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "14",
+        "song": "Popcorn",
+        "artist": "Hot Butter",
+        "last-week": "18",
+        "peak-rank": "14",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "15",
+        "song": "Beautiful Sunday",
+        "artist": "Daniel Boone",
+        "last-week": "15",
+        "peak-rank": "15",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "16",
+        "song": "Run To Me",
+        "artist": "Bee Gees",
+        "last-week": "19",
+        "peak-rank": "16",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "17",
+        "song": "Nights In White Satin",
+        "artist": "The Moody Blues",
+        "last-week": "20",
+        "peak-rank": "17",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "18",
+        "song": "Burning Love",
+        "artist": "Elvis Presley",
+        "last-week": "22",
+        "peak-rank": "18",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "19",
+        "song": "Speak To The Sky",
+        "artist": "Rick Springfield",
+        "last-week": "23",
+        "peak-rank": "19",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "20",
+        "song": "My Ding-A-Ling",
+        "artist": "Chuck Berry",
+        "last-week": "26",
+        "peak-rank": "20",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "21",
+        "song": "Long Cool Woman (In A Black Dress)",
+        "artist": "The Hollies",
+        "last-week": "6",
+        "peak-rank": "2",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "22",
+        "song": "Garden Party",
+        "artist": "Rick Nelson And The Stone Canyon Band",
+        "last-week": "33",
+        "peak-rank": "22",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "23",
+        "song": "Brandy (You're A Fine Girl)",
+        "artist": "Looking Glass",
+        "last-week": "8",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "24",
+        "song": "Pop That Thang",
+        "artist": "The Isley Brothers",
+        "last-week": "24",
+        "peak-rank": "24",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "25",
+        "song": "The Guitar Man",
+        "artist": "Bread",
+        "last-week": "11",
+        "peak-rank": "11",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "26",
+        "song": "The City Of New Orleans",
+        "artist": "Arlo Guthrie",
+        "last-week": "31",
+        "peak-rank": "26",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "27",
+        "song": "You Wear It Well",
+        "artist": "Rod Stewart",
+        "last-week": "39",
+        "peak-rank": "27",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "28",
+        "song": "Get On The Good Foot-Part 1",
+        "artist": "James Brown",
+        "last-week": "35",
+        "peak-rank": "28",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "29",
+        "song": "You're Still A Young Man",
+        "artist": "Tower Of Power",
+        "last-week": "29",
+        "peak-rank": "29",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "30",
+        "song": "Why/Lonely Boy",
+        "artist": "Donny Osmond",
+        "last-week": "38",
+        "peak-rank": "30",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "31",
+        "song": "I'm Still In Love With You",
+        "artist": "Al Green",
+        "last-week": "10",
+        "peak-rank": "3",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "32",
+        "song": "Starting All Over Again",
+        "artist": "Mel And Tim",
+        "last-week": "37",
+        "peak-rank": "32",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "33",
+        "song": "You Don't Mess Around With Jim",
+        "artist": "Jim Croce",
+        "last-week": "21",
+        "peak-rank": "8",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "34",
+        "song": "Tight Rope",
+        "artist": "Leon Russell",
+        "last-week": "41",
+        "peak-rank": "34",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "35",
+        "song": "Join Together",
+        "artist": "The Who",
+        "last-week": "27",
+        "peak-rank": "17",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "36",
+        "song": "Freddie's Dead (Theme From \"Superfly\")",
+        "artist": "Curtis Mayfield",
+        "last-week": "44",
+        "peak-rank": "36",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "37",
+        "song": "Listen To The Music",
+        "artist": "The Doobie Brothers",
+        "last-week": "52",
+        "peak-rank": "37",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "38",
+        "song": "Don't Ever Be Lonely (A Poor Little Fool Like Me)",
+        "artist": "Cornelius Brothers & Sister Rose",
+        "last-week": "49",
+        "peak-rank": "38",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "39",
+        "song": "Easy Livin",
+        "artist": "Uriah Heep",
+        "last-week": "40",
+        "peak-rank": "39",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "40",
+        "song": "Good Time Charlie's Got The Blues",
+        "artist": "Danny O'Keefe",
+        "last-week": "51",
+        "peak-rank": "40",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "41",
+        "song": "If You Leave Me Tonight I'll Cry",
+        "artist": "Jerry Wallace",
+        "last-week": "42",
+        "peak-rank": "41",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "42",
+        "song": "Hold Your Head Up",
+        "artist": "Argent",
+        "last-week": "28",
+        "peak-rank": "5",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "43",
+        "song": "Witchy Woman",
+        "artist": "Eagles",
+        "last-week": "62",
+        "peak-rank": "43",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "44",
+        "song": "Thunder And Lightning",
+        "artist": "Chi Coltrane",
+        "last-week": "54",
+        "peak-rank": "44",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "45",
+        "song": "My Man, A Sweet Man",
+        "artist": "Millie Jackson",
+        "last-week": "47",
+        "peak-rank": "45",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "46",
+        "song": "I Believe In Music",
+        "artist": "Gallery",
+        "last-week": "48",
+        "peak-rank": "46",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "47",
+        "song": "If I Could Reach You",
+        "artist": "The 5th Dimension",
+        "last-week": "56",
+        "peak-rank": "47",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "48",
+        "song": "Rock Me On The Water",
+        "artist": "Jackson Browne",
+        "last-week": "50",
+        "peak-rank": "48",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "49",
+        "song": "Geronimo's Cadillac",
+        "artist": "Michael Murphey",
+        "last-week": "53",
+        "peak-rank": "49",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "50",
+        "song": "America",
+        "artist": "Yes",
+        "last-week": "46",
+        "peak-rank": "46",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "51",
+        "song": "Midnight Rider",
+        "artist": "Joe Cocker and The Chris Stainton Band",
+        "last-week": "70",
+        "peak-rank": "51",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "52",
+        "song": "Loving You Just Crossed My Mind",
+        "artist": "Sam Neely",
+        "last-week": "60",
+        "peak-rank": "52",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "53",
+        "song": "From The Beginning",
+        "artist": "Emerson, Lake & Palmer",
+        "last-week": "58",
+        "peak-rank": "53",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "54",
+        "song": "For Emily, Whenever I May Find Her",
+        "artist": "Simon & Garfunkel",
+        "last-week": "55",
+        "peak-rank": "54",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "55",
+        "song": "Sweet Caroline (Good Times Never Seemed So Good)",
+        "artist": "Bobby Womack & Peace",
+        "last-week": "57",
+        "peak-rank": "55",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "56",
+        "song": "Rock Me Baby",
+        "artist": "David Cassidy",
+        "last-week": "63",
+        "peak-rank": "56",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "57",
+        "song": "Don't Hide Your Love",
+        "artist": "Cher",
+        "last-week": "68",
+        "peak-rank": "57",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "58",
+        "song": "(It's The Way) Nature Planned It",
+        "artist": "Four Tops",
+        "last-week": "64",
+        "peak-rank": "58",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "59",
+        "song": "I'll Be Around",
+        "artist": "The Spinners",
+        "last-week": "74",
+        "peak-rank": "59",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "60",
+        "song": "Your Wonderful, Sweet Sweet Love",
+        "artist": "The Supremes",
+        "last-week": "59",
+        "peak-rank": "59",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "61",
+        "song": "A Piece Of Paper",
+        "artist": "Gladstone",
+        "last-week": "66",
+        "peak-rank": "61",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "62",
+        "song": "Jackie Wilson Said (I'm In Heaven When You Smile)",
+        "artist": "Van Morrison",
+        "last-week": "61",
+        "peak-rank": "61",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "63",
+        "song": "Slaughter",
+        "artist": "Billy Preston",
+        "last-week": "72",
+        "peak-rank": "63",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "64",
+        "song": "I Can See Clearly Now",
+        "artist": "Johnny Nash",
+        "last-week": "73",
+        "peak-rank": "64",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "65",
+        "song": "I Am Woman",
+        "artist": "Helen Reddy",
+        "last-week": "87",
+        "peak-rank": "65",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "66",
+        "song": "Don't Do It",
+        "artist": "The Band",
+        "last-week": "86",
+        "peak-rank": "66",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "67",
+        "song": "Love Song",
+        "artist": "Tommy James",
+        "last-week": "67",
+        "peak-rank": "67",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "68",
+        "song": "Spaceman",
+        "artist": "Nilsson",
+        "last-week": "90",
+        "peak-rank": "68",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "69",
+        "song": "I Will Never Pass This Way Again",
+        "artist": "Glen Campbell",
+        "last-week": "76",
+        "peak-rank": "69",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "70",
+        "song": "In Time",
+        "artist": "Engelbert Humperdinck",
+        "last-week": "69",
+        "peak-rank": "69",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "71",
+        "song": "Summer Breeze",
+        "artist": "Seals & Crofts",
+        "last-week": "85",
+        "peak-rank": "71",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "72",
+        "song": "Think (About It)",
+        "artist": "Lyn Collins",
+        "last-week": "75",
+        "peak-rank": "72",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "73",
+        "song": "That's How Love Goes",
+        "artist": "Jermaine Jackson",
+        "last-week": "83",
+        "peak-rank": "73",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "74",
+        "song": "Toast To The Fool",
+        "artist": "The Dramatics",
+        "last-week": "77",
+        "peak-rank": "74",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "75",
+        "song": "Money Back Guarantee",
+        "artist": "Five Man Electrical Band",
+        "last-week": "80",
+        "peak-rank": "75",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "76",
+        "song": "Guess Who/Them Changes",
+        "artist": "B.B. King",
+        "last-week": "78",
+        "peak-rank": "76",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "77",
+        "song": "Woman Don't Go Astray",
+        "artist": "King Floyd",
+        "last-week": "81",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "78",
+        "song": "I've Got To Have You",
+        "artist": "Sammi Smith",
+        "last-week": "79",
+        "peak-rank": "78",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "79",
+        "song": "Carry Me, Carrie",
+        "artist": "Dr. Hook And The Medicine Show",
+        "last-week": "82",
+        "peak-rank": "79",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "80",
+        "song": "Let It Rain",
+        "artist": "Eric Clapton",
+        "last-week": "",
+        "peak-rank": "80",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "81",
+        "song": "I'll Make You Music",
+        "artist": "Beverly Bremers",
+        "last-week": "97",
+        "peak-rank": "81",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "82",
+        "song": "All The Young Dudes",
+        "artist": "Mott The Hoople",
+        "last-week": "",
+        "peak-rank": "82",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "83",
+        "song": "I'd Love You To Want Me",
+        "artist": "Lobo",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "84",
+        "song": "Lady Eleanor",
+        "artist": "Lindisfarne",
+        "last-week": "84",
+        "peak-rank": "84",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "85",
+        "song": "Rock 'N Roll Soul",
+        "artist": "Grand Funk Railroad",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "86",
+        "song": "Colorado",
+        "artist": "Danny Holien",
+        "last-week": "88",
+        "peak-rank": "86",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "87",
+        "song": "Can't You Hear The Song?",
+        "artist": "Wayne Newton",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "88",
+        "song": "One More Chance",
+        "artist": "Ocean",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "89",
+        "song": "We Can Make It Together",
+        "artist": "Steve & Eydie Featuring The Osmonds",
+        "last-week": "99",
+        "peak-rank": "89",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "90",
+        "song": "American City Suite",
+        "artist": "Cashman & West",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "91",
+        "song": "Evil Ways",
+        "artist": "Carlos Santana & Buddy Miles",
+        "last-week": "95",
+        "peak-rank": "91",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "92",
+        "song": "Buzzy Brown",
+        "artist": "Tim Davis",
+        "last-week": "92",
+        "peak-rank": "92",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "93",
+        "song": "Best Thing",
+        "artist": "Styx",
+        "last-week": "93",
+        "peak-rank": "93",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "94",
+        "song": "Keep On Running",
+        "artist": "Stevie Wonder",
+        "last-week": "98",
+        "peak-rank": "94",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "95",
+        "song": "Whatever Turns You On",
+        "artist": "Travis Wammack",
+        "last-week": "96",
+        "peak-rank": "95",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "96",
+        "song": "(They Long To Be) Close To You",
+        "artist": "Jerry Butler & Brenda Lee Eager",
+        "last-week": "91",
+        "peak-rank": "91",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "97",
+        "song": "Mean Little Woman, Rosalie",
+        "artist": "Tommy Roe",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "98",
+        "song": "With Pen In Hand",
+        "artist": "Bobby Goldsboro",
+        "last-week": "100",
+        "peak-rank": "98",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "99",
+        "song": "Dance, Dance, Dance",
+        "artist": "The New Seekers featuring Marty Kristian",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1972-09-23",
+        "rank": "100",
+        "song": "Poor Boy",
+        "artist": "Casey Kelly",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

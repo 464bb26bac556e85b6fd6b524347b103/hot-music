@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1961-05-22",
+        "rank": "1",
+        "song": "Mother-In-Law",
+        "artist": "Ernie K-Doe",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "2",
+        "song": "Runaway",
+        "artist": "Del Shannon",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "3",
+        "song": "Daddy's Home",
+        "artist": "Shep And The Limelites",
+        "last-week": "5",
+        "peak-rank": "3",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "4",
+        "song": "A Hundred Pounds Of Clay",
+        "artist": "Gene McDaniels",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "5",
+        "song": "Travelin' Man",
+        "artist": "Ricky Nelson",
+        "last-week": "8",
+        "peak-rank": "5",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "6",
+        "song": "Mama Said",
+        "artist": "The Shirelles",
+        "last-week": "9",
+        "peak-rank": "6",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "7",
+        "song": "Running Scared",
+        "artist": "Roy Orbison",
+        "last-week": "16",
+        "peak-rank": "7",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "8",
+        "song": "Breakin' In A Brand New Broken Heart",
+        "artist": "Connie Francis",
+        "last-week": "11",
+        "peak-rank": "8",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "9",
+        "song": "Hello Mary Lou",
+        "artist": "Ricky Nelson",
+        "last-week": "15",
+        "peak-rank": "9",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "10",
+        "song": "I've Told Every Little Star",
+        "artist": "Linda Scott",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "11",
+        "song": "You Can Depend On Me",
+        "artist": "Brenda Lee",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "12",
+        "song": "Blue Moon",
+        "artist": "The Marcels",
+        "last-week": "7",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "13",
+        "song": "Portrait Of My Love",
+        "artist": "Steve Lawrence",
+        "last-week": "12",
+        "peak-rank": "9",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "14",
+        "song": "Take Good Care Of Her",
+        "artist": "Adam Wade",
+        "last-week": "10",
+        "peak-rank": "7",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "15",
+        "song": "Little Devil",
+        "artist": "Neil Sedaka",
+        "last-week": "23",
+        "peak-rank": "15",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "16",
+        "song": "Tragedy",
+        "artist": "The Fleetwoods",
+        "last-week": "22",
+        "peak-rank": "16",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "17",
+        "song": "I Feel So Bad",
+        "artist": "Elvis Presley",
+        "last-week": "43",
+        "peak-rank": "17",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "18",
+        "song": "Hello Walls",
+        "artist": "Faron Young",
+        "last-week": "26",
+        "peak-rank": "18",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "19",
+        "song": "Tonight I Fell In Love",
+        "artist": "The Tokens",
+        "last-week": "18",
+        "peak-rank": "15",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "20",
+        "song": "Bonanza",
+        "artist": "Al Caiola And His Orchestra",
+        "last-week": "19",
+        "peak-rank": "19",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "21",
+        "song": "Just For Old Time's Sake",
+        "artist": "The McGuire Sisters",
+        "last-week": "20",
+        "peak-rank": "20",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "22",
+        "song": "Girl Of My Best Friend",
+        "artist": "Ral Donner",
+        "last-week": "24",
+        "peak-rank": "22",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "23",
+        "song": "On The Rebound",
+        "artist": "Floyd Cramer",
+        "last-week": "17",
+        "peak-rank": "4",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "24",
+        "song": "But I Do",
+        "artist": "Clarence Henry",
+        "last-week": "21",
+        "peak-rank": "4",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "25",
+        "song": "That Old Black Magic",
+        "artist": "Bobby Rydell",
+        "last-week": "31",
+        "peak-rank": "25",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "26",
+        "song": "One Mint Julep",
+        "artist": "Ray Charles",
+        "last-week": "13",
+        "peak-rank": "8",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "27",
+        "song": "Flaming Star",
+        "artist": "Elvis Presley With The Jordanaires",
+        "last-week": "14",
+        "peak-rank": "14",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "28",
+        "song": "Stand By Me",
+        "artist": "Ben E. King",
+        "last-week": "41",
+        "peak-rank": "28",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "29",
+        "song": "Funny",
+        "artist": "Maxine Brown",
+        "last-week": "25",
+        "peak-rank": "25",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "30",
+        "song": "Bumble Boogie",
+        "artist": "B. Bumble & The Stingers",
+        "last-week": "28",
+        "peak-rank": "21",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "31",
+        "song": "Moody River",
+        "artist": "Pat Boone",
+        "last-week": "54",
+        "peak-rank": "31",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "32",
+        "song": "(Dance The) Mess Around",
+        "artist": "Chubby Checker",
+        "last-week": "27",
+        "peak-rank": "24",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "33",
+        "song": "Lullaby Of Love",
+        "artist": "Frank Gari",
+        "last-week": "35",
+        "peak-rank": "33",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "34",
+        "song": "Triangle",
+        "artist": "Janie Grant",
+        "last-week": "36",
+        "peak-rank": "34",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "35",
+        "song": "Barbara-Ann",
+        "artist": "The Regents",
+        "last-week": "59",
+        "peak-rank": "35",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "36",
+        "song": "Peanut Butter",
+        "artist": "The Marathons",
+        "last-week": "48",
+        "peak-rank": "36",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "37",
+        "song": "Some Kind Of Wonderful",
+        "artist": "The Drifters",
+        "last-week": "32",
+        "peak-rank": "32",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "38",
+        "song": "Raindrops",
+        "artist": "Dee Clark",
+        "last-week": "51",
+        "peak-rank": "38",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "39",
+        "song": "What A Surprise",
+        "artist": "Johnny Maestro The Voice Of The Crests",
+        "last-week": "42",
+        "peak-rank": "39",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "40",
+        "song": "Baby Blue",
+        "artist": "The Echoes",
+        "last-week": "29",
+        "peak-rank": "12",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "41",
+        "song": "Exodus",
+        "artist": "Eddie Harris",
+        "last-week": "44",
+        "peak-rank": "41",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "42",
+        "song": "The Touchables In Brooklyn",
+        "artist": "Dickie Goodman",
+        "last-week": "45",
+        "peak-rank": "42",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "43",
+        "song": "Rama Lama Ding Dong",
+        "artist": "The Edsels",
+        "last-week": "58",
+        "peak-rank": "43",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "44",
+        "song": "Tossin' And Turnin'",
+        "artist": "Bobby Lewis",
+        "last-week": "55",
+        "peak-rank": "44",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "45",
+        "song": "I'm A Fool To Care",
+        "artist": "Joe Barry",
+        "last-week": "52",
+        "peak-rank": "45",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "46",
+        "song": "Those Oldies But Goodies (Remind Me Of You)",
+        "artist": "Little Caesar and The Romans",
+        "last-week": "57",
+        "peak-rank": "46",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "47",
+        "song": "(It Never Happens) In Real Life",
+        "artist": "Chuck Jackson",
+        "last-week": "46",
+        "peak-rank": "46",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "48",
+        "song": "You Always Hurt The One You Love",
+        "artist": "Clarence Henry",
+        "last-week": "76",
+        "peak-rank": "48",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "49",
+        "song": "The Continental Walk",
+        "artist": "Hank Ballard And The Midnighters",
+        "last-week": "33",
+        "peak-rank": "33",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "50",
+        "song": "Tonight My Love, Tonight",
+        "artist": "Paul Anka",
+        "last-week": "30",
+        "peak-rank": "13",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "51",
+        "song": "Asia Minor",
+        "artist": "Kokomo",
+        "last-week": "37",
+        "peak-rank": "8",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "52",
+        "song": "Never On Sunday",
+        "artist": "Don Costa And His Orchestra And Chorus",
+        "last-week": "61",
+        "peak-rank": "19",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "53",
+        "song": "Glory Of Love",
+        "artist": "The Roommates",
+        "last-week": "53",
+        "peak-rank": "53",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "54",
+        "song": "Buzz Buzz A-Diddle-It",
+        "artist": "Freddy Cannon",
+        "last-week": "62",
+        "peak-rank": "54",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "55",
+        "song": "You'd Better Come Home",
+        "artist": "Russell Byrd",
+        "last-week": "65",
+        "peak-rank": "55",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "56",
+        "song": "The Writing On The Wall",
+        "artist": "Adam Wade",
+        "last-week": "77",
+        "peak-rank": "56",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "57",
+        "song": "Little Egypt (Ying-Yang)",
+        "artist": "The Coasters",
+        "last-week": "68",
+        "peak-rank": "57",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "58",
+        "song": "Count Every Star",
+        "artist": "Donnie and The Dreamers",
+        "last-week": "75",
+        "peak-rank": "58",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "59",
+        "song": "The Bilbao Song",
+        "artist": "Andy Williams",
+        "last-week": "63",
+        "peak-rank": "59",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "60",
+        "song": "In My Heart",
+        "artist": "The Timetones",
+        "last-week": "74",
+        "peak-rank": "60",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "61",
+        "song": "That's The Way With Love",
+        "artist": "Piero Soffici",
+        "last-week": "64",
+        "peak-rank": "61",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "62",
+        "song": "The Wayward Wind",
+        "artist": "Gogi Grant",
+        "last-week": "67",
+        "peak-rank": "62",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "63",
+        "song": "Every Beat Of My Heart",
+        "artist": "Pips",
+        "last-week": "81",
+        "peak-rank": "63",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "64",
+        "song": "Better Tell Him No",
+        "artist": "The Starlets",
+        "last-week": "79",
+        "peak-rank": "64",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "65",
+        "song": "Halfway To Paradise",
+        "artist": "Tony Orlando",
+        "last-week": "72",
+        "peak-rank": "65",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "66",
+        "song": "Big Big World",
+        "artist": "Johnny Burnette",
+        "last-week": "73",
+        "peak-rank": "66",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "67",
+        "song": "Every Beat Of My Heart",
+        "artist": "Gladys Knight And The Pips",
+        "last-week": "83",
+        "peak-rank": "67",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "68",
+        "song": "A Love Of My Own",
+        "artist": "Carla Thomas",
+        "last-week": "71",
+        "peak-rank": "68",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "69",
+        "song": "Be My Boy",
+        "artist": "Paris Sisters",
+        "last-week": "56",
+        "peak-rank": "56",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "70",
+        "song": "Three Hearts In A Tangle",
+        "artist": "Roy Drusky",
+        "last-week": "70",
+        "peak-rank": "70",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "71",
+        "song": "The Boll Weevil Song",
+        "artist": "Brook Benton",
+        "last-week": "90",
+        "peak-rank": "71",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "72",
+        "song": "Good, Good Lovin'",
+        "artist": "Chubby Checker",
+        "last-week": "47",
+        "peak-rank": "43",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "73",
+        "song": "It Keeps Rainin'",
+        "artist": "Fats Domino",
+        "last-week": "94",
+        "peak-rank": "73",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "74",
+        "song": "(I've Got) Spring Fever",
+        "artist": "Little Willie John",
+        "last-week": "78",
+        "peak-rank": "74",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "75",
+        "song": "What'd I Say",
+        "artist": "Jerry Lee Lewis And His Pumping Piano",
+        "last-week": "34",
+        "peak-rank": "30",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "76",
+        "song": "Miss Fine",
+        "artist": "The New Yorkers",
+        "last-week": "87",
+        "peak-rank": "76",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "77",
+        "song": "I Don't Mind",
+        "artist": "James Brown And The Famous Flames",
+        "last-week": "85",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "78",
+        "song": "Underwater",
+        "artist": "The Frogmen",
+        "last-week": "49",
+        "peak-rank": "44",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "79",
+        "song": "Lullaby Of The Leaves",
+        "artist": "The Ventures",
+        "last-week": "69",
+        "peak-rank": "69",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "80",
+        "song": "Son-In-Law",
+        "artist": "Louise Brown",
+        "last-week": "88",
+        "peak-rank": "80",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "81",
+        "song": "Tell Me Why",
+        "artist": "The Belmonts",
+        "last-week": "",
+        "peak-rank": "81",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "82",
+        "song": "Anna",
+        "artist": "Jorgen Ingmann & His Guitar",
+        "last-week": "",
+        "peak-rank": "82",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "83",
+        "song": "Milord",
+        "artist": "Teresa Brewer",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "84",
+        "song": "Son-In-Law",
+        "artist": "The Blossoms",
+        "last-week": "86",
+        "peak-rank": "84",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "85",
+        "song": "Saved",
+        "artist": "LaVern Baker",
+        "last-week": "40",
+        "peak-rank": "37",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "86",
+        "song": "Brother-In-Law (He's A Moocher)",
+        "artist": "Paul Peek",
+        "last-week": "98",
+        "peak-rank": "86",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "87",
+        "song": "I Can't Do It By Myself",
+        "artist": "Anita Bryant",
+        "last-week": "91",
+        "peak-rank": "87",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "88",
+        "song": "I'm In The Mood For Love",
+        "artist": "The Chimes",
+        "last-week": "38",
+        "peak-rank": "38",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "89",
+        "song": "Our Love Is Here To Stay",
+        "artist": "Dinah Washington",
+        "last-week": "93",
+        "peak-rank": "89",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "90",
+        "song": "A Cross Stands Alone",
+        "artist": "Jimmy Witter",
+        "last-week": "89",
+        "peak-rank": "89",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "91",
+        "song": "Pick Me Up On Your Way Down",
+        "artist": "Pat Zill",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "92",
+        "song": "Ronnie",
+        "artist": "Marcy Joe",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "93",
+        "song": "For Your Love",
+        "artist": "The Wanderers",
+        "last-week": "95",
+        "peak-rank": "93",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "94",
+        "song": "Lonesome Whistle Blues",
+        "artist": "Freddy King",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "95",
+        "song": "The Girl's A Devil",
+        "artist": "The Dukays",
+        "last-week": "99",
+        "peak-rank": "95",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "96",
+        "song": "I Fall To Pieces",
+        "artist": "Patsy Cline",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "97",
+        "song": "Nobody Cares (about me)",
+        "artist": "Jeanette (Baby) Washington",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "98",
+        "song": "Heart And Soul",
+        "artist": "The Cleftones",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "99",
+        "song": "Quarter To Three",
+        "artist": "U.S. Bonds",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1961-05-22",
+        "rank": "100",
+        "song": "Driving Wheel",
+        "artist": "Junior Parker",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

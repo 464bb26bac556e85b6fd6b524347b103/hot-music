@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1963-08-17",
+        "rank": "1",
+        "song": "Fingertips - Pt 2",
+        "artist": "Little Stevie Wonder",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "2",
+        "song": "Blowin' In The Wind",
+        "artist": "Peter, Paul & Mary",
+        "last-week": "4",
+        "peak-rank": "2",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "3",
+        "song": "(You're the) Devil In Disguise",
+        "artist": "Elvis Presley With The Jordanaires",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "4",
+        "song": "Wipe Out",
+        "artist": "The Surfaris",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "5",
+        "song": "Judy's Turn To Cry",
+        "artist": "Lesley Gore",
+        "last-week": "6",
+        "peak-rank": "5",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "6",
+        "song": "Candy Girl",
+        "artist": "The 4 Seasons",
+        "last-week": "8",
+        "peak-rank": "6",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "7",
+        "song": "Hello Mudduh, Hello Fadduh! (A Letter From Camp)",
+        "artist": "Allan Sherman",
+        "last-week": "17",
+        "peak-rank": "7",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "8",
+        "song": "So Much In Love",
+        "artist": "The Tymes",
+        "last-week": "5",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "9",
+        "song": "More",
+        "artist": "Kai Winding & Orchestra",
+        "last-week": "10",
+        "peak-rank": "9",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "10",
+        "song": "My Boyfriend's Back",
+        "artist": "The Angels",
+        "last-week": "31",
+        "peak-rank": "10",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "11",
+        "song": "Surf City",
+        "artist": "Jan & Dean",
+        "last-week": "7",
+        "peak-rank": "1",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "12",
+        "song": "Easier Said Than Done",
+        "artist": "The Essex",
+        "last-week": "9",
+        "peak-rank": "1",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "13",
+        "song": "Mockingbird",
+        "artist": "Inez Foxx with Charlie Foxx",
+        "last-week": "22",
+        "peak-rank": "13",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "14",
+        "song": "Green, Green",
+        "artist": "The New Christy Minstrels",
+        "last-week": "16",
+        "peak-rank": "14",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "15",
+        "song": "Denise",
+        "artist": "Randy & The Rainbows",
+        "last-week": "21",
+        "peak-rank": "15",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "16",
+        "song": "Abilene",
+        "artist": "George Hamilton IV",
+        "last-week": "15",
+        "peak-rank": "15",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "17",
+        "song": "If I Had A Hammer",
+        "artist": "Trini Lopez",
+        "last-week": "29",
+        "peak-rank": "17",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "18",
+        "song": "Danke Schoen",
+        "artist": "Wayne Newton And The Newton Brothers",
+        "last-week": "23",
+        "peak-rank": "18",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "19",
+        "song": "Just One Look",
+        "artist": "Doris Troy",
+        "last-week": "12",
+        "peak-rank": "10",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "20",
+        "song": "Memphis",
+        "artist": "Lonnie Mack",
+        "last-week": "14",
+        "peak-rank": "5",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "21",
+        "song": "Hey, Girl",
+        "artist": "Freddie Scott",
+        "last-week": "40",
+        "peak-rank": "21",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "22",
+        "song": "Hopeless",
+        "artist": "Andy Williams",
+        "last-week": "13",
+        "peak-rank": "13",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "23",
+        "song": "True Love Never Runs Smooth",
+        "artist": "Gene Pitney",
+        "last-week": "25",
+        "peak-rank": "23",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "24",
+        "song": "My Whole World Is Falling Down",
+        "artist": "Brenda Lee",
+        "last-week": "24",
+        "peak-rank": "24",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "25",
+        "song": "I Wonder",
+        "artist": "Brenda Lee",
+        "last-week": "28",
+        "peak-rank": "25",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "26",
+        "song": "The Monkey Time",
+        "artist": "Major Lance",
+        "last-week": "32",
+        "peak-rank": "26",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "27",
+        "song": "Twist It Up",
+        "artist": "Chubby Checker",
+        "last-week": "30",
+        "peak-rank": "27",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "28",
+        "song": "Surfer Girl",
+        "artist": "The Beach Boys",
+        "last-week": "49",
+        "peak-rank": "28",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "29",
+        "song": "Detroit City",
+        "artist": "Bobby Bare",
+        "last-week": "20",
+        "peak-rank": "16",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "30",
+        "song": "Ring Of Fire",
+        "artist": "Johnny Cash",
+        "last-week": "19",
+        "peak-rank": "17",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "31",
+        "song": "Make The World Go Away",
+        "artist": "Timi Yuro",
+        "last-week": "39",
+        "peak-rank": "31",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "32",
+        "song": "Tie Me Kangaroo Down, Sport",
+        "artist": "Rolf Harris",
+        "last-week": "11",
+        "peak-rank": "3",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "33",
+        "song": "Frankie And Johnny",
+        "artist": "Sam Cooke",
+        "last-week": "43",
+        "peak-rank": "33",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "34",
+        "song": "Heat Wave",
+        "artist": "Martha & The Vandellas",
+        "last-week": "51",
+        "peak-rank": "34",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "35",
+        "song": "I (Who Have Nothing)",
+        "artist": "Ben E. King",
+        "last-week": "35",
+        "peak-rank": "35",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "36",
+        "song": "Marlena",
+        "artist": "The 4 Seasons",
+        "last-week": "36",
+        "peak-rank": "36",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "37",
+        "song": "Painted, Tainted Rose",
+        "artist": "Al Martino",
+        "last-week": "42",
+        "peak-rank": "37",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "38",
+        "song": "Till Then",
+        "artist": "The Classics",
+        "last-week": "27",
+        "peak-rank": "20",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "39",
+        "song": "Pride And Joy",
+        "artist": "Marvin Gaye",
+        "last-week": "18",
+        "peak-rank": "10",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "40",
+        "song": "Not Me",
+        "artist": "The Orlons",
+        "last-week": "26",
+        "peak-rank": "12",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "41",
+        "song": "Six Days On The Road",
+        "artist": "Dave Dudley",
+        "last-week": "38",
+        "peak-rank": "32",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "42",
+        "song": "Shake! Shake! Shake!",
+        "artist": "Jackie Wilson",
+        "last-week": "33",
+        "peak-rank": "33",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "43",
+        "song": "I Want To Stay Here",
+        "artist": "Steve & Eydie",
+        "last-week": "53",
+        "peak-rank": "43",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "44",
+        "song": "Wait Til' My Bobby Gets Home",
+        "artist": "Darlene Love",
+        "last-week": "54",
+        "peak-rank": "44",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "45",
+        "song": "Tips Of My Fingers",
+        "artist": "Roy Clark",
+        "last-week": "45",
+        "peak-rank": "45",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "46",
+        "song": "Be Careful Of Stones That You Throw",
+        "artist": "Dion",
+        "last-week": "34",
+        "peak-rank": "31",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "47",
+        "song": "When A Boy Falls In Love",
+        "artist": "Mel Carter",
+        "last-week": "47",
+        "peak-rank": "47",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "48",
+        "song": "Surfin' Hootenanny",
+        "artist": "Al Casey",
+        "last-week": "50",
+        "peak-rank": "48",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "49",
+        "song": "How Many Teardrops",
+        "artist": "Lou Christie",
+        "last-week": "46",
+        "peak-rank": "46",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "50",
+        "song": "The Dreamer",
+        "artist": "Neil Sedaka",
+        "last-week": "52",
+        "peak-rank": "50",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "51",
+        "song": "Desert Pete",
+        "artist": "The Kingston Trio",
+        "last-week": "61",
+        "peak-rank": "51",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "52",
+        "song": "It Hurts To Be Sixteen",
+        "artist": "Andrea Carroll",
+        "last-week": "65",
+        "peak-rank": "52",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "53",
+        "song": "Blue Velvet",
+        "artist": "Bobby Vinton",
+        "last-week": "78",
+        "peak-rank": "53",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "54",
+        "song": "You Can Never Stop Me Loving You",
+        "artist": "Johnny Tillotson",
+        "last-week": "75",
+        "peak-rank": "54",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "55",
+        "song": "Hey There Lonely Boy",
+        "artist": "Ruby And The Romantics",
+        "last-week": "79",
+        "peak-rank": "55",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "56",
+        "song": "Sometimes You Gotta Cry A Little",
+        "artist": "Bobby Bland",
+        "last-week": "56",
+        "peak-rank": "56",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "57",
+        "song": "These Foolish Things",
+        "artist": "James Brown And The Famous Flames",
+        "last-week": "72",
+        "peak-rank": "57",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "58",
+        "song": "Mama Don't Allow",
+        "artist": "The Rooftop Singers",
+        "last-week": "55",
+        "peak-rank": "55",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "59",
+        "song": "Groovy Baby",
+        "artist": "Billy Abbott And The Jewels",
+        "last-week": "69",
+        "peak-rank": "59",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "60",
+        "song": "It's Too Late",
+        "artist": "Wilson Pickett",
+        "last-week": "71",
+        "peak-rank": "60",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "61",
+        "song": "Please Don't Talk To The Lifeguard",
+        "artist": "Diane Ray",
+        "last-week": "76",
+        "peak-rank": "61",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "62",
+        "song": "Martian Hop",
+        "artist": "The Ran-Dells",
+        "last-week": "81",
+        "peak-rank": "62",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "63",
+        "song": "I'm Afraid To Go Home",
+        "artist": "Brian Hyland",
+        "last-week": "63",
+        "peak-rank": "63",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "64",
+        "song": "The Kind Of Boy You Can't Forget",
+        "artist": "The Raindrops",
+        "last-week": "80",
+        "peak-rank": "64",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "65",
+        "song": "Leave Me Alone",
+        "artist": "Baby Washington",
+        "last-week": "66",
+        "peak-rank": "65",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "66",
+        "song": "Everybody Monkey",
+        "artist": "Freddy Cannon",
+        "last-week": "70",
+        "peak-rank": "66",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "67",
+        "song": "Que Sera, Sera (Whatever Will Be, Will Be)",
+        "artist": "The High Keyes",
+        "last-week": "73",
+        "peak-rank": "67",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "68",
+        "song": "Surf Party",
+        "artist": "Chubby Checker",
+        "last-week": "60",
+        "peak-rank": "55",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "69",
+        "song": "Drownin' My Sorrows",
+        "artist": "Connie Francis",
+        "last-week": "85",
+        "peak-rank": "69",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "70",
+        "song": "I Will Love You",
+        "artist": "Richard Chamberlain",
+        "last-week": "68",
+        "peak-rank": "65",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "71",
+        "song": "Then He Kissed Me",
+        "artist": "The Crystals",
+        "last-week": "",
+        "peak-rank": "71",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "72",
+        "song": "Can't Nobody Love You",
+        "artist": "Solomon Burke",
+        "last-week": "77",
+        "peak-rank": "72",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "73",
+        "song": "This Is All I Ask",
+        "artist": "Burl Ives",
+        "last-week": "82",
+        "peak-rank": "73",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "74",
+        "song": "This Is All I Ask",
+        "artist": "Tony Bennett",
+        "last-week": "74",
+        "peak-rank": "74",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "75",
+        "song": "My Daddy Knows Best",
+        "artist": "The Marvelettes",
+        "last-week": "87",
+        "peak-rank": "75",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "76",
+        "song": "Lucky Lips",
+        "artist": "Cliff Richard",
+        "last-week": "89",
+        "peak-rank": "76",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "77",
+        "song": "Daughter",
+        "artist": "The Blenders",
+        "last-week": "86",
+        "peak-rank": "73",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "78",
+        "song": "Pay Back",
+        "artist": "Etta James",
+        "last-week": "83",
+        "peak-rank": "78",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "79",
+        "song": "It's A Lonely Town (Lonely Without You)",
+        "artist": "Gene McDaniels",
+        "last-week": "90",
+        "peak-rank": "79",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "80",
+        "song": "Little Deuce Coupe",
+        "artist": "The Beach Boys",
+        "last-week": "",
+        "peak-rank": "80",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "81",
+        "song": "The Lonely Surfer",
+        "artist": "Jack Nitzsche",
+        "last-week": "96",
+        "peak-rank": "81",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "82",
+        "song": "A Breath Taking Guy",
+        "artist": "The Supremes",
+        "last-week": "92",
+        "peak-rank": "82",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "83",
+        "song": "Dum Dum Dee Dum",
+        "artist": "Johnny Cymbal",
+        "last-week": "84",
+        "peak-rank": "83",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "84",
+        "song": "Man's Temptation",
+        "artist": "Gene Chandler",
+        "last-week": "94",
+        "peak-rank": "84",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "85",
+        "song": "More",
+        "artist": "Vic Dana",
+        "last-week": "100",
+        "peak-rank": "85",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "86",
+        "song": "Part Time Love",
+        "artist": "Little Johnny Taylor",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "87",
+        "song": "Only In America",
+        "artist": "Jay & The Americans",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "88",
+        "song": "Mickey's Monkey",
+        "artist": "The Miracles",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "89",
+        "song": "Wonderful! Wonderful!",
+        "artist": "The Tymes",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "90",
+        "song": "Straighten Up Your Heart",
+        "artist": "Barbara Lewis",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "91",
+        "song": "It Won't Be This Way (Always)",
+        "artist": "The King Pins",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "92",
+        "song": "(I Cried at) Laura's Wedding",
+        "artist": "Barbara Lynn",
+        "last-week": "97",
+        "peak-rank": "92",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "93",
+        "song": "This Is My Prayer",
+        "artist": "Theola Kilgore",
+        "last-week": "98",
+        "peak-rank": "93",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "94",
+        "song": "I'm Not A Fool Anymore",
+        "artist": "T.K. Hulin",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "95",
+        "song": "Birthday Party",
+        "artist": "The Pixies Three",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "96",
+        "song": "Chinese Checkers",
+        "artist": "Booker T. & The MG's",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "97",
+        "song": "Gone",
+        "artist": "The Rip Chords",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "98",
+        "song": "Land Of 1000 Dances",
+        "artist": "Chris Kenner",
+        "last-week": "",
+        "peak-rank": "77",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "99",
+        "song": "I Cried",
+        "artist": "Tammy Montgomery",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1963-08-17",
+        "rank": "100",
+        "song": "Cry Baby",
+        "artist": "Garnet Mimms & The Enchanters",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

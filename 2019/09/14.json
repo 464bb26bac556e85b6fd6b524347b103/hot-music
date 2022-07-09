@@ -1,0 +1,902 @@
+[
+    {
+        "date": "2019-09-14",
+        "rank": "1",
+        "song": "Truth Hurts",
+        "artist": "Lizzo",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "2",
+        "song": "Senorita",
+        "artist": "Shawn Mendes & Camila Cabello",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "3",
+        "song": "Bad Guy",
+        "artist": "Billie Eilish",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "4",
+        "song": "Ran$om",
+        "artist": "Lil Tecca",
+        "last-week": "6",
+        "peak-rank": "4",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "5",
+        "song": "Old Town Road",
+        "artist": "Lil Nas X Featuring Billy Ray Cyrus",
+        "last-week": "5",
+        "peak-rank": "1",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "6",
+        "song": "No Guidance",
+        "artist": "Chris Brown Featuring Drake",
+        "last-week": "7",
+        "peak-rank": "6",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "7",
+        "song": "Circles",
+        "artist": "Post Malone",
+        "last-week": "",
+        "peak-rank": "7",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "8",
+        "song": "I Don't Care",
+        "artist": "Ed Sheeran & Justin Bieber",
+        "last-week": "9",
+        "peak-rank": "2",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "9",
+        "song": "Talk",
+        "artist": "Khalid",
+        "last-week": "8",
+        "peak-rank": "3",
+        "weeks-on-board": "30"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "10",
+        "song": "Goodbyes",
+        "artist": "Post Malone Featuring Young Thug",
+        "last-week": "12",
+        "peak-rank": "3",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "11",
+        "song": "Someone You Loved",
+        "artist": "Lewis Capaldi",
+        "last-week": "13",
+        "peak-rank": "11",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "12",
+        "song": "You Need To Calm Down",
+        "artist": "Taylor Swift",
+        "last-week": "4",
+        "peak-rank": "2",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "13",
+        "song": "Sucker",
+        "artist": "Jonas Brothers",
+        "last-week": "15",
+        "peak-rank": "1",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "14",
+        "song": "Sunflower (Spider-Man: Into The Spider-Verse)",
+        "artist": "Post Malone & Swae Lee",
+        "last-week": "17",
+        "peak-rank": "1",
+        "weeks-on-board": "46"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "15",
+        "song": "Money In The Grave",
+        "artist": "Drake Featuring Rick Ross",
+        "last-week": "14",
+        "peak-rank": "7",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "16",
+        "song": "If I Can't Have You",
+        "artist": "Shawn Mendes",
+        "last-week": "16",
+        "peak-rank": "2",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "17",
+        "song": "Beautiful People",
+        "artist": "Ed Sheeran Featuring Khalid",
+        "last-week": "20",
+        "peak-rank": "17",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "18",
+        "song": "Suge",
+        "artist": "DaBaby",
+        "last-week": "18",
+        "peak-rank": "7",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "19",
+        "song": "Boyfriend",
+        "artist": "Ariana Grande & Social House",
+        "last-week": "22",
+        "peak-rank": "8",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "20",
+        "song": "The Git Up",
+        "artist": "Blanco Brown",
+        "last-week": "19",
+        "peak-rank": "14",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "21",
+        "song": "Hot Girl Summer",
+        "artist": "Megan Thee Stallion, Nicki Minaj & Ty Dolla $ign",
+        "last-week": "31",
+        "peak-rank": "11",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "22",
+        "song": "My Type",
+        "artist": "Saweetie",
+        "last-week": "21",
+        "peak-rank": "21",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "23",
+        "song": "Lover",
+        "artist": "Taylor Swift",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "24",
+        "song": "The London",
+        "artist": "Young Thug, J. Cole & Travis Scott",
+        "last-week": "25",
+        "peak-rank": "12",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "25",
+        "song": "Dancing With A Stranger",
+        "artist": "Sam Smith & Normani",
+        "last-week": "26",
+        "peak-rank": "7",
+        "weeks-on-board": "34"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "26",
+        "song": "Baby",
+        "artist": "Lil Baby & DaBaby",
+        "last-week": "24",
+        "peak-rank": "24",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "27",
+        "song": "Wow.",
+        "artist": "Post Malone",
+        "last-week": "35",
+        "peak-rank": "2",
+        "weeks-on-board": "37"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "28",
+        "song": "Pop Out",
+        "artist": "Polo G Featuring Lil Tjay",
+        "last-week": "30",
+        "peak-rank": "11",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "29",
+        "song": "Panini",
+        "artist": "Lil Nas X",
+        "last-week": "40",
+        "peak-rank": "16",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "30",
+        "song": "Without Me",
+        "artist": "Halsey",
+        "last-week": "32",
+        "peak-rank": "1",
+        "weeks-on-board": "48"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "31",
+        "song": "Knockin' Boots",
+        "artist": "Luke Bryan",
+        "last-week": "34",
+        "peak-rank": "31",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "32",
+        "song": "How Do You Sleep?",
+        "artist": "Sam Smith",
+        "last-week": "36",
+        "peak-rank": "29",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "33",
+        "song": "Beer Never Broke My Heart",
+        "artist": "Luke Combs",
+        "last-week": "27",
+        "peak-rank": "21",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "34",
+        "song": "Speechless",
+        "artist": "Dan + Shay",
+        "last-week": "33",
+        "peak-rank": "24",
+        "weeks-on-board": "37"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "35",
+        "song": "Only Human",
+        "artist": "Jonas Brothers",
+        "last-week": "44",
+        "peak-rank": "35",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "36",
+        "song": "Cash Shit",
+        "artist": "Megan Thee Stallion Featuring DaBaby",
+        "last-week": "42",
+        "peak-rank": "36",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "37",
+        "song": "Trampoline",
+        "artist": "SHAED",
+        "last-week": "41",
+        "peak-rank": "37",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "38",
+        "song": "Hot",
+        "artist": "Young Thug Featuring Gunna",
+        "last-week": "39",
+        "peak-rank": "26",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "39",
+        "song": "Hey Look Ma, I Made It",
+        "artist": "Panic! At The Disco",
+        "last-week": "37",
+        "peak-rank": "16",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "40",
+        "song": "7 Rings",
+        "artist": "Ariana Grande",
+        "last-week": "43",
+        "peak-rank": "1",
+        "weeks-on-board": "33"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "41",
+        "song": "Good As Hell",
+        "artist": "Lizzo",
+        "last-week": "52",
+        "peak-rank": "41",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "42",
+        "song": "One Thing Right",
+        "artist": "Marshmello & Kane Brown",
+        "last-week": "59",
+        "peak-rank": "42",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "43",
+        "song": "Whiskey Glasses",
+        "artist": "Morgan Wallen",
+        "last-week": "47",
+        "peak-rank": "17",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "44",
+        "song": "God's Country",
+        "artist": "Blake Shelton",
+        "last-week": "46",
+        "peak-rank": "17",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "45",
+        "song": "On Chill",
+        "artist": "Wale Featuring Jeremih",
+        "last-week": "55",
+        "peak-rank": "45",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "46",
+        "song": "Shotta Flow",
+        "artist": "NLE Choppa",
+        "last-week": "50",
+        "peak-rank": "36",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "47",
+        "song": "All To Myself",
+        "artist": "Dan + Shay",
+        "last-week": "48",
+        "peak-rank": "31",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "48",
+        "song": "The Ones That Didn't Make It Back Home",
+        "artist": "Justin Moore",
+        "last-week": "53",
+        "peak-rank": "46",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "49",
+        "song": "China",
+        "artist": "Anuel AA, Daddy Yankee, Karol G, Ozuna & J Balvin",
+        "last-week": "58",
+        "peak-rank": "43",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "50",
+        "song": "I Don't Know About You",
+        "artist": "Chris Lane",
+        "last-week": "68",
+        "peak-rank": "50",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "51",
+        "song": "Motivation",
+        "artist": "Normani",
+        "last-week": "66",
+        "peak-rank": "33",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "52",
+        "song": "Bad Bad Bad",
+        "artist": "Young Thug Featuring Lil Baby",
+        "last-week": "54",
+        "peak-rank": "32",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "53",
+        "song": "Otro Trago",
+        "artist": "Sech, Darell, Nicky Jam, Ozuna & Anuel AA",
+        "last-week": "60",
+        "peak-rank": "34",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "54",
+        "song": "ME!",
+        "artist": "Taylor Swift Featuring Brendon Urie",
+        "last-week": "11",
+        "peak-rank": "2",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "55",
+        "song": "Lalala",
+        "artist": "Y2K & bbno$",
+        "last-week": "71",
+        "peak-rank": "55",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "56",
+        "song": "Rearview Town",
+        "artist": "Jason Aldean",
+        "last-week": "56",
+        "peak-rank": "40",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "57",
+        "song": "Living",
+        "artist": "Dierks Bentley",
+        "last-week": "73",
+        "peak-rank": "57",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "58",
+        "song": "Queen Of Mean",
+        "artist": "Sarah Jeffery",
+        "last-week": "61",
+        "peak-rank": "49",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "59",
+        "song": "Doin' Time",
+        "artist": "Lana Del Rey",
+        "last-week": "",
+        "peak-rank": "59",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "60",
+        "song": "Time",
+        "artist": "NF",
+        "last-week": "72",
+        "peak-rank": "60",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "61",
+        "song": "The Man",
+        "artist": "Taylor Swift",
+        "last-week": "23",
+        "peak-rank": "23",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "62",
+        "song": "Easier",
+        "artist": "5 Seconds Of Summer",
+        "last-week": "65",
+        "peak-rank": "48",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "63",
+        "song": "Callaita",
+        "artist": "Bad Bunny & Tainy",
+        "last-week": "69",
+        "peak-rank": "52",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "64",
+        "song": "Did It Again",
+        "artist": "Lil Tecca",
+        "last-week": "99",
+        "peak-rank": "64",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "65",
+        "song": "Prayed For You",
+        "artist": "Matt Stell",
+        "last-week": "74",
+        "peak-rank": "65",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "66",
+        "song": "Southbound",
+        "artist": "Carrie Underwood",
+        "last-week": "76",
+        "peak-rank": "66",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "67",
+        "song": "Slide Away",
+        "artist": "Miley Cyrus",
+        "last-week": "64",
+        "peak-rank": "47",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "68",
+        "song": "F.N",
+        "artist": "Lil Tjay",
+        "last-week": "70",
+        "peak-rank": "68",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "69",
+        "song": "Babushka Boi",
+        "artist": "A$AP Rocky",
+        "last-week": "",
+        "peak-rank": "69",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "70",
+        "song": "Ballin'",
+        "artist": "Mustard & Roddy Ricch",
+        "last-week": "83",
+        "peak-rank": "70",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "71",
+        "song": "Cruel Summer",
+        "artist": "Taylor Swift",
+        "last-week": "29",
+        "peak-rank": "29",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "72",
+        "song": "Hate Me",
+        "artist": "Ellie Goulding & Juice WRLD",
+        "last-week": "80",
+        "peak-rank": "72",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "73",
+        "song": "Right Back",
+        "artist": "Khalid Featuring A Boogie Wit da Hoodie",
+        "last-week": "93",
+        "peak-rank": "73",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "74",
+        "song": "I Forgot That You Existed",
+        "artist": "Taylor Swift",
+        "last-week": "28",
+        "peak-rank": "28",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "75",
+        "song": "Love You Too Late",
+        "artist": "Cole Swindell",
+        "last-week": "81",
+        "peak-rank": "74",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "76",
+        "song": "Call You Mine",
+        "artist": "The Chainsmokers & Bebe Rexha",
+        "last-week": "79",
+        "peak-rank": "56",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "77",
+        "song": "Heat",
+        "artist": "Chris Brown Featuring Gunna",
+        "last-week": "",
+        "peak-rank": "77",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "78",
+        "song": "Press",
+        "artist": "Cardi B",
+        "last-week": "85",
+        "peak-rank": "16",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "79",
+        "song": "No Me Conoce",
+        "artist": "Jhay Cortez, J Balvin & Bad Bunny",
+        "last-week": "86",
+        "peak-rank": "71",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "80",
+        "song": "Out Of Luck",
+        "artist": "Lil Tecca",
+        "last-week": "",
+        "peak-rank": "80",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "81",
+        "song": "Baguettes In The Face",
+        "artist": "Mustard featuring NAV, Playboi Carti & A Boogie Wit da Hoodie",
+        "last-week": "95",
+        "peak-rank": "81",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "82",
+        "song": "One Man Band",
+        "artist": "Old Dominion",
+        "last-week": "91",
+        "peak-rank": "82",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "83",
+        "song": "It's You",
+        "artist": "Ali Gatie",
+        "last-week": "78",
+        "peak-rank": "70",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "84",
+        "song": "Shots",
+        "artist": "Lil Tecca",
+        "last-week": "",
+        "peak-rank": "84",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "85",
+        "song": "Tip Of My Tongue",
+        "artist": "Kenny Chesney",
+        "last-week": "88",
+        "peak-rank": "77",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "86",
+        "song": "Juice",
+        "artist": "Lizzo",
+        "last-week": "82",
+        "peak-rank": "82",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "87",
+        "song": "Go Loko",
+        "artist": "YG, Tyga & Jon Z",
+        "last-week": "84",
+        "peak-rank": "49",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "88",
+        "song": "Baby Sitter",
+        "artist": "DaBaby Featuring Offset",
+        "last-week": "98",
+        "peak-rank": "88",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "89",
+        "song": "Bezerk",
+        "artist": "Big Sean Featuring A$AP Ferg & Hit-Boy",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "90",
+        "song": "Good Vibes",
+        "artist": "Chris Janson",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "91",
+        "song": "What Happens In A Small Town",
+        "artist": "Brantley Gilbert + Lindsay Ell",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "92",
+        "song": "Buy My Own Drinks",
+        "artist": "Runaway June",
+        "last-week": "100",
+        "peak-rank": "88",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "93",
+        "song": "Higher Love",
+        "artist": "Kygo X Whitney Houston",
+        "last-week": "",
+        "peak-rank": "63",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "94",
+        "song": "God Only Knows",
+        "artist": "for KING & COUNTRY",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "95",
+        "song": "Wish Wish",
+        "artist": "DJ Khaled Featuring Cardi B & 21 Savage",
+        "last-week": "",
+        "peak-rank": "19",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "96",
+        "song": "The Bones",
+        "artist": "Maren Morris",
+        "last-week": "",
+        "peak-rank": "96",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "97",
+        "song": "Love Me",
+        "artist": "Lil Tecca",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "98",
+        "song": "La Cancion",
+        "artist": "J Balvin & Bad Bunny",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "99",
+        "song": "We Were",
+        "artist": "Keith Urban",
+        "last-week": "",
+        "peak-rank": "80",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2019-09-14",
+        "rank": "100",
+        "song": "Soltera",
+        "artist": "Lunay, Daddy Yankee & Bad Bunny",
+        "last-week": "97",
+        "peak-rank": "66",
+        "weeks-on-board": "17"
+    }
+]

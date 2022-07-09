@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1996-02-24",
+        "rank": "1",
+        "song": "One Sweet Day",
+        "artist": "Mariah Carey & Boyz II Men",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "2",
+        "song": "Not Gon' Cry (From \"Waiting To Exhale\")",
+        "artist": "Mary J. Blige",
+        "last-week": "4",
+        "peak-rank": "2",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "3",
+        "song": "Missing",
+        "artist": "Everything But The Girl",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "29"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "4",
+        "song": "Nobody Knows",
+        "artist": "The Tony Rich Project",
+        "last-week": "5",
+        "peak-rank": "4",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "5",
+        "song": "Sittin' Up In My Room (From \"Waiting To Exhale\")",
+        "artist": "Brandy",
+        "last-week": "6",
+        "peak-rank": "5",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "6",
+        "song": "Be My Lover",
+        "artist": "La Bouche",
+        "last-week": "8",
+        "peak-rank": "6",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "7",
+        "song": "Jesus To A Child",
+        "artist": "George Michael",
+        "last-week": "",
+        "peak-rank": "7",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "8",
+        "song": "Exhale (Shoop Shoop) (From \"Waiting To Exhale\")",
+        "artist": "Whitney Houston",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "9",
+        "song": "One Of Us",
+        "artist": "Joan Osborne",
+        "last-week": "9",
+        "peak-rank": "4",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "10",
+        "song": "Hey Lover",
+        "artist": "LL Cool J",
+        "last-week": "7",
+        "peak-rank": "3",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "11",
+        "song": "Follow You Down/Til I Hear It From You",
+        "artist": "Gin Blossoms",
+        "last-week": "11",
+        "peak-rank": "11",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "12",
+        "song": "Before You Walk Out Of My Life/Like This And Like That",
+        "artist": "Monica",
+        "last-week": "13",
+        "peak-rank": "7",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "13",
+        "song": "Wonderwall",
+        "artist": "Oasis",
+        "last-week": "14",
+        "peak-rank": "13",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "14",
+        "song": "Name",
+        "artist": "Goo Goo Dolls",
+        "last-week": "10",
+        "peak-rank": "5",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "15",
+        "song": "Tonite's Tha Night",
+        "artist": "Kris Kross",
+        "last-week": "16",
+        "peak-rank": "12",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "16",
+        "song": "1979",
+        "artist": "The Smashing Pumpkins",
+        "last-week": "18",
+        "peak-rank": "16",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "17",
+        "song": "Anything",
+        "artist": "3T",
+        "last-week": "17",
+        "peak-rank": "16",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "18",
+        "song": "Breakfast At Tiffany's",
+        "artist": "Deep Blue Something",
+        "last-week": "12",
+        "peak-rank": "5",
+        "weeks-on-board": "28"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "19",
+        "song": "Time",
+        "artist": "Hootie & The Blowfish",
+        "last-week": "15",
+        "peak-rank": "14",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "20",
+        "song": "The World I Know",
+        "artist": "Collective Soul",
+        "last-week": "20",
+        "peak-rank": "20",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "21",
+        "song": "Wonder",
+        "artist": "Natalie Merchant",
+        "last-week": "21",
+        "peak-rank": "21",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "22",
+        "song": "No One Else",
+        "artist": "Total",
+        "last-week": "29",
+        "peak-rank": "22",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "23",
+        "song": "You'll See",
+        "artist": "Madonna",
+        "last-week": "19",
+        "peak-rank": "6",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "24",
+        "song": "Soon As I Get Home",
+        "artist": "Faith Evans",
+        "last-week": "26",
+        "peak-rank": "21",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "25",
+        "song": "Hook",
+        "artist": "Blues Traveler",
+        "last-week": "25",
+        "peak-rank": "25",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "26",
+        "song": "Tell Me",
+        "artist": "Groove Theory",
+        "last-week": "24",
+        "peak-rank": "5",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "27",
+        "song": "I Want To Come Over",
+        "artist": "Melissa Etheridge",
+        "last-week": "32",
+        "peak-rank": "27",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "28",
+        "song": "Glycerine",
+        "artist": "Bush",
+        "last-week": "30",
+        "peak-rank": "28",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "29",
+        "song": "Fantasy",
+        "artist": "Mariah Carey",
+        "last-week": "23",
+        "peak-rank": "1",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "30",
+        "song": "Diggin' On You",
+        "artist": "TLC",
+        "last-week": "22",
+        "peak-rank": "5",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "31",
+        "song": "Gangsta's Paradise (From \"Dangerous Minds\")",
+        "artist": "Coolio Featuring L.V.",
+        "last-week": "27",
+        "peak-rank": "1",
+        "weeks-on-board": "28"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "32",
+        "song": "Set U Free",
+        "artist": "Planet Soul",
+        "last-week": "28",
+        "peak-rank": "26",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "33",
+        "song": "Don't Cry",
+        "artist": "Seal",
+        "last-week": "33",
+        "peak-rank": "33",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "34",
+        "song": "Fu-Gee-La",
+        "artist": "Fugees",
+        "last-week": "34",
+        "peak-rank": "34",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "35",
+        "song": "Get Money",
+        "artist": "Junior M.A.F.I.A. Featuring The Notorious B.I.G.",
+        "last-week": "49",
+        "peak-rank": "35",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "36",
+        "song": "As I Lay Me Down",
+        "artist": "Sophie B. Hawkins",
+        "last-week": "31",
+        "peak-rank": "6",
+        "weeks-on-board": "39"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "37",
+        "song": "We Got It",
+        "artist": "Immature (Featuring Smooth)",
+        "last-week": "41",
+        "peak-rank": "37",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "38",
+        "song": "Natural One (From \"Kids\")",
+        "artist": "Folk Implosion",
+        "last-week": "38",
+        "peak-rank": "29",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "39",
+        "song": "All The Things (Your Man Won't Do) (From \"Don't Be A Menace...\")",
+        "artist": "Joe",
+        "last-week": "58",
+        "peak-rank": "39",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "40",
+        "song": "Cumbersome",
+        "artist": "Seven Mary Three",
+        "last-week": "46",
+        "peak-rank": "40",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "41",
+        "song": "Carnival",
+        "artist": "Natalie Merchant",
+        "last-week": "37",
+        "peak-rank": "10",
+        "weeks-on-board": "30"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "42",
+        "song": "Feels So Good (Show Me Your Love)",
+        "artist": "Lina Santiago",
+        "last-week": "42",
+        "peak-rank": "42",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "43",
+        "song": "Only Wanna Be With You",
+        "artist": "Hootie & The Blowfish",
+        "last-week": "36",
+        "peak-rank": "6",
+        "weeks-on-board": "30"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "44",
+        "song": "Roll To Me",
+        "artist": "Del Amitri",
+        "last-week": "35",
+        "peak-rank": "10",
+        "weeks-on-board": "34"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "45",
+        "song": "Visions Of A Sunset (From \"Mr. Holland's Opus\")",
+        "artist": "Shawn Stockman",
+        "last-week": "48",
+        "peak-rank": "45",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "46",
+        "song": "Let's Play House",
+        "artist": "Tha Dogg Pound Featuring Michel'le",
+        "last-week": "52",
+        "peak-rank": "45",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "47",
+        "song": "Back For Good",
+        "artist": "Take That",
+        "last-week": "39",
+        "peak-rank": "7",
+        "weeks-on-board": "29"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "48",
+        "song": "Kiss From A Rose",
+        "artist": "Seal",
+        "last-week": "44",
+        "peak-rank": "1",
+        "weeks-on-board": "36"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "49",
+        "song": "Runaway",
+        "artist": "Janet Jackson",
+        "last-week": "43",
+        "peak-rank": "3",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "50",
+        "song": "Run-Around",
+        "artist": "Blues Traveler",
+        "last-week": "45",
+        "peak-rank": "8",
+        "weeks-on-board": "49"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "51",
+        "song": "Who Do U Love",
+        "artist": "Deborah Cox",
+        "last-week": "59",
+        "peak-rank": "51",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "52",
+        "song": "Where Do U Want Me To Put It",
+        "artist": "Solo",
+        "last-week": "61",
+        "peak-rank": "52",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "53",
+        "song": "Just A Girl",
+        "artist": "No Doubt",
+        "last-week": "53",
+        "peak-rank": "53",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "54",
+        "song": "Bullet With Butterfly Wings",
+        "artist": "The Smashing Pumpkins",
+        "last-week": "51",
+        "peak-rank": "22",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "55",
+        "song": "Blessed",
+        "artist": "Elton John",
+        "last-week": "47",
+        "peak-rank": "34",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "56",
+        "song": "I Got Id/Long Road",
+        "artist": "Pearl Jam",
+        "last-week": "40",
+        "peak-rank": "7",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "57",
+        "song": "Dreaming Of You",
+        "artist": "Selena",
+        "last-week": "50",
+        "peak-rank": "22",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "58",
+        "song": "Love U 4 Life",
+        "artist": "Jodeci",
+        "last-week": "56",
+        "peak-rank": "31",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "59",
+        "song": "Ridin' Low",
+        "artist": "L.A.D.",
+        "last-week": "54",
+        "peak-rank": "47",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "60",
+        "song": "Everyday & Everynight",
+        "artist": "Yvette Michele",
+        "last-week": "60",
+        "peak-rank": "60",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "61",
+        "song": "I Miss You (Come Back Home) (From \"New York Undercover\")",
+        "artist": "Monifah",
+        "last-week": "64",
+        "peak-rank": "56",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "62",
+        "song": "Stayin' Alive",
+        "artist": "N-Trance",
+        "last-week": "62",
+        "peak-rank": "62",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "63",
+        "song": "Beautiful Life",
+        "artist": "Ace Of Base",
+        "last-week": "55",
+        "peak-rank": "15",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "64",
+        "song": "You Remind Me Of Something",
+        "artist": "R. Kelly",
+        "last-week": "57",
+        "peak-rank": "4",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "65",
+        "song": "Can't Be Wasting My Time (From \"Don't Be A Menace...\")",
+        "artist": "Mona Lisa Featuring Lost Boyz",
+        "last-week": "66",
+        "peak-rank": "65",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "66",
+        "song": "Lucky Love",
+        "artist": "Ace Of Base",
+        "last-week": "",
+        "peak-rank": "66",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "67",
+        "song": "Promises Broken",
+        "artist": "Soul Asylum",
+        "last-week": "63",
+        "peak-rank": "63",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "68",
+        "song": "Too Hot",
+        "artist": "Coolio",
+        "last-week": "65",
+        "peak-rank": "24",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "69",
+        "song": "Keep Tryin'",
+        "artist": "Groove Theory",
+        "last-week": "69",
+        "peak-rank": "69",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "70",
+        "song": "Caught A Lite Sneeze",
+        "artist": "Tori Amos",
+        "last-week": "71",
+        "peak-rank": "60",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "71",
+        "song": "Where Ever You Are",
+        "artist": "Terry Ellis",
+        "last-week": "74",
+        "peak-rank": "52",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "72",
+        "song": "Cell Therapy",
+        "artist": "Goodie Mob",
+        "last-week": "77",
+        "peak-rank": "39",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "73",
+        "song": "I Will Survive",
+        "artist": "Chantay Savage",
+        "last-week": "90",
+        "peak-rank": "73",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "74",
+        "song": "It Matters To Me",
+        "artist": "Faith Hill",
+        "last-week": "80",
+        "peak-rank": "74",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "75",
+        "song": "Beware Of My Crew (From \"A Thin Line Between Love And Hate\")",
+        "artist": "L.B.C. Crew Feat. Tray D & South Sentrell",
+        "last-week": "82",
+        "peak-rank": "75",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "76",
+        "song": "A Thin Line Between Love & Hate (From \"A Thin Line...\")",
+        "artist": "H-Town",
+        "last-week": "97",
+        "peak-rank": "76",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "77",
+        "song": "Sexual Healing",
+        "artist": "Max-A-Million",
+        "last-week": "73",
+        "peak-rank": "60",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "78",
+        "song": "Who Can I Run To",
+        "artist": "Xscape",
+        "last-week": "67",
+        "peak-rank": "8",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "79",
+        "song": "All Cried Out",
+        "artist": "Denine With Collage's Adam Marano",
+        "last-week": "72",
+        "peak-rank": "72",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "80",
+        "song": "I Will Remember You (Live)",
+        "artist": "Sarah McLachlan",
+        "last-week": "81",
+        "peak-rank": "65",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "81",
+        "song": "Get Together",
+        "artist": "Big Mountain",
+        "last-week": "68",
+        "peak-rank": "44",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "82",
+        "song": "Energy",
+        "artist": "Devone",
+        "last-week": "70",
+        "peak-rank": "70",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "83",
+        "song": "Cruisin'",
+        "artist": "D'Angelo",
+        "last-week": "79",
+        "peak-rank": "53",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "84",
+        "song": "Just Tah Let U Know",
+        "artist": "Eazy-E",
+        "last-week": "83",
+        "peak-rank": "45",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "85",
+        "song": "Not A Dry Eye In The House",
+        "artist": "Meat Loaf",
+        "last-week": "93",
+        "peak-rank": "85",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "86",
+        "song": "Throw Your Hands Up",
+        "artist": "L.V.",
+        "last-week": "78",
+        "peak-rank": "63",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "87",
+        "song": "Insensitive (From \"Bed Of Roses\")",
+        "artist": "Jann Arden",
+        "last-week": "94",
+        "peak-rank": "87",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "88",
+        "song": "Everybody Be Somebody",
+        "artist": "Ruffneck Featuring Yavahn",
+        "last-week": "85",
+        "peak-rank": "82",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "89",
+        "song": "We've Got It Goin' On",
+        "artist": "Backstreet Boys",
+        "last-week": "87",
+        "peak-rank": "69",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "90",
+        "song": "When Love & Hate Collide",
+        "artist": "Def Leppard",
+        "last-week": "84",
+        "peak-rank": "58",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "91",
+        "song": "Leflaur Leflah Eshkushka",
+        "artist": "Heltah Skeltah And O.G.C. As The Fab 5",
+        "last-week": "75",
+        "peak-rank": "75",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "92",
+        "song": "Celebration/Take Your Chance",
+        "artist": "Fun Factory",
+        "last-week": "95",
+        "peak-rank": "88",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "93",
+        "song": "Hooked On You",
+        "artist": "Silk",
+        "last-week": "96",
+        "peak-rank": "54",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "94",
+        "song": "Take A Look",
+        "artist": "J'Son",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "95",
+        "song": "Microphone Master",
+        "artist": "Das EFX (Featuring Mobb Deep)",
+        "last-week": "86",
+        "peak-rank": "86",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "96",
+        "song": "Magic Carpet Ride",
+        "artist": "The Mighty Dub Katz",
+        "last-week": "92",
+        "peak-rank": "58",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "97",
+        "song": "East 1999",
+        "artist": "Bone Thugs-N-Harmony",
+        "last-week": "99",
+        "peak-rank": "62",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "98",
+        "song": "Free As A Bird",
+        "artist": "The Beatles",
+        "last-week": "91",
+        "peak-rank": "6",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "99",
+        "song": "Automatic Lover (Call For Love)",
+        "artist": "Real McCoy",
+        "last-week": "98",
+        "peak-rank": "52",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1996-02-24",
+        "rank": "100",
+        "song": "I'd Lie For You (And That's The Truth)",
+        "artist": "Meat Loaf",
+        "last-week": "88",
+        "peak-rank": "13",
+        "weeks-on-board": "19"
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "date": "2006-09-30",
+        "rank": "1",
+        "song": "SexyBack",
+        "artist": "Justin Timberlake",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "2",
+        "song": "Money Maker",
+        "artist": "Ludacris Featuring Pharrell",
+        "last-week": "15",
+        "peak-rank": "2",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "3",
+        "song": "Too Little Too Late",
+        "artist": "JoJo",
+        "last-week": "66",
+        "peak-rank": "3",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "4",
+        "song": "London Bridge",
+        "artist": "Fergie",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "5",
+        "song": "Lips Of An Angel",
+        "artist": "Hinder",
+        "last-week": "9",
+        "peak-rank": "5",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "6",
+        "song": "Chasing Cars",
+        "artist": "Snow Patrol",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "7",
+        "song": "How To Save A Life",
+        "artist": "The Fray",
+        "last-week": "16",
+        "peak-rank": "7",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "8",
+        "song": "Chain Hang Low",
+        "artist": "Jibbs",
+        "last-week": "11",
+        "peak-rank": "8",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "9",
+        "song": "Crazy",
+        "artist": "Gnarls Barkley",
+        "last-week": "4",
+        "peak-rank": "2",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "10",
+        "song": "Buttons",
+        "artist": "The Pussycat Dolls Featuring Snoop Dogg",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "11",
+        "song": "Ring The Alarm",
+        "artist": "Beyonce",
+        "last-week": "12",
+        "peak-rank": "11",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "12",
+        "song": "Sexy Love",
+        "artist": "Ne-Yo",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "13",
+        "song": "Far Away",
+        "artist": "Nickelback",
+        "last-week": "8",
+        "peak-rank": "8",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "14",
+        "song": "(When You Gonna) Give It Up To Me",
+        "artist": "Sean Paul Feat. Keyshia Cole",
+        "last-week": "5",
+        "peak-rank": "3",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "15",
+        "song": "Pullin' Me Back",
+        "artist": "Chingy Featuring Tyrese",
+        "last-week": "13",
+        "peak-rank": "13",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "16",
+        "song": "Promiscuous",
+        "artist": "Nelly Furtado Featuring Timbaland",
+        "last-week": "10",
+        "peak-rank": "1",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "17",
+        "song": "I Know You See It",
+        "artist": "Yung Joc Featuring Brandy 'Ms. B.' Hambrick",
+        "last-week": "19",
+        "peak-rank": "17",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "18",
+        "song": "I Write Sins Not Tragedies",
+        "artist": "Panic! At The Disco",
+        "last-week": "14",
+        "peak-rank": "7",
+        "weeks-on-board": "29"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "19",
+        "song": "Call Me When You're Sober",
+        "artist": "Evanescence",
+        "last-week": "21",
+        "peak-rank": "10",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "20",
+        "song": "U And Dat",
+        "artist": "E-40 Featuring T-Pain & Kandi Girl",
+        "last-week": "17",
+        "peak-rank": "13",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "21",
+        "song": "Shoulder Lean",
+        "artist": "Young Dro Featuring T.I.",
+        "last-week": "18",
+        "peak-rank": "10",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "22",
+        "song": "Over My Head (Cable Car)",
+        "artist": "The Fray",
+        "last-week": "24",
+        "peak-rank": "8",
+        "weeks-on-board": "32"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "23",
+        "song": "Get Up",
+        "artist": "Ciara Featuring Chamillionaire",
+        "last-week": "22",
+        "peak-rank": "7",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "24",
+        "song": "Show Stopper",
+        "artist": "Danity Kane",
+        "last-week": "26",
+        "peak-rank": "8",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "25",
+        "song": "Ain't No Other Man",
+        "artist": "Christina Aguilera",
+        "last-week": "23",
+        "peak-rank": "6",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "26",
+        "song": "Me & U",
+        "artist": "Cassie",
+        "last-week": "20",
+        "peak-rank": "3",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "27",
+        "song": "Waiting On The World To Change",
+        "artist": "John Mayer",
+        "last-week": "40",
+        "peak-rank": "21",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "28",
+        "song": "Come To Me",
+        "artist": "Diddy Featuring Nicole Scherzinger",
+        "last-week": "25",
+        "peak-rank": "25",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "29",
+        "song": "My Love",
+        "artist": "Justin Timberlake Featuring T.I.",
+        "last-week": "89",
+        "peak-rank": "29",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "30",
+        "song": "Say Goodbye",
+        "artist": "Chris Brown",
+        "last-week": "33",
+        "peak-rank": "30",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "31",
+        "song": "Hips Don't Lie",
+        "artist": "Shakira Featuring Wyclef Jean",
+        "last-week": "29",
+        "peak-rank": "1",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "32",
+        "song": "Move Along",
+        "artist": "The All-American Rejects",
+        "last-week": "28",
+        "peak-rank": "15",
+        "weeks-on-board": "34"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "33",
+        "song": "Right Where You Want Me",
+        "artist": "Jesse McCartney",
+        "last-week": "67",
+        "peak-rank": "33",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "34",
+        "song": "Hate Me",
+        "artist": "Blue October",
+        "last-week": "34",
+        "peak-rank": "32",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "35",
+        "song": "Do It To It",
+        "artist": "Cherish Featuring Sean Paul Of The YoungBloodZ",
+        "last-week": "27",
+        "peak-rank": "12",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "36",
+        "song": "What Hurts The Most",
+        "artist": "Rascal Flatts",
+        "last-week": "39",
+        "peak-rank": "6",
+        "weeks-on-board": "33"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "37",
+        "song": "Dani California",
+        "artist": "Red Hot Chili Peppers",
+        "last-week": "36",
+        "peak-rank": "6",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "38",
+        "song": "Snap Yo Fingers",
+        "artist": "Lil Jon Featuring E-40 & Sean Paul Of The YoungBloodZ",
+        "last-week": "32",
+        "peak-rank": "7",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "39",
+        "song": "It's Goin' Down",
+        "artist": "Yung Joc",
+        "last-week": "30",
+        "peak-rank": "3",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "40",
+        "song": "S.E.X.",
+        "artist": "Lyfe Jennings",
+        "last-week": "44",
+        "peak-rank": "40",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "41",
+        "song": "Black Horse & The Cherry Tree",
+        "artist": "KT Tunstall",
+        "last-week": "41",
+        "peak-rank": "20",
+        "weeks-on-board": "28"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "42",
+        "song": "Deja Vu",
+        "artist": "Beyonce Featuring Jay Z",
+        "last-week": "31",
+        "peak-rank": "4",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "43",
+        "song": "I Loved Her First",
+        "artist": "Heartland",
+        "last-week": "45",
+        "peak-rank": "43",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "44",
+        "song": "Here It Goes Again",
+        "artist": "OK Go",
+        "last-week": "38",
+        "peak-rank": "38",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "45",
+        "song": "Bossy",
+        "artist": "Kelis Featuring Too $hort",
+        "last-week": "35",
+        "peak-rank": "16",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "46",
+        "song": "Would You Go With Me",
+        "artist": "Josh Turner",
+        "last-week": "51",
+        "peak-rank": "46",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "47",
+        "song": "Ridin'",
+        "artist": "Chamillionaire Featuring Krayzie Bone",
+        "last-week": "46",
+        "peak-rank": "1",
+        "weeks-on-board": "31"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "48",
+        "song": "Leave The Pieces",
+        "artist": "The Wreckers",
+        "last-week": "47",
+        "peak-rank": "34",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "49",
+        "song": "Bad Day",
+        "artist": "Daniel Powter",
+        "last-week": "49",
+        "peak-rank": "1",
+        "weeks-on-board": "32"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "50",
+        "song": "Call On Me",
+        "artist": "Janet & Nelly",
+        "last-week": "37",
+        "peak-rank": "25",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "51",
+        "song": "Brand New Girlfriend",
+        "artist": "Steve Holy",
+        "last-week": "43",
+        "peak-rank": "40",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "52",
+        "song": "Tell Me Baby",
+        "artist": "Red Hot Chili Peppers",
+        "last-week": "57",
+        "peak-rank": "50",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "53",
+        "song": "When You Were Young",
+        "artist": "The Killers",
+        "last-week": "52",
+        "peak-rank": "29",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "54",
+        "song": "That Girl",
+        "artist": "Frankie J Featuring Mannie Fresh & Chamillionaire",
+        "last-week": "58",
+        "peak-rank": "54",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "55",
+        "song": "Gallery",
+        "artist": "Mario Vazquez",
+        "last-week": "59",
+        "peak-rank": "55",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "56",
+        "song": "Before He Cheats",
+        "artist": "Carrie Underwood",
+        "last-week": "78",
+        "peak-rank": "56",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "57",
+        "song": "Steady, As She Goes",
+        "artist": "The Raconteurs",
+        "last-week": "54",
+        "peak-rank": "54",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "58",
+        "song": "Life Is A Highway",
+        "artist": "Rascal Flatts",
+        "last-week": "60",
+        "peak-rank": "7",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "59",
+        "song": "About Us",
+        "artist": "Brooke Hogan Featuring Paul Wall",
+        "last-week": "62",
+        "peak-rank": "33",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "60",
+        "song": "Once In A Lifetime",
+        "artist": "Keith Urban",
+        "last-week": "53",
+        "peak-rank": "53",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "61",
+        "song": "If You're Going Through Hell (Before The Devil Even Knows)",
+        "artist": "Rodney Atkins",
+        "last-week": "56",
+        "peak-rank": "33",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "62",
+        "song": "Maneater",
+        "artist": "Nelly Furtado",
+        "last-week": "",
+        "peak-rank": "62",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "63",
+        "song": "The Riddle",
+        "artist": "Five For Fighting",
+        "last-week": "61",
+        "peak-rank": "40",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "64",
+        "song": "I Call It Love",
+        "artist": "Lionel Richie",
+        "last-week": "75",
+        "peak-rank": "64",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "65",
+        "song": "You Save Me",
+        "artist": "Kenny Chesney",
+        "last-week": "71",
+        "peak-rank": "65",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "66",
+        "song": "Remember The Name",
+        "artist": "Fort Minor Featuring Styles Of Beyond",
+        "last-week": "",
+        "peak-rank": "66",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "67",
+        "song": "Everytime Tha Beat Drop",
+        "artist": "Monica Featuring Dem Franchize Boyz",
+        "last-week": "64",
+        "peak-rank": "64",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "68",
+        "song": "Crazy Bitch",
+        "artist": "Buckcherry",
+        "last-week": "77",
+        "peak-rank": "59",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "69",
+        "song": "Every Mile A Memory",
+        "artist": "Dierks Bentley",
+        "last-week": "70",
+        "peak-rank": "69",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "70",
+        "song": "Chemicals React",
+        "artist": "Aly & AJ",
+        "last-week": "",
+        "peak-rank": "70",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "71",
+        "song": "Welcome To The Black Parade",
+        "artist": "My Chemical Romance",
+        "last-week": "",
+        "peak-rank": "71",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "72",
+        "song": "The Kill (Bury Me)",
+        "artist": "30 Seconds To Mars",
+        "last-week": "65",
+        "peak-rank": "65",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "73",
+        "song": "Put Your Records On",
+        "artist": "Corinne Bailey Rae",
+        "last-week": "72",
+        "peak-rank": "65",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "74",
+        "song": "Give It Away",
+        "artist": "George Strait",
+        "last-week": "73",
+        "peak-rank": "73",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "75",
+        "song": "Miss Murder",
+        "artist": "AFI",
+        "last-week": "63",
+        "peak-rank": "24",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "76",
+        "song": "Building Bridges",
+        "artist": "Brooks & Dunn With Sheryl Crow & Vince Gill",
+        "last-week": "68",
+        "peak-rank": "66",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "77",
+        "song": "Suddenly I See",
+        "artist": "KT Tunstall",
+        "last-week": "88",
+        "peak-rank": "71",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "78",
+        "song": "Through Glass",
+        "artist": "Stone Sour",
+        "last-week": "80",
+        "peak-rank": "71",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "79",
+        "song": "Come Back To Me",
+        "artist": "Vanessa Hudgens",
+        "last-week": "",
+        "peak-rank": "79",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "80",
+        "song": "Walk It Out",
+        "artist": "Unk",
+        "last-week": "95",
+        "peak-rank": "80",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "81",
+        "song": "A Public Affair",
+        "artist": "Jessica Simpson",
+        "last-week": "55",
+        "peak-rank": "14",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "82",
+        "song": "Stuntin' Like My Daddy",
+        "artist": "Birdman & Lil Wayne",
+        "last-week": "82",
+        "peak-rank": "82",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "83",
+        "song": "Animal I Have Become",
+        "artist": "Three Days Grace",
+        "last-week": "76",
+        "peak-rank": "60",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "84",
+        "song": "Chicken Noodle Soup.",
+        "artist": "Webstar & Young B Featuring The Voice Of Harlem",
+        "last-week": "92",
+        "peak-rank": "84",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "85",
+        "song": "My Wish",
+        "artist": "Rascal Flatts",
+        "last-week": "99",
+        "peak-rank": "85",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "86",
+        "song": "Bring It On Home",
+        "artist": "Little Big Town",
+        "last-week": "69",
+        "peak-rank": "58",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "87",
+        "song": "Tim McGraw",
+        "artist": "Taylor Swift",
+        "last-week": "86",
+        "peak-rank": "86",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "88",
+        "song": "It's Okay (One Blood)",
+        "artist": "The Game Featuring Junior Reid",
+        "last-week": "97",
+        "peak-rank": "87",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "89",
+        "song": "I Can't Hate You Anymore",
+        "artist": "Nick Lachey",
+        "last-week": "87",
+        "peak-rank": "87",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "90",
+        "song": "Ghetto Story Chapter 2",
+        "artist": "Cham Featuring Alicia Keys",
+        "last-week": "83",
+        "peak-rank": "77",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "91",
+        "song": "Push It",
+        "artist": "Rick Ross",
+        "last-week": "93",
+        "peak-rank": "91",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "92",
+        "song": "Face Down",
+        "artist": "The Red Jumpsuit Apparatus",
+        "last-week": "94",
+        "peak-rank": "76",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "93",
+        "song": "The Diary Of Jane",
+        "artist": "Breaking Benjamin",
+        "last-week": "90",
+        "peak-rank": "50",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "94",
+        "song": "Need A Boss",
+        "artist": "Shareefa Featuring Ludacris",
+        "last-week": "85",
+        "peak-rank": "78",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "95",
+        "song": "Sunshine And Summertime",
+        "artist": "Faith Hill",
+        "last-week": "79",
+        "peak-rank": "70",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "96",
+        "song": "Vans",
+        "artist": "The Pack",
+        "last-week": "74",
+        "peak-rank": "58",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "97",
+        "song": "Hands Up",
+        "artist": "Lloyd Banks Featuring 50 Cent",
+        "last-week": "84",
+        "peak-rank": "84",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "98",
+        "song": "Ni Una Sola Palabra",
+        "artist": "Paulina Rubio",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "99",
+        "song": "My Little Girl",
+        "artist": "Tim McGraw",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2006-09-30",
+        "rank": "100",
+        "song": "Money In The Bank",
+        "artist": "Lil Scrappy Featuring Young Buck",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

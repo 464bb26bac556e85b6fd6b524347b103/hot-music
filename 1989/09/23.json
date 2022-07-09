@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1989-09-23",
+        "rank": "1",
+        "song": "Girl I'm Gonna Miss You",
+        "artist": "Milli Vanilli",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "2",
+        "song": "Heaven",
+        "artist": "Warrant",
+        "last-week": "3",
+        "peak-rank": "2",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "3",
+        "song": "If I Could Turn Back Time",
+        "artist": "Cher",
+        "last-week": "7",
+        "peak-rank": "3",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "4",
+        "song": "18 And Life",
+        "artist": "Skid Row",
+        "last-week": "8",
+        "peak-rank": "4",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "5",
+        "song": "Cherish",
+        "artist": "Madonna",
+        "last-week": "10",
+        "peak-rank": "5",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "6",
+        "song": "Don't Wanna Lose You",
+        "artist": "Gloria Estefan",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "7",
+        "song": "Shower Me With Your Love",
+        "artist": "Surface",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "8",
+        "song": "Miss You Much",
+        "artist": "Janet Jackson",
+        "last-week": "15",
+        "peak-rank": "8",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "9",
+        "song": "Hangin' Tough",
+        "artist": "New Kids On The Block",
+        "last-week": "4",
+        "peak-rank": "1",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "10",
+        "song": "Cold Hearted",
+        "artist": "Paula Abdul",
+        "last-week": "6",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "11",
+        "song": "One",
+        "artist": "Bee Gees",
+        "last-week": "13",
+        "peak-rank": "11",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "12",
+        "song": "Kisses On The Wind",
+        "artist": "Neneh Cherry",
+        "last-week": "14",
+        "peak-rank": "12",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "13",
+        "song": "Keep On Movin'",
+        "artist": "Soul II Soul (Featuring Caron Wheeler)",
+        "last-week": "12",
+        "peak-rank": "11",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "14",
+        "song": "Angel Eyes",
+        "artist": "The Jeff Healey Band",
+        "last-week": "9",
+        "peak-rank": "5",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "15",
+        "song": "Right Here Waiting",
+        "artist": "Richard Marx",
+        "last-week": "11",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "16",
+        "song": "Love Song",
+        "artist": "The Cure",
+        "last-week": "22",
+        "peak-rank": "16",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "17",
+        "song": "Don't Look Back",
+        "artist": "Fine Young Cannibals",
+        "last-week": "18",
+        "peak-rank": "17",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "18",
+        "song": "Bust A Move",
+        "artist": "Young M.C.",
+        "last-week": "20",
+        "peak-rank": "18",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "19",
+        "song": "It's Not Enough",
+        "artist": "Starship",
+        "last-week": "19",
+        "peak-rank": "19",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "20",
+        "song": "Mixed Emotions",
+        "artist": "The Rolling Stones",
+        "last-week": "29",
+        "peak-rank": "20",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "21",
+        "song": "It's No Crime",
+        "artist": "Babyface",
+        "last-week": "26",
+        "peak-rank": "21",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "22",
+        "song": "When I Looked At Him",
+        "artist": "Expose",
+        "last-week": "28",
+        "peak-rank": "22",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "23",
+        "song": "Runnin' Down A Dream",
+        "artist": "Tom Petty",
+        "last-week": "25",
+        "peak-rank": "23",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "24",
+        "song": "Partyman",
+        "artist": "Prince",
+        "last-week": "31",
+        "peak-rank": "24",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "25",
+        "song": "Listen To Your Heart",
+        "artist": "Roxette",
+        "last-week": "35",
+        "peak-rank": "25",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "26",
+        "song": "Sowing The Seeds Of Love",
+        "artist": "Tears For Fears",
+        "last-week": "36",
+        "peak-rank": "26",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "27",
+        "song": "(You're My One And Only) True Love",
+        "artist": "Seduction",
+        "last-week": "30",
+        "peak-rank": "27",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "28",
+        "song": "Love In An Elevator",
+        "artist": "Aerosmith",
+        "last-week": "39",
+        "peak-rank": "28",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "29",
+        "song": "That's The Way",
+        "artist": "Katrina And The Waves",
+        "last-week": "16",
+        "peak-rank": "16",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "30",
+        "song": "Soul Provider",
+        "artist": "Michael Bolton",
+        "last-week": "17",
+        "peak-rank": "17",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "31",
+        "song": "Dr. Feelgood",
+        "artist": "Motley Crue",
+        "last-week": "42",
+        "peak-rank": "31",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "32",
+        "song": "Rock Wit'cha",
+        "artist": "Bobby Brown",
+        "last-week": "38",
+        "peak-rank": "32",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "33",
+        "song": "Healing Hands",
+        "artist": "Elton John",
+        "last-week": "40",
+        "peak-rank": "33",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "34",
+        "song": "What I Like About You",
+        "artist": "Michael Morales",
+        "last-week": "37",
+        "peak-rank": "34",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "35",
+        "song": "I Like It",
+        "artist": "Dino",
+        "last-week": "32",
+        "peak-rank": "7",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "36",
+        "song": "Cover Girl",
+        "artist": "New Kids On The Block",
+        "last-week": "62",
+        "peak-rank": "36",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "37",
+        "song": "On Our Own (From \"Ghostbusters II\")",
+        "artist": "Bobby Brown",
+        "last-week": "27",
+        "peak-rank": "2",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "38",
+        "song": "The Best",
+        "artist": "Tina Turner",
+        "last-week": "47",
+        "peak-rank": "38",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "39",
+        "song": "Talk It Over",
+        "artist": "Grayson Hugh",
+        "last-week": "21",
+        "peak-rank": "19",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "40",
+        "song": "The End Of The Innocence",
+        "artist": "Don Henley",
+        "last-week": "23",
+        "peak-rank": "8",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "41",
+        "song": "Secret Rendezvous",
+        "artist": "Karyn White",
+        "last-week": "24",
+        "peak-rank": "6",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "42",
+        "song": "Once Bitten Twice Shy",
+        "artist": "Great White",
+        "last-week": "34",
+        "peak-rank": "5",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "43",
+        "song": "Call It Love",
+        "artist": "Poco",
+        "last-week": "48",
+        "peak-rank": "43",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "44",
+        "song": "I Feel The Earth Move",
+        "artist": "Martika",
+        "last-week": "51",
+        "peak-rank": "44",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "45",
+        "song": "Let Go",
+        "artist": "Sharon Bryant",
+        "last-week": "50",
+        "peak-rank": "45",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "46",
+        "song": "Love Shack",
+        "artist": "The B-52s",
+        "last-week": "56",
+        "peak-rank": "46",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "47",
+        "song": "When I See You Smile",
+        "artist": "Bad English",
+        "last-week": "72",
+        "peak-rank": "47",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "48",
+        "song": "Friends",
+        "artist": "Jody Watley With Eric B. & Rakim",
+        "last-week": "33",
+        "peak-rank": "9",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "49",
+        "song": "Don't Shut Me Out",
+        "artist": "Kevin Paige",
+        "last-week": "58",
+        "peak-rank": "49",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "50",
+        "song": "What About Me",
+        "artist": "Moving Pictures",
+        "last-week": "53",
+        "peak-rank": "50",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "51",
+        "song": "Glamour Boys",
+        "artist": "Living Colour",
+        "last-week": "59",
+        "peak-rank": "51",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "52",
+        "song": "Put Your Mouth On Me",
+        "artist": "Eddie Murphy",
+        "last-week": "41",
+        "peak-rank": "27",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "53",
+        "song": "Love Cries",
+        "artist": "Stage Dolls",
+        "last-week": "46",
+        "peak-rank": "46",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "54",
+        "song": "Didn't I (Blow Your Mind)",
+        "artist": "New Kids On The Block",
+        "last-week": "68",
+        "peak-rank": "54",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "55",
+        "song": "Sunshine",
+        "artist": "Dino",
+        "last-week": "66",
+        "peak-rank": "55",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "56",
+        "song": "Lay Down Your Arms",
+        "artist": "The Graces",
+        "last-week": "57",
+        "peak-rank": "56",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "57",
+        "song": "My Heart Skips A Beat",
+        "artist": "The Cover Girls",
+        "last-week": "65",
+        "peak-rank": "57",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "58",
+        "song": "Puss N' Boots/These Boots (Are Made For Walkin')",
+        "artist": "Kon Kan",
+        "last-week": "64",
+        "peak-rank": "58",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "59",
+        "song": "Congratulations",
+        "artist": "Vesta",
+        "last-week": "69",
+        "peak-rank": "59",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "60",
+        "song": "Turned Away",
+        "artist": "Chuckii Booker",
+        "last-week": "49",
+        "peak-rank": "42",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "61",
+        "song": "Need A Little Taste Of Love",
+        "artist": "The Doobie Brothers",
+        "last-week": "45",
+        "peak-rank": "45",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "62",
+        "song": "Batdance (From \"Batman\")",
+        "artist": "Prince",
+        "last-week": "43",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "63",
+        "song": "Talk To Myself",
+        "artist": "Christopher Williams",
+        "last-week": "70",
+        "peak-rank": "63",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "64",
+        "song": "(It's Just) The Way That You Love Me",
+        "artist": "Paula Abdul",
+        "last-week": "",
+        "peak-rank": "64",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "65",
+        "song": "Me So Horny",
+        "artist": "The 2 Live Crew",
+        "last-week": "84",
+        "peak-rank": "65",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "66",
+        "song": "Poison",
+        "artist": "Alice Cooper",
+        "last-week": "",
+        "peak-rank": "66",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "67",
+        "song": "Stand Up",
+        "artist": "Underworld",
+        "last-week": "71",
+        "peak-rank": "67",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "68",
+        "song": "Don't Close Your Eyes",
+        "artist": "KIX",
+        "last-week": "79",
+        "peak-rank": "68",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "69",
+        "song": "Sacred Emotion",
+        "artist": "Donny Osmond",
+        "last-week": "44",
+        "peak-rank": "13",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "70",
+        "song": "Back To Life",
+        "artist": "Soul II Soul",
+        "last-week": "",
+        "peak-rank": "70",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "71",
+        "song": "The Way To Your Heart",
+        "artist": "Soulsister",
+        "last-week": "",
+        "peak-rank": "71",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "72",
+        "song": "If You Don't Know Me By Now",
+        "artist": "Simply Red",
+        "last-week": "55",
+        "peak-rank": "1",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "73",
+        "song": "So Alive",
+        "artist": "Love And Rockets",
+        "last-week": "52",
+        "peak-rank": "3",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "74",
+        "song": "Hey Ladies",
+        "artist": "Beastie Boys",
+        "last-week": "60",
+        "peak-rank": "36",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "75",
+        "song": "Headed For A Heartbreak",
+        "artist": "Winger",
+        "last-week": "61",
+        "peak-rank": "19",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "76",
+        "song": "Toy Soldiers",
+        "artist": "Martika",
+        "last-week": "54",
+        "peak-rank": "1",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "77",
+        "song": "My Fantasy (From \"Do The Right Thing\")",
+        "artist": "Teddy Riley Featuring Guy",
+        "last-week": "",
+        "peak-rank": "77",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "78",
+        "song": "Forget Me Not",
+        "artist": "Bad English",
+        "last-week": "63",
+        "peak-rank": "45",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "79",
+        "song": "Don't Make Me Over",
+        "artist": "Sybil",
+        "last-week": "",
+        "peak-rank": "79",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "80",
+        "song": "We Could Be Together",
+        "artist": "Debbie Gibson",
+        "last-week": "",
+        "peak-rank": "80",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "81",
+        "song": "I Don't Want A Lover",
+        "artist": "Texas",
+        "last-week": "85",
+        "peak-rank": "81",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "82",
+        "song": "I Love The Bass",
+        "artist": "Bardeux",
+        "last-week": "96",
+        "peak-rank": "82",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "83",
+        "song": "Sugar Daddy",
+        "artist": "Thompson Twins",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "84",
+        "song": "Right Back Where We Started From",
+        "artist": "Sinitta",
+        "last-week": "",
+        "peak-rank": "84",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "85",
+        "song": "Love's About to Change My Heart",
+        "artist": "Donna Summer",
+        "last-week": "89",
+        "peak-rank": "85",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "86",
+        "song": "Don't Say You Love Me",
+        "artist": "Billy Squier",
+        "last-week": "77",
+        "peak-rank": "58",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "87",
+        "song": "No Big Deal",
+        "artist": "Love And Rockets",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "88",
+        "song": "Radar Love",
+        "artist": "White Lion",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "89",
+        "song": "Lay All Your Love On Me",
+        "artist": "Information Society",
+        "last-week": "91",
+        "peak-rank": "83",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "90",
+        "song": "When The Radio Is On",
+        "artist": "Paul Shaffer",
+        "last-week": "83",
+        "peak-rank": "81",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "91",
+        "song": "Little Fighter",
+        "artist": "White Lion",
+        "last-week": "76",
+        "peak-rank": "52",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "92",
+        "song": "Hungry",
+        "artist": "Winger",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "93",
+        "song": "On The Line",
+        "artist": "Tangier",
+        "last-week": "75",
+        "peak-rank": "67",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "94",
+        "song": "Smooth Up",
+        "artist": "BulletBoys",
+        "last-week": "88",
+        "peak-rank": "71",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "95",
+        "song": "This One",
+        "artist": "Paul McCartney",
+        "last-week": "94",
+        "peak-rank": "94",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "96",
+        "song": "I'm That Type Of Guy",
+        "artist": "LL Cool J",
+        "last-week": "73",
+        "peak-rank": "15",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "97",
+        "song": "Oh Daddy",
+        "artist": "Adrian Belew",
+        "last-week": "74",
+        "peak-rank": "58",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "98",
+        "song": "The Prisoner",
+        "artist": "Howard Jones",
+        "last-week": "67",
+        "peak-rank": "30",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "99",
+        "song": "Dressed For Success",
+        "artist": "Roxette",
+        "last-week": "90",
+        "peak-rank": "14",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1989-09-23",
+        "rank": "100",
+        "song": "Me Myself And I",
+        "artist": "De La Soul",
+        "last-week": "95",
+        "peak-rank": "34",
+        "weeks-on-board": "17"
+    }
+]

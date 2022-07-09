@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1987-11-14",
+        "rank": "1",
+        "song": "I Think We're Alone Now",
+        "artist": "Tiffany",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "2",
+        "song": "Mony Mony",
+        "artist": "Billy Idol",
+        "last-week": "3",
+        "peak-rank": "2",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "3",
+        "song": "(I've Had) The Time Of My Life",
+        "artist": "Bill Medley & Jennifer Warnes",
+        "last-week": "6",
+        "peak-rank": "3",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "4",
+        "song": "Little Lies",
+        "artist": "Fleetwood Mac",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "5",
+        "song": "Heaven Is A Place On Earth",
+        "artist": "Belinda Carlisle",
+        "last-week": "11",
+        "peak-rank": "5",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "6",
+        "song": "Breakout",
+        "artist": "Swing Out Sister",
+        "last-week": "7",
+        "peak-rank": "6",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "7",
+        "song": "Brilliant Disguise",
+        "artist": "Bruce Springsteen",
+        "last-week": "8",
+        "peak-rank": "7",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "8",
+        "song": "Causing A Commotion",
+        "artist": "Madonna",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "9",
+        "song": "It's A Sin",
+        "artist": "Pet Shop Boys",
+        "last-week": "10",
+        "peak-rank": "9",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "10",
+        "song": "Should've Known Better",
+        "artist": "Richard Marx",
+        "last-week": "14",
+        "peak-rank": "10",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "11",
+        "song": "Bad",
+        "artist": "Michael Jackson",
+        "last-week": "5",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "12",
+        "song": "I've Been In Love Before",
+        "artist": "Cutting Crew",
+        "last-week": "16",
+        "peak-rank": "12",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "13",
+        "song": "Where The Streets Have No Name",
+        "artist": "U2",
+        "last-week": "13",
+        "peak-rank": "13",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "14",
+        "song": "The One I Love",
+        "artist": "R.E.M.",
+        "last-week": "18",
+        "peak-rank": "14",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "15",
+        "song": "I Won't Forget You",
+        "artist": "Poison",
+        "last-week": "19",
+        "peak-rank": "15",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "16",
+        "song": "Let Me Be The One",
+        "artist": "Expose",
+        "last-week": "9",
+        "peak-rank": "7",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "17",
+        "song": "We'll Be Together",
+        "artist": "Sting",
+        "last-week": "20",
+        "peak-rank": "17",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "18",
+        "song": "Shake Your Love",
+        "artist": "Debbie Gibson",
+        "last-week": "24",
+        "peak-rank": "18",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "19",
+        "song": "Faith",
+        "artist": "George Michael",
+        "last-week": "27",
+        "peak-rank": "19",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "20",
+        "song": "Don't Make Me Wait For Love",
+        "artist": "Kenny G. (Vocal By Lenny Williams)",
+        "last-week": "15",
+        "peak-rank": "15",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "21",
+        "song": "Come On, Let's Go",
+        "artist": "Los Lobos",
+        "last-week": "21",
+        "peak-rank": "21",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "22",
+        "song": "Hourglass",
+        "artist": "Squeeze",
+        "last-week": "23",
+        "peak-rank": "22",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "23",
+        "song": "Don't You Want Me",
+        "artist": "Jody Watley",
+        "last-week": "26",
+        "peak-rank": "23",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "24",
+        "song": "Casanova",
+        "artist": "Levert",
+        "last-week": "12",
+        "peak-rank": "5",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "25",
+        "song": "Is This Love",
+        "artist": "Whitesnake",
+        "last-week": "30",
+        "peak-rank": "25",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "26",
+        "song": "Boys Night Out",
+        "artist": "Timothy B. Schmit",
+        "last-week": "25",
+        "peak-rank": "25",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "27",
+        "song": "Catch Me (I'm Falling) (From The Film \"Hiding Out\")",
+        "artist": "Pretty Poison",
+        "last-week": "29",
+        "peak-rank": "27",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "28",
+        "song": "Skeletons",
+        "artist": "Stevie Wonder",
+        "last-week": "32",
+        "peak-rank": "28",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "29",
+        "song": "So Emotional",
+        "artist": "Whitney Houston",
+        "last-week": "38",
+        "peak-rank": "29",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "30",
+        "song": "U Got The Look",
+        "artist": "Prince",
+        "last-week": "17",
+        "peak-rank": "2",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "31",
+        "song": "Valerie",
+        "artist": "Steve Winwood",
+        "last-week": "35",
+        "peak-rank": "31",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "32",
+        "song": "That's What Love Is All About",
+        "artist": "Michael Bolton",
+        "last-week": "40",
+        "peak-rank": "32",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "33",
+        "song": "Dude (Looks Like A Lady)",
+        "artist": "Aerosmith",
+        "last-week": "41",
+        "peak-rank": "33",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "34",
+        "song": "Love Will Find A Way",
+        "artist": "Yes",
+        "last-week": "37",
+        "peak-rank": "34",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "35",
+        "song": "Sugar Free",
+        "artist": "Wa Wa Nee",
+        "last-week": "36",
+        "peak-rank": "35",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "36",
+        "song": "Lost In Emotion",
+        "artist": "Lisa Lisa And Cult Jam",
+        "last-week": "22",
+        "peak-rank": "1",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "37",
+        "song": "I Do You",
+        "artist": "The Jets",
+        "last-week": "42",
+        "peak-rank": "37",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "38",
+        "song": "Got My Mind Set On You",
+        "artist": "George Harrison",
+        "last-week": "44",
+        "peak-rank": "38",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "39",
+        "song": "Tell It To My Heart(Dub)",
+        "artist": "Taylor Dayne",
+        "last-week": "43",
+        "peak-rank": "39",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "40",
+        "song": "Cherry Bomb",
+        "artist": "John Mellencamp",
+        "last-week": "50",
+        "peak-rank": "40",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "41",
+        "song": "Here I Go Again",
+        "artist": "Whitesnake",
+        "last-week": "28",
+        "peak-rank": "1",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "42",
+        "song": "Animal",
+        "artist": "Def Leppard",
+        "last-week": "48",
+        "peak-rank": "42",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "43",
+        "song": "In My Dreams",
+        "artist": "REO Speedwagon",
+        "last-week": "31",
+        "peak-rank": "19",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "44",
+        "song": "Need You Tonight",
+        "artist": "INXS",
+        "last-week": "54",
+        "peak-rank": "44",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "45",
+        "song": "Carrie",
+        "artist": "Europe",
+        "last-week": "34",
+        "peak-rank": "3",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "46",
+        "song": "Who Will You Run To",
+        "artist": "Heart",
+        "last-week": "39",
+        "peak-rank": "7",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "47",
+        "song": "Silent Morning",
+        "artist": "Noel",
+        "last-week": "53",
+        "peak-rank": "47",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "48",
+        "song": "Beat Patrol",
+        "artist": "Starship",
+        "last-week": "46",
+        "peak-rank": "46",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "49",
+        "song": "Candle In The Wind",
+        "artist": "Elton John",
+        "last-week": "68",
+        "peak-rank": "49",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "50",
+        "song": "I Don't Mind At All",
+        "artist": "Bourgeois Tagg",
+        "last-week": "55",
+        "peak-rank": "50",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "51",
+        "song": "There's The Girl",
+        "artist": "Heart",
+        "last-week": "70",
+        "peak-rank": "51",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "52",
+        "song": "You Are The Girl",
+        "artist": "The Cars",
+        "last-week": "33",
+        "peak-rank": "17",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "53",
+        "song": "Just Like Heaven",
+        "artist": "The Cure",
+        "last-week": "58",
+        "peak-rank": "53",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "54",
+        "song": "Power Of Love",
+        "artist": "Laura Branigan",
+        "last-week": "60",
+        "peak-rank": "54",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "55",
+        "song": "True Faith",
+        "artist": "New Order",
+        "last-week": "67",
+        "peak-rank": "55",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "56",
+        "song": "Crazy",
+        "artist": "Icehouse",
+        "last-week": "64",
+        "peak-rank": "56",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "57",
+        "song": "Holiday",
+        "artist": "The Other Ones",
+        "last-week": "45",
+        "peak-rank": "29",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "58",
+        "song": "Motortown",
+        "artist": "The Kane Gang",
+        "last-week": "66",
+        "peak-rank": "58",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "59",
+        "song": "I Heard A Rumour (From \"Disorderlies\")",
+        "artist": "Bananarama",
+        "last-week": "51",
+        "peak-rank": "4",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "60",
+        "song": "No One In The World",
+        "artist": "Anita Baker",
+        "last-week": "57",
+        "peak-rank": "44",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "61",
+        "song": "Paper In Fire",
+        "artist": "John Mellencamp",
+        "last-week": "47",
+        "peak-rank": "9",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "62",
+        "song": "Pop Goes The World",
+        "artist": "Men Without Hats",
+        "last-week": "78",
+        "peak-rank": "62",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "63",
+        "song": "Reservations For Two",
+        "artist": "Dionne & Kashif",
+        "last-week": "76",
+        "peak-rank": "63",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "64",
+        "song": "(Baby Tell Me) Can You Dance",
+        "artist": "Shanice Wilson",
+        "last-week": "81",
+        "peak-rank": "64",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "65",
+        "song": "Satellite",
+        "artist": "Hooters",
+        "last-week": "63",
+        "peak-rank": "61",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "66",
+        "song": "I Live For Your Love",
+        "artist": "Natalie Cole",
+        "last-week": "90",
+        "peak-rank": "66",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "67",
+        "song": "Hungry Eyes (From \"Dirty Dancing\")",
+        "artist": "Eric Carmen",
+        "last-week": "88",
+        "peak-rank": "67",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "68",
+        "song": "Kick The Wall",
+        "artist": "Jimmy Davis & Junction",
+        "last-week": "79",
+        "peak-rank": "68",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "69",
+        "song": "Waterfall",
+        "artist": "Wendy And Lisa",
+        "last-week": "56",
+        "peak-rank": "56",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "70",
+        "song": "If You Let Me Stay",
+        "artist": "Terence Trent D'Arby",
+        "last-week": "80",
+        "peak-rank": "70",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "71",
+        "song": "Crazy World",
+        "artist": "Big Trouble",
+        "last-week": "75",
+        "peak-rank": "71",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "72",
+        "song": "Don't Shed A Tear",
+        "artist": "Paul Carrack",
+        "last-week": "",
+        "peak-rank": "72",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "73",
+        "song": "Hazy Shade Of Winter",
+        "artist": "The Bangles",
+        "last-week": "",
+        "peak-rank": "73",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "74",
+        "song": "We've Only Just Begun (The Romance Is Not Over)",
+        "artist": "Glenn Jones",
+        "last-week": "82",
+        "peak-rank": "74",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "75",
+        "song": "Special Way",
+        "artist": "Kool & The Gang",
+        "last-week": "74",
+        "peak-rank": "72",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "76",
+        "song": "System Of Survival",
+        "artist": "Earth, Wind & Fire",
+        "last-week": "84",
+        "peak-rank": "76",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "77",
+        "song": "Jump Start",
+        "artist": "Natalie Cole",
+        "last-week": "62",
+        "peak-rank": "13",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "78",
+        "song": "Honestly",
+        "artist": "Stryper",
+        "last-week": "93",
+        "peak-rank": "78",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "79",
+        "song": "Didn't We Almost Have It All",
+        "artist": "Whitney Houston",
+        "last-week": "52",
+        "peak-rank": "1",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "80",
+        "song": "Sweet Rachel",
+        "artist": "Beau Coup",
+        "last-week": "85",
+        "peak-rank": "80",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "81",
+        "song": "I Could Never Take The Place Of Your Man",
+        "artist": "Prince",
+        "last-week": "",
+        "peak-rank": "81",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "82",
+        "song": "One Heartbeat",
+        "artist": "Smokey Robinson",
+        "last-week": "61",
+        "peak-rank": "10",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "83",
+        "song": "Guaranteed For Life",
+        "artist": "Millions Like Us",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "84",
+        "song": "Learning To Fly",
+        "artist": "Pink Floyd",
+        "last-week": "71",
+        "peak-rank": "70",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "85",
+        "song": "The Real Thing",
+        "artist": "Jellybean Featuring Steven Dante",
+        "last-week": "92",
+        "peak-rank": "85",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "86",
+        "song": "Eagles Fly",
+        "artist": "Sammy Hagar",
+        "last-week": "83",
+        "peak-rank": "82",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "87",
+        "song": "Rock Me",
+        "artist": "Great White",
+        "last-week": "89",
+        "peak-rank": "60",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "88",
+        "song": "I Want To Be Your Man",
+        "artist": "Roger",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "89",
+        "song": "Notorious",
+        "artist": "Loverboy",
+        "last-week": "77",
+        "peak-rank": "38",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "90",
+        "song": "What's Too Much",
+        "artist": "Smokey Robinson",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "91",
+        "song": "Only In My Dreams",
+        "artist": "Debbie Gibson",
+        "last-week": "65",
+        "peak-rank": "4",
+        "weeks-on-board": "28"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "92",
+        "song": "Someone To Love Me For Me",
+        "artist": "Lisa Lisa And Cult Jam Featuring Full Force",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "93",
+        "song": "Can't We Try",
+        "artist": "Dan Hill (Duet With Vonda Shepard)",
+        "last-week": "73",
+        "peak-rank": "6",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "94",
+        "song": "Strap Me In",
+        "artist": "The Cars",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "95",
+        "song": "Betcha Say That",
+        "artist": "Gloria Estefan & Miami Sound Machine",
+        "last-week": "49",
+        "peak-rank": "36",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "96",
+        "song": "Love Is Contagious",
+        "artist": "Taja Sevelle",
+        "last-week": "86",
+        "peak-rank": "62",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "97",
+        "song": "Criticize",
+        "artist": "Alexander O'Neal",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "98",
+        "song": "Follow You",
+        "artist": "Glen Burtnick",
+        "last-week": "72",
+        "peak-rank": "65",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "99",
+        "song": "La Bamba",
+        "artist": "Los Lobos",
+        "last-week": "69",
+        "peak-rank": "1",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1987-11-14",
+        "rank": "100",
+        "song": "Wipeout",
+        "artist": "Fat Boys & The Beach Boys",
+        "last-week": "59",
+        "peak-rank": "12",
+        "weeks-on-board": "19"
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "date": "2017-06-17",
+        "rank": "1",
+        "song": "Despacito",
+        "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "2",
+        "song": "That's What I Like",
+        "artist": "Bruno Mars",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "3",
+        "song": "I'm The One",
+        "artist": "DJ Khaled Featuring Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "4",
+        "song": "Humble.",
+        "artist": "Kendrick Lamar",
+        "last-week": "4",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "5",
+        "song": "Shape Of You",
+        "artist": "Ed Sheeran",
+        "last-week": "5",
+        "peak-rank": "1",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "6",
+        "song": "Mask Off",
+        "artist": "Future",
+        "last-week": "6",
+        "peak-rank": "5",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "7",
+        "song": "Stay",
+        "artist": "Zedd & Alessia Cara",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "8",
+        "song": "Something Just Like This",
+        "artist": "The Chainsmokers & Coldplay",
+        "last-week": "8",
+        "peak-rank": "3",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "9",
+        "song": "XO TOUR Llif3",
+        "artist": "Lil Uzi Vert",
+        "last-week": "9",
+        "peak-rank": "8",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "10",
+        "song": "Congratulations",
+        "artist": "Post Malone Featuring Quavo",
+        "last-week": "13",
+        "peak-rank": "10",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "11",
+        "song": "Issues",
+        "artist": "Julia Michaels",
+        "last-week": "11",
+        "peak-rank": "11",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "12",
+        "song": "Say You Won't Let Go",
+        "artist": "James Arthur",
+        "last-week": "12",
+        "peak-rank": "11",
+        "weeks-on-board": "32"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "13",
+        "song": "It Ain't Me",
+        "artist": "Kygo x Selena Gomez",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "14",
+        "song": "Body Like A Back Road",
+        "artist": "Sam Hunt",
+        "last-week": "14",
+        "peak-rank": "6",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "15",
+        "song": "Believer",
+        "artist": "Imagine Dragons",
+        "last-week": "15",
+        "peak-rank": "15",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "16",
+        "song": "iSpy",
+        "artist": "KYLE Featuring Lil Yachty",
+        "last-week": "16",
+        "peak-rank": "4",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "17",
+        "song": "Redbone",
+        "artist": "Childish Gambino",
+        "last-week": "22",
+        "peak-rank": "17",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "18",
+        "song": "Unforgettable",
+        "artist": "French Montana Featuring Swae Lee",
+        "last-week": "23",
+        "peak-rank": "18",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "19",
+        "song": "In Case You Didn't Know",
+        "artist": "Brett Young",
+        "last-week": "19",
+        "peak-rank": "19",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "20",
+        "song": "Rolex",
+        "artist": "Ayo & Teo",
+        "last-week": "31",
+        "peak-rank": "20",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "21",
+        "song": "Malibu",
+        "artist": "Miley Cyrus",
+        "last-week": "18",
+        "peak-rank": "10",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "22",
+        "song": "There's Nothing Holdin' Me Back",
+        "artist": "Shawn Mendes",
+        "last-week": "25",
+        "peak-rank": "22",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "23",
+        "song": "Location",
+        "artist": "Khalid",
+        "last-week": "21",
+        "peak-rank": "16",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "24",
+        "song": "Sign Of The Times",
+        "artist": "Harry Styles",
+        "last-week": "17",
+        "peak-rank": "4",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "25",
+        "song": "DNA.",
+        "artist": "Kendrick Lamar",
+        "last-week": "20",
+        "peak-rank": "4",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "26",
+        "song": "Now Or Never",
+        "artist": "Halsey",
+        "last-week": "26",
+        "peak-rank": "26",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "27",
+        "song": "Passionfruit",
+        "artist": "Drake",
+        "last-week": "24",
+        "peak-rank": "8",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "28",
+        "song": "Castle On The Hill",
+        "artist": "Ed Sheeran",
+        "last-week": "30",
+        "peak-rank": "6",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "29",
+        "song": "Bad And Boujee",
+        "artist": "Migos Featuring Lil Uzi Vert",
+        "last-week": "28",
+        "peak-rank": "1",
+        "weeks-on-board": "29"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "30",
+        "song": "Slide",
+        "artist": "Calvin Harris Featuring Frank Ocean & Migos",
+        "last-week": "29",
+        "peak-rank": "25",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "31",
+        "song": "Swalla",
+        "artist": "Jason Derulo Featuring Nicki Minaj & Ty Dolla $ign",
+        "last-week": "33",
+        "peak-rank": "31",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "32",
+        "song": "Closer",
+        "artist": "The Chainsmokers Featuring Halsey",
+        "last-week": "32",
+        "peak-rank": "1",
+        "weeks-on-board": "44"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "33",
+        "song": "Slow Hands",
+        "artist": "Niall Horan",
+        "last-week": "52",
+        "peak-rank": "33",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "34",
+        "song": "Tunnel Vision",
+        "artist": "Kodak Black",
+        "last-week": "34",
+        "peak-rank": "6",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "35",
+        "song": "Goosebumps",
+        "artist": "Travis Scott",
+        "last-week": "36",
+        "peak-rank": "32",
+        "weeks-on-board": "29"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "36",
+        "song": "T-Shirt",
+        "artist": "Migos",
+        "last-week": "37",
+        "peak-rank": "19",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "37",
+        "song": "Attention",
+        "artist": "Charlie Puth",
+        "last-week": "35",
+        "peak-rank": "35",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "38",
+        "song": "24K Magic",
+        "artist": "Bruno Mars",
+        "last-week": "38",
+        "peak-rank": "4",
+        "weeks-on-board": "34"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "39",
+        "song": "Hurricane",
+        "artist": "Luke Combs",
+        "last-week": "40",
+        "peak-rank": "31",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "40",
+        "song": "Swang",
+        "artist": "Rae Sremmurd",
+        "last-week": "39",
+        "peak-rank": "26",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "41",
+        "song": "Drowning",
+        "artist": "A Boogie Wit da Hoodie Featuring Kodak Black",
+        "last-week": "48",
+        "peak-rank": "41",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "42",
+        "song": "Scars To Your Beautiful",
+        "artist": "Alessia Cara",
+        "last-week": "45",
+        "peak-rank": "8",
+        "weeks-on-board": "40"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "43",
+        "song": "Rockabye",
+        "artist": "Clean Bandit Featuring Sean Paul & Anne-Marie",
+        "last-week": "41",
+        "peak-rank": "9",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "44",
+        "song": "Slippery",
+        "artist": "Migos Featuring Gucci Mane",
+        "last-week": "51",
+        "peak-rank": "44",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "45",
+        "song": "Bad Liar",
+        "artist": "Selena Gomez",
+        "last-week": "27",
+        "peak-rank": "27",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "46",
+        "song": "Paris",
+        "artist": "The Chainsmokers",
+        "last-week": "53",
+        "peak-rank": "6",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "47",
+        "song": "Everyday We Lit",
+        "artist": "YFN Lucci Featuring PnB Rock",
+        "last-week": "59",
+        "peak-rank": "47",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "48",
+        "song": "Cold",
+        "artist": "Maroon 5 Featuring Future",
+        "last-week": "44",
+        "peak-rank": "16",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "49",
+        "song": "Magnolia",
+        "artist": "Playboi Carti",
+        "last-week": "58",
+        "peak-rank": "49",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "50",
+        "song": "Look At Me!",
+        "artist": "XXXTENTACION",
+        "last-week": "49",
+        "peak-rank": "34",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "51",
+        "song": "The Cure",
+        "artist": "Lady Gaga",
+        "last-week": "57",
+        "peak-rank": "39",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "52",
+        "song": "God, Your Mama, And Me",
+        "artist": "Florida Georgia Line Featuring Backstreet Boys",
+        "last-week": "60",
+        "peak-rank": "52",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "53",
+        "song": "If I Told You",
+        "artist": "Darius Rucker",
+        "last-week": "55",
+        "peak-rank": "53",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "54",
+        "song": "Love.",
+        "artist": "Kendrick Lamar Featuring Zacari",
+        "last-week": "54",
+        "peak-rank": "18",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "55",
+        "song": "The Fighter",
+        "artist": "Keith Urban Featuring Carrie Underwood",
+        "last-week": "62",
+        "peak-rank": "38",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "56",
+        "song": "Black",
+        "artist": "Dierks Bentley",
+        "last-week": "56",
+        "peak-rank": "56",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "57",
+        "song": "First Day Out",
+        "artist": "Tee Grizzley",
+        "last-week": "64",
+        "peak-rank": "57",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "58",
+        "song": "Heavy",
+        "artist": "Linkin Park Featuring Kiiara",
+        "last-week": "50",
+        "peak-rank": "50",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "59",
+        "song": "Craving You",
+        "artist": "Thomas Rhett Featuring Maren Morris",
+        "last-week": "65",
+        "peak-rank": "53",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "60",
+        "song": "Portland",
+        "artist": "Drake Featuring Quavo & Travis Scott",
+        "last-week": "61",
+        "peak-rank": "9",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "61",
+        "song": "Crying In The Club",
+        "artist": "Camila Cabello",
+        "last-week": "47",
+        "peak-rank": "47",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "62",
+        "song": "1-800-273-8255",
+        "artist": "Logic Featuring Alessia Cara & Khalid",
+        "last-week": "63",
+        "peak-rank": "47",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "63",
+        "song": "How Not To",
+        "artist": "Dan + Shay",
+        "last-week": "68",
+        "peak-rank": "63",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "64",
+        "song": "My Girl",
+        "artist": "Dylan Scott",
+        "last-week": "73",
+        "peak-rank": "64",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "65",
+        "song": "Strip That Down",
+        "artist": "Liam Payne Featuring Quavo",
+        "last-week": "42",
+        "peak-rank": "42",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "66",
+        "song": "Privacy",
+        "artist": "Chris Brown",
+        "last-week": "72",
+        "peak-rank": "66",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "67",
+        "song": "Every Time I Hear That Song",
+        "artist": "Blake Shelton",
+        "last-week": "75",
+        "peak-rank": "67",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "68",
+        "song": "You Look Good",
+        "artist": "Lady Antebellum",
+        "last-week": "71",
+        "peak-rank": "60",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "69",
+        "song": "Losin Control",
+        "artist": "Russ",
+        "last-week": "69",
+        "peak-rank": "62",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "70",
+        "song": "Felices Los 4",
+        "artist": "Maluma",
+        "last-week": "90",
+        "peak-rank": "70",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "71",
+        "song": "Drinkin' Problem",
+        "artist": "Midland",
+        "last-week": "78",
+        "peak-rank": "71",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "72",
+        "song": "Loyalty.",
+        "artist": "Kendrick Lamar Featuring Rihanna",
+        "last-week": "70",
+        "peak-rank": "14",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "73",
+        "song": "Flatliner",
+        "artist": "Cole Swindell",
+        "last-week": "81",
+        "peak-rank": "73",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "74",
+        "song": "Somethin Tells Me",
+        "artist": "Bryson Tiller",
+        "last-week": "",
+        "peak-rank": "74",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "75",
+        "song": "Most Girls",
+        "artist": "Hailee Steinfeld",
+        "last-week": "77",
+        "peak-rank": "75",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "76",
+        "song": "Yours If You Want It",
+        "artist": "Rascal Flatts",
+        "last-week": "76",
+        "peak-rank": "76",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "77",
+        "song": "No Promises",
+        "artist": "Cheat Codes Featuring Demi Lovato",
+        "last-week": "74",
+        "peak-rank": "74",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "78",
+        "song": "Swish Swish",
+        "artist": "Katy Perry Featuring Nicki Minaj",
+        "last-week": "46",
+        "peak-rank": "46",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "79",
+        "song": "Gyalchester",
+        "artist": "Drake",
+        "last-week": "84",
+        "peak-rank": "29",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "80",
+        "song": "Peek A Boo",
+        "artist": "Lil Yachty Featuring Migos",
+        "last-week": "",
+        "peak-rank": "78",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "81",
+        "song": "Thunder",
+        "artist": "Imagine Dragons",
+        "last-week": "82",
+        "peak-rank": "70",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "82",
+        "song": "Wokeuplikethis*",
+        "artist": "Playboi Carti Featuring Lil Uzi Vert",
+        "last-week": "79",
+        "peak-rank": "76",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "83",
+        "song": "Me Enamore",
+        "artist": "Shakira",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "84",
+        "song": "Scared To Be Lonely",
+        "artist": "Martin Garrix & Dua Lipa",
+        "last-week": "80",
+        "peak-rank": "76",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "85",
+        "song": "Self-Made",
+        "artist": "Bryson Tiller",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "86",
+        "song": "Weak",
+        "artist": "AJR",
+        "last-week": "96",
+        "peak-rank": "86",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "87",
+        "song": "Good Drank",
+        "artist": "2 Chainz x Gucci Mane x Quavo",
+        "last-week": "88",
+        "peak-rank": "82",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "88",
+        "song": "Met Gala",
+        "artist": "Gucci Mane Featuring Offset",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "89",
+        "song": "Don't Get Too High",
+        "artist": "Bryson Tiller",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "90",
+        "song": "No Such Thing As A Broken Heart",
+        "artist": "Old Dominion",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "91",
+        "song": "Run Me Dry",
+        "artist": "Bryson Tiller",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "92",
+        "song": "Human",
+        "artist": "Rag'n'Bone Man",
+        "last-week": "89",
+        "peak-rank": "74",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "93",
+        "song": "Hometown Girl",
+        "artist": "Josh Turner",
+        "last-week": "85",
+        "peak-rank": "56",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "94",
+        "song": "There For You",
+        "artist": "Martin Garrix x Troye Sivan",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "95",
+        "song": "Do Re Mi",
+        "artist": "blackbear",
+        "last-week": "93",
+        "peak-rank": "87",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "96",
+        "song": "Bon Appetit",
+        "artist": "Katy Perry Featuring Migos",
+        "last-week": "67",
+        "peak-rank": "59",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "97",
+        "song": "Element.",
+        "artist": "Kendrick Lamar",
+        "last-week": "83",
+        "peak-rank": "16",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "98",
+        "song": "No Longer Friends",
+        "artist": "Bryson Tiller",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "99",
+        "song": "Butterfly Effect",
+        "artist": "Travis Scott",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2017-06-17",
+        "rank": "100",
+        "song": "Strangers",
+        "artist": "Halsey Featuring Lauren Jauregui",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

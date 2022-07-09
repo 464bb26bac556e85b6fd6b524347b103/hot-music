@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1987-06-20",
+        "rank": "1",
+        "song": "Head To Toe",
+        "artist": "Lisa Lisa And Cult Jam",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "2",
+        "song": "Always",
+        "artist": "Atlantic Starr",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "3",
+        "song": "I Wanna Dance With Somebody (Who Loves Me)",
+        "artist": "Whitney Houston",
+        "last-week": "5",
+        "peak-rank": "3",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "4",
+        "song": "In Too Deep",
+        "artist": "Genesis",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "5",
+        "song": "Diamonds",
+        "artist": "Herb Alpert",
+        "last-week": "8",
+        "peak-rank": "5",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "6",
+        "song": "Alone",
+        "artist": "Heart",
+        "last-week": "12",
+        "peak-rank": "6",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "7",
+        "song": "Wanted Dead Or Alive",
+        "artist": "Bon Jovi",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "8",
+        "song": "You Keep Me Hangin' On",
+        "artist": "Kim Wilde",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "9",
+        "song": "Songbird",
+        "artist": "Kenny G",
+        "last-week": "13",
+        "peak-rank": "9",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "10",
+        "song": "Just To See Her",
+        "artist": "Smokey Robinson",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "11",
+        "song": "Meet Me Half Way",
+        "artist": "Kenny Loggins",
+        "last-week": "11",
+        "peak-rank": "11",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "12",
+        "song": "Shakedown (From \"Beverly Hills Cop II\")",
+        "artist": "Bob Seger",
+        "last-week": "19",
+        "peak-rank": "12",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "13",
+        "song": "Lessons In Love",
+        "artist": "Level 42",
+        "last-week": "14",
+        "peak-rank": "13",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "14",
+        "song": "Don't Disturb This Groove",
+        "artist": "The System",
+        "last-week": "16",
+        "peak-rank": "14",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "15",
+        "song": "The Lady In Red",
+        "artist": "Chris de Burgh",
+        "last-week": "6",
+        "peak-rank": "3",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "16",
+        "song": "Point Of No Return",
+        "artist": "Expose",
+        "last-week": "22",
+        "peak-rank": "16",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "17",
+        "song": "Something So Strong",
+        "artist": "Crowded House",
+        "last-week": "23",
+        "peak-rank": "17",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "18",
+        "song": "Jammin' Me",
+        "artist": "Tom Petty And The Heartbreakers",
+        "last-week": "20",
+        "peak-rank": "18",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "19",
+        "song": "Funkytown",
+        "artist": "Pseudo Echo",
+        "last-week": "28",
+        "peak-rank": "19",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "20",
+        "song": "With or Without You",
+        "artist": "U2",
+        "last-week": "9",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "21",
+        "song": "Every Little Kiss",
+        "artist": "Bruce Hornsby & The Range",
+        "last-week": "26",
+        "peak-rank": "21",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "22",
+        "song": "Fascinated",
+        "artist": "Company B",
+        "last-week": "21",
+        "peak-rank": "21",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "23",
+        "song": "Sweet Sixteen",
+        "artist": "Billy Idol",
+        "last-week": "31",
+        "peak-rank": "23",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "24",
+        "song": "Nothing's Gonna Change My Love For You",
+        "artist": "Glenn Medeiros",
+        "last-week": "15",
+        "peak-rank": "12",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "25",
+        "song": "Endless Nights",
+        "artist": "Eddie Money",
+        "last-week": "30",
+        "peak-rank": "25",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "26",
+        "song": "Girls, Girls, Girls",
+        "artist": "Motley Crue",
+        "last-week": "35",
+        "peak-rank": "26",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "27",
+        "song": "Heart And Soul",
+        "artist": "T'Pau",
+        "last-week": "34",
+        "peak-rank": "27",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "28",
+        "song": "Rhythm Is Gonna Get You",
+        "artist": "Gloria Estefan & Miami Sound Machine",
+        "last-week": "40",
+        "peak-rank": "28",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "29",
+        "song": "Soul City",
+        "artist": "Partland Brothers",
+        "last-week": "36",
+        "peak-rank": "29",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "30",
+        "song": "Rock The Night",
+        "artist": "Europe",
+        "last-week": "37",
+        "peak-rank": "30",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "31",
+        "song": "Right On Track",
+        "artist": "The Breakfast Club",
+        "last-week": "17",
+        "peak-rank": "7",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "32",
+        "song": "Kiss Him Goodbye",
+        "artist": "The Nylons",
+        "last-week": "39",
+        "peak-rank": "32",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "33",
+        "song": "I'll Still Be Loving You",
+        "artist": "Restless Heart",
+        "last-week": "33",
+        "peak-rank": "33",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "34",
+        "song": "I'd Still Say Yes",
+        "artist": "Klymaxx",
+        "last-week": "41",
+        "peak-rank": "34",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "35",
+        "song": "The Pleasure Principle",
+        "artist": "Janet Jackson",
+        "last-week": "43",
+        "peak-rank": "35",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "36",
+        "song": "I Want Your Sex (From \"Beverly Hills Cop II\")",
+        "artist": "George Michael",
+        "last-week": "47",
+        "peak-rank": "36",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "37",
+        "song": "Big Love",
+        "artist": "Fleetwood Mac",
+        "last-week": "18",
+        "peak-rank": "5",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "38",
+        "song": "I Still Haven't Found What I'm Looking For",
+        "artist": "U2",
+        "last-week": "51",
+        "peak-rank": "38",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "39",
+        "song": "Happy",
+        "artist": "Surface",
+        "last-week": "44",
+        "peak-rank": "39",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "40",
+        "song": "Looking For A New Love",
+        "artist": "Jody Watley",
+        "last-week": "27",
+        "peak-rank": "2",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "41",
+        "song": "If She Would Have Been Faithful. . .",
+        "artist": "Chicago",
+        "last-week": "24",
+        "peak-rank": "17",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "42",
+        "song": "(I Just) Died In Your Arms",
+        "artist": "Cutting Crew",
+        "last-week": "32",
+        "peak-rank": "1",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "43",
+        "song": "Wot's It To Ya",
+        "artist": "Robbie Nevil",
+        "last-week": "48",
+        "peak-rank": "43",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "44",
+        "song": "Flames Of Paradise",
+        "artist": "Jennifer Rush (Duet With Elton John)",
+        "last-week": "46",
+        "peak-rank": "44",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "45",
+        "song": "Cross My Broken Heart (From \"Beverly Hills Cop II\")",
+        "artist": "The Jets",
+        "last-week": "50",
+        "peak-rank": "45",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "46",
+        "song": "Only In My Dreams",
+        "artist": "Debbie Gibson",
+        "last-week": "52",
+        "peak-rank": "46",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "47",
+        "song": "I Know What I Like",
+        "artist": "Huey Lewis & The News",
+        "last-week": "25",
+        "peak-rank": "9",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "48",
+        "song": "Back In The High Life Again",
+        "artist": "Steve Winwood",
+        "last-week": "53",
+        "peak-rank": "48",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "49",
+        "song": "Heat Of The Night",
+        "artist": "Bryan Adams",
+        "last-week": "29",
+        "peak-rank": "6",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "50",
+        "song": "Moonlighting (Theme)",
+        "artist": "Al Jarreau",
+        "last-week": "56",
+        "peak-rank": "50",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "51",
+        "song": "Hearts On Fire",
+        "artist": "Bryan Adams",
+        "last-week": "71",
+        "peak-rank": "51",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "52",
+        "song": "Seven Wonders",
+        "artist": "Fleetwood Mac",
+        "last-week": "",
+        "peak-rank": "52",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "53",
+        "song": "One For The Mockingbird",
+        "artist": "Cutting Crew",
+        "last-week": "59",
+        "peak-rank": "53",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "54",
+        "song": "Ready Or Not",
+        "artist": "Lou Gramm",
+        "last-week": "54",
+        "peak-rank": "54",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "55",
+        "song": "Wild Horses",
+        "artist": "Gino Vannelli",
+        "last-week": "55",
+        "peak-rank": "55",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "56",
+        "song": "La Isla Bonita",
+        "artist": "Madonna",
+        "last-week": "38",
+        "peak-rank": "4",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "57",
+        "song": "Rock Steady",
+        "artist": "The Whispers",
+        "last-week": "63",
+        "peak-rank": "57",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "58",
+        "song": "Why You Treat Me So Bad",
+        "artist": "Club Nouveau",
+        "last-week": "61",
+        "peak-rank": "58",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "59",
+        "song": "Luka",
+        "artist": "Suzanne Vega",
+        "last-week": "76",
+        "peak-rank": "59",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "60",
+        "song": "Don't Mean Nothing",
+        "artist": "Richard Marx",
+        "last-week": "78",
+        "peak-rank": "60",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "61",
+        "song": "Give Me All Night",
+        "artist": "Carly Simon",
+        "last-week": "62",
+        "peak-rank": "61",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "62",
+        "song": "Why Should I Cry?",
+        "artist": "Nona Hendryx",
+        "last-week": "58",
+        "peak-rank": "58",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "63",
+        "song": "Hypnotize Me (From \"Innerspace\")",
+        "artist": "Wang Chung",
+        "last-week": "70",
+        "peak-rank": "63",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "64",
+        "song": "You Can Call Me Al",
+        "artist": "Paul Simon",
+        "last-week": "42",
+        "peak-rank": "23",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "65",
+        "song": "Weapons Of Love",
+        "artist": "The Truth",
+        "last-week": "68",
+        "peak-rank": "65",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "66",
+        "song": "Since You've Been Gone",
+        "artist": "The Outfield",
+        "last-week": "80",
+        "peak-rank": "66",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "67",
+        "song": "If I Was Your Girlfriend",
+        "artist": "Prince",
+        "last-week": "69",
+        "peak-rank": "67",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "68",
+        "song": "Talk Dirty To Me",
+        "artist": "Poison",
+        "last-week": "45",
+        "peak-rank": "9",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "69",
+        "song": "Give To Live",
+        "artist": "Sammy Hagar",
+        "last-week": "",
+        "peak-rank": "69",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "70",
+        "song": "Variety Tonight",
+        "artist": "REO Speedwagon",
+        "last-week": "64",
+        "peak-rank": "60",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "71",
+        "song": "Boy Blue",
+        "artist": "Cyndi Lauper",
+        "last-week": "82",
+        "peak-rank": "71",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "72",
+        "song": "Can't We Try",
+        "artist": "Dan Hill (Duet With Vonda Shepard)",
+        "last-week": "83",
+        "peak-rank": "72",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "73",
+        "song": "Primitive Love Rites",
+        "artist": "Mondo Rock",
+        "last-week": "72",
+        "peak-rank": "71",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "74",
+        "song": "Show Me",
+        "artist": "The Cover Girls",
+        "last-week": "74",
+        "peak-rank": "44",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "75",
+        "song": "Don't Dream It's Over",
+        "artist": "Crowded House",
+        "last-week": "57",
+        "peak-rank": "2",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "76",
+        "song": "The Finer Things",
+        "artist": "Steve Winwood",
+        "last-week": "60",
+        "peak-rank": "8",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "77",
+        "song": "Under The Boardwalk",
+        "artist": "Bruce Willis",
+        "last-week": "89",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "78",
+        "song": "Nothing's Gonna Stop Us Now",
+        "artist": "Starship",
+        "last-week": "67",
+        "peak-rank": "1",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "79",
+        "song": "Why Can't This Night Go On Forever",
+        "artist": "Journey",
+        "last-week": "79",
+        "peak-rank": "60",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "80",
+        "song": "Mary's Prayer",
+        "artist": "Danny Wilson",
+        "last-week": "86",
+        "peak-rank": "80",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "81",
+        "song": "I Want Action",
+        "artist": "Poison",
+        "last-week": "90",
+        "peak-rank": "81",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "82",
+        "song": "Day-In Day-Out",
+        "artist": "David Bowie",
+        "last-week": "49",
+        "peak-rank": "21",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "83",
+        "song": "That's Freedom",
+        "artist": "Tom Kimmel",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "84",
+        "song": "Still Of The Night",
+        "artist": "Whitesnake",
+        "last-week": "92",
+        "peak-rank": "84",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "85",
+        "song": "Living In A Box",
+        "artist": "Living In A Box",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "86",
+        "song": "She Don't Look Back",
+        "artist": "Dan Fogelberg",
+        "last-week": "84",
+        "peak-rank": "84",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "87",
+        "song": "Can't Get Started",
+        "artist": "Peter Wolf",
+        "last-week": "75",
+        "peak-rank": "75",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "88",
+        "song": "Still A Thrill",
+        "artist": "Jody Watley",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "89",
+        "song": "Want You For My Girlfriend",
+        "artist": "4 By Four",
+        "last-week": "91",
+        "peak-rank": "89",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "90",
+        "song": "These Times Are Hard For Lovers",
+        "artist": "John Waite",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "91",
+        "song": "Dirty Water",
+        "artist": "Rock And Hyde",
+        "last-week": "65",
+        "peak-rank": "61",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "92",
+        "song": "Why Can't I Be You?",
+        "artist": "The Cure",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "93",
+        "song": "Rock-A-Lott",
+        "artist": "Aretha Franklin",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "94",
+        "song": "Same Ole Love (365 Days A Year)",
+        "artist": "Anita Baker",
+        "last-week": "73",
+        "peak-rank": "44",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "95",
+        "song": "Good Times (From \"The Lost Boys\")",
+        "artist": "INXS & Jimmy Barnes",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "96",
+        "song": "Se La",
+        "artist": "Lionel Richie",
+        "last-week": "66",
+        "peak-rank": "20",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "97",
+        "song": "Shy Girl",
+        "artist": "Stacey Q",
+        "last-week": "94",
+        "peak-rank": "89",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "98",
+        "song": "Certain Things Are Likely",
+        "artist": "K.T.P.",
+        "last-week": "97",
+        "peak-rank": "97",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "99",
+        "song": "Downtown Train",
+        "artist": "Patty Smyth",
+        "last-week": "95",
+        "peak-rank": "95",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1987-06-20",
+        "rank": "100",
+        "song": "Right Next Door (Because Of Me)",
+        "artist": "The Robert Cray Band",
+        "last-week": "88",
+        "peak-rank": "80",
+        "weeks-on-board": "6"
+    }
+]

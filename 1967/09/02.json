@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1967-09-02",
+        "rank": "1",
+        "song": "Ode To Billie Joe",
+        "artist": "Bobbie Gentry",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "2",
+        "song": "All You Need Is Love",
+        "artist": "The Beatles",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "3",
+        "song": "Reflections",
+        "artist": "Diana Ross & The Supremes",
+        "last-week": "8",
+        "peak-rank": "3",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "4",
+        "song": "Light My Fire",
+        "artist": "The Doors",
+        "last-week": "4",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "5",
+        "song": "Baby I Love You",
+        "artist": "Aretha Franklin",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "6",
+        "song": "Come Back When You Grow Up",
+        "artist": "Bobby Vee And The Strangers",
+        "last-week": "14",
+        "peak-rank": "6",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "7",
+        "song": "Cold Sweat - Part 1",
+        "artist": "James Brown And The Famous Flames",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "8",
+        "song": "Pleasant Valley Sunday",
+        "artist": "The Monkees",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "9",
+        "song": "You're My Everything",
+        "artist": "The Temptations",
+        "last-week": "9",
+        "peak-rank": "9",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "10",
+        "song": "I Was Made To Love Her",
+        "artist": "Stevie Wonder",
+        "last-week": "6",
+        "peak-rank": "2",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "11",
+        "song": "Words",
+        "artist": "The Monkees",
+        "last-week": "15",
+        "peak-rank": "11",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "12",
+        "song": "Heroes And Villains",
+        "artist": "The Beach Boys",
+        "last-week": "12",
+        "peak-rank": "12",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "13",
+        "song": "Thank The Lord For The Night Time",
+        "artist": "Neil Diamond",
+        "last-week": "13",
+        "peak-rank": "13",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "14",
+        "song": "Apples, Peaches, Pumpkin Pie",
+        "artist": "Jay And The Techniques",
+        "last-week": "19",
+        "peak-rank": "14",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "15",
+        "song": "The Letter",
+        "artist": "The Box Tops",
+        "last-week": "25",
+        "peak-rank": "15",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "16",
+        "song": "A Whiter Shade Of Pale",
+        "artist": "Procol Harum",
+        "last-week": "10",
+        "peak-rank": "5",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "17",
+        "song": "A Girl Like You",
+        "artist": "The Young Rascals",
+        "last-week": "11",
+        "peak-rank": "10",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "18",
+        "song": "Carrie-Anne",
+        "artist": "The Hollies",
+        "last-week": "18",
+        "peak-rank": "9",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "19",
+        "song": "Funky Broadway",
+        "artist": "Wilson Pickett",
+        "last-week": "29",
+        "peak-rank": "19",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "20",
+        "song": "(I Wanna) Testify",
+        "artist": "The Parliaments",
+        "last-week": "28",
+        "peak-rank": "20",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "21",
+        "song": "Silence Is Golden",
+        "artist": "The Tremeloes",
+        "last-week": "16",
+        "peak-rank": "11",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "22",
+        "song": "Brown Eyed Girl",
+        "artist": "Van Morrison",
+        "last-week": "27",
+        "peak-rank": "22",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "23",
+        "song": "Fakin' It",
+        "artist": "Simon & Garfunkel",
+        "last-week": "23",
+        "peak-rank": "23",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "24",
+        "song": "There Is A Mountain",
+        "artist": "Donovan",
+        "last-week": "36",
+        "peak-rank": "24",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "25",
+        "song": "San Franciscan Nights",
+        "artist": "Eric Burdon & The Animals",
+        "last-week": "26",
+        "peak-rank": "25",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "26",
+        "song": "To Love Somebody",
+        "artist": "Bee Gees",
+        "last-week": "17",
+        "peak-rank": "17",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "27",
+        "song": "(Your Love Keeps Lifting Me) Higher And Higher",
+        "artist": "Jackie Wilson",
+        "last-week": "45",
+        "peak-rank": "27",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "28",
+        "song": "You Know What I Mean",
+        "artist": "The Turtles",
+        "last-week": "37",
+        "peak-rank": "28",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "29",
+        "song": "I Had A Dream",
+        "artist": "Paul Revere & The Raiders Featuring Mark Lindsay",
+        "last-week": "54",
+        "peak-rank": "29",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "30",
+        "song": "The World We Knew (Over And Over)",
+        "artist": "Frank Sinatra",
+        "last-week": "31",
+        "peak-rank": "30",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "31",
+        "song": "Mercy, Mercy, Mercy",
+        "artist": "The Buckinghams",
+        "last-week": "22",
+        "peak-rank": "5",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "32",
+        "song": "The Windows Of The World",
+        "artist": "Dionne Warwick",
+        "last-week": "33",
+        "peak-rank": "32",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "33",
+        "song": "Groovin'",
+        "artist": "Booker T. & The MG's",
+        "last-week": "43",
+        "peak-rank": "33",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "34",
+        "song": "Let The Good Times Roll & Feel So Good",
+        "artist": "Bunny Sigler",
+        "last-week": "30",
+        "peak-rank": "22",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "35",
+        "song": "Can't Take My Eyes Off You",
+        "artist": "Frankie Valli",
+        "last-week": "24",
+        "peak-rank": "2",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "36",
+        "song": "Twelve Thirty (Young Girls Are Coming To The Canyon)",
+        "artist": "The Mamas & The Papas",
+        "last-week": "72",
+        "peak-rank": "36",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "37",
+        "song": "Things I Should Have Said",
+        "artist": "The Grass Roots",
+        "last-week": "47",
+        "peak-rank": "37",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "38",
+        "song": "I Dig Rock And Roll Music",
+        "artist": "Peter, Paul & Mary",
+        "last-week": "48",
+        "peak-rank": "38",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "39",
+        "song": "Hypnotized",
+        "artist": "Linda Jones",
+        "last-week": "21",
+        "peak-rank": "21",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "40",
+        "song": "Gettin' Together",
+        "artist": "Tommy James And The Shondells",
+        "last-week": "75",
+        "peak-rank": "40",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "41",
+        "song": "Blue's Theme",
+        "artist": "Davie Allan And The Arrows",
+        "last-week": "51",
+        "peak-rank": "41",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "42",
+        "song": "Zip Code",
+        "artist": "The Five Americans",
+        "last-week": "52",
+        "peak-rank": "42",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "43",
+        "song": "The Sweetest Thing This Side Of Heaven",
+        "artist": "Chris Bartley",
+        "last-week": "32",
+        "peak-rank": "32",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "44",
+        "song": "Shoot Your Shot",
+        "artist": "Jr. Walker & The All Stars",
+        "last-week": "44",
+        "peak-rank": "44",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "45",
+        "song": "Ha Ha Said The Clown",
+        "artist": "The Yardbirds",
+        "last-week": "50",
+        "peak-rank": "45",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "46",
+        "song": "Gimme Little Sign",
+        "artist": "Brenton Wood",
+        "last-week": "56",
+        "peak-rank": "46",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "47",
+        "song": "My Mammy",
+        "artist": "The Happenings",
+        "last-week": "20",
+        "peak-rank": "13",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "48",
+        "song": "Everybody Needs Love",
+        "artist": "Gladys Knight And The Pips",
+        "last-week": "39",
+        "peak-rank": "39",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "49",
+        "song": "Little Ole Wine Drinker, Me",
+        "artist": "Dean Martin",
+        "last-week": "59",
+        "peak-rank": "49",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "50",
+        "song": "It's The Little Things",
+        "artist": "Sonny & Cher",
+        "last-week": "60",
+        "peak-rank": "50",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "51",
+        "song": "Making Every Minute Count",
+        "artist": "Spanky And Our Gang",
+        "last-week": "69",
+        "peak-rank": "51",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "52",
+        "song": "Happy",
+        "artist": "The Sunshine Company",
+        "last-week": "58",
+        "peak-rank": "52",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "53",
+        "song": "Cry Softly Lonely One",
+        "artist": "Roy Orbison",
+        "last-week": "53",
+        "peak-rank": "52",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "54",
+        "song": "I Want To Love You For What You Are",
+        "artist": "Ronnie Dove",
+        "last-week": "55",
+        "peak-rank": "54",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "55",
+        "song": "Knock On Wood",
+        "artist": "Otis & Carla",
+        "last-week": "73",
+        "peak-rank": "55",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "56",
+        "song": "Jill",
+        "artist": "Gary Lewis And The Playboys",
+        "last-week": "57",
+        "peak-rank": "56",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "57",
+        "song": "Get On Up",
+        "artist": "The Esquires",
+        "last-week": "80",
+        "peak-rank": "57",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "58",
+        "song": "Love Bug Leave My Heart Alone",
+        "artist": "Martha & The Vandellas",
+        "last-week": "79",
+        "peak-rank": "58",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "59",
+        "song": "Never My Love",
+        "artist": "The Association",
+        "last-week": "83",
+        "peak-rank": "59",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "60",
+        "song": "You've Got To Pay The Price",
+        "artist": "Al Kent",
+        "last-week": "71",
+        "peak-rank": "60",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "61",
+        "song": "Anything Goes",
+        "artist": "Harpers Bizarre",
+        "last-week": "77",
+        "peak-rank": "61",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "62",
+        "song": "Museum",
+        "artist": "Herman's Hermits",
+        "last-week": "78",
+        "peak-rank": "62",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "63",
+        "song": "Run, Run, Run",
+        "artist": "The Third Rail",
+        "last-week": "66",
+        "peak-rank": "63",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "64",
+        "song": "Put Your Mind At Ease",
+        "artist": "Every Mothers' Son",
+        "last-week": "84",
+        "peak-rank": "64",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "65",
+        "song": "Turn On Your Love Light",
+        "artist": "Oscar Toney, Jr.",
+        "last-week": "76",
+        "peak-rank": "65",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "66",
+        "song": "Funky Broadway Part I",
+        "artist": "Dyke And The Blazers",
+        "last-week": "65",
+        "peak-rank": "65",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "67",
+        "song": "A Little Bit Now",
+        "artist": "The Dave Clark Five",
+        "last-week": "67",
+        "peak-rank": "67",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "68",
+        "song": "Laura, What's He Got That I Ain't Got",
+        "artist": "Frankie Laine",
+        "last-week": "74",
+        "peak-rank": "68",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "69",
+        "song": "A Woman's Hands",
+        "artist": "Joe Tex",
+        "last-week": "63",
+        "peak-rank": "63",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "70",
+        "song": "I Make A Fool Of Myself",
+        "artist": "Frankie Valli",
+        "last-week": "93",
+        "peak-rank": "70",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "71",
+        "song": "Little Ole Man (Uptight-Everything's Alright)",
+        "artist": "Bill Cosby",
+        "last-week": "",
+        "peak-rank": "71",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "72",
+        "song": "The Cat In The Window (The Bird In The Sky)",
+        "artist": "Petula Clark",
+        "last-week": "",
+        "peak-rank": "72",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "73",
+        "song": "Sixteen Tons",
+        "artist": "Tom Jones",
+        "last-week": "68",
+        "peak-rank": "68",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "74",
+        "song": "There's Always Me",
+        "artist": "Elvis Presley With The Jordanaires",
+        "last-week": "90",
+        "peak-rank": "74",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "75",
+        "song": "Memphis Soul Stew",
+        "artist": "King Curtis",
+        "last-week": "88",
+        "peak-rank": "75",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "76",
+        "song": "In The Heat Of The Night",
+        "artist": "Ray Charles",
+        "last-week": "89",
+        "peak-rank": "76",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "77",
+        "song": "I Feel Good (I Feel Bad)",
+        "artist": "The Lewis & Clarke Expedition",
+        "last-week": "81",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "78",
+        "song": "Casonova (Your Playing Days Are Over)",
+        "artist": "Ruby Andrews",
+        "last-week": "95",
+        "peak-rank": "78",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "79",
+        "song": "Just Out Of Reach (Of My Two Empty Arms)",
+        "artist": "Percy Sledge",
+        "last-week": "",
+        "peak-rank": "79",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "80",
+        "song": "It Must Be Him",
+        "artist": "Vikki Carr",
+        "last-week": "",
+        "peak-rank": "80",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "81",
+        "song": "Laura (Tell Me What He's Got That I Ain't Got)",
+        "artist": "Brook Benton",
+        "last-week": "85",
+        "peak-rank": "81",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "82",
+        "song": "Take A Look",
+        "artist": "Aretha Franklin",
+        "last-week": "",
+        "peak-rank": "82",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "83",
+        "song": "Expressway (To Your Heart)",
+        "artist": "Soul Survivors",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "84",
+        "song": "Ballad Of You & Me & Pooneil",
+        "artist": "Jefferson Airplane",
+        "last-week": "",
+        "peak-rank": "84",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "85",
+        "song": "Turn The World Around",
+        "artist": "Eddy Arnold",
+        "last-week": "86",
+        "peak-rank": "85",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "86",
+        "song": "It Could Be We're In Love",
+        "artist": "The Cryan' Shames",
+        "last-week": "87",
+        "peak-rank": "86",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "87",
+        "song": "Knucklehead",
+        "artist": "Bar-Kays",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "88",
+        "song": "Get Together",
+        "artist": "The Youngbloods",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "89",
+        "song": "It's Got To Be Mellow",
+        "artist": "Leon Haywood",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "90",
+        "song": "I Can't Stay Away From You",
+        "artist": "The Impressions",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "91",
+        "song": "Tell Him",
+        "artist": "Patti Drew",
+        "last-week": "91",
+        "peak-rank": "91",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "92",
+        "song": "Stout-Hearted Men",
+        "artist": "Barbra Streisand",
+        "last-week": "92",
+        "peak-rank": "92",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "93",
+        "song": "Purple Haze",
+        "artist": "The Jimi Hendrix Experience",
+        "last-week": "94",
+        "peak-rank": "93",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "94",
+        "song": "Paper Sun",
+        "artist": "Traffic featuring Stevie Winwood",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "95",
+        "song": "Penny Arcade",
+        "artist": "The Cyrkle",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "96",
+        "song": "The Look Of Love",
+        "artist": "Dusty Springfield",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "97",
+        "song": "Come On Sock It To Me",
+        "artist": "Syl Johnson",
+        "last-week": "98",
+        "peak-rank": "97",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "98",
+        "song": "There Goes The Lover",
+        "artist": "Gene Chandler",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "99",
+        "song": "Nearer To You",
+        "artist": "Betty Harris",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1967-09-02",
+        "rank": "100",
+        "song": "Requiem For The Masses",
+        "artist": "The Association",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

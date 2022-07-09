@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1977-09-03",
+        "rank": "1",
+        "song": "Best Of My Love",
+        "artist": "The Emotions",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "2",
+        "song": "I Just Want To Be Your Everything",
+        "artist": "Andy Gibb",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "3",
+        "song": "(your Love Has Lifted Me) Higher And Higher",
+        "artist": "Rita Coolidge",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "4",
+        "song": "Easy",
+        "artist": "Commodores",
+        "last-week": "4",
+        "peak-rank": "4",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "5",
+        "song": "Handy Man",
+        "artist": "James Taylor",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "6",
+        "song": "Float On",
+        "artist": "The Floaters",
+        "last-week": "8",
+        "peak-rank": "6",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "7",
+        "song": "Just A Song Before I Go",
+        "artist": "Crosby, Stills & Nash",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "8",
+        "song": "Don't Stop",
+        "artist": "Fleetwood Mac",
+        "last-week": "9",
+        "peak-rank": "8",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "9",
+        "song": "Strawberry Letter 23",
+        "artist": "The Brothers Johnson",
+        "last-week": "10",
+        "peak-rank": "9",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "10",
+        "song": "Telephone Line",
+        "artist": "Electric Light Orchestra",
+        "last-week": "13",
+        "peak-rank": "10",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "11",
+        "song": "Barracuda",
+        "artist": "Heart",
+        "last-week": "12",
+        "peak-rank": "11",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "12",
+        "song": "Smoke From A Distant Fire",
+        "artist": "The Sanford/Townsend Band",
+        "last-week": "14",
+        "peak-rank": "12",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "13",
+        "song": "Star Wars (Main Title)",
+        "artist": "London Symphony Orchestra",
+        "last-week": "16",
+        "peak-rank": "13",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "14",
+        "song": "Whatcha Gonna Do?",
+        "artist": "Pablo Cruise",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "15",
+        "song": "Give A Little Bit",
+        "artist": "Supertramp",
+        "last-week": "15",
+        "peak-rank": "15",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "16",
+        "song": "Cold As Ice",
+        "artist": "Foreigner",
+        "last-week": "20",
+        "peak-rank": "16",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "17",
+        "song": "How Much Love",
+        "artist": "Leo Sayer",
+        "last-week": "17",
+        "peak-rank": "17",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "18",
+        "song": "Black Betty",
+        "artist": "Ram Jam",
+        "last-week": "19",
+        "peak-rank": "18",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "19",
+        "song": "On And On",
+        "artist": "Stephen Bishop",
+        "last-week": "21",
+        "peak-rank": "19",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "20",
+        "song": "Swayin' To The Music (slow Dancin')",
+        "artist": "Johnny Rivers",
+        "last-week": "22",
+        "peak-rank": "20",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "21",
+        "song": "Keep It Comin' Love",
+        "artist": "KC And The Sunshine Band",
+        "last-week": "24",
+        "peak-rank": "21",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "22",
+        "song": "I'm In You",
+        "artist": "Peter Frampton",
+        "last-week": "11",
+        "peak-rank": "2",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "23",
+        "song": "That's Rock 'N' Roll",
+        "artist": "Shaun Cassidy",
+        "last-week": "30",
+        "peak-rank": "23",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "24",
+        "song": "Don't Worry Baby",
+        "artist": "B.J. Thomas",
+        "last-week": "29",
+        "peak-rank": "24",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "25",
+        "song": "Christine Sixteen",
+        "artist": "KISS",
+        "last-week": "27",
+        "peak-rank": "25",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "26",
+        "song": "Edge Of The Universe",
+        "artist": "Bee Gees",
+        "last-week": "28",
+        "peak-rank": "26",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "27",
+        "song": "Star Wars Theme/Cantina Band",
+        "artist": "Meco",
+        "last-week": "38",
+        "peak-rank": "27",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "28",
+        "song": "Telephone Man",
+        "artist": "Meri Wilson",
+        "last-week": "18",
+        "peak-rank": "18",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "29",
+        "song": "Nobody Does It Better",
+        "artist": "Carly Simon",
+        "last-week": "39",
+        "peak-rank": "29",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "30",
+        "song": "Boogie Nights",
+        "artist": "Heatwave",
+        "last-week": "40",
+        "peak-rank": "30",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "31",
+        "song": "It Was Almost Like A Song",
+        "artist": "Ronnie Milsap",
+        "last-week": "35",
+        "peak-rank": "31",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "32",
+        "song": "So You Win Again",
+        "artist": "Hot Chocolate",
+        "last-week": "34",
+        "peak-rank": "32",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "33",
+        "song": "You Made Me Believe In Magic",
+        "artist": "Bay City Rollers",
+        "last-week": "33",
+        "peak-rank": "10",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "34",
+        "song": "Hard Rock Cafe",
+        "artist": "Carole King",
+        "last-week": "36",
+        "peak-rank": "34",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "35",
+        "song": "Way Down",
+        "artist": "Elvis Presley",
+        "last-week": "53",
+        "peak-rank": "31",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "36",
+        "song": "Do You Wanna Make Love",
+        "artist": "Peter Mccann",
+        "last-week": "23",
+        "peak-rank": "5",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "37",
+        "song": "You And Me",
+        "artist": "Alice Cooper",
+        "last-week": "25",
+        "peak-rank": "9",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "38",
+        "song": "Jungle Love",
+        "artist": "The Steve Miller Band",
+        "last-week": "43",
+        "peak-rank": "38",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "39",
+        "song": "The Greatest Love Of All",
+        "artist": "George Benson",
+        "last-week": "42",
+        "peak-rank": "39",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "40",
+        "song": "I Feel Love",
+        "artist": "Donna Summer",
+        "last-week": "44",
+        "peak-rank": "40",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "41",
+        "song": "You're My World",
+        "artist": "Helen Reddy",
+        "last-week": "26",
+        "peak-rank": "18",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "42",
+        "song": "Daytime Friends",
+        "artist": "Kenny Rogers",
+        "last-week": "47",
+        "peak-rank": "42",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "43",
+        "song": "Undercover Angel",
+        "artist": "Alan O'Day",
+        "last-week": "31",
+        "peak-rank": "1",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "44",
+        "song": "Cat Scratch Fever",
+        "artist": "Ted Nugent",
+        "last-week": "49",
+        "peak-rank": "44",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "45",
+        "song": "O-H-I-O",
+        "artist": "Ohio Players",
+        "last-week": "45",
+        "peak-rank": "45",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "46",
+        "song": "Devil's Gun",
+        "artist": "C.J. & Company",
+        "last-week": "52",
+        "peak-rank": "36",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "47",
+        "song": "I Believe You",
+        "artist": "Dorothy Moore",
+        "last-week": "58",
+        "peak-rank": "47",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "48",
+        "song": "L.a. Sunshine",
+        "artist": "War",
+        "last-week": "46",
+        "peak-rank": "45",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "49",
+        "song": "Signed, Sealed, Delivered (I'm Yours)",
+        "artist": "Peter Frampton",
+        "last-week": "75",
+        "peak-rank": "49",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "50",
+        "song": "I'm Dreaming",
+        "artist": "Jennifer Warnes",
+        "last-week": "54",
+        "peak-rank": "50",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "51",
+        "song": "Sunshine",
+        "artist": "Enchantment",
+        "last-week": "61",
+        "peak-rank": "51",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "52",
+        "song": "Just Remember I Love You",
+        "artist": "Firefall",
+        "last-week": "62",
+        "peak-rank": "52",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "53",
+        "song": "Da Doo Ron Ron",
+        "artist": "Shaun Cassidy",
+        "last-week": "51",
+        "peak-rank": "1",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "54",
+        "song": "Heaven On The 7th Floor",
+        "artist": "Paul Nicholas",
+        "last-week": "69",
+        "peak-rank": "54",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "55",
+        "song": "Help Is On Its Way",
+        "artist": "Little River Band",
+        "last-week": "68",
+        "peak-rank": "55",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "56",
+        "song": "I Wouldn't Want To Be Like You",
+        "artist": "Alan Parsons",
+        "last-week": "66",
+        "peak-rank": "56",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "57",
+        "song": "Slide",
+        "artist": "Slave",
+        "last-week": "32",
+        "peak-rank": "32",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "58",
+        "song": "Brick House",
+        "artist": "Commodores",
+        "last-week": "72",
+        "peak-rank": "58",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "59",
+        "song": "Don't It Make My Brown Eyes Blue",
+        "artist": "Crystal Gayle",
+        "last-week": "70",
+        "peak-rank": "59",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "60",
+        "song": "Look What You've Done To My Heart",
+        "artist": "Marilyn McCoo & Billy Davis, Jr.",
+        "last-week": "71",
+        "peak-rank": "60",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "61",
+        "song": "Another Star",
+        "artist": "Stevie Wonder",
+        "last-week": "74",
+        "peak-rank": "61",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "62",
+        "song": "My Heart Belongs To Me",
+        "artist": "Barbra Streisand",
+        "last-week": "37",
+        "peak-rank": "4",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "63",
+        "song": "Sunflower",
+        "artist": "Glen Campbell",
+        "last-week": "50",
+        "peak-rank": "39",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "64",
+        "song": "A Real Mother For Ya",
+        "artist": "Johnny Guitar Watson",
+        "last-week": "41",
+        "peak-rank": "41",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "65",
+        "song": "Little Darling (i Need You)",
+        "artist": "The Doobie Brothers",
+        "last-week": "48",
+        "peak-rank": "48",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "66",
+        "song": "Indian Summer",
+        "artist": "Poco",
+        "last-week": "79",
+        "peak-rank": "66",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "67",
+        "song": "Hold Tight",
+        "artist": "Vicki Sue Robinson",
+        "last-week": "67",
+        "peak-rank": "67",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "68",
+        "song": "Looks Like We Made It",
+        "artist": "Barry Manilow",
+        "last-week": "55",
+        "peak-rank": "1",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "69",
+        "song": "Surfin' USA",
+        "artist": "Leif Garrett",
+        "last-week": "80",
+        "peak-rank": "69",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "70",
+        "song": "The Right Feeling At The Wrong Time",
+        "artist": "Hot",
+        "last-week": "81",
+        "peak-rank": "70",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "71",
+        "song": "You Light Up My Life",
+        "artist": "Debby Boone",
+        "last-week": "",
+        "peak-rank": "71",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "72",
+        "song": "I Believe In Love",
+        "artist": "Kenny Loggins",
+        "last-week": "82",
+        "peak-rank": "72",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "73",
+        "song": "She Did It",
+        "artist": "Eric Carmen",
+        "last-week": "84",
+        "peak-rank": "73",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "74",
+        "song": "It's Ecstasy When You Lay Down Next To Me",
+        "artist": "Barry White",
+        "last-week": "77",
+        "peak-rank": "74",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "75",
+        "song": "Good Morning Judge",
+        "artist": "10cc",
+        "last-week": "78",
+        "peak-rank": "75",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "76",
+        "song": "Ariel",
+        "artist": "Dean Friedman",
+        "last-week": "73",
+        "peak-rank": "26",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "77",
+        "song": "The Martian Boogie",
+        "artist": "Brownsville Station",
+        "last-week": "88",
+        "peak-rank": "77",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "78",
+        "song": "I Go Crazy",
+        "artist": "Paul Davis",
+        "last-week": "89",
+        "peak-rank": "78",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "79",
+        "song": "Gonna Fly Now",
+        "artist": "Bill Conti",
+        "last-week": "63",
+        "peak-rank": "1",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "80",
+        "song": "We Just Disagree",
+        "artist": "Dave Mason",
+        "last-week": "",
+        "peak-rank": "80",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "81",
+        "song": "Can't You See",
+        "artist": "The Marshall Tucker Band",
+        "last-week": "85",
+        "peak-rank": "81",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "82",
+        "song": "My Fair Share",
+        "artist": "Seals & Crofts",
+        "last-week": "",
+        "peak-rank": "82",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "83",
+        "song": "Hold On",
+        "artist": "Wild Cherry",
+        "last-week": "",
+        "peak-rank": "83",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "84",
+        "song": "Dusic",
+        "artist": "Brick",
+        "last-week": "",
+        "peak-rank": "84",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "85",
+        "song": "Hound Dog Man (Play It Again)",
+        "artist": "Lenny LeBlanc",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "86",
+        "song": "Sheena Is A Punk Rocker",
+        "artist": "The Ramones",
+        "last-week": "87",
+        "peak-rank": "86",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "87",
+        "song": "It's In His Kiss (The Shoop Shoop Song)",
+        "artist": "Kate Taylor",
+        "last-week": "",
+        "peak-rank": "87",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "88",
+        "song": "You're The Only One",
+        "artist": "Geils",
+        "last-week": "83",
+        "peak-rank": "83",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "89",
+        "song": "Dog Days",
+        "artist": "Atlanta Rhythm Section",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "90",
+        "song": "Sail Away",
+        "artist": "Sam Neely",
+        "last-week": "95",
+        "peak-rank": "90",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "91",
+        "song": "Let's Clean Up The Ghetto",
+        "artist": "Philadelphia International All Stars",
+        "last-week": "91",
+        "peak-rank": "91",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "92",
+        "song": "C'est La Vie",
+        "artist": "Greg Lake",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "93",
+        "song": "Funk It Up (David's Song)",
+        "artist": "Sweet",
+        "last-week": "93",
+        "peak-rank": "93",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "94",
+        "song": "Make It With You",
+        "artist": "The Whispers",
+        "last-week": "94",
+        "peak-rank": "94",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "95",
+        "song": "See You When I Git There",
+        "artist": "Lou Rawls",
+        "last-week": "76",
+        "peak-rank": "66",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "96",
+        "song": "Ma Baker",
+        "artist": "Boney M.",
+        "last-week": "96",
+        "peak-rank": "96",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "97",
+        "song": "If I Have To Go Away",
+        "artist": "Jigsaw",
+        "last-week": "99",
+        "peak-rank": "97",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "98",
+        "song": "Superman",
+        "artist": "Celi Bee & The Buzzy Bunch",
+        "last-week": "64",
+        "peak-rank": "41",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "99",
+        "song": "It's A Crazy World",
+        "artist": "Mac McAnally",
+        "last-week": "56",
+        "peak-rank": "37",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1977-09-03",
+        "rank": "100",
+        "song": "Nothing But A Breeze",
+        "artist": "Jesse Winchester",
+        "last-week": "86",
+        "peak-rank": "86",
+        "weeks-on-board": "3"
+    }
+]

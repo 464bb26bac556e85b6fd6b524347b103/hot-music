@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1958-11-24",
+        "rank": "1",
+        "song": "It's Only Make Believe",
+        "artist": "Conway Twitty",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "2",
+        "song": "Tom Dooley",
+        "artist": "The Kingston Trio",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "3",
+        "song": "To Know Him, Is To Love Him",
+        "artist": "The Teddy Bears",
+        "last-week": "5",
+        "peak-rank": "3",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "4",
+        "song": "Topsy II",
+        "artist": "Cozy Cole",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "5",
+        "song": "It's All In The Game",
+        "artist": "Tommy Edwards",
+        "last-week": "4",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "6",
+        "song": "Beep Beep",
+        "artist": "The Playmates",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "7",
+        "song": "One Night",
+        "artist": "Elvis Presley",
+        "last-week": "14",
+        "peak-rank": "7",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "8",
+        "song": "I Got Stung",
+        "artist": "Elvis Presley",
+        "last-week": "11",
+        "peak-rank": "8",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "9",
+        "song": "Lonesome Town",
+        "artist": "Ricky Nelson",
+        "last-week": "8",
+        "peak-rank": "8",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "10",
+        "song": "Queen Of The Hop",
+        "artist": "Bobby Darin",
+        "last-week": "9",
+        "peak-rank": "9",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "11",
+        "song": "I Got A Feeling",
+        "artist": "Ricky Nelson",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "12",
+        "song": "The End",
+        "artist": "Earl Grant",
+        "last-week": "12",
+        "peak-rank": "7",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "13",
+        "song": "Chantilly Lace",
+        "artist": "Big Bopper",
+        "last-week": "7",
+        "peak-rank": "6",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "14",
+        "song": "Tea For Two Cha Cha",
+        "artist": "The Tommy Dorsey Orchestra",
+        "last-week": "13",
+        "peak-rank": "7",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "15",
+        "song": "Cannonball",
+        "artist": "Duane Eddy His Twangy Guitar And The Rebels",
+        "last-week": "25",
+        "peak-rank": "15",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "16",
+        "song": "Forget Me Not",
+        "artist": "Kalin Twins",
+        "last-week": "16",
+        "peak-rank": "12",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "17",
+        "song": "Problems",
+        "artist": "The Everly Brothers",
+        "last-week": "42",
+        "peak-rank": "17",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "18",
+        "song": "Rock-in Robin",
+        "artist": "Bobby Day",
+        "last-week": "15",
+        "peak-rank": "2",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "19",
+        "song": "A Lover's Question",
+        "artist": "Clyde McPhatter",
+        "last-week": "22",
+        "peak-rank": "19",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "20",
+        "song": "Mexican Hat Rock",
+        "artist": "The Applejacks",
+        "last-week": "18",
+        "peak-rank": "16",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "21",
+        "song": "The Day The Rains Came",
+        "artist": "Jane Morgan",
+        "last-week": "31",
+        "peak-rank": "21",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "22",
+        "song": "Pussy Cat",
+        "artist": "The Ames Brothers",
+        "last-week": "17",
+        "peak-rank": "17",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "23",
+        "song": "Love Is All We Need",
+        "artist": "Tommy Edwards",
+        "last-week": "37",
+        "peak-rank": "23",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "24",
+        "song": "Call Me",
+        "artist": "Johnny Mathis",
+        "last-week": "23",
+        "peak-rank": "21",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "25",
+        "song": "A Letter To An Angel",
+        "artist": "Jimmy Clanton",
+        "last-week": "29",
+        "peak-rank": "25",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "26",
+        "song": "There Goes My Heart",
+        "artist": "Joni James",
+        "last-week": "19",
+        "peak-rank": "19",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "27",
+        "song": "I'll Wait For You",
+        "artist": "Frankie Avalon",
+        "last-week": "20",
+        "peak-rank": "20",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "28",
+        "song": "Poor Boy",
+        "artist": "The Royaltones",
+        "last-week": "24",
+        "peak-rank": "24",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "29",
+        "song": "Walking Along",
+        "artist": "The Diamonds",
+        "last-week": "39",
+        "peak-rank": "29",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "30",
+        "song": "Need You",
+        "artist": "Donnie Owens",
+        "last-week": "28",
+        "peak-rank": "28",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "31",
+        "song": "The World Outside",
+        "artist": "The Four Coins",
+        "last-week": "36",
+        "peak-rank": "31",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "32",
+        "song": "Hideaway",
+        "artist": "The Four Esquires",
+        "last-week": "21",
+        "peak-rank": "21",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "33",
+        "song": "Tears On My Pillow",
+        "artist": "Little Anthony And The Imperials",
+        "last-week": "26",
+        "peak-rank": "4",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "34",
+        "song": "The Mocking Bird",
+        "artist": "The Four Lads",
+        "last-week": "41",
+        "peak-rank": "34",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "35",
+        "song": "I'll Remember Tonight",
+        "artist": "Pat Boone",
+        "last-week": "35",
+        "peak-rank": "35",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "36",
+        "song": "That Old Black Magic",
+        "artist": "Louis Prima And Keely Smith",
+        "last-week": "62",
+        "peak-rank": "36",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "37",
+        "song": "The Day The Rains Came",
+        "artist": "Raymond Lefevre and His Orchestra",
+        "last-week": "40",
+        "peak-rank": "30",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "38",
+        "song": "Susie Darlin'",
+        "artist": "Robin Luke",
+        "last-week": "27",
+        "peak-rank": "5",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "39",
+        "song": "The Blob",
+        "artist": "The Five Blobs",
+        "last-week": "50",
+        "peak-rank": "33",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "40",
+        "song": "Love Makes The World Go 'round",
+        "artist": "Perry Como",
+        "last-week": "33",
+        "peak-rank": "33",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "41",
+        "song": "Fallin'",
+        "artist": "Connie Francis",
+        "last-week": "30",
+        "peak-rank": "30",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "42",
+        "song": "Come On, Let's Go",
+        "artist": "Ritchie Valens",
+        "last-week": "56",
+        "peak-rank": "42",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "43",
+        "song": "Tunnel Of Love",
+        "artist": "Doris Day",
+        "last-week": "57",
+        "peak-rank": "43",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "44",
+        "song": "Bimbombey",
+        "artist": "Jimmie Rodgers",
+        "last-week": "51",
+        "peak-rank": "44",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "45",
+        "song": "Non Dimenticar (Don't Forget)",
+        "artist": "Nat King Cole",
+        "last-week": "52",
+        "peak-rank": "45",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "46",
+        "song": "Bird Dog",
+        "artist": "The Everly Brothers",
+        "last-week": "34",
+        "peak-rank": "2",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "47",
+        "song": "Near You",
+        "artist": "Roger Williams",
+        "last-week": "32",
+        "peak-rank": "10",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "48",
+        "song": "Ten Commandments Of Love",
+        "artist": "Harvey & The Moonglows",
+        "last-week": "64",
+        "peak-rank": "22",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "49",
+        "song": "Whole Lotta Loving",
+        "artist": "Fats Domino",
+        "last-week": "81",
+        "peak-rank": "49",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "50",
+        "song": "Smoke Gets In Your Eyes",
+        "artist": "The Platters",
+        "last-week": "86",
+        "peak-rank": "50",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "51",
+        "song": "Mr. Success",
+        "artist": "Frank Sinatra",
+        "last-week": "44",
+        "peak-rank": "44",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "52",
+        "song": "What Do I Care",
+        "artist": "Johnny Cash",
+        "last-week": "53",
+        "peak-rank": "52",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "53",
+        "song": "A Part Of Me",
+        "artist": "Jimmy Clanton",
+        "last-week": "60",
+        "peak-rank": "53",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "54",
+        "song": "Topsy I",
+        "artist": "Cozy Cole",
+        "last-week": "38",
+        "peak-rank": "27",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "55",
+        "song": "Philadelphia U.S.A.",
+        "artist": "The Nu Tornados",
+        "last-week": "79",
+        "peak-rank": "55",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "56",
+        "song": "With Your Love",
+        "artist": "Jack Scott",
+        "last-week": "46",
+        "peak-rank": "28",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "57",
+        "song": "I Want To Be Happy Cha Cha",
+        "artist": "Enoch Light & The Light Brigade",
+        "last-week": "66",
+        "peak-rank": "57",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "58",
+        "song": "All Over Again",
+        "artist": "Johnny Cash",
+        "last-week": "49",
+        "peak-rank": "38",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "59",
+        "song": "For My Good Fortune",
+        "artist": "Pat Boone",
+        "last-week": "61",
+        "peak-rank": "23",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "60",
+        "song": "Cimarron (Roll On)",
+        "artist": "Billy Vaughn And His Orchestra",
+        "last-week": "65",
+        "peak-rank": "60",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "61",
+        "song": "Treasure Of Your Love",
+        "artist": "Eileen Rodgers",
+        "last-week": "70",
+        "peak-rank": "26",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "62",
+        "song": "No One Knows",
+        "artist": "Dion & The Belmonts",
+        "last-week": "45",
+        "peak-rank": "24",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "63",
+        "song": "The Secret",
+        "artist": "Gordon MacRae",
+        "last-week": "69",
+        "peak-rank": "18",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "64",
+        "song": "Light Of Love",
+        "artist": "Peggy Lee",
+        "last-week": "63",
+        "peak-rank": "63",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "65",
+        "song": "Pledging My Love",
+        "artist": "Roy Hamilton",
+        "last-week": "71",
+        "peak-rank": "65",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "66",
+        "song": "You Cheated",
+        "artist": "The Shields",
+        "last-week": "48",
+        "peak-rank": "15",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "67",
+        "song": "Look Who's Blue",
+        "artist": "Don Gibson",
+        "last-week": "58",
+        "peak-rank": "58",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "68",
+        "song": "Sweet Little Rock And Roller",
+        "artist": "Chuck Berry",
+        "last-week": "67",
+        "peak-rank": "67",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "69",
+        "song": "Mandolins In The Moonlight",
+        "artist": "Perry Como",
+        "last-week": "47",
+        "peak-rank": "47",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "70",
+        "song": "Jealous Heart",
+        "artist": "Tab Hunter",
+        "last-week": "68",
+        "peak-rank": "68",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "71",
+        "song": "Firefly",
+        "artist": "Tony Bennett",
+        "last-week": "43",
+        "peak-rank": "20",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "72",
+        "song": "Need Your Love",
+        "artist": "Bobby Freeman",
+        "last-week": "",
+        "peak-rank": "72",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "73",
+        "song": "Give Myself A Party",
+        "artist": "Don Gibson",
+        "last-week": "77",
+        "peak-rank": "46",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "74",
+        "song": "Love You Most Of All",
+        "artist": "Sam Cooke",
+        "last-week": "74",
+        "peak-rank": "74",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "75",
+        "song": "Guaglione",
+        "artist": "Perez Prado And His Orchestra",
+        "last-week": "59",
+        "peak-rank": "53",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "76",
+        "song": "Sing Sing Sing",
+        "artist": "Bernie Lowe Orchestra",
+        "last-week": "",
+        "peak-rank": "76",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "77",
+        "song": "How The Time Flies",
+        "artist": "Jerry Wallace",
+        "last-week": "83",
+        "peak-rank": "11",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "78",
+        "song": "Little Star",
+        "artist": "The Elegants",
+        "last-week": "82",
+        "peak-rank": "1",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "79",
+        "song": "This Little Girl's Gone Rockin'",
+        "artist": "Ruth Brown",
+        "last-week": "84",
+        "peak-rank": "24",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "80",
+        "song": "White Bucks And Saddle Shoes",
+        "artist": "Bobby Pedrick, Jr.",
+        "last-week": "90",
+        "peak-rank": "80",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "81",
+        "song": "Intermission Riff",
+        "artist": "Bernie Lowe Orchestra",
+        "last-week": "",
+        "peak-rank": "81",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "82",
+        "song": "Win Your Love For Me",
+        "artist": "Sam Cooke",
+        "last-week": "80",
+        "peak-rank": "33",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "83",
+        "song": "Joe Joe Gunne",
+        "artist": "Chuck Berry",
+        "last-week": "89",
+        "peak-rank": "83",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "84",
+        "song": "No One But You (In My Heart)",
+        "artist": "The Ames Brothers",
+        "last-week": "55",
+        "peak-rank": "45",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "85",
+        "song": "Love Of My Life",
+        "artist": "The Everly Brothers",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "86",
+        "song": "Gotta Travel On",
+        "artist": "Billy Grammer",
+        "last-week": "",
+        "peak-rank": "86",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "87",
+        "song": "Almost In Your Arms",
+        "artist": "Johnny Nash",
+        "last-week": "78",
+        "peak-rank": "78",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "88",
+        "song": "Lonely Teardrops",
+        "artist": "Jackie Wilson",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "89",
+        "song": "It Don't Hurt No More",
+        "artist": "Nappy Brown",
+        "last-week": "",
+        "peak-rank": "89",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "90",
+        "song": "The Ballad Of Thunder Road",
+        "artist": "Robert Mitchum",
+        "last-week": "95",
+        "peak-rank": "62",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "91",
+        "song": "16 Candles",
+        "artist": "The Crests",
+        "last-week": "",
+        "peak-rank": "91",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "92",
+        "song": "The World Outside",
+        "artist": "The Four Aces",
+        "last-week": "",
+        "peak-rank": "92",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "93",
+        "song": "Donna",
+        "artist": "Ritchie Valens",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "94",
+        "song": "C'mon Everybody",
+        "artist": "Eddie Cochran",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "95",
+        "song": "Leave Me Alone (Let Me Cry)",
+        "artist": "Dicky Doo And The Don'ts",
+        "last-week": "72",
+        "peak-rank": "44",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "96",
+        "song": "Everyone Was There",
+        "artist": "Bob Kayli",
+        "last-week": "96",
+        "peak-rank": "96",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "97",
+        "song": "Crazy Country Hop",
+        "artist": "Johnny Otis",
+        "last-week": "87",
+        "peak-rank": "87",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "98",
+        "song": "Go Chase A Moonbeam",
+        "artist": "Jerry Vale",
+        "last-week": "76",
+        "peak-rank": "60",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "99",
+        "song": "The Wedding",
+        "artist": "June Valli",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1958-11-24",
+        "rank": "100",
+        "song": "Sweetheart",
+        "artist": "Peggy Lee",
+        "last-week": "",
+        "peak-rank": "100",
+        "weeks-on-board": "1"
+    }
+]

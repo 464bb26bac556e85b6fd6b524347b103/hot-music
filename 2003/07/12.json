@@ -1,0 +1,902 @@
+[
+    {
+        "date": "2003-07-12",
+        "rank": "1",
+        "song": "Crazy In Love",
+        "artist": "Beyonce Featuring Jay Z",
+        "last-week": "3",
+        "peak-rank": "1",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "2",
+        "song": "Magic Stick",
+        "artist": "Lil' Kim Featuring 50 Cent",
+        "last-week": "4",
+        "peak-rank": "2",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "3",
+        "song": "This Is The Night",
+        "artist": "Clay Aiken",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "4",
+        "song": "Rock Wit U (Awww Baby)",
+        "artist": "Ashanti",
+        "last-week": "7",
+        "peak-rank": "4",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "5",
+        "song": "21 Questions",
+        "artist": "50 Cent Featuring Nate Dogg",
+        "last-week": "5",
+        "peak-rank": "1",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "6",
+        "song": "Get Busy",
+        "artist": "Sean Paul",
+        "last-week": "6",
+        "peak-rank": "1",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "7",
+        "song": "Unwell",
+        "artist": "matchbox twenty",
+        "last-week": "10",
+        "peak-rank": "7",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "8",
+        "song": "Bring Me To Life",
+        "artist": "Evanescence Featuring Paul McCoy",
+        "last-week": "8",
+        "peak-rank": "5",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "9",
+        "song": "Right Thurr",
+        "artist": "Chingy",
+        "last-week": "15",
+        "peak-rank": "9",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "10",
+        "song": "So Gone",
+        "artist": "Monica",
+        "last-week": "11",
+        "peak-rank": "10",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "11",
+        "song": "I Know What You Want",
+        "artist": "Busta Rhymes & Mariah Carey Featuring The Flipmode Squad",
+        "last-week": "9",
+        "peak-rank": "3",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "12",
+        "song": "Miss Independent",
+        "artist": "Kelly Clarkson",
+        "last-week": "12",
+        "peak-rank": "12",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "13",
+        "song": "Flying Without Wings",
+        "artist": "Ruben Studdard",
+        "last-week": "2",
+        "peak-rank": "2",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "14",
+        "song": "Drift Away",
+        "artist": "Uncle Kracker Featuring Dobie Gray",
+        "last-week": "14",
+        "peak-rank": "14",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "15",
+        "song": "Never Leave You - Uh Ooh, Uh Oooh!",
+        "artist": "Lumidee",
+        "last-week": "17",
+        "peak-rank": "15",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "16",
+        "song": "Can't Let You Go",
+        "artist": "Fabolous Featuring Mike Shorey & Lil' Mo",
+        "last-week": "13",
+        "peak-rank": "4",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "17",
+        "song": "In Those Jeans",
+        "artist": "Ginuwine",
+        "last-week": "22",
+        "peak-rank": "17",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "18",
+        "song": "P.I.M.P.",
+        "artist": "50 Cent",
+        "last-week": "28",
+        "peak-rank": "18",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "19",
+        "song": "When I'm Gone",
+        "artist": "3 Doors Down",
+        "last-week": "18",
+        "peak-rank": "4",
+        "weeks-on-board": "34"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "20",
+        "song": "Rock Your Body",
+        "artist": "Justin Timberlake",
+        "last-week": "21",
+        "peak-rank": "5",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "21",
+        "song": "Ignition",
+        "artist": "R. Kelly",
+        "last-week": "16",
+        "peak-rank": "2",
+        "weeks-on-board": "36"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "22",
+        "song": "Into You",
+        "artist": "Fabolous Featuring Tamia Or Ashanti",
+        "last-week": "30",
+        "peak-rank": "22",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "23",
+        "song": "Don't Wanna Try",
+        "artist": "Frankie J",
+        "last-week": "19",
+        "peak-rank": "19",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "24",
+        "song": "No Letting Go",
+        "artist": "Wayne Wonder",
+        "last-week": "20",
+        "peak-rank": "11",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "25",
+        "song": "Where Is The Love?",
+        "artist": "The Black Eyed Peas",
+        "last-week": "29",
+        "peak-rank": "25",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "26",
+        "song": "Intuition",
+        "artist": "Jewel",
+        "last-week": "27",
+        "peak-rank": "26",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "27",
+        "song": "Beer For My Horses",
+        "artist": "Toby Keith Duet With Willie Nelson",
+        "last-week": "23",
+        "peak-rank": "22",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "28",
+        "song": "Are You Happy Now?",
+        "artist": "Michelle Branch",
+        "last-week": "31",
+        "peak-rank": "28",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "29",
+        "song": "My Front Porch Looking In",
+        "artist": "Lonestar",
+        "last-week": "24",
+        "peak-rank": "23",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "30",
+        "song": "Get Low",
+        "artist": "Lil Jon & The East Side Boyz Featuring Ying Yang Twins",
+        "last-week": "32",
+        "peak-rank": "30",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "31",
+        "song": "In Da Club",
+        "artist": "50 Cent",
+        "last-week": "25",
+        "peak-rank": "1",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "32",
+        "song": "Act A Fool",
+        "artist": "Ludacris",
+        "last-week": "40",
+        "peak-rank": "32",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "33",
+        "song": "If You're Not The One",
+        "artist": "Daniel Bedingfield",
+        "last-week": "33",
+        "peak-rank": "15",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "34",
+        "song": "Like Glue",
+        "artist": "Sean Paul",
+        "last-week": "41",
+        "peak-rank": "34",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "35",
+        "song": "Shake Ya Tailfeather",
+        "artist": "Nelly, P. Diddy & Murphy Lee",
+        "last-week": "44",
+        "peak-rank": "35",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "36",
+        "song": "Forever And For Always",
+        "artist": "Shania Twain",
+        "last-week": "36",
+        "peak-rank": "36",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "37",
+        "song": "Stay Gone",
+        "artist": "Jimmy Wayne",
+        "last-week": "37",
+        "peak-rank": "32",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "38",
+        "song": "Fighter",
+        "artist": "Christina Aguilera",
+        "last-week": "35",
+        "peak-rank": "20",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "39",
+        "song": "Red Dirt Road",
+        "artist": "Brooks & Dunn",
+        "last-week": "39",
+        "peak-rank": "39",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "40",
+        "song": "I Want You",
+        "artist": "Thalia Featuring Fat Joe",
+        "last-week": "52",
+        "peak-rank": "40",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "41",
+        "song": "Snake",
+        "artist": "R. Kelly Featuring Big Tigger",
+        "last-week": "34",
+        "peak-rank": "16",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "42",
+        "song": "Never Scared",
+        "artist": "Bone Crusher Featuring Killer Mike & T.I.",
+        "last-week": "26",
+        "peak-rank": "26",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "43",
+        "song": "Calling All Angels",
+        "artist": "Train",
+        "last-week": "45",
+        "peak-rank": "43",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "44",
+        "song": "Picture",
+        "artist": "Kid Rock Featuring Sheryl Crow Or Allison Moorer",
+        "last-week": "38",
+        "peak-rank": "4",
+        "weeks-on-board": "33"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "45",
+        "song": "It's Five O'Clock Somewhere",
+        "artist": "Alan Jackson & Jimmy Buffett",
+        "last-week": "53",
+        "peak-rank": "45",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "46",
+        "song": "Celebrity",
+        "artist": "Brad Paisley",
+        "last-week": "46",
+        "peak-rank": "46",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "47",
+        "song": "Speed",
+        "artist": "Montgomery Gentry",
+        "last-week": "47",
+        "peak-rank": "47",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "48",
+        "song": "Love At 1st Sight",
+        "artist": "Mary J. Blige Featuring Method Man",
+        "last-week": "63",
+        "peak-rank": "48",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "49",
+        "song": "Like A Pimp",
+        "artist": "David Banner Featuring Lil' Flip",
+        "last-week": "49",
+        "peak-rank": "49",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "50",
+        "song": "Come Over",
+        "artist": "Aaliyah",
+        "last-week": "55",
+        "peak-rank": "50",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "51",
+        "song": "Big Yellow Taxi",
+        "artist": "Counting Crows Featuring Vanessa Carlton",
+        "last-week": "42",
+        "peak-rank": "42",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "52",
+        "song": "No Shoes, No Shirt, No Problems",
+        "artist": "Kenny Chesney",
+        "last-week": "62",
+        "peak-rank": "52",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "53",
+        "song": "The Remedy (I Won't Worry)",
+        "artist": "Jason Mraz",
+        "last-week": "57",
+        "peak-rank": "53",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "54",
+        "song": "Put That Woman First",
+        "artist": "Jaheim",
+        "last-week": "51",
+        "peak-rank": "20",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "55",
+        "song": "Like A Stone",
+        "artist": "Audioslave",
+        "last-week": "43",
+        "peak-rank": "31",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "56",
+        "song": "Frontin'",
+        "artist": "Pharrell Featuring Jay-Z",
+        "last-week": "61",
+        "peak-rank": "56",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "57",
+        "song": "I Wish I Wasn't",
+        "artist": "Heather Headley",
+        "last-week": "64",
+        "peak-rank": "57",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "58",
+        "song": "Addicted",
+        "artist": "Simple Plan",
+        "last-week": "66",
+        "peak-rank": "58",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "59",
+        "song": "Pump It Up",
+        "artist": "Joe Budden",
+        "last-week": "48",
+        "peak-rank": "38",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "60",
+        "song": "Feel Good Time",
+        "artist": "P!nk Featuring William Orbit",
+        "last-week": "60",
+        "peak-rank": "60",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "61",
+        "song": "Say Yes",
+        "artist": "Floetry",
+        "last-week": "50",
+        "peak-rank": "24",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "62",
+        "song": "The Love Song",
+        "artist": "Jeff Bates",
+        "last-week": "65",
+        "peak-rank": "62",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "63",
+        "song": "Dance With My Father",
+        "artist": "Luther Vandross",
+        "last-week": "75",
+        "peak-rank": "63",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "64",
+        "song": "Headstrong",
+        "artist": "Trapt",
+        "last-week": "59",
+        "peak-rank": "52",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "65",
+        "song": "My Love Is Like... Wo",
+        "artist": "Mya",
+        "last-week": "73",
+        "peak-rank": "65",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "66",
+        "song": "Swing, Swing",
+        "artist": "The All-American Rejects",
+        "last-week": "67",
+        "peak-rank": "66",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "67",
+        "song": "Three Wooden Crosses",
+        "artist": "Randy Travis",
+        "last-week": "56",
+        "peak-rank": "31",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "68",
+        "song": "Love You Out Loud",
+        "artist": "Rascal Flatts",
+        "last-week": "58",
+        "peak-rank": "30",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "69",
+        "song": "What Was I Thinkin'",
+        "artist": "Dierks Bentley",
+        "last-week": "77",
+        "peak-rank": "69",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "70",
+        "song": "Tell Me Something Bad About Tulsa",
+        "artist": "George Strait",
+        "last-week": "71",
+        "peak-rank": "70",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "71",
+        "song": "4 Ever",
+        "artist": "Lil' Mo Featuring Fabolous",
+        "last-week": "54",
+        "peak-rank": "37",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "72",
+        "song": "Almost Home",
+        "artist": "Craig Morgan",
+        "last-week": "69",
+        "peak-rank": "59",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "73",
+        "song": "Help Pour Out The Rain (Lacey's Song)",
+        "artist": "Buddy Jewell",
+        "last-week": "76",
+        "peak-rank": "73",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "74",
+        "song": "Send The Pain Below",
+        "artist": "Chevelle",
+        "last-week": "74",
+        "peak-rank": "72",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "75",
+        "song": "What Would You Do?",
+        "artist": "The Isley Brothers Featuring Ronald Isley",
+        "last-week": "72",
+        "peak-rank": "49",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "76",
+        "song": "I Believe",
+        "artist": "Diamond Rio",
+        "last-week": "68",
+        "peak-rank": "31",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "77",
+        "song": "99.9% Sure (I've Never Been Here Before)",
+        "artist": "Brian McComas",
+        "last-week": "",
+        "peak-rank": "77",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "78",
+        "song": "Real Good Man",
+        "artist": "Tim McGraw",
+        "last-week": "",
+        "peak-rank": "78",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "79",
+        "song": "What The World Needs",
+        "artist": "Wynonna",
+        "last-week": "80",
+        "peak-rank": "79",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "80",
+        "song": "The Truth About Men",
+        "artist": "Tracy Byrd",
+        "last-week": "79",
+        "peak-rank": "79",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "81",
+        "song": "Seven Nation Army",
+        "artist": "The White Stripes",
+        "last-week": "83",
+        "peak-rank": "76",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "82",
+        "song": "Somewhere I Belong",
+        "artist": "Linkin Park",
+        "last-week": "78",
+        "peak-rank": "32",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "83",
+        "song": "Let's Get Down",
+        "artist": "Bow Wow Featuring Baby",
+        "last-week": "90",
+        "peak-rank": "83",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "84",
+        "song": "Breathe",
+        "artist": "Blu Cantrell Featuring Sean Paul",
+        "last-week": "81",
+        "peak-rank": "81",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "85",
+        "song": "Have You Forgotten?",
+        "artist": "Darryl Worley",
+        "last-week": "86",
+        "peak-rank": "22",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "86",
+        "song": "In Love Wit Chu",
+        "artist": "Da Brat Featuring Cherish",
+        "last-week": "70",
+        "peak-rank": "44",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "87",
+        "song": "Stupid Girl",
+        "artist": "Cold",
+        "last-week": "88",
+        "peak-rank": "87",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "88",
+        "song": "Times Like These",
+        "artist": "Foo Fighters",
+        "last-week": "87",
+        "peak-rank": "65",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "89",
+        "song": "I Love You",
+        "artist": "Dru Hill",
+        "last-week": "89",
+        "peak-rank": "77",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "90",
+        "song": "Stuck",
+        "artist": "Stacie Orrico",
+        "last-week": "85",
+        "peak-rank": "52",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "91",
+        "song": "I'm Glad",
+        "artist": "Jennifer Lopez",
+        "last-week": "84",
+        "peak-rank": "32",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "92",
+        "song": "What A Beautiful Day",
+        "artist": "Chris Cagle",
+        "last-week": "92",
+        "peak-rank": "41",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "93",
+        "song": "Sing For The Moment",
+        "artist": "Eminem",
+        "last-week": "82",
+        "peak-rank": "14",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "94",
+        "song": "Still Ballin",
+        "artist": "2Pac Featuring Trick Daddy",
+        "last-week": "95",
+        "peak-rank": "69",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "95",
+        "song": "Try It On My Own",
+        "artist": "Whitney Houston",
+        "last-week": "97",
+        "peak-rank": "84",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "96",
+        "song": "Raining On Sunday",
+        "artist": "Keith Urban",
+        "last-week": "94",
+        "peak-rank": "38",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "97",
+        "song": "She's My Kind Of Rain",
+        "artist": "Tim McGraw",
+        "last-week": "96",
+        "peak-rank": "27",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "98",
+        "song": "Tal Vez",
+        "artist": "Ricky Martin",
+        "last-week": "98",
+        "peak-rank": "74",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "99",
+        "song": "Concrete Angel",
+        "artist": "Martina McBride",
+        "last-week": "99",
+        "peak-rank": "47",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2003-07-12",
+        "rank": "100",
+        "song": "I Can",
+        "artist": "Nas",
+        "last-week": "100",
+        "peak-rank": "12",
+        "weeks-on-board": "20"
+    }
+]

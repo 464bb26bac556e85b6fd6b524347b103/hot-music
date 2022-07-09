@@ -1,0 +1,902 @@
+[
+    {
+        "date": "2013-06-01",
+        "rank": "1",
+        "song": "Can't Hold Us",
+        "artist": "Macklemore & Ryan Lewis Featuring Ray Dalton",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "2",
+        "song": "Just Give Me A Reason",
+        "artist": "P!nk Featuring Nate Ruess",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "3",
+        "song": "Mirrors",
+        "artist": "Justin Timberlake",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "4",
+        "song": "When I Was Your Man",
+        "artist": "Bruno Mars",
+        "last-week": "4",
+        "peak-rank": "1",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "5",
+        "song": "Stay",
+        "artist": "Rihanna Featuring Mikky Ekko",
+        "last-week": "5",
+        "peak-rank": "3",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "6",
+        "song": "Cruise",
+        "artist": "Florida Georgia Line Featuring Nelly",
+        "last-week": "10",
+        "peak-rank": "6",
+        "weeks-on-board": "33"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "7",
+        "song": "Come & Get It",
+        "artist": "Selena Gomez",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "8",
+        "song": "Radioactive",
+        "artist": "Imagine Dragons",
+        "last-week": "8",
+        "peak-rank": "7",
+        "weeks-on-board": "38"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "9",
+        "song": "I Love It",
+        "artist": "Icona Pop Featuring Charli XCX",
+        "last-week": "9",
+        "peak-rank": "7",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "10",
+        "song": "Get Lucky",
+        "artist": "Daft Punk Featuring Pharrell Williams",
+        "last-week": "15",
+        "peak-rank": "10",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "11",
+        "song": "Thrift Shop",
+        "artist": "Macklemore & Ryan Lewis Featuring Wanz",
+        "last-week": "7",
+        "peak-rank": "1",
+        "weeks-on-board": "33"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "12",
+        "song": "Blurred Lines",
+        "artist": "Robin Thicke Featuring T.I. + Pharrell",
+        "last-week": "54",
+        "peak-rank": "12",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "13",
+        "song": "The Way",
+        "artist": "Ariana Grande Featuring Mac Miller",
+        "last-week": "12",
+        "peak-rank": "10",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "14",
+        "song": "Heart Attack",
+        "artist": "Demi Lovato",
+        "last-week": "11",
+        "peak-rank": "10",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "15",
+        "song": "My Songs Know What You Did In The Dark (Light Em Up)",
+        "artist": "Fall Out Boy",
+        "last-week": "16",
+        "peak-rank": "15",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "16",
+        "song": "Boys 'round Here",
+        "artist": "Blake Shelton Featuring Pistol Annies & Friends",
+        "last-week": "19",
+        "peak-rank": "16",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "17",
+        "song": "Feel This Moment",
+        "artist": "Pitbull Featuring Christina Aguilera",
+        "last-week": "13",
+        "peak-rank": "8",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "18",
+        "song": "Started From The Bottom",
+        "artist": "Drake",
+        "last-week": "14",
+        "peak-rank": "6",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "19",
+        "song": "#thatPOWER",
+        "artist": "will.i.am Featuring Justin Bieber",
+        "last-week": "20",
+        "peak-rank": "17",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "20",
+        "song": "#Beautiful",
+        "artist": "Mariah Carey Featuring Miguel",
+        "last-week": "24",
+        "peak-rank": "20",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "21",
+        "song": "Wagon Wheel",
+        "artist": "Darius Rucker",
+        "last-week": "18",
+        "peak-rank": "16",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "22",
+        "song": "Young And Beautiful",
+        "artist": "Lana Del Rey",
+        "last-week": "59",
+        "peak-rank": "22",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "23",
+        "song": "Power Trip",
+        "artist": "J. Cole Featuring Miguel",
+        "last-week": "21",
+        "peak-rank": "20",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "24",
+        "song": "Highway Don't Care",
+        "artist": "Tim McGraw With Taylor Swift",
+        "last-week": "23",
+        "peak-rank": "23",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "25",
+        "song": "Suit & Tie",
+        "artist": "Justin Timberlake Featuring JAY Z",
+        "last-week": "17",
+        "peak-rank": "3",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "26",
+        "song": "22",
+        "artist": "Taylor Swift",
+        "last-week": "25",
+        "peak-rank": "20",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "27",
+        "song": "Love Me",
+        "artist": "Lil Wayne Featuring Drake & Future",
+        "last-week": "22",
+        "peak-rank": "9",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "28",
+        "song": "Next To Me",
+        "artist": "Emeli Sande",
+        "last-week": "26",
+        "peak-rank": "26",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "29",
+        "song": "Bad",
+        "artist": "Wale Featuring Tiara Thomas Or Rihanna",
+        "last-week": "27",
+        "peak-rank": "25",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "30",
+        "song": "Clarity",
+        "artist": "Zedd Featuring Foxes",
+        "last-week": "41",
+        "peak-rank": "30",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "31",
+        "song": "Here's To Never Growing Up",
+        "artist": "Avril Lavigne",
+        "last-week": "30",
+        "peak-rank": "30",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "32",
+        "song": "Bitch, Don't Kill My Vibe",
+        "artist": "Kendrick Lamar",
+        "last-week": "58",
+        "peak-rank": "32",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "33",
+        "song": "Ho Hey",
+        "artist": "The Lumineers",
+        "last-week": "28",
+        "peak-rank": "3",
+        "weeks-on-board": "50"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "34",
+        "song": "Fine China",
+        "artist": "Chris Brown",
+        "last-week": "40",
+        "peak-rank": "34",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "35",
+        "song": "Get Your Shine On",
+        "artist": "Florida Georgia Line",
+        "last-week": "29",
+        "peak-rank": "27",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "36",
+        "song": "Cups (Pitch Perfect's When I'm Gone)",
+        "artist": "Anna Kendrick",
+        "last-week": "44",
+        "peak-rank": "36",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "37",
+        "song": "Locked Out Of Heaven",
+        "artist": "Bruno Mars",
+        "last-week": "31",
+        "peak-rank": "1",
+        "weeks-on-board": "33"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "38",
+        "song": "Bugatti",
+        "artist": "Ace Hood Featuring Future & Rick Ross",
+        "last-week": "33",
+        "peak-rank": "33",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "39",
+        "song": "Daylight",
+        "artist": "Maroon 5",
+        "last-week": "34",
+        "peak-rank": "7",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "40",
+        "song": "The Other Side",
+        "artist": "Jason Derulo",
+        "last-week": "50",
+        "peak-rank": "40",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "41",
+        "song": "I Knew You Were Trouble.",
+        "artist": "Taylor Swift",
+        "last-week": "36",
+        "peak-rank": "2",
+        "weeks-on-board": "31"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "42",
+        "song": "Mama's Broken Heart",
+        "artist": "Miranda Lambert",
+        "last-week": "32",
+        "peak-rank": "20",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "43",
+        "song": "Give It All We Got Tonight",
+        "artist": "George Strait",
+        "last-week": "56",
+        "peak-rank": "43",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "44",
+        "song": "Alive",
+        "artist": "Krewella",
+        "last-week": "35",
+        "peak-rank": "32",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "45",
+        "song": "U.O.E.N.O.",
+        "artist": "Rocko Featuring Future & Rick Ross",
+        "last-week": "52",
+        "peak-rank": "45",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "46",
+        "song": "Rich As F**k",
+        "artist": "Lil Wayne Featuring 2 Chainz",
+        "last-week": "45",
+        "peak-rank": "45",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "47",
+        "song": "Sail",
+        "artist": "AWOLNATION",
+        "last-week": "37",
+        "peak-rank": "30",
+        "weeks-on-board": "37"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "48",
+        "song": "Crash My Party",
+        "artist": "Luke Bryan",
+        "last-week": "51",
+        "peak-rank": "18",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "49",
+        "song": "Gentleman",
+        "artist": "PSY",
+        "last-week": "39",
+        "peak-rank": "5",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "50",
+        "song": "Harlem Shake",
+        "artist": "Baauer",
+        "last-week": "38",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "51",
+        "song": "Body Party",
+        "artist": "Ciara",
+        "last-week": "55",
+        "peak-rank": "35",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "52",
+        "song": "Lego House",
+        "artist": "Ed Sheeran",
+        "last-week": "72",
+        "peak-rank": "52",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "53",
+        "song": "Downtown",
+        "artist": "Lady Antebellum",
+        "last-week": "48",
+        "peak-rank": "29",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "54",
+        "song": "No New Friends (SFTB Remix)",
+        "artist": "DJ Khaled Featuring Drake, Rick Ross & Lil Wayne",
+        "last-week": "61",
+        "peak-rank": "54",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "55",
+        "song": "Carry On",
+        "artist": "fun.",
+        "last-week": "47",
+        "peak-rank": "20",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "56",
+        "song": "I Want Crazy",
+        "artist": "Hunter Hayes",
+        "last-week": "57",
+        "peak-rank": "43",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "57",
+        "song": "Gone, Gone, Gone",
+        "artist": "Phillip Phillips",
+        "last-week": "60",
+        "peak-rank": "57",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "58",
+        "song": "I Need Your Love",
+        "artist": "Calvin Harris Featuring Ellie Goulding",
+        "last-week": "67",
+        "peak-rank": "58",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "59",
+        "song": "DONE.",
+        "artist": "The Band Perry",
+        "last-week": "62",
+        "peak-rank": "46",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "60",
+        "song": "Troublemaker",
+        "artist": "Olly Murs Featuring Flo Rida",
+        "last-week": "43",
+        "peak-rank": "25",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "61",
+        "song": "Pour It Up",
+        "artist": "Rihanna",
+        "last-week": "53",
+        "peak-rank": "19",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "62",
+        "song": "Live It Up",
+        "artist": "Jennifer Lopez Featuring Pitbull",
+        "last-week": "73",
+        "peak-rank": "62",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "63",
+        "song": "Pirate Flag",
+        "artist": "Kenny Chesney",
+        "last-week": "46",
+        "peak-rank": "46",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "64",
+        "song": "Anywhere With You",
+        "artist": "Jake Owen",
+        "last-week": "70",
+        "peak-rank": "64",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "65",
+        "song": "Beat This Summer",
+        "artist": "Brad Paisley",
+        "last-week": "69",
+        "peak-rank": "63",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "66",
+        "song": "Like Jesus Does",
+        "artist": "Eric Church",
+        "last-week": "65",
+        "peak-rank": "59",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "67",
+        "song": "We Still In This B****",
+        "artist": "B.o.B Featuring T.I. & Juicy J",
+        "last-week": "68",
+        "peak-rank": "67",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "68",
+        "song": "Demons",
+        "artist": "Imagine Dragons",
+        "last-week": "64",
+        "peak-rank": "64",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "69",
+        "song": "Sure Be Cool If You Did",
+        "artist": "Blake Shelton",
+        "last-week": "66",
+        "peak-rank": "24",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "70",
+        "song": "Hey Pretty Girl",
+        "artist": "Kip Moore",
+        "last-week": "76",
+        "peak-rank": "70",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "71",
+        "song": "Treasure",
+        "artist": "Bruno Mars",
+        "last-week": "",
+        "peak-rank": "71",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "72",
+        "song": "Same Love",
+        "artist": "Macklemore & Ryan Lewis Featuring Mary Lambert",
+        "last-week": "78",
+        "peak-rank": "72",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "73",
+        "song": "Love And War",
+        "artist": "Tamar Braxton",
+        "last-week": "74",
+        "peak-rank": "57",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "74",
+        "song": "Beat It",
+        "artist": "Sean Kingston Featuring Chris Brown & Wiz Khalifa",
+        "last-week": "82",
+        "peak-rank": "74",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "75",
+        "song": "Runnin' Outta Moonlight",
+        "artist": "Randy Houser",
+        "last-week": "91",
+        "peak-rank": "75",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "76",
+        "song": "1994",
+        "artist": "Jason Aldean",
+        "last-week": "63",
+        "peak-rank": "52",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "77",
+        "song": "A Little Party Never Killed Nobody (All We Got)",
+        "artist": "Fergie, Q-Tip & GoonRock",
+        "last-week": "",
+        "peak-rank": "77",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "78",
+        "song": "High School",
+        "artist": "Nicki Minaj Featuring Lil Wayne",
+        "last-week": "94",
+        "peak-rank": "68",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "79",
+        "song": "Loveeeeeee Song",
+        "artist": "Rihanna Featuring Future",
+        "last-week": "75",
+        "peak-rank": "55",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "80",
+        "song": "Wild For The Night",
+        "artist": "A$AP Rocky Featuring Skrillex",
+        "last-week": "85",
+        "peak-rank": "80",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "81",
+        "song": "See You Again",
+        "artist": "Carrie Underwood",
+        "last-week": "86",
+        "peak-rank": "81",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "82",
+        "song": "How Many Drinks?",
+        "artist": "Miguel",
+        "last-week": "84",
+        "peak-rank": "82",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "83",
+        "song": "Tapout",
+        "artist": "Rich Gang Featuring Lil Wayne, Birdman, Future, Mack Maine, Nicki Minaj",
+        "last-week": "100",
+        "peak-rank": "83",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "84",
+        "song": "Levitate",
+        "artist": "Hadouken!",
+        "last-week": "81",
+        "peak-rank": "69",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "85",
+        "song": "More Than Miles",
+        "artist": "Brantley Gilbert",
+        "last-week": "87",
+        "peak-rank": "79",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "86",
+        "song": "If I Didn't Have You",
+        "artist": "Thompson Square",
+        "last-week": "71",
+        "peak-rank": "49",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "87",
+        "song": "Wings",
+        "artist": "Little Mix",
+        "last-week": "79",
+        "peak-rank": "79",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "88",
+        "song": "Kisses Down Low",
+        "artist": "Kelly Rowland",
+        "last-week": "77",
+        "peak-rank": "72",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "89",
+        "song": "Molly",
+        "artist": "Tyga Featuring Cedric Gervais, Wiz Khalifa & Mally Mall",
+        "last-week": "89",
+        "peak-rank": "66",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "90",
+        "song": "Safe And Sound",
+        "artist": "Capital Cities",
+        "last-week": "97",
+        "peak-rank": "90",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "91",
+        "song": "Jump Right In",
+        "artist": "Zac Brown Band",
+        "last-week": "96",
+        "peak-rank": "91",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "92",
+        "song": "Karate Chop (Remix)",
+        "artist": "Future Featuring Lil Wayne",
+        "last-week": "88",
+        "peak-rank": "82",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "93",
+        "song": "I Am Beautiful",
+        "artist": "Candice Glover",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "94",
+        "song": "Little Bit Of Everything",
+        "artist": "Keith Urban",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "95",
+        "song": "All Over The Road",
+        "artist": "Easton Corbin",
+        "last-week": "98",
+        "peak-rank": "95",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "96",
+        "song": "Ready",
+        "artist": "Fabolous Featuring Chris Brown",
+        "last-week": "93",
+        "peak-rank": "93",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "97",
+        "song": "Can't Shake You",
+        "artist": "Gloriana",
+        "last-week": "83",
+        "peak-rank": "83",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "98",
+        "song": "Really Don't Care",
+        "artist": "Demi Lovato Featuring Cher Lloyd",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "99",
+        "song": "People Like Us",
+        "artist": "Kelly Clarkson",
+        "last-week": "",
+        "peak-rank": "99",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2013-06-01",
+        "rank": "100",
+        "song": "I Drive Your Truck",
+        "artist": "Lee Brice",
+        "last-week": "95",
+        "peak-rank": "47",
+        "weeks-on-board": "20"
+    }
+]

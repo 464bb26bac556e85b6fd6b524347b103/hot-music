@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1979-06-02",
+        "rank": "1",
+        "song": "Hot Stuff",
+        "artist": "Donna Summer",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "2",
+        "song": "Reunited",
+        "artist": "Peaches & Herb",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "3",
+        "song": "Love You Inside Out",
+        "artist": "Bee Gees",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "4",
+        "song": "We Are Family",
+        "artist": "Sister Sledge",
+        "last-week": "6",
+        "peak-rank": "4",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "5",
+        "song": "Goodnight Tonight",
+        "artist": "Wings",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "6",
+        "song": "Just When I Needed You Most",
+        "artist": "Randy VanWarmer",
+        "last-week": "8",
+        "peak-rank": "6",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "7",
+        "song": "Shake Your Body (Down To The Ground)",
+        "artist": "The Jacksons",
+        "last-week": "7",
+        "peak-rank": "7",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "8",
+        "song": "In The Navy",
+        "artist": "Village People",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "9",
+        "song": "The Logical Song",
+        "artist": "Supertramp",
+        "last-week": "12",
+        "peak-rank": "9",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "10",
+        "song": "Love Is The Answer",
+        "artist": "England Dan & John Ford Coley",
+        "last-week": "10",
+        "peak-rank": "10",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "11",
+        "song": "Chuck E.'s In Love",
+        "artist": "Rickie Lee Jones",
+        "last-week": "17",
+        "peak-rank": "11",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "12",
+        "song": "Deeper Than The Night",
+        "artist": "Olivia Newton-John",
+        "last-week": "16",
+        "peak-rank": "12",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "13",
+        "song": "Disco Nights (Rock-Freak)",
+        "artist": "G.Q.",
+        "last-week": "15",
+        "peak-rank": "13",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "14",
+        "song": "She Believes In Me",
+        "artist": "Kenny Rogers",
+        "last-week": "21",
+        "peak-rank": "14",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "15",
+        "song": "Heart Of Glass",
+        "artist": "Blondie",
+        "last-week": "13",
+        "peak-rank": "1",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "16",
+        "song": "Rock 'n' Roll Fantasy",
+        "artist": "Bad Company",
+        "last-week": "18",
+        "peak-rank": "16",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "17",
+        "song": "Renegade",
+        "artist": "Styx",
+        "last-week": "19",
+        "peak-rank": "17",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "18",
+        "song": "You Take My Breath Away",
+        "artist": "Rex Smith",
+        "last-week": "20",
+        "peak-rank": "18",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "19",
+        "song": "Ring My Bell",
+        "artist": "Anita Ward",
+        "last-week": "39",
+        "peak-rank": "19",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "20",
+        "song": "Minute By Minute",
+        "artist": "The Doobie Brothers",
+        "last-week": "31",
+        "peak-rank": "20",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "21",
+        "song": "Boogie Wonderland",
+        "artist": "Earth, Wind & Fire with The Emotions",
+        "last-week": "34",
+        "peak-rank": "21",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "22",
+        "song": "Hot Number",
+        "artist": "Foxy",
+        "last-week": "22",
+        "peak-rank": "22",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "23",
+        "song": "Ain't Love A Bitch",
+        "artist": "Rod Stewart",
+        "last-week": "23",
+        "peak-rank": "23",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "24",
+        "song": "Honesty",
+        "artist": "Billy Joel",
+        "last-week": "24",
+        "peak-rank": "24",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "25",
+        "song": "Get Used To It",
+        "artist": "Roger Voudouris",
+        "last-week": "27",
+        "peak-rank": "25",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "26",
+        "song": "I Want You To Want Me",
+        "artist": "Cheap Trick",
+        "last-week": "32",
+        "peak-rank": "26",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "27",
+        "song": "Makin' It",
+        "artist": "David Naughton",
+        "last-week": "30",
+        "peak-rank": "27",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "28",
+        "song": "Old Time Rock & Roll",
+        "artist": "Bob Seger & The Silver Bullet Band",
+        "last-week": "28",
+        "peak-rank": "28",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "29",
+        "song": "Stumblin' In",
+        "artist": "Suzi Quatro & Chris Norman",
+        "last-week": "9",
+        "peak-rank": "4",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "30",
+        "song": "Love Takes Time",
+        "artist": "Orleans",
+        "last-week": "11",
+        "peak-rank": "11",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "31",
+        "song": "(If Loving You Is Wrong) I Don't Want To Be Right",
+        "artist": "Barbara Mandrell",
+        "last-week": "33",
+        "peak-rank": "31",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "32",
+        "song": "Shine A Little Love",
+        "artist": "Electric Light Orchestra",
+        "last-week": "41",
+        "peak-rank": "32",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "33",
+        "song": "It Must Be Love",
+        "artist": "Alton McClain & Destiny",
+        "last-week": "36",
+        "peak-rank": "33",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "34",
+        "song": "Saturday Night, Sunday Morning",
+        "artist": "Thelma Houston",
+        "last-week": "35",
+        "peak-rank": "34",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "35",
+        "song": "Little Bit Of Soap",
+        "artist": "Nigel Olsson",
+        "last-week": "38",
+        "peak-rank": "35",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "36",
+        "song": "Dance The Night Away",
+        "artist": "Van Halen",
+        "last-week": "40",
+        "peak-rank": "36",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "37",
+        "song": "Gold",
+        "artist": "John Stewart",
+        "last-week": "44",
+        "peak-rank": "37",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "38",
+        "song": "When You're In Love With A Beautiful Woman",
+        "artist": "Dr. Hook",
+        "last-week": "42",
+        "peak-rank": "38",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "39",
+        "song": "He's The Greatest Dancer",
+        "artist": "Sister Sledge",
+        "last-week": "14",
+        "peak-rank": "9",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "40",
+        "song": "Ain't No Stoppin' Us Now",
+        "artist": "McFadden & Whitehead",
+        "last-week": "46",
+        "peak-rank": "40",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "41",
+        "song": "Good Timin'",
+        "artist": "The Beach Boys",
+        "last-week": "48",
+        "peak-rank": "41",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "42",
+        "song": "Shakedown Cruise",
+        "artist": "Jay Ferguson",
+        "last-week": "50",
+        "peak-rank": "42",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "43",
+        "song": "You Can't Change That",
+        "artist": "Raydio",
+        "last-week": "51",
+        "peak-rank": "43",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "44",
+        "song": "Don't Ever Wanna Lose Ya",
+        "artist": "New England",
+        "last-week": "54",
+        "peak-rank": "44",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "45",
+        "song": "(Wish I Could Fly Like) Superman",
+        "artist": "The Kinks",
+        "last-week": "57",
+        "peak-rank": "45",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "46",
+        "song": "Bad Girls",
+        "artist": "Donna Summer",
+        "last-week": "55",
+        "peak-rank": "46",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "47",
+        "song": "My Baby's Baby",
+        "artist": "Liquid Gold",
+        "last-week": "56",
+        "peak-rank": "47",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "48",
+        "song": "Georgy Porgy",
+        "artist": "Toto",
+        "last-week": "49",
+        "peak-rank": "48",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "49",
+        "song": "Dance Away",
+        "artist": "Roxy Music",
+        "last-week": "58",
+        "peak-rank": "49",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "50",
+        "song": "Take Me Home",
+        "artist": "Cher",
+        "last-week": "25",
+        "peak-rank": "8",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "51",
+        "song": "One More Minute",
+        "artist": "Saint Tropez",
+        "last-week": "53",
+        "peak-rank": "51",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "52",
+        "song": "Can't Sleep",
+        "artist": "Rockets",
+        "last-week": "52",
+        "peak-rank": "52",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "53",
+        "song": "Does Your Mother Know",
+        "artist": "ABBA",
+        "last-week": "63",
+        "peak-rank": "53",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "54",
+        "song": "I Can't Stand It No More",
+        "artist": "Peter Frampton",
+        "last-week": "72",
+        "peak-rank": "54",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "55",
+        "song": "Heart Of The Night",
+        "artist": "Poco",
+        "last-week": "66",
+        "peak-rank": "55",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "56",
+        "song": "Such A Woman",
+        "artist": "Tycoon",
+        "last-week": "26",
+        "peak-rank": "26",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "57",
+        "song": "Feel The Need",
+        "artist": "Leif Garrett",
+        "last-week": "60",
+        "peak-rank": "57",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "58",
+        "song": "Knock On Wood",
+        "artist": "Amii Stewart",
+        "last-week": "29",
+        "peak-rank": "1",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "59",
+        "song": "Boogie Woogie Dancin' Shoes",
+        "artist": "Claudja Barry",
+        "last-week": "61",
+        "peak-rank": "59",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "60",
+        "song": "I Was Made For Lovin' You",
+        "artist": "KISS",
+        "last-week": "70",
+        "peak-rank": "60",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "61",
+        "song": "Shadows In The Moonlight",
+        "artist": "Anne Murray",
+        "last-week": "71",
+        "peak-rank": "61",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "62",
+        "song": "My Love Is Music",
+        "artist": "Space",
+        "last-week": "62",
+        "peak-rank": "62",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "63",
+        "song": "Can't Keep A Good Man Down",
+        "artist": "Eddie Money",
+        "last-week": "64",
+        "peak-rank": "63",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "64",
+        "song": "Easy To Be Hard",
+        "artist": "Cheryl Barnes/Hair Soundtrack",
+        "last-week": "65",
+        "peak-rank": "64",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "65",
+        "song": "Say Maybe",
+        "artist": "Neil Diamond",
+        "last-week": "73",
+        "peak-rank": "65",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "66",
+        "song": "Sad Eyes",
+        "artist": "Robert John",
+        "last-week": "76",
+        "peak-rank": "66",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "67",
+        "song": "Do It Or Die",
+        "artist": "Atlanta Rhythm Section",
+        "last-week": "79",
+        "peak-rank": "67",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "68",
+        "song": "Days Gone Down (Still Got The Light In Your Eyes)",
+        "artist": "Gerry Rafferty",
+        "last-week": "",
+        "peak-rank": "68",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "69",
+        "song": "One Way Or Another",
+        "artist": "Blondie",
+        "last-week": "",
+        "peak-rank": "69",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "70",
+        "song": "Dance With You",
+        "artist": "Carrie Lucas",
+        "last-week": "75",
+        "peak-rank": "70",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "71",
+        "song": "Weekend",
+        "artist": "Wet Willie",
+        "last-week": "80",
+        "peak-rank": "71",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "72",
+        "song": "If You Can't Give Me Love",
+        "artist": "Suzi Quatro",
+        "last-week": "81",
+        "peak-rank": "72",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "73",
+        "song": "Go West",
+        "artist": "Village People",
+        "last-week": "82",
+        "peak-rank": "73",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "74",
+        "song": "People Of The South Wind",
+        "artist": "Kansas",
+        "last-week": "",
+        "peak-rank": "74",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "75",
+        "song": "Bustin' Out",
+        "artist": "Rick James",
+        "last-week": "77",
+        "peak-rank": "75",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "76",
+        "song": "Church",
+        "artist": "Bob Welch",
+        "last-week": "86",
+        "peak-rank": "76",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "77",
+        "song": "Head First",
+        "artist": "The Babys",
+        "last-week": "87",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "78",
+        "song": "Lead Me On",
+        "artist": "Maxine Nightingale",
+        "last-week": "89",
+        "peak-rank": "78",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "79",
+        "song": "Up On The Roof",
+        "artist": "James Taylor",
+        "last-week": "",
+        "peak-rank": "79",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "80",
+        "song": "If I Said You Have A Beautiful Body Would You Hold It Against Me",
+        "artist": "Bellamy Brothers",
+        "last-week": "90",
+        "peak-rank": "80",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "81",
+        "song": "Do You Wanna Go Party",
+        "artist": "KC And The Sunshine Band",
+        "last-week": "83",
+        "peak-rank": "81",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "82",
+        "song": "Make Love To Me",
+        "artist": "Helen Reddy",
+        "last-week": "88",
+        "peak-rank": "82",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "83",
+        "song": "Music Box",
+        "artist": "Evelyn \"Champagne\" King",
+        "last-week": "85",
+        "peak-rank": "83",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "84",
+        "song": "No Time To Lose",
+        "artist": "The Tarney/Spencer Band",
+        "last-week": "84",
+        "peak-rank": "84",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "85",
+        "song": "Married Men",
+        "artist": "Bette Midler",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "86",
+        "song": "I Want Your Love",
+        "artist": "Chic",
+        "last-week": "37",
+        "peak-rank": "7",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "87",
+        "song": "I Got My Mind Made Up (You Can Get It Girl)",
+        "artist": "Instant Funk",
+        "last-week": "43",
+        "peak-rank": "20",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "88",
+        "song": "Wasn't It Good",
+        "artist": "Cher",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "89",
+        "song": "I Don't Want Nobody Else (To Dance With You)",
+        "artist": "Narada Michael Walden",
+        "last-week": "47",
+        "peak-rank": "47",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "90",
+        "song": "Kiss In The Dark",
+        "artist": "Pink Lady",
+        "last-week": "",
+        "peak-rank": "90",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "91",
+        "song": "Blow Away",
+        "artist": "George Harrison",
+        "last-week": "91",
+        "peak-rank": "16",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "92",
+        "song": "What A Fool Believes",
+        "artist": "The Doobie Brothers",
+        "last-week": "92",
+        "peak-rank": "1",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "93",
+        "song": "Dancin' Fool",
+        "artist": "Frank Zappa",
+        "last-week": "45",
+        "peak-rank": "45",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "94",
+        "song": "One Chain (Don't Make No Prison)",
+        "artist": "Santana",
+        "last-week": "59",
+        "peak-rank": "59",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "95",
+        "song": "I Will Survive",
+        "artist": "Gloria Gaynor",
+        "last-week": "95",
+        "peak-rank": "1",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "96",
+        "song": "Star Love",
+        "artist": "Cheryl Lynn",
+        "last-week": "67",
+        "peak-rank": "62",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "97",
+        "song": "Love Ballad",
+        "artist": "George Benson",
+        "last-week": "97",
+        "peak-rank": "18",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "98",
+        "song": "Bang A Gong",
+        "artist": "Witch Queen",
+        "last-week": "68",
+        "peak-rank": "68",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "99",
+        "song": "Music Box Dancer",
+        "artist": "Frank Mills",
+        "last-week": "69",
+        "peak-rank": "3",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1979-06-02",
+        "rank": "100",
+        "song": "Tragedy",
+        "artist": "Bee Gees",
+        "last-week": "100",
+        "peak-rank": "1",
+        "weeks-on-board": "17"
+    }
+]

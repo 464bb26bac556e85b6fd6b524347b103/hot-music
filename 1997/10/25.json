@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1997-10-25",
+        "rank": "1",
+        "song": "Candle In The Wind 1997/Something About The Way You Look Tonight",
+        "artist": "Elton John",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "2",
+        "song": "You Make Me Wanna...",
+        "artist": "Usher",
+        "last-week": "3",
+        "peak-rank": "2",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "3",
+        "song": "How Do I Live",
+        "artist": "LeAnn Rimes",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "4",
+        "song": "4 Seasons Of Loneliness",
+        "artist": "Boyz II Men",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "5",
+        "song": "All Cried Out",
+        "artist": "Allure Featuring 112",
+        "last-week": "7",
+        "peak-rank": "5",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "6",
+        "song": "Honey",
+        "artist": "Mariah Carey",
+        "last-week": "5",
+        "peak-rank": "1",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "7",
+        "song": "Quit Playing Games (With My Heart)",
+        "artist": "Backstreet Boys",
+        "last-week": "6",
+        "peak-rank": "2",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "8",
+        "song": "Foolish Games/You Were Meant For Me",
+        "artist": "Jewel",
+        "last-week": "9",
+        "peak-rank": "2",
+        "weeks-on-board": "48"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "9",
+        "song": "My Love Is The Shhh!",
+        "artist": "Somethin' For The People Featuring Trina & Tamara",
+        "last-week": "12",
+        "peak-rank": "9",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "10",
+        "song": "Semi-Charmed Life",
+        "artist": "Third Eye Blind",
+        "last-week": "8",
+        "peak-rank": "4",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "11",
+        "song": "Tubthumping",
+        "artist": "Chumbawamba",
+        "last-week": "19",
+        "peak-rank": "11",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "12",
+        "song": "Mo Money Mo Problems",
+        "artist": "The Notorious B.I.G. Featuring Puff Daddy & Mase",
+        "last-week": "10",
+        "peak-rank": "1",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "13",
+        "song": "2 Become 1",
+        "artist": "Spice Girls",
+        "last-week": "11",
+        "peak-rank": "4",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "14",
+        "song": "The One I Gave My Heart To",
+        "artist": "Aaliyah",
+        "last-week": "18",
+        "peak-rank": "14",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "15",
+        "song": "Building A Mystery",
+        "artist": "Sarah McLachlan",
+        "last-week": "13",
+        "peak-rank": "13",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "16",
+        "song": "I'll Be Missing You",
+        "artist": "Puff Daddy & Faith Evans Featuring 112",
+        "last-week": "14",
+        "peak-rank": "1",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "17",
+        "song": "Invisible Man",
+        "artist": "98 Degrees",
+        "last-week": "15",
+        "peak-rank": "12",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "18",
+        "song": "All For You",
+        "artist": "Sister Hazel",
+        "last-week": "16",
+        "peak-rank": "11",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "19",
+        "song": "You Should Be Mine (Don't Waste Your Time)",
+        "artist": "Brian McKnight Featuring Mase",
+        "last-week": "17",
+        "peak-rank": "17",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "20",
+        "song": "What About Us",
+        "artist": "Total",
+        "last-week": "20",
+        "peak-rank": "20",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "21",
+        "song": "Butta Love",
+        "artist": "Next",
+        "last-week": "21",
+        "peak-rank": "21",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "22",
+        "song": "Criminal",
+        "artist": "Fiona Apple",
+        "last-week": "28",
+        "peak-rank": "22",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "23",
+        "song": "I Care 'Bout You",
+        "artist": "Milestone",
+        "last-week": "23",
+        "peak-rank": "23",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "24",
+        "song": "Everything",
+        "artist": "Mary J. Blige",
+        "last-week": "24",
+        "peak-rank": "24",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "25",
+        "song": "Love Gets Me Every Time",
+        "artist": "Shania Twain",
+        "last-week": "31",
+        "peak-rank": "25",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "26",
+        "song": "Sunny Came Home",
+        "artist": "Shawn Colvin",
+        "last-week": "26",
+        "peak-rank": "7",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "27",
+        "song": "I Miss My Homies",
+        "artist": "Master P Featuring Pimp C And The Shocker",
+        "last-week": "27",
+        "peak-rank": "25",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "28",
+        "song": "Up Jumps Da Boogie",
+        "artist": "Magoo And Timbaland",
+        "last-week": "22",
+        "peak-rank": "12",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "29",
+        "song": "Not Tonight",
+        "artist": "Lil' Kim Feat. Da Brat, Left Eye, Missy Elliott & Angie Mar",
+        "last-week": "25",
+        "peak-rank": "6",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "30",
+        "song": "Do You Know (What It Takes)",
+        "artist": "Robyn",
+        "last-week": "29",
+        "peak-rank": "7",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "31",
+        "song": "If I Could Teach The World",
+        "artist": "Bone Thugs-N-Harmony",
+        "last-week": "42",
+        "peak-rank": "31",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "32",
+        "song": "Never Make A Promise",
+        "artist": "Dru Hill",
+        "last-week": "30",
+        "peak-rank": "7",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "33",
+        "song": "Too Gone, Too Long",
+        "artist": "En Vogue",
+        "last-week": "41",
+        "peak-rank": "33",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "34",
+        "song": "Barely Breathing",
+        "artist": "Duncan Sheik",
+        "last-week": "32",
+        "peak-rank": "16",
+        "weeks-on-board": "48"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "35",
+        "song": "The Freshmen",
+        "artist": "The Verve Pipe",
+        "last-week": "33",
+        "peak-rank": "5",
+        "weeks-on-board": "36"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "36",
+        "song": "Legend Of A Cowgirl",
+        "artist": "Imani Coppola",
+        "last-week": "45",
+        "peak-rank": "36",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "37",
+        "song": "Backyard Boogie",
+        "artist": "Mack 10",
+        "last-week": "37",
+        "peak-rank": "37",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "38",
+        "song": "Bitch",
+        "artist": "Meredith Brooks",
+        "last-week": "36",
+        "peak-rank": "2",
+        "weeks-on-board": "27"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "39",
+        "song": "On My Own",
+        "artist": "Peach Union",
+        "last-week": "39",
+        "peak-rank": "39",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "40",
+        "song": "Sock It 2 Me",
+        "artist": "Missy \"Misdemeanor\" Elliott Featuring Da Brat",
+        "last-week": "55",
+        "peak-rank": "40",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "41",
+        "song": "Avenues",
+        "artist": "Refugee Camp All Stars Featuring Pras (With Ky-mani)",
+        "last-week": "35",
+        "peak-rank": "35",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "42",
+        "song": "Return Of The Mack",
+        "artist": "Mark Morrison",
+        "last-week": "38",
+        "peak-rank": "2",
+        "weeks-on-board": "35"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "43",
+        "song": "Coco Jamboo",
+        "artist": "Mr. President",
+        "last-week": "34",
+        "peak-rank": "21",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "44",
+        "song": "You Light Up My Life",
+        "artist": "LeAnn Rimes",
+        "last-week": "40",
+        "peak-rank": "34",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "45",
+        "song": "ESPN Presents The Jock Jam",
+        "artist": "Various Artists",
+        "last-week": "44",
+        "peak-rank": "31",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "46",
+        "song": "Have A Little Mercy",
+        "artist": "4.0",
+        "last-week": "46",
+        "peak-rank": "46",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "47",
+        "song": "They Like It Slow",
+        "artist": "H-Town",
+        "last-week": "60",
+        "peak-rank": "47",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "48",
+        "song": "Heaven",
+        "artist": "Nu Flavor",
+        "last-week": "54",
+        "peak-rank": "48",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "49",
+        "song": "No Tengo Dinero",
+        "artist": "Los Umbrellos",
+        "last-week": "50",
+        "peak-rank": "49",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "50",
+        "song": "G.H.E.T.T.O.U.T.",
+        "artist": "Changing Faces",
+        "last-week": "48",
+        "peak-rank": "8",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "51",
+        "song": "I Say A Little Prayer",
+        "artist": "Diana King",
+        "last-week": "53",
+        "peak-rank": "38",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "52",
+        "song": "Do You Like This",
+        "artist": "Rome",
+        "last-week": "47",
+        "peak-rank": "31",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "53",
+        "song": "Gotham City",
+        "artist": "R. Kelly",
+        "last-week": "51",
+        "peak-rank": "9",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "54",
+        "song": "Last Night's Letter",
+        "artist": "K-Ci & JoJo",
+        "last-week": "59",
+        "peak-rank": "54",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "55",
+        "song": "Barbie Girl",
+        "artist": "Aqua",
+        "last-week": "43",
+        "peak-rank": "7",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "56",
+        "song": "Me And My Crazy World",
+        "artist": "Lost Boyz",
+        "last-week": "52",
+        "peak-rank": "52",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "57",
+        "song": "Electric Barbarella",
+        "artist": "Duran Duran",
+        "last-week": "61",
+        "peak-rank": "57",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "58",
+        "song": "C U When U Get There (From \"Nothing To Lose\")",
+        "artist": "Coolio Featuring 40 Thevz",
+        "last-week": "57",
+        "peak-rank": "12",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "59",
+        "song": "Someone",
+        "artist": "SWV (Featuring Puff Daddy)",
+        "last-week": "56",
+        "peak-rank": "19",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "60",
+        "song": "After 12, Before 6",
+        "artist": "Sam Salter",
+        "last-week": "58",
+        "peak-rank": "51",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "61",
+        "song": "Valentine",
+        "artist": "Martina McBride With Jim Brickman",
+        "last-week": "67",
+        "peak-rank": "61",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "62",
+        "song": "Don't Go",
+        "artist": "Le Click Featuring Kayo",
+        "last-week": "62",
+        "peak-rank": "62",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "63",
+        "song": "So Help Me Girl",
+        "artist": "Gary Barlow",
+        "last-week": "76",
+        "peak-rank": "63",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "64",
+        "song": "Around The World",
+        "artist": "Daft Punk",
+        "last-week": "66",
+        "peak-rank": "61",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "65",
+        "song": "The Way That You Talk",
+        "artist": "Jagged Edge Featuring Da Brat & JD",
+        "last-week": "65",
+        "peak-rank": "65",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "66",
+        "song": "I Can Love You",
+        "artist": "Mary J. Blige",
+        "last-week": "63",
+        "peak-rank": "28",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "67",
+        "song": "Love Is Alive",
+        "artist": "3rd Party",
+        "last-week": "71",
+        "peak-rank": "67",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "68",
+        "song": "Big Bad Mamma (From \"Def Jam's How To Be A Player\")",
+        "artist": "Foxy Brown Featuring Dru Hill",
+        "last-week": "64",
+        "peak-rank": "53",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "69",
+        "song": "To The Moon And Back",
+        "artist": "Savage Garden",
+        "last-week": "73",
+        "peak-rank": "37",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "70",
+        "song": "Don't Say",
+        "artist": "Jon B",
+        "last-week": "68",
+        "peak-rank": "68",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "71",
+        "song": "Please",
+        "artist": "The Kinleys",
+        "last-week": "81",
+        "peak-rank": "71",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "72",
+        "song": "All I Want (From \"GOOD Burger\")",
+        "artist": "702",
+        "last-week": "72",
+        "peak-rank": "35",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "73",
+        "song": "Piece Of My Heart",
+        "artist": "Shaggy (Featuring Marsha)",
+        "last-week": "77",
+        "peak-rank": "72",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "74",
+        "song": "More Than This",
+        "artist": "10,000 Maniacs",
+        "last-week": "78",
+        "peak-rank": "25",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "75",
+        "song": "Free",
+        "artist": "Ultra Nate",
+        "last-week": "80",
+        "peak-rank": "75",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "76",
+        "song": "Hole In My Soul",
+        "artist": "Aerosmith",
+        "last-week": "82",
+        "peak-rank": "51",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "77",
+        "song": "You're The Inspiration",
+        "artist": "Peter Cetera Featuring Az Yet",
+        "last-week": "92",
+        "peak-rank": "77",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "78",
+        "song": "Alright",
+        "artist": "Jamiroquai",
+        "last-week": "85",
+        "peak-rank": "78",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "79",
+        "song": "The Rest Of Mine",
+        "artist": "Trace Adkins",
+        "last-week": "93",
+        "peak-rank": "79",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "80",
+        "song": "Down For Yours",
+        "artist": "Nastyboy Klick Featuring Roger Troutman",
+        "last-week": "83",
+        "peak-rank": "69",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "81",
+        "song": "You're Not Alone",
+        "artist": "Olive",
+        "last-week": "",
+        "peak-rank": "81",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "82",
+        "song": "Look Into My Eyes (From \"Batman & Robin\")",
+        "artist": "Bone Thugs-N-Harmony",
+        "last-week": "84",
+        "peak-rank": "4",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "83",
+        "song": "As We Lay",
+        "artist": "Dana",
+        "last-week": "69",
+        "peak-rank": "59",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "84",
+        "song": "A Smile Like Yours (From \"A Smile Like Yours\")",
+        "artist": "Natalie Cole",
+        "last-week": "86",
+        "peak-rank": "84",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "85",
+        "song": "I'm Not A Fool",
+        "artist": "Immature",
+        "last-week": "75",
+        "peak-rank": "69",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "86",
+        "song": "Jack-Ass",
+        "artist": "Beck",
+        "last-week": "88",
+        "peak-rank": "73",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "87",
+        "song": "Go Away",
+        "artist": "Lorrie Morgan",
+        "last-week": "94",
+        "peak-rank": "87",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "88",
+        "song": "You Bring Me Up",
+        "artist": "K-Ci & JoJo",
+        "last-week": "95",
+        "peak-rank": "26",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "89",
+        "song": "One More Night",
+        "artist": "Amber",
+        "last-week": "89",
+        "peak-rank": "89",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "90",
+        "song": "Smile",
+        "artist": "Scarface Featuring 2Pac & Johnny P",
+        "last-week": "90",
+        "peak-rank": "12",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "91",
+        "song": "Can We (From \"Booty Call\")",
+        "artist": "SWV",
+        "last-week": "99",
+        "peak-rank": "75",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "92",
+        "song": "Spin Spin Sugar",
+        "artist": "Sneaker Pimps",
+        "last-week": "98",
+        "peak-rank": "92",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "93",
+        "song": "Things Just Ain't The Same",
+        "artist": "Deborah Cox",
+        "last-week": "87",
+        "peak-rank": "56",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "94",
+        "song": "Take It To The Streets",
+        "artist": "Rampage Featuring Billy Lawrence",
+        "last-week": "91",
+        "peak-rank": "34",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "95",
+        "song": "Sunshine",
+        "artist": "Jay-Z Featuring Babyface And Foxy Brown",
+        "last-week": "",
+        "peak-rank": "95",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "96",
+        "song": "We Can Get Down",
+        "artist": "Myron",
+        "last-week": "79",
+        "peak-rank": "75",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "97",
+        "song": "Pushin' Inside You (From \"How Bout It\")",
+        "artist": "Sons Of Funk",
+        "last-week": "",
+        "peak-rank": "97",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "98",
+        "song": "When Love Starts Talkin'",
+        "artist": "Wynonna",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "99",
+        "song": "Men Of Steel (From \"Steel\")",
+        "artist": "Shaquille O'Neal, Ice Cube, B Real, Peter Gunz & KRS-One",
+        "last-week": "96",
+        "peak-rank": "82",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1997-10-25",
+        "rank": "100",
+        "song": "Whatever",
+        "artist": "En Vogue",
+        "last-week": "100",
+        "peak-rank": "16",
+        "weeks-on-board": "15"
+    }
+]

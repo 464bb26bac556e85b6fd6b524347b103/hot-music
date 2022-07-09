@@ -1,0 +1,902 @@
+[
+    {
+        "date": "2021-01-02",
+        "rank": "1",
+        "song": "All I Want For Christmas Is You",
+        "artist": "Mariah Carey",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "43"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "2",
+        "song": "Rockin' Around The Christmas Tree",
+        "artist": "Brenda Lee",
+        "last-week": "3",
+        "peak-rank": "2",
+        "weeks-on-board": "38"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "3",
+        "song": "Jingle Bell Rock",
+        "artist": "Bobby Helms",
+        "last-week": "4",
+        "peak-rank": "3",
+        "weeks-on-board": "35"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "4",
+        "song": "A Holly Jolly Christmas",
+        "artist": "Burl Ives",
+        "last-week": "6",
+        "peak-rank": "4",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "5",
+        "song": "It's The Most Wonderful Time Of The Year",
+        "artist": "Andy Williams",
+        "last-week": "7",
+        "peak-rank": "5",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "6",
+        "song": "Feliz Navidad",
+        "artist": "Jose Feliciano",
+        "last-week": "10",
+        "peak-rank": "6",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "7",
+        "song": "Mood",
+        "artist": "24kGoldn Featuring iann dior",
+        "last-week": "5",
+        "peak-rank": "1",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "8",
+        "song": "Let It Snow, Let It Snow, Let It Snow",
+        "artist": "Dean Martin",
+        "last-week": "11",
+        "peak-rank": "8",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "9",
+        "song": "Last Christmas",
+        "artist": "Wham!",
+        "last-week": "14",
+        "peak-rank": "9",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "10",
+        "song": "Run Rudolph Run",
+        "artist": "Chuck Berry",
+        "last-week": "29",
+        "peak-rank": "10",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "11",
+        "song": "The Christmas Song (Merry Christmas To You)",
+        "artist": "Nat King Cole",
+        "last-week": "15",
+        "peak-rank": "11",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "12",
+        "song": "Underneath The Tree",
+        "artist": "Kelly Clarkson",
+        "last-week": "28",
+        "peak-rank": "12",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "13",
+        "song": "Sleigh Ride",
+        "artist": "The Ronettes",
+        "last-week": "19",
+        "peak-rank": "13",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "14",
+        "song": "Positions",
+        "artist": "Ariana Grande",
+        "last-week": "8",
+        "peak-rank": "1",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "15",
+        "song": "It's Beginning To Look A Lot Like Christmas",
+        "artist": "Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra",
+        "last-week": "12",
+        "peak-rank": "12",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "16",
+        "song": "Rudolph The Red-Nosed Reindeer",
+        "artist": "Gene Autry",
+        "last-week": "31",
+        "peak-rank": "16",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "17",
+        "song": "Santa Tell Me",
+        "artist": "Ariana Grande",
+        "last-week": "32",
+        "peak-rank": "17",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "18",
+        "song": "Happy Holiday / The Holiday Season",
+        "artist": "Andy Williams",
+        "last-week": "26",
+        "peak-rank": "18",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "19",
+        "song": "Christmas (Baby Please Come Home)",
+        "artist": "Darlene Love",
+        "last-week": "37",
+        "peak-rank": "19",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "20",
+        "song": "White Christmas",
+        "artist": "Bing Crosby",
+        "last-week": "38",
+        "peak-rank": "12",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "21",
+        "song": "Holy",
+        "artist": "Justin Bieber Featuring Chance The Rapper",
+        "last-week": "13",
+        "peak-rank": "3",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "22",
+        "song": "(There's No Place Like) Home For The Holidays",
+        "artist": "Perry Como",
+        "last-week": "43",
+        "peak-rank": "22",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "23",
+        "song": "It's Beginning To Look A Lot Like Christmas",
+        "artist": "Michael Buble",
+        "last-week": "42",
+        "peak-rank": "23",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "24",
+        "song": "Go Crazy",
+        "artist": "Chris Brown & Young Thug",
+        "last-week": "16",
+        "peak-rank": "9",
+        "weeks-on-board": "33"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "25",
+        "song": "Laugh Now Cry Later",
+        "artist": "Drake Featuring Lil Durk",
+        "last-week": "17",
+        "peak-rank": "2",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "26",
+        "song": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+        "artist": "Gene Autry",
+        "last-week": "69",
+        "peak-rank": "26",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "27",
+        "song": "Levitating",
+        "artist": "Dua Lipa Featuring DaBaby",
+        "last-week": "27",
+        "peak-rank": "20",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "28",
+        "song": "Wonderful Christmastime",
+        "artist": "Paul McCartney",
+        "last-week": "46",
+        "peak-rank": "28",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "29",
+        "song": "For The Night",
+        "artist": "Pop Smoke Featuring Lil Baby & DaBaby",
+        "last-week": "25",
+        "peak-rank": "6",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "30",
+        "song": "I Hope",
+        "artist": "Gabby Barrett Featuring Charlie Puth",
+        "last-week": "20",
+        "peak-rank": "3",
+        "weeks-on-board": "52"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "31",
+        "song": "Lemonade",
+        "artist": "Internet Money & Gunna Featuring Don Toliver & NAV",
+        "last-week": "24",
+        "peak-rank": "6",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "32",
+        "song": "You're A Mean One, Mr. Grinch",
+        "artist": "Thurl Ravenscroft",
+        "last-week": "",
+        "peak-rank": "32",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "33",
+        "song": "Blue Christmas",
+        "artist": "Elvis Presley",
+        "last-week": "",
+        "peak-rank": "33",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "34",
+        "song": "Dakiti",
+        "artist": "Bad Bunny & Jhay Cortez",
+        "last-week": "23",
+        "peak-rank": "5",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "35",
+        "song": "Body",
+        "artist": "Megan Thee Stallion",
+        "last-week": "22",
+        "peak-rank": "12",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "36",
+        "song": "Mele Kalikimaka (Merry Christmas)",
+        "artist": "Bing Crosby & The Andrews Sisters",
+        "last-week": "",
+        "peak-rank": "36",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "37",
+        "song": "Bang!",
+        "artist": "AJR",
+        "last-week": "33",
+        "peak-rank": "24",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "38",
+        "song": "Willow",
+        "artist": "Taylor Swift",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "39",
+        "song": "This Christmas",
+        "artist": "Donny Hathaway",
+        "last-week": "",
+        "peak-rank": "39",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "40",
+        "song": "34+35",
+        "artist": "Ariana Grande",
+        "last-week": "35",
+        "peak-rank": "8",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "41",
+        "song": "Kings & Queens",
+        "artist": "Ava Max",
+        "last-week": "30",
+        "peak-rank": "13",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "42",
+        "song": "Therefore I Am",
+        "artist": "Billie Eilish",
+        "last-week": "36",
+        "peak-rank": "2",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "43",
+        "song": "Deck The Halls",
+        "artist": "Nat King Cole",
+        "last-week": "47",
+        "peak-rank": "43",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "44",
+        "song": "Dynamite",
+        "artist": "BTS",
+        "last-week": "9",
+        "peak-rank": "1",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "45",
+        "song": "Please Come Home For Christmas",
+        "artist": "Eagles",
+        "last-week": "",
+        "peak-rank": "18",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "46",
+        "song": "Santa Claus Is Comin' To Town",
+        "artist": "Jackson 5",
+        "last-week": "",
+        "peak-rank": "46",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "47",
+        "song": "Little Saint Nick",
+        "artist": "The Beach Boys",
+        "last-week": "",
+        "peak-rank": "47",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "48",
+        "song": "Take Me Home For Christmas",
+        "artist": "Dan + Shay",
+        "last-week": "58",
+        "peak-rank": "48",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "49",
+        "song": "Have Yourself A Merry Little Christmas",
+        "artist": "Michael Buble",
+        "last-week": "",
+        "peak-rank": "49",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "50",
+        "song": "I'll Be Home For Christmas",
+        "artist": "Bing Crosby",
+        "last-week": "",
+        "peak-rank": "50",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "51",
+        "song": "What You Know Bout Love",
+        "artist": "Pop Smoke",
+        "last-week": "48",
+        "peak-rank": "25",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "52",
+        "song": "Whoopty",
+        "artist": "CJ",
+        "last-week": "53",
+        "peak-rank": "51",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "53",
+        "song": "Lonely",
+        "artist": "Justin Bieber & benny blanco",
+        "last-week": "51",
+        "peak-rank": "14",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "54",
+        "song": "Hallelujah",
+        "artist": "Carrie Underwood & John Legend",
+        "last-week": "84",
+        "peak-rank": "54",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "55",
+        "song": "WAP",
+        "artist": "Cardi B Featuring Megan Thee Stallion",
+        "last-week": "55",
+        "peak-rank": "1",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "56",
+        "song": "Holiday",
+        "artist": "Lil Nas X",
+        "last-week": "56",
+        "peak-rank": "37",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "57",
+        "song": "Better Together",
+        "artist": "Luke Combs",
+        "last-week": "59",
+        "peak-rank": "30",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "58",
+        "song": "On Me",
+        "artist": "Lil Baby",
+        "last-week": "60",
+        "peak-rank": "30",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "59",
+        "song": "Afterglow",
+        "artist": "Ed Sheeran",
+        "last-week": "",
+        "peak-rank": "59",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "60",
+        "song": "Gnat",
+        "artist": "Eminem",
+        "last-week": "",
+        "peak-rank": "60",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "61",
+        "song": "Rockin' Around The Christmas Tree",
+        "artist": "Justin Bieber",
+        "last-week": "87",
+        "peak-rank": "61",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "62",
+        "song": "Favorite Time Of Year",
+        "artist": "Carrie Underwood",
+        "last-week": "99",
+        "peak-rank": "62",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "63",
+        "song": "Hawai",
+        "artist": "Maluma & The Weeknd",
+        "last-week": "65",
+        "peak-rank": "12",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "64",
+        "song": "Monster",
+        "artist": "Shawn Mendes & Justin Bieber",
+        "last-week": "62",
+        "peak-rank": "8",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "65",
+        "song": "Diamonds",
+        "artist": "Sam Smith",
+        "last-week": "66",
+        "peak-rank": "40",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "66",
+        "song": "Starting Over",
+        "artist": "Chris Stapleton",
+        "last-week": "72",
+        "peak-rank": "25",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "67",
+        "song": "Cry Baby",
+        "artist": "Megan Thee Stallion Featuring DaBaby",
+        "last-week": "95",
+        "peak-rank": "67",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "68",
+        "song": "You Broke Me First.",
+        "artist": "Tate McRae",
+        "last-week": "79",
+        "peak-rank": "50",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "69",
+        "song": "My Ex's Best Friend",
+        "artist": "Machine Gun Kelly X blackbear",
+        "last-week": "86",
+        "peak-rank": "28",
+        "weeks-on-board": "19"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "70",
+        "song": "Without You",
+        "artist": "The Kid LAROI",
+        "last-week": "81",
+        "peak-rank": "63",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "71",
+        "song": "Big, Big Plans",
+        "artist": "Chris Lane",
+        "last-week": "73",
+        "peak-rank": "42",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "72",
+        "song": "Mr. Right Now",
+        "artist": "21 Savage & Metro Boomin Featuring Drake",
+        "last-week": "88",
+        "peak-rank": "10",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "73",
+        "song": "Forever After All",
+        "artist": "Luke Combs",
+        "last-week": "92",
+        "peak-rank": "2",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "74",
+        "song": "Throat Baby (Go Baby)",
+        "artist": "BRS Kash",
+        "last-week": "97",
+        "peak-rank": "69",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "75",
+        "song": "Under The Mistletoe",
+        "artist": "Kelly Clarkson & Brett Eldredge",
+        "last-week": "",
+        "peak-rank": "59",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "76",
+        "song": "Tyler Herro",
+        "artist": "Jack Harlow",
+        "last-week": "77",
+        "peak-rank": "34",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "77",
+        "song": "Champagne Problems",
+        "artist": "Taylor Swift",
+        "last-week": "21",
+        "peak-rank": "21",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "78",
+        "song": "The First Noel",
+        "artist": "Gabby Barrett",
+        "last-week": "",
+        "peak-rank": "78",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "79",
+        "song": "Love You Like I Used To",
+        "artist": "Russell Dickerson",
+        "last-week": "83",
+        "peak-rank": "31",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "80",
+        "song": "Champagne Night",
+        "artist": "Lady A",
+        "last-week": "",
+        "peak-rank": "75",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "81",
+        "song": "Prisoner",
+        "artist": "Miley Cyrus Featuring Dua Lipa",
+        "last-week": "94",
+        "peak-rank": "54",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "82",
+        "song": "Good Time",
+        "artist": "Niko Moon",
+        "last-week": "96",
+        "peak-rank": "71",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "83",
+        "song": "7 Summers",
+        "artist": "Morgan Wallen",
+        "last-week": "",
+        "peak-rank": "6",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "84",
+        "song": "Adderall (Corvette Corvette)",
+        "artist": "Popp Hunna",
+        "last-week": "",
+        "peak-rank": "84",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "85",
+        "song": "You're Mines Still",
+        "artist": "Yung Bleu Featuring Drake",
+        "last-week": "",
+        "peak-rank": "52",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "86",
+        "song": "Tequila Shots",
+        "artist": "Kid Cudi",
+        "last-week": "41",
+        "peak-rank": "41",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "87",
+        "song": "Back To The Streets",
+        "artist": "Saweetie Featuring Jhene Aiko",
+        "last-week": "",
+        "peak-rank": "76",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "88",
+        "song": "Bichota",
+        "artist": "Karol G",
+        "last-week": "",
+        "peak-rank": "88",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "89",
+        "song": "Way Out",
+        "artist": "Jack Harlow Featuring Big Sean",
+        "last-week": "74",
+        "peak-rank": "74",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "90",
+        "song": "Hit Different",
+        "artist": "SZA Featuring Ty Dolla $ign",
+        "last-week": "",
+        "peak-rank": "29",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "91",
+        "song": "'Tis The Damn Season",
+        "artist": "Taylor Swift",
+        "last-week": "39",
+        "peak-rank": "39",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "92",
+        "song": "Damage",
+        "artist": "H.E.R.",
+        "last-week": "",
+        "peak-rank": "70",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "93",
+        "song": "Backdoor",
+        "artist": "Lil Durk",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "94",
+        "song": "Silent Night",
+        "artist": "Carrie Underwood",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "95",
+        "song": "Golden",
+        "artist": "Harry Styles",
+        "last-week": "",
+        "peak-rank": "74",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "96",
+        "song": "Hole In The Bottle",
+        "artist": "Kelsea Ballerini",
+        "last-week": "",
+        "peak-rank": "72",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "97",
+        "song": "No Body, No Crime",
+        "artist": "Taylor Swift Featuring HAIM",
+        "last-week": "34",
+        "peak-rank": "34",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "98",
+        "song": "Moonwalking In Calabasas",
+        "artist": "DDG",
+        "last-week": "",
+        "peak-rank": "98",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "99",
+        "song": "Took Her To The O",
+        "artist": "King Von",
+        "last-week": "",
+        "peak-rank": "47",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "2021-01-02",
+        "rank": "100",
+        "song": "Put Your Records On",
+        "artist": "Ritt Momney",
+        "last-week": "",
+        "peak-rank": "79",
+        "weeks-on-board": "10"
+    }
+]

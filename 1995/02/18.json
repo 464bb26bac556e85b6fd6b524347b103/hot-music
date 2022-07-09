@@ -1,0 +1,902 @@
+[
+    {
+        "date": "1995-02-18",
+        "rank": "1",
+        "song": "Creep",
+        "artist": "TLC",
+        "last-week": "1",
+        "peak-rank": "1",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "2",
+        "song": "Take A Bow",
+        "artist": "Madonna",
+        "last-week": "4",
+        "peak-rank": "2",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "3",
+        "song": "On Bended Knee",
+        "artist": "Boyz II Men",
+        "last-week": "2",
+        "peak-rank": "1",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "4",
+        "song": "Another Night",
+        "artist": "Real McCoy",
+        "last-week": "3",
+        "peak-rank": "3",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "5",
+        "song": "Baby",
+        "artist": "Brandy",
+        "last-week": "5",
+        "peak-rank": "5",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "6",
+        "song": "You Gotta Be",
+        "artist": "Des'ree",
+        "last-week": "6",
+        "peak-rank": "6",
+        "weeks-on-board": "25"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "7",
+        "song": "Candy Rain",
+        "artist": "Soul For Real",
+        "last-week": "14",
+        "peak-rank": "7",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "8",
+        "song": "Always",
+        "artist": "Bon Jovi",
+        "last-week": "7",
+        "peak-rank": "4",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "9",
+        "song": "Sukiyaki",
+        "artist": "4PM",
+        "last-week": "8",
+        "peak-rank": "8",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "10",
+        "song": "Hold My Hand",
+        "artist": "Hootie & The Blowfish",
+        "last-week": "11",
+        "peak-rank": "10",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "11",
+        "song": "If You Love Me",
+        "artist": "Brownstone",
+        "last-week": "16",
+        "peak-rank": "11",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "12",
+        "song": "Before I Let You Go",
+        "artist": "BLACKstreet",
+        "last-week": "9",
+        "peak-rank": "7",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "13",
+        "song": "The Rhythm Of The Night",
+        "artist": "Corona",
+        "last-week": "12",
+        "peak-rank": "11",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "14",
+        "song": "I'm The Only One",
+        "artist": "Melissa Etheridge",
+        "last-week": "10",
+        "peak-rank": "8",
+        "weeks-on-board": "29"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "15",
+        "song": "You Don't Know How It Feels",
+        "artist": "Tom Petty",
+        "last-week": "15",
+        "peak-rank": "13",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "16",
+        "song": "Strong Enough",
+        "artist": "Sheryl Crow",
+        "last-week": "19",
+        "peak-rank": "16",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "17",
+        "song": "Big Poppa/Warning",
+        "artist": "The Notorious B.I.G.",
+        "last-week": "25",
+        "peak-rank": "17",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "18",
+        "song": "Here Comes The Hotstepper (From \"Ready To Wear\")",
+        "artist": "Ini Kamoze",
+        "last-week": "13",
+        "peak-rank": "1",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "19",
+        "song": "Constantly",
+        "artist": "Immature",
+        "last-week": "17",
+        "peak-rank": "16",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "20",
+        "song": "The Sweetest Days",
+        "artist": "Vanessa Williams",
+        "last-week": "18",
+        "peak-rank": "18",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "21",
+        "song": "Every Day Of The Week",
+        "artist": "Jade",
+        "last-week": "21",
+        "peak-rank": "20",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "22",
+        "song": "I Miss You",
+        "artist": "N2U",
+        "last-week": "28",
+        "peak-rank": "22",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "23",
+        "song": "Bang And Blame",
+        "artist": "R.E.M.",
+        "last-week": "22",
+        "peak-rank": "19",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "24",
+        "song": "I Wanna Be Down",
+        "artist": "Brandy",
+        "last-week": "20",
+        "peak-rank": "6",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "25",
+        "song": "Like The Way I Do/If I Wanted To",
+        "artist": "Melissa Etheridge",
+        "last-week": "",
+        "peak-rank": "25",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "26",
+        "song": "I'll Make Love To You",
+        "artist": "Boyz II Men",
+        "last-week": "23",
+        "peak-rank": "1",
+        "weeks-on-board": "28"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "27",
+        "song": "I Know",
+        "artist": "Dionne Farris",
+        "last-week": "35",
+        "peak-rank": "27",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "28",
+        "song": "You Want This/70's Love Groove",
+        "artist": "Janet Jackson",
+        "last-week": "24",
+        "peak-rank": "8",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "29",
+        "song": "In The House Of Stone And Light",
+        "artist": "Martin Page",
+        "last-week": "32",
+        "peak-rank": "29",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "30",
+        "song": "Tootsee Roll",
+        "artist": "69 Boyz",
+        "last-week": "26",
+        "peak-rank": "8",
+        "weeks-on-board": "33"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "31",
+        "song": "Short Dick Man",
+        "artist": "20 Fingers Featuring Gillette",
+        "last-week": "27",
+        "peak-rank": "14",
+        "weeks-on-board": "24"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "32",
+        "song": "Mental Picture",
+        "artist": "Jon Secada",
+        "last-week": "29",
+        "peak-rank": "29",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "33",
+        "song": "I'll Stand By You",
+        "artist": "Pretenders",
+        "last-week": "30",
+        "peak-rank": "16",
+        "weeks-on-board": "28"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "34",
+        "song": "100% Pure Love",
+        "artist": "Crystal Waters",
+        "last-week": "33",
+        "peak-rank": "11",
+        "weeks-on-board": "39"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "35",
+        "song": "All I Wanna Do",
+        "artist": "Sheryl Crow",
+        "last-week": "31",
+        "peak-rank": "2",
+        "weeks-on-board": "29"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "36",
+        "song": "This Lil' Game We Play",
+        "artist": "Subway (Featuring 702)",
+        "last-week": "52",
+        "peak-rank": "36",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "37",
+        "song": "House Of Love",
+        "artist": "Amy Grant With Vince Gill",
+        "last-week": "43",
+        "peak-rank": "37",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "38",
+        "song": "Turn The Beat Around (From \"The Specialist\")",
+        "artist": "Gloria Estefan",
+        "last-week": "34",
+        "peak-rank": "13",
+        "weeks-on-board": "22"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "39",
+        "song": "Everlasting Love",
+        "artist": "Gloria Estefan",
+        "last-week": "47",
+        "peak-rank": "39",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "40",
+        "song": "Secret",
+        "artist": "Madonna",
+        "last-week": "36",
+        "peak-rank": "3",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "41",
+        "song": "Mishale",
+        "artist": "Andru Donalds",
+        "last-week": "38",
+        "peak-rank": "38",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "42",
+        "song": "I Belong To You/How Many Ways",
+        "artist": "Toni Braxton",
+        "last-week": "37",
+        "peak-rank": "28",
+        "weeks-on-board": "21"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "43",
+        "song": "Wild Night",
+        "artist": "John Mellencamp With Me'Shell Ndegeocello",
+        "last-week": "41",
+        "peak-rank": "3",
+        "weeks-on-board": "39"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "44",
+        "song": "Freak Like Me",
+        "artist": "Adina Howard",
+        "last-week": "54",
+        "peak-rank": "44",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "45",
+        "song": "Get Down",
+        "artist": "Craig Mack",
+        "last-week": "45",
+        "peak-rank": "45",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "46",
+        "song": "Get Ready For This",
+        "artist": "2 Unlimited",
+        "last-week": "46",
+        "peak-rank": "46",
+        "weeks-on-board": "23"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "47",
+        "song": "Practice What You Preach",
+        "artist": "Barry White",
+        "last-week": "39",
+        "peak-rank": "18",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "48",
+        "song": "New Age Girl (From \"Dumb And Dumber\")",
+        "artist": "Deadeye Dick",
+        "last-week": "42",
+        "peak-rank": "27",
+        "weeks-on-board": "26"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "49",
+        "song": "When Can I See You",
+        "artist": "Babyface",
+        "last-week": "44",
+        "peak-rank": "4",
+        "weeks-on-board": "36"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "50",
+        "song": "Whutcha Want?",
+        "artist": "Nine",
+        "last-week": "53",
+        "peak-rank": "50",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "51",
+        "song": "Kitty Kitty",
+        "artist": "69 Boyz",
+        "last-week": "51",
+        "peak-rank": "51",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "52",
+        "song": "If You Think You're Lonely Now",
+        "artist": "K-Ci Hailey",
+        "last-week": "",
+        "peak-rank": "52",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "53",
+        "song": "Foolin' Around",
+        "artist": "Changing Faces",
+        "last-week": "40",
+        "peak-rank": "38",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "54",
+        "song": "Hold On",
+        "artist": "Jamie Walters",
+        "last-week": "59",
+        "peak-rank": "54",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "55",
+        "song": "Sour Times (Nobody Loves Me)",
+        "artist": "Portishead",
+        "last-week": "62",
+        "peak-rank": "55",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "56",
+        "song": "Bring The Pain",
+        "artist": "Method Man",
+        "last-week": "56",
+        "peak-rank": "45",
+        "weeks-on-board": "15"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "57",
+        "song": "Be Happy",
+        "artist": "Mary J. Blige",
+        "last-week": "49",
+        "peak-rank": "29",
+        "weeks-on-board": "16"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "58",
+        "song": "Bad Reputation",
+        "artist": "Freedy Johnston",
+        "last-week": "55",
+        "peak-rank": "54",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "59",
+        "song": "I Never Seen A Man Cry (aka I Seen A Man Die)",
+        "artist": "Scarface",
+        "last-week": "58",
+        "peak-rank": "37",
+        "weeks-on-board": "14"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "60",
+        "song": "Mad Izm",
+        "artist": "Channel Live",
+        "last-week": "64",
+        "peak-rank": "60",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "61",
+        "song": "She Don't Use Jelly",
+        "artist": "The Flaming Lips",
+        "last-week": "68",
+        "peak-rank": "61",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "62",
+        "song": "Whiney, Whiney (From \"Dumb And Dumber\")",
+        "artist": "Willi One Blood",
+        "last-week": "70",
+        "peak-rank": "62",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "63",
+        "song": "Tour",
+        "artist": "Capleton",
+        "last-week": "57",
+        "peak-rank": "57",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "64",
+        "song": "(She's Got) Skillz",
+        "artist": "All-4-One",
+        "last-week": "71",
+        "peak-rank": "64",
+        "weeks-on-board": "7"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "65",
+        "song": "Always And Forever",
+        "artist": "Luther Vandross",
+        "last-week": "63",
+        "peak-rank": "58",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "66",
+        "song": "Promise Me",
+        "artist": "Lil Suzy",
+        "last-week": "66",
+        "peak-rank": "66",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "67",
+        "song": "She's A River",
+        "artist": "Simple Minds",
+        "last-week": "",
+        "peak-rank": "67",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "68",
+        "song": "U Will Know (From \"Jason's Lyric\")",
+        "artist": "B.M.U. (Black Men United)",
+        "last-week": "87",
+        "peak-rank": "28",
+        "weeks-on-board": "20"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "69",
+        "song": "Pimp Of The Year",
+        "artist": "Dru Down",
+        "last-week": "65",
+        "peak-rank": "65",
+        "weeks-on-board": "9"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "70",
+        "song": "Shame (From \"A Low Down Dirty Shame\")",
+        "artist": "Zhane",
+        "last-week": "60",
+        "peak-rank": "28",
+        "weeks-on-board": "13"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "71",
+        "song": "Dream About You/Funky Melody",
+        "artist": "Stevie B",
+        "last-week": "76",
+        "peak-rank": "71",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "72",
+        "song": "Nika",
+        "artist": "Vicious",
+        "last-week": "69",
+        "peak-rank": "69",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "73",
+        "song": "Woman To Woman",
+        "artist": "Jewell",
+        "last-week": "83",
+        "peak-rank": "73",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "74",
+        "song": "You Got It (From \"Boys On The Side\")",
+        "artist": "Bonnie Raitt",
+        "last-week": "",
+        "peak-rank": "74",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "75",
+        "song": "Dreamer",
+        "artist": "Livin' Joy",
+        "last-week": "72",
+        "peak-rank": "72",
+        "weeks-on-board": "4"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "76",
+        "song": "Take You There",
+        "artist": "Pete Rock & C.L. Smooth",
+        "last-week": "81",
+        "peak-rank": "76",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "77",
+        "song": "Cocktales",
+        "artist": "Too $hort",
+        "last-week": "77",
+        "peak-rank": "69",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "78",
+        "song": "I Apologize",
+        "artist": "Anita Baker",
+        "last-week": "74",
+        "peak-rank": "74",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "79",
+        "song": "Age Ain't Nothing But A Number",
+        "artist": "Aaliyah",
+        "last-week": "79",
+        "peak-rank": "76",
+        "weeks-on-board": "6"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "80",
+        "song": "Living In Danger",
+        "artist": "Ace Of Base",
+        "last-week": "67",
+        "peak-rank": "20",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "81",
+        "song": "Can I Stay With You",
+        "artist": "Karyn White",
+        "last-week": "",
+        "peak-rank": "81",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "82",
+        "song": "Breakdown",
+        "artist": "Fu-Schnickens",
+        "last-week": "75",
+        "peak-rank": "67",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "83",
+        "song": "Rodeo",
+        "artist": "95 South",
+        "last-week": "89",
+        "peak-rank": "83",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "84",
+        "song": "Fat Boy",
+        "artist": "Max-A-Million",
+        "last-week": "86",
+        "peak-rank": "84",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "85",
+        "song": "I Believe",
+        "artist": "Blessid Union Of Souls",
+        "last-week": "",
+        "peak-rank": "85",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "86",
+        "song": "When We Dance",
+        "artist": "Sting",
+        "last-week": "61",
+        "peak-rank": "38",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "87",
+        "song": "Do You See",
+        "artist": "Warren G",
+        "last-week": "73",
+        "peak-rank": "42",
+        "weeks-on-board": "12"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "88",
+        "song": "Where I Wanna Be Boy",
+        "artist": "Missjones",
+        "last-week": "90",
+        "peak-rank": "88",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "89",
+        "song": "Move It Like This",
+        "artist": "K7",
+        "last-week": "92",
+        "peak-rank": "89",
+        "weeks-on-board": "2"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "90",
+        "song": "Doll Parts",
+        "artist": "Hole",
+        "last-week": "80",
+        "peak-rank": "58",
+        "weeks-on-board": "11"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "91",
+        "song": "(I Could Only) Whisper Your Name",
+        "artist": "Harry Connick, Jr.",
+        "last-week": "78",
+        "peak-rank": "67",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "92",
+        "song": "Supa Star",
+        "artist": "Group Home",
+        "last-week": "85",
+        "peak-rank": "85",
+        "weeks-on-board": "3"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "93",
+        "song": "How Did I Get By Without You?",
+        "artist": "John Waite",
+        "last-week": "",
+        "peak-rank": "93",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "94",
+        "song": "Think Of You",
+        "artist": "Usher",
+        "last-week": "",
+        "peak-rank": "94",
+        "weeks-on-board": "1"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "95",
+        "song": "That's Just What You Are",
+        "artist": "Aimee Mann",
+        "last-week": "95",
+        "peak-rank": "93",
+        "weeks-on-board": "5"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "96",
+        "song": "Sympathy For The Devil (\"Interview With The Vampire\")",
+        "artist": "Guns N' Roses",
+        "last-week": "91",
+        "peak-rank": "55",
+        "weeks-on-board": "8"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "97",
+        "song": "The Most Beautifullest Thing In This World",
+        "artist": "Keith Murray",
+        "last-week": "94",
+        "peak-rank": "50",
+        "weeks-on-board": "18"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "98",
+        "song": "Till You Love Me",
+        "artist": "Reba McEntire",
+        "last-week": "93",
+        "peak-rank": "78",
+        "weeks-on-board": "10"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "99",
+        "song": "Dance Naked",
+        "artist": "John Mellencamp",
+        "last-week": "84",
+        "peak-rank": "41",
+        "weeks-on-board": "17"
+    },
+    {
+        "date": "1995-02-18",
+        "rank": "100",
+        "song": "I Can Go Deep (From \"A Low Down Dirty Shame\")",
+        "artist": "Silk",
+        "last-week": "88",
+        "peak-rank": "71",
+        "weeks-on-board": "15"
+    }
+]
